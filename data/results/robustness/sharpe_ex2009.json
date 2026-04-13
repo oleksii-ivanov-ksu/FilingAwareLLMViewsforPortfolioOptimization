@@ -1,0 +1,62 @@
+{
+  "bl_llm_tilt": {
+    "annualized_return": 0.12118235310635805,
+    "annualized_volatility": 0.2087909507074782,
+    "sharpe_ratio": 0.48461081652967464,
+    "sortino_ratio": 0.6014933167411028,
+    "max_drawdown": -0.4913158151317222,
+    "calmar_ratio": 0.2059415756426057,
+    "total_return": 7.558849582935501,
+    "n_days": 4730
+  },
+  "bl_llm_tilt_pos": {
+    "annualized_return": 0.14250656692364005,
+    "annualized_volatility": 0.22854958999852104,
+    "sharpe_ratio": 0.5360174434110024,
+    "sortino_ratio": 0.6964566882563632,
+    "max_drawdown": -0.5419878359388748,
+    "calmar_ratio": 0.2260319490591968,
+    "total_return": 11.18985974913335,
+    "n_days": 4730
+  },
+  "bl_llm": {
+    "annualized_return": 0.06337820386149273,
+    "annualized_volatility": 0.1556846079601796,
+    "sharpe_ratio": 0.2786287252789167,
+    "sortino_ratio": 0.34145152748086643,
+    "max_drawdown": -0.34448818044061014,
+    "calmar_ratio": 0.12592073204372578,
+    "total_return": 2.169019504324867,
+    "n_days": 4730
+  },
+  "equal_weight": {
+    "annualized_return": 0.11285776056577945,
+    "annualized_volatility": 0.19698109260215704,
+    "sharpe_ratio": 0.4714044345023732,
+    "sortino_ratio": 0.5831796763238044,
+    "max_drawdown": -0.4709721599947786,
+    "calmar_ratio": 0.19716188864923334,
+    "total_return": 6.44157773552357,
+    "n_days": 4730
+  },
+  "mvo": {
+    "annualized_return": 0.1401210275833069,
+    "annualized_volatility": 0.2173590491803545,
+    "sharpe_ratio": 0.5526387239743399,
+    "sortino_ratio": 0.7137482198080356,
+    "max_drawdown": -0.4256261092509227,
+    "calmar_ratio": 0.2822219430915856,
+    "total_return": 10.720884764527401,
+    "n_days": 4730
+  },
+  "random_views": {
+    "annualized_return": 0.07163364400996142,
+    "annualized_volatility": 0.15537208080694168,
+    "sharpe_ratio": 0.33232253659599914,
+    "sortino_ratio": 0.40613979246179277,
+    "max_drawdown": -0.3485979859079661,
+    "calmar_ratio": 0.14811802161012283,
+    "total_return": 2.6640806960795893,
+    "n_days": 4730
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "core": {
+    "GFC 2008-09": {
+      "BL-Filing+": -0.058,
+      "BL-Filing": -0.146,
+      "EW": -0.152,
+      "MVO": -0.477,
+      "Random": -0.492
+    },
+    "Recovery 2010-13": {
+      "BL-Filing+": 1.095,
+      "BL-Filing": 0.982,
+      "EW": 1.088,
+      "MVO": 1.046,
+      "Random": 1.097
+    },
+    "Bull 2014-19": {
+      "BL-Filing+": 0.848,
+      "BL-Filing": 0.816,
+      "EW": 0.82,
+      "MVO": 0.683,
+      "Random": 0.823
+    },
+    "COVID 2020": {
+      "BL-Filing+": 0.54,
+      "BL-Filing": 0.143,
+      "EW": 0.255,
+      "MVO": 0.121,
+      "Random": 0.166
+    },
+    "Post-COVID 2021-22": {
+      "BL-Filing+": 0.258,
+      "BL-Filing": 0.224,
+      "EW": 0.22,
+      "MVO": 0.373,
+      "Random": -0.389
+    },
+    "AI Boom 2023-25": {
+      "BL-Filing+": 0.973,
+      "BL-Filing": 0.995,
+      "EW": 0.877,
+      "MVO": 0.997,
+      "Random": 0.2
+    }
+  },
+  "holdout": {
+    "GFC 2008-09": {
+      "BL-Filing+": -0.109,
+      "BL-Filing": -0.063,
+      "EW": -0.169,
+      "MVO": -0.421,
+      "Random": -0.177
+    },
+    "Recovery 2010-13": {
+      "BL-Filing+": 1.175,
+      "BL-Filing": 1.004,
+      "EW": 1.064,
+      "MVO": 0.954,
+      "Random": 1.133
+    },
+    "Bull 2014-19": {
+      "BL-Filing+": 0.844,
+      "BL-Filing": 0.832,
+      "EW": 0.811,
+      "MVO": 0.519,
+      "Random": 0.608
+    },
+    "COVID 2020": {
+      "BL-Filing+": 0.421,
+      "BL-Filing": 0.065,
+      "EW": 0.19,
+      "MVO": 0.069,
+      "Random": 0.043
+    },
+    "Post-COVID 2021-22": {
+      "BL-Filing+": 0.205,
+      "BL-Filing": 0.284,
+      "EW": 0.257,
+      "MVO": 0.196,
+      "Random": 0.08
+    },
+    "AI Boom 2023-25": {
+      "BL-Filing+": 0.606,
+      "BL-Filing": 0.805,
+      "EW": 0.653,
+      "MVO": 0.214,
+      "Random": 0.582
+    }
+  }
+}
