@@ -1,0 +1,1230 @@
+{
+  "source_sha256": {
+    "data/results/core/daily_returns.csv": "e83a6a6a25a4c08f83e6b92e0d48206e983e1bf771c151a1ecc1894909614c1e",
+    "data/results/holdout/daily_returns.csv": "62c09bf83a5443c167f7a8be906a08c8c961517f896c547e6044619fe4166ded"
+  },
+  "protocol_sha256": "e7f4a01def0a8ab6ff59709d75f314a9630ec3b92657eba30dd7b164e037304c",
+  "seed": 20261116,
+  "bootstrap_draws": 10000,
+  "rf_daily": 7.85849419846496e-05,
+  "contrasts": [
+    "BL-Filing+ vs EW",
+    "BL-Filing+ vs MVO",
+    "BL-Filing vs BL-Filing MVO"
+  ],
+  "windows": {
+    "through_2025": {
+      "core": {
+        "start": "2006-04-03",
+        "end": "2025-12-31",
+        "days": 4969,
+        "metrics": {
+          "bl_llm_tilt_pos": {
+            "cagr": 0.15665989462342012,
+            "volatility": 0.2457394023930934,
+            "sharpe": 0.6348786961325003,
+            "max_drawdown": -0.5740024322758472,
+            "total_return": 16.632163259918446,
+            "legacy_cagr_ratio": 0.5561171439849689
+          },
+          "bl_llm_tilt": {
+            "cagr": 0.13011345511758,
+            "volatility": 0.22388036467869005,
+            "sharpe": 0.5703065036543742,
+            "max_drawdown": -0.5468465306243424,
+            "total_return": 10.155113349767568,
+            "legacy_cagr_ratio": 0.4918406099418914
+          },
+          "equal_weight": {
+            "cagr": 0.12190722299604206,
+            "volatility": 0.20653863275421858,
+            "sharpe": 0.5647478912834951,
+            "max_drawdown": -0.5254711599889721,
+            "total_return": 8.661926087010716,
+            "legacy_cagr_ratio": 0.49340513993482216
+          },
+          "mvo": {
+            "cagr": 0.13623757204444975,
+            "volatility": 0.2186397723604445,
+            "sharpe": 0.6034673011825032,
+            "max_drawdown": -0.43075473970088807,
+            "total_return": 11.409512152861344,
+            "legacy_cagr_ratio": 0.5316396499572967
+          },
+          "random_views": {
+            "cagr": 0.06726183594736868,
+            "volatility": 0.15462669249561056,
+            "sharpe": 0.3704357279591382,
+            "max_drawdown": -0.3858670172543168,
+            "total_return": 2.6095607897313613,
+            "legacy_cagr_ratio": 0.30565121186117533
+          },
+          "bl_llm": {
+            "cagr": 0.06268283769083238,
+            "volatility": 0.1571476437283215,
+            "sharpe": 0.33969996120893553,
+            "max_drawdown": -0.3968788574876573,
+            "total_return": 2.316150309708748,
+            "legacy_cagr_ratio": 0.2716097847742657
+          }
+        },
+        "uncertainty": {
+          "5": {
+            "seed": 20261121,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.07013080484900514,
+                "sharpe_difference_ci95": [
+                  -0.039061988670198534,
+                  0.17588545468244013
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.039372454063185715,
+                  "se_annualized": 0.01524414130297363,
+                  "z": 2.5827925155420495,
+                  "p_raw": 0.009800424257960001,
+                  "p_holm_six": 0.05034613978582006
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.03141139494999701,
+                "sharpe_difference_ci95": [
+                  -0.23657092418341935,
+                  0.3006848795085597
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.02407275802219205,
+                  "se_annualized": 0.03228791984863792,
+                  "z": 0.7455654664358183,
+                  "p_raw": 0.4559299504274954,
+                  "p_holm_six": 0.4559299504274954
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.23060654244543866,
+                "sharpe_difference_ci95": [
+                  -0.02216457581612484,
+                  0.4894382127151399
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.07429737953818419,
+                  "se_annualized": 0.02818653895377579,
+                  "z": 2.635917082974514,
+                  "p_raw": 0.008391023297636677,
+                  "p_holm_six": 0.05034613978582006
+                }
+              }
+            ]
+          },
+          "21": {
+            "seed": 20261137,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.07013080484900514,
+                "sharpe_difference_ci95": [
+                  -0.04183228769494396,
+                  0.17095245785545798
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.039372454063185715,
+                  "se_annualized": 0.014833885196060964,
+                  "z": 2.6542239974757793,
+                  "p_raw": 0.007949103943999189,
+                  "p_holm_six": 0.039745519719995945
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.03141139494999701,
+                "sharpe_difference_ci95": [
+                  -0.22887197619993555,
+                  0.2828970979076324
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.02407275802219205,
+                  "se_annualized": 0.031889775227644315,
+                  "z": 0.7548738694565673,
+                  "p_raw": 0.4503246657968948,
+                  "p_holm_six": 0.4503246657968948
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.23060654244543866,
+                "sharpe_difference_ci95": [
+                  -0.01434678136492247,
+                  0.4729363730161474
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.07429737953818419,
+                  "se_annualized": 0.027097304999831012,
+                  "z": 2.741873390680274,
+                  "p_raw": 0.006108988373624273,
+                  "p_holm_six": 0.03665393024174564
+                }
+              }
+            ]
+          },
+          "63": {
+            "seed": 20261179,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.07013080484900514,
+                "sharpe_difference_ci95": [
+                  -0.03838285039095627,
+                  0.16526466502954495
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.039372454063185715,
+                  "se_annualized": 0.014703919505322832,
+                  "z": 2.6776842765585633,
+                  "p_raw": 0.007413306072633968,
+                  "p_holm_six": 0.03706653036316984
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.03141139494999701,
+                "sharpe_difference_ci95": [
+                  -0.21320038041440334,
+                  0.2879877096419471
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.02407275802219205,
+                  "se_annualized": 0.03156785314926619,
+                  "z": 0.7625719084654203,
+                  "p_raw": 0.44571874313408344,
+                  "p_holm_six": 0.44571874313408344
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.23060654244543866,
+                "sharpe_difference_ci95": [
+                  0.005081897877468866,
+                  0.4728318911571941
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.07429737953818419,
+                  "se_annualized": 0.025903841484882596,
+                  "z": 2.868199281621759,
+                  "p_raw": 0.004128154245604534,
+                  "p_holm_six": 0.024768925473627204
+                }
+              }
+            ]
+          }
+        }
+      },
+      "holdout": {
+        "start": "2007-04-27",
+        "end": "2025-12-31",
+        "days": 4701,
+        "metrics": {
+          "bl_llm_tilt_pos": {
+            "cagr": 0.13243925032874393,
+            "volatility": 0.24724464134119106,
+            "sharpe": 0.5469268513935958,
+            "max_drawdown": -0.6364604358460184,
+            "total_return": 9.17736504977967,
+            "legacy_cagr_ratio": 0.45476921044197977
+          },
+          "bl_llm_tilt": {
+            "cagr": 0.11467256928543423,
+            "volatility": 0.21940115773172067,
+            "sharpe": 0.5146292253893542,
+            "max_drawdown": -0.5995165034345575,
+            "total_return": 6.5774296597326956,
+            "legacy_cagr_ratio": 0.4315044198681848
+          },
+          "equal_weight": {
+            "cagr": 0.10660784041949123,
+            "volatility": 0.2082348000224227,
+            "sharpe": 0.4958785888531198,
+            "max_drawdown": -0.5658066953805181,
+            "total_return": 5.617482465396234,
+            "legacy_cagr_ratio": 0.41591434481731826
+          },
+          "mvo": {
+            "cagr": 0.08817391259822638,
+            "volatility": 0.2230765964728506,
+            "sharpe": 0.401959837649273,
+            "max_drawdown": -0.5660144795399952,
+            "total_return": 3.8372467044918466,
+            "legacy_cagr_ratio": 0.30560764184208555
+          },
+          "random_views": {
+            "cagr": 0.07783148831449571,
+            "volatility": 0.1609039795797918,
+            "sharpe": 0.4235191729046137,
+            "max_drawdown": -0.39148040812426965,
+            "total_return": 3.0478897593020156,
+            "legacy_cagr_ratio": 0.35941614660821514
+          },
+          "bl_llm": {
+            "cagr": 0.0808889444906351,
+            "volatility": 0.1617366879872164,
+            "sharpe": 0.4397460636888526,
+            "max_drawdown": -0.41261656776499744,
+            "total_return": 3.2675430201661326,
+            "legacy_cagr_ratio": 0.3764695892341244
+          }
+        },
+        "uncertainty": {
+          "5": {
+            "seed": 20261221,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.05104826254047595,
+                "sharpe_difference_ci95": [
+                  -0.046205426026406086,
+                  0.14346936422693138
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.03196555442744627,
+                  "se_annualized": 0.01414289153409582,
+                  "z": 2.2601852209912945,
+                  "p_raw": 0.02380975771234217,
+                  "p_holm_six": 0.09523903084936867
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.14496701374432275,
+                "sharpe_difference_ci95": [
+                  -0.1042821402821014,
+                  0.40715034387465937
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.045556900711097865,
+                  "se_annualized": 0.03072592912427935,
+                  "z": 1.4826858620558105,
+                  "p_raw": 0.13815789262326358,
+                  "p_holm_six": 0.32582576080996056
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.07488316170050158,
+                "sharpe_difference_ci95": [
+                  -0.17072823815548135,
+                  0.30965342335805246
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.04178717595655222,
+                  "se_annualized": 0.02604408352104981,
+                  "z": 1.6044786495473435,
+                  "p_raw": 0.10860858693665353,
+                  "p_holm_six": 0.32582576080996056
+                }
+              }
+            ]
+          },
+          "21": {
+            "seed": 20261237,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.05104826254047595,
+                "sharpe_difference_ci95": [
+                  -0.0438902978502805,
+                  0.14333703178041754
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.03196555442744627,
+                  "se_annualized": 0.014586380571583898,
+                  "z": 2.1914658177587376,
+                  "p_raw": 0.028418100723622372,
+                  "p_holm_six": 0.11367240289448949
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.14496701374432275,
+                "sharpe_difference_ci95": [
+                  -0.0894142511586709,
+                  0.3836865508009448
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.045556900711097865,
+                  "se_annualized": 0.02994466143884069,
+                  "z": 1.5213697040503793,
+                  "p_raw": 0.12816708712504374,
+                  "p_holm_six": 0.3437929062255545
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.07488316170050158,
+                "sharpe_difference_ci95": [
+                  -0.1769754621899689,
+                  0.3133470408869522
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.04178717595655222,
+                  "se_annualized": 0.026483439430745034,
+                  "z": 1.5778606123206504,
+                  "p_raw": 0.11459763540851817,
+                  "p_holm_six": 0.3437929062255545
+                }
+              }
+            ]
+          },
+          "63": {
+            "seed": 20261279,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.05104826254047595,
+                "sharpe_difference_ci95": [
+                  -0.0350303845747252,
+                  0.13239962798065782
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.03196555442744627,
+                  "se_annualized": 0.01417660876194354,
+                  "z": 2.2548096631725034,
+                  "p_raw": 0.024145278480543552,
+                  "p_holm_six": 0.09658111392217421
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.14496701374432275,
+                "sharpe_difference_ci95": [
+                  -0.05627568455760377,
+                  0.3581111666997164
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.045556900711097865,
+                  "se_annualized": 0.02796914059577974,
+                  "z": 1.62882733400725,
+                  "p_raw": 0.10334957650392085,
+                  "p_holm_six": 0.25521616485235055
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.07488316170050158,
+                "sharpe_difference_ci95": [
+                  -0.14709179923874516,
+                  0.28575999336618546
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.04178717595655222,
+                  "se_annualized": 0.024266850021655063,
+                  "z": 1.7219859981523151,
+                  "p_raw": 0.08507205495078352,
+                  "p_holm_six": 0.25521616485235055
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "common_through_2025": {
+      "core": {
+        "start": "2007-04-27",
+        "end": "2025-12-31",
+        "days": 4701,
+        "metrics": {
+          "bl_llm_tilt_pos": {
+            "cagr": 0.15605082363801182,
+            "volatility": 0.2503921492294301,
+            "sharpe": 0.625595116684425,
+            "max_drawdown": -0.5740024322758477,
+            "total_return": 13.956142253218628,
+            "legacy_cagr_ratio": 0.5433509958547093
+          },
+          "bl_llm_tilt": {
+            "cagr": 0.12724680487622053,
+            "volatility": 0.22812044361253037,
+            "sharpe": 0.552785960337479,
+            "max_drawdown": -0.5468465306243416,
+            "total_return": 8.341192069345265,
+            "legacy_cagr_ratio": 0.4701323703296954
+          },
+          "equal_weight": {
+            "cagr": 0.12061363186510254,
+            "volatility": 0.21041134389723162,
+            "sharpe": 0.5527211117408474,
+            "max_drawdown": -0.5254711599889723,
+            "total_return": 7.36735242976628,
+            "legacy_cagr_ratio": 0.47817589109760117
+          },
+          "mvo": {
+            "cagr": 0.1362732297363045,
+            "volatility": 0.22192115641130847,
+            "sharpe": 0.5979643227743107,
+            "max_drawdown": -0.4307547397008886,
+            "total_return": 9.839717313108903,
+            "legacy_cagr_ratio": 0.5239393648472335
+          },
+          "random_views": {
+            "cagr": 0.0664077898213038,
+            "volatility": 0.15690218855696136,
+            "sharpe": 0.3622261421526705,
+            "max_drawdown": -0.3858670172543166,
+            "total_return": 2.3182009066897424,
+            "legacy_cagr_ratio": 0.2957752868084184
+          },
+          "bl_llm": {
+            "cagr": 0.058461258782481096,
+            "volatility": 0.15952856672393675,
+            "sharpe": 0.31204844470930465,
+            "max_drawdown": -0.39687885748765683,
+            "total_return": 1.886061832277775,
+            "legacy_cagr_ratio": 0.24109323848585737
+          }
+        },
+        "uncertainty": {
+          "5": {
+            "seed": 20262121,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.07287400494357765,
+                "sharpe_difference_ci95": [
+                  -0.034590253951137885,
+                  0.18327426794163998
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.0403453138922854,
+                  "se_annualized": 0.015952846670839176,
+                  "z": 2.529035395672307,
+                  "p_raw": 0.011437649182768331,
+                  "p_holm_six": 0.06027912818873714
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.02763079391011436,
+                "sharpe_difference_ci95": [
+                  -0.24863926235156353,
+                  0.29841456574489394
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.023943171811268642,
+                  "se_annualized": 0.033974604639721497,
+                  "z": 0.704737319688348,
+                  "p_raw": 0.4809737220192759,
+                  "p_holm_six": 0.4809737220192759
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.2407375156281743,
+                "sharpe_difference_ci95": [
+                  -0.02212932823665365,
+                  0.49515283096931384
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.07632113736205567,
+                  "se_annualized": 0.02964821169150594,
+                  "z": 2.5742239753341107,
+                  "p_raw": 0.010046521364789522,
+                  "p_holm_six": 0.06027912818873714
+                }
+              }
+            ]
+          },
+          "21": {
+            "seed": 20262137,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.07287400494357765,
+                "sharpe_difference_ci95": [
+                  -0.039827725240054096,
+                  0.18018204531172977
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.0403453138922854,
+                  "se_annualized": 0.015570888546148125,
+                  "z": 2.5910733207493086,
+                  "p_raw": 0.009567710442404754,
+                  "p_holm_six": 0.047838552212023766
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.02763079391011436,
+                "sharpe_difference_ci95": [
+                  -0.24386004754937582,
+                  0.29352555365959926
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.023943171811268642,
+                  "se_annualized": 0.0335863818788424,
+                  "z": 0.7128833316324419,
+                  "p_raw": 0.47591795433042583,
+                  "p_holm_six": 0.47591795433042583
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.2407375156281743,
+                "sharpe_difference_ci95": [
+                  -0.014909922839059267,
+                  0.49342821547610044
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.07632113736205567,
+                  "se_annualized": 0.028526344915848642,
+                  "z": 2.6754614931285237,
+                  "p_raw": 0.007462644547464875,
+                  "p_holm_six": 0.044775867284789245
+                }
+              }
+            ]
+          },
+          "63": {
+            "seed": 20262179,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.07287400494357765,
+                "sharpe_difference_ci95": [
+                  -0.03586969165659352,
+                  0.17110602972296066
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.0403453138922854,
+                  "se_annualized": 0.015436840349908647,
+                  "z": 2.6135733076052805,
+                  "p_raw": 0.008960085947496196,
+                  "p_holm_six": 0.04480042973748098
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.02763079391011436,
+                "sharpe_difference_ci95": [
+                  -0.23462898713363667,
+                  0.2884628179723075
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.023943171811268642,
+                  "se_annualized": 0.033267952618801465,
+                  "z": 0.7197068026884558,
+                  "p_raw": 0.4717055369354245,
+                  "p_holm_six": 0.4717055369354245
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.2407375156281743,
+                "sharpe_difference_ci95": [
+                  0.0019979048156144544,
+                  0.48095766289983566
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.07632113736205567,
+                  "se_annualized": 0.027292794812924938,
+                  "z": 2.7963840964323885,
+                  "p_raw": 0.0051677943141742785,
+                  "p_holm_six": 0.03100676588504567
+                }
+              }
+            ]
+          }
+        }
+      },
+      "holdout": {
+        "start": "2007-04-27",
+        "end": "2025-12-31",
+        "days": 4701,
+        "metrics": {
+          "bl_llm_tilt_pos": {
+            "cagr": 0.13243925032874393,
+            "volatility": 0.24724464134119106,
+            "sharpe": 0.5469268513935958,
+            "max_drawdown": -0.6364604358460184,
+            "total_return": 9.17736504977967,
+            "legacy_cagr_ratio": 0.45476921044197977
+          },
+          "bl_llm_tilt": {
+            "cagr": 0.11467256928543423,
+            "volatility": 0.21940115773172067,
+            "sharpe": 0.5146292253893542,
+            "max_drawdown": -0.5995165034345575,
+            "total_return": 6.5774296597326956,
+            "legacy_cagr_ratio": 0.4315044198681848
+          },
+          "equal_weight": {
+            "cagr": 0.10660784041949123,
+            "volatility": 0.2082348000224227,
+            "sharpe": 0.4958785888531198,
+            "max_drawdown": -0.5658066953805181,
+            "total_return": 5.617482465396234,
+            "legacy_cagr_ratio": 0.41591434481731826
+          },
+          "mvo": {
+            "cagr": 0.08817391259822638,
+            "volatility": 0.2230765964728506,
+            "sharpe": 0.401959837649273,
+            "max_drawdown": -0.5660144795399952,
+            "total_return": 3.8372467044918466,
+            "legacy_cagr_ratio": 0.30560764184208555
+          },
+          "random_views": {
+            "cagr": 0.07783148831449571,
+            "volatility": 0.1609039795797918,
+            "sharpe": 0.4235191729046137,
+            "max_drawdown": -0.39148040812426965,
+            "total_return": 3.0478897593020156,
+            "legacy_cagr_ratio": 0.35941614660821514
+          },
+          "bl_llm": {
+            "cagr": 0.0808889444906351,
+            "volatility": 0.1617366879872164,
+            "sharpe": 0.4397460636888526,
+            "max_drawdown": -0.41261656776499744,
+            "total_return": 3.2675430201661326,
+            "legacy_cagr_ratio": 0.3764695892341244
+          }
+        },
+        "uncertainty": {
+          "5": {
+            "seed": 20262221,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.05104826254047595,
+                "sharpe_difference_ci95": [
+                  -0.04482159595794859,
+                  0.14660809207452383
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.03196555442744627,
+                  "se_annualized": 0.01414289153409582,
+                  "z": 2.2601852209912945,
+                  "p_raw": 0.02380975771234217,
+                  "p_holm_six": 0.09523903084936867
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.14496701374432275,
+                "sharpe_difference_ci95": [
+                  -0.10228115818019165,
+                  0.40354631078934455
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.045556900711097865,
+                  "se_annualized": 0.03072592912427935,
+                  "z": 1.4826858620558105,
+                  "p_raw": 0.13815789262326358,
+                  "p_holm_six": 0.32582576080996056
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.07488316170050158,
+                "sharpe_difference_ci95": [
+                  -0.1677291350271608,
+                  0.3079681364680152
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.04178717595655222,
+                  "se_annualized": 0.02604408352104981,
+                  "z": 1.6044786495473435,
+                  "p_raw": 0.10860858693665353,
+                  "p_holm_six": 0.32582576080996056
+                }
+              }
+            ]
+          },
+          "21": {
+            "seed": 20262237,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.05104826254047595,
+                "sharpe_difference_ci95": [
+                  -0.044688871504215036,
+                  0.1406348580438395
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.03196555442744627,
+                  "se_annualized": 0.014586380571583898,
+                  "z": 2.1914658177587376,
+                  "p_raw": 0.028418100723622372,
+                  "p_holm_six": 0.11367240289448949
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.14496701374432275,
+                "sharpe_difference_ci95": [
+                  -0.09094270791568278,
+                  0.3769266030493302
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.045556900711097865,
+                  "se_annualized": 0.02994466143884069,
+                  "z": 1.5213697040503793,
+                  "p_raw": 0.12816708712504374,
+                  "p_holm_six": 0.3437929062255545
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.07488316170050158,
+                "sharpe_difference_ci95": [
+                  -0.1752861879590283,
+                  0.30940170333841355
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.04178717595655222,
+                  "se_annualized": 0.026483439430745034,
+                  "z": 1.5778606123206504,
+                  "p_raw": 0.11459763540851817,
+                  "p_holm_six": 0.3437929062255545
+                }
+              }
+            ]
+          },
+          "63": {
+            "seed": 20262279,
+            "contrasts": [
+              {
+                "contrast": "BL-Filing+ vs EW",
+                "sharpe_difference": 0.05104826254047595,
+                "sharpe_difference_ci95": [
+                  -0.03764382133874088,
+                  0.13147725518621556
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.03196555442744627,
+                  "se_annualized": 0.01417660876194354,
+                  "z": 2.2548096631725034,
+                  "p_raw": 0.024145278480543552,
+                  "p_holm_six": 0.09658111392217421
+                }
+              },
+              {
+                "contrast": "BL-Filing+ vs MVO",
+                "sharpe_difference": 0.14496701374432275,
+                "sharpe_difference_ci95": [
+                  -0.06367018855556657,
+                  0.3601866873016103
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.045556900711097865,
+                  "se_annualized": 0.02796914059577974,
+                  "z": 1.62882733400725,
+                  "p_raw": 0.10334957650392085,
+                  "p_holm_six": 0.25521616485235055
+                }
+              },
+              {
+                "contrast": "BL-Filing vs BL-Filing MVO",
+                "sharpe_difference": 0.07488316170050158,
+                "sharpe_difference_ci95": [
+                  -0.14854305883036623,
+                  0.28588032053221724
+                ],
+                "mean_return_test": {
+                  "annualized_mean_difference": 0.04178717595655222,
+                  "se_annualized": 0.024266850021655063,
+                  "z": 1.7219859981523151,
+                  "p_raw": 0.08507205495078352,
+                  "p_holm_six": 0.25521616485235055
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "core_regimes": {
+    "2006\u20132007": {
+      "days": 440,
+      "metrics": {
+        "bl_llm_tilt_pos": {
+          "cagr": 0.1340449757409543,
+          "volatility": 0.17128539914041485,
+          "sharpe": 0.7044250720117662,
+          "max_drawdown": -0.10433844016657312,
+          "total_return": 0.24562180227205044,
+          "legacy_cagr_ratio": 0.6658184311872579
+        },
+        "bl_llm_tilt": {
+          "cagr": 0.14398931892881683,
+          "volatility": 0.15435118503060632,
+          "sharpe": 0.8204554054045095,
+          "max_drawdown": -0.0880923651782447,
+          "total_return": 0.2647556074823627,
+          "legacy_cagr_ratio": 0.8032935989719221
+        },
+        "equal_weight": {
+          "cagr": 0.10864226289276768,
+          "volatility": 0.14718484475682703,
+          "sharpe": 0.6397630336261577,
+          "max_drawdown": -0.08349626025860313,
+          "total_return": 0.19731179126803378,
+          "legacy_cagr_ratio": 0.6022512918311591
+        },
+        "mvo": {
+          "cagr": 0.20706091375606883,
+          "volatility": 0.1759680087813109,
+          "sharpe": 1.0451108142442387,
+          "max_drawdown": -0.11129078643320134,
+          "total_return": 0.3889984313767991,
+          "legacy_cagr_ratio": 1.0630393277254389
+        },
+        "random_views": {
+          "cagr": 0.07195540572611225,
+          "volatility": 0.12760011592156206,
+          "sharpe": 0.45309631146603285,
+          "max_drawdown": -0.08861970185886014,
+          "total_return": 0.12898847575805172,
+          "legacy_cagr_ratio": 0.4071736561591379
+        },
+        "bl_llm": {
+          "cagr": 0.11671704356492629,
+          "volatility": 0.13174258610181014,
+          "sharpe": 0.753542492504434,
+          "max_drawdown": -0.08623969056244474,
+          "total_return": 0.2125795852572656,
+          "legacy_cagr_ratio": 0.7341365190006499
+        }
+      }
+    },
+    "2008\u20132009": {
+      "days": 505,
+      "metrics": {
+        "bl_llm_tilt_pos": {
+          "cagr": -0.007189247591135373,
+          "volatility": 0.4708947978312508,
+          "sharpe": 0.1779465816796559,
+          "max_drawdown": -0.5649596306101266,
+          "total_return": -0.01435503109952252,
+          "legacy_cagr_ratio": -0.05773953697589769
+        },
+        "bl_llm_tilt": {
+          "cagr": -0.04071208658713987,
+          "volatility": 0.41631531743195055,
+          "sharpe": 0.0606750258706528,
+          "max_drawdown": -0.5410172440944763,
+          "total_return": -0.07991846682796744,
+          "legacy_cagr_ratio": -0.14583197889917576
+        },
+        "equal_weight": {
+          "cagr": -0.03795392359678351,
+          "volatility": 0.38119586340083067,
+          "sharpe": 0.037077931689743784,
+          "max_drawdown": -0.5069851729713237,
+          "total_return": -0.07460944538414904,
+          "legacy_cagr_ratio": -0.15203187956907202
+        },
+        "mvo": {
+          "cagr": -0.12596327334634627,
+          "volatility": 0.30573465866207133,
+          "sharpe": -0.35239200671989324,
+          "max_drawdown": -0.41780345969723076,
+          "total_return": -0.23646783221338508,
+          "legacy_cagr_ratio": -0.47741814416820677
+        },
+        "random_views": {
+          "cagr": -0.08529084237267848,
+          "volatility": 0.24554026519696043,
+          "sharpe": -0.3214862094656553,
+          "max_drawdown": -0.37000382822487654,
+          "total_return": -0.16360309839083376,
+          "legacy_cagr_ratio": -0.4288129374146407
+        },
+        "bl_llm": {
+          "cagr": -0.09432424721611832,
+          "volatility": 0.2472177433395726,
+          "sharpe": -0.3577013145257866,
+          "max_drawdown": -0.38227708394240945,
+          "total_return": -0.1800738485701503,
+          "legacy_cagr_ratio": -0.46244353528899085
+        }
+      }
+    },
+    "2010\u20132013": {
+      "days": 1006,
+      "metrics": {
+        "bl_llm_tilt_pos": {
+          "cagr": 0.2751893727591235,
+          "volatility": 0.23305275761931293,
+          "sharpe": 1.0751300180304593,
+          "max_drawdown": -0.2965642177010117,
+          "total_return": 1.6391303709882123,
+          "legacy_cagr_ratio": 1.0949854246134698
+        },
+        "bl_llm_tilt": {
+          "cagr": 0.23172496155671785,
+          "volatility": 0.2155029419571779,
+          "sharpe": 0.9834378967848715,
+          "max_drawdown": -0.2669993556565269,
+          "total_return": 1.297929009779231,
+          "legacy_cagr_ratio": 0.982469007772475
+        },
+        "equal_weight": {
+          "cagr": 0.22685426657835173,
+          "volatility": 0.1900670034559526,
+          "sharpe": 1.0670242516364348,
+          "max_drawdown": -0.22301590362982793,
+          "total_return": 1.2618677277654933,
+          "legacy_cagr_ratio": 1.0883228693942635
+        },
+        "mvo": {
+          "cagr": 0.2576126178052873,
+          "volatility": 0.2272053267569399,
+          "sharpe": 1.0357700397389098,
+          "max_drawdown": -0.29318182986309527,
+          "total_return": 1.4968789588066467,
+          "legacy_cagr_ratio": 1.0458056648446492
+        },
+        "random_views": {
+          "cagr": 0.16645939953846023,
+          "volatility": 0.13026003422866672,
+          "sharpe": 1.0955438090208596,
+          "max_drawdown": -0.13959329963015554,
+          "total_return": 0.8490463469310474,
+          "legacy_cagr_ratio": 1.124361746146605
+        },
+        "bl_llm": {
+          "cagr": 0.15420868918266128,
+          "volatility": 0.13269862794886353,
+          "sharpe": 0.9982335754153202,
+          "max_drawdown": -0.13822657544787031,
+          "total_return": 0.772731809745753,
+          "legacy_cagr_ratio": 1.0113796295948114
+        }
+      }
+    },
+    "2014\u20132019": {
+      "days": 1510,
+      "metrics": {
+        "bl_llm_tilt_pos": {
+          "cagr": 0.14835083864177978,
+          "volatility": 0.15129012021080482,
+          "sharpe": 0.8594222504717075,
+          "max_drawdown": -0.22162208345470824,
+          "total_return": 1.2907134665071287,
+          "legacy_cagr_ratio": 0.848375548006295
+        },
+        "bl_llm_tilt": {
+          "cagr": 0.13401766788342906,
+          "volatility": 0.13975912824503567,
+          "sharpe": 0.8283956705276685,
+          "max_drawdown": -0.18962235948443884,
+          "total_return": 1.1246403965004887,
+          "legacy_cagr_ratio": 0.8158155343064616
+        },
+        "equal_weight": {
+          "cagr": 0.12718406145564054,
+          "volatility": 0.13077027059622848,
+          "sharpe": 0.8297932823185943,
+          "max_drawdown": -0.19006374747877786,
+          "total_return": 1.0490680303777125,
+          "legacy_cagr_ratio": 0.8196363054610962
+        },
+        "mvo": {
+          "cagr": 0.13655351403329608,
+          "volatility": 0.17056139317522875,
+          "sharpe": 0.7199834269814083,
+          "max_drawdown": -0.24590114261728535,
+          "total_return": 1.153268290065733,
+          "legacy_cagr_ratio": 0.683352263155784
+        },
+        "random_views": {
+          "cagr": 0.07942211572290248,
+          "volatility": 0.11529273933498373,
+          "sharpe": 0.5489176674077781,
+          "max_drawdown": -0.16284492069241807,
+          "total_return": 0.5808273753316329,
+          "legacy_cagr_ratio": 0.5154020631798085
+        },
+        "bl_llm": {
+          "cagr": 0.07742820173313669,
+          "volatility": 0.11394997229959539,
+          "sharpe": 0.5378307353932935,
+          "max_drawdown": -0.14681597258267465,
+          "total_return": 0.5634103542820632,
+          "legacy_cagr_ratio": 0.5039773206977831
+        }
+      }
+    },
+    "2020": {
+      "days": 253,
+      "metrics": {
+        "bl_llm_tilt_pos": {
+          "cagr": 0.23900221661635213,
+          "volatility": 0.40552919081358363,
+          "sharpe": 0.6829890221242149,
+          "max_drawdown": -0.3644840681450955,
+          "total_return": 0.24005633975517204,
+          "legacy_cagr_ratio": 0.5400405731014923
+        },
+        "bl_llm_tilt": {
+          "cagr": 0.07538957433574556,
+          "volatility": 0.38704763826403543,
+          "sharpe": 0.33185319735421265,
+          "max_drawdown": -0.39460731794553894,
+          "total_return": 0.07569978784157727,
+          "legacy_cagr_ratio": 0.14310789902807777
+        },
+        "equal_weight": {
+          "cagr": 0.114970029277224,
+          "volatility": 0.37209253527636826,
+          "sharpe": 0.42669003559355617,
+          "max_drawdown": -0.37616423829278156,
+          "total_return": 0.11545163893206123,
+          "legacy_cagr_ratio": 0.25523228840558676
+        },
+        "mvo": {
+          "cagr": 0.0640386814205458,
+          "volatility": 0.36428317024815604,
+          "sharpe": 0.3009451921360554,
+          "max_drawdown": -0.4256261092509228,
+          "total_return": 0.0643008039306483,
+          "legacy_cagr_ratio": 0.12089134227789301
+        },
+        "random_views": {
+          "cagr": 0.11630639903386131,
+          "volatility": 0.29966758320653203,
+          "sharpe": 0.45190521020418684,
+          "max_drawdown": -0.30716810253206606,
+          "total_return": 0.11679389446763588,
+          "legacy_cagr_ratio": 0.3213774343002145
+        },
+        "bl_llm": {
+          "cagr": 0.07982198189266465,
+          "volatility": 0.31869594493735776,
+          "sharpe": 0.3394647534227522,
+          "max_drawdown": -0.34448818044061036,
+          "total_return": 0.08015110434332873,
+          "legacy_cagr_ratio": 0.18770863841528682
+        }
+      }
+    },
+    "2021\u20132022": {
+      "days": 503,
+      "metrics": {
+        "bl_llm_tilt_pos": {
+          "cagr": 0.07562566707044338,
+          "volatility": 0.21552503756704106,
+          "sharpe": 0.3540551277808876,
+          "max_drawdown": -0.23814842001684666,
+          "total_return": 0.1566359174959444,
+          "legacy_cagr_ratio": 0.25809375884293956
+        },
+        "bl_llm_tilt": {
+          "cagr": 0.0639079083292049,
+          "volatility": 0.1961395047062118,
+          "sharpe": 0.3128526418121876,
+          "max_drawdown": -0.22558524393475055,
+          "total_return": 0.13162181807823803,
+          "legacy_cagr_ratio": 0.22386060572026273
+        },
+        "equal_weight": {
+          "cagr": 0.06014181898514792,
+          "volatility": 0.18214781956264472,
+          "sharpe": 0.3028942457665221,
+          "max_drawdown": -0.2015169052566338,
+          "total_return": 0.12364023501981203,
+          "legacy_cagr_ratio": 0.22038045298336523
+        },
+        "mvo": {
+          "cagr": 0.10448625772849773,
+          "volatility": 0.22668881900368834,
+          "sharpe": 0.4645343369673751,
+          "max_drawdown": -0.161588447681972,
+          "total_return": 0.21940890492489817,
+          "legacy_cagr_ratio": 0.3726970659594953
+        },
+        "random_views": {
+          "cagr": -0.02398305589083627,
+          "volatility": 0.14684492042511918,
+          "sharpe": -0.2267369410528317,
+          "max_drawdown": -0.2406309260175271,
+          "total_return": -0.0472991549095263,
+          "legacy_cagr_ratio": -0.299520444857775
+        },
+        "bl_llm": {
+          "cagr": -0.0626652186825194,
+          "volatility": 0.14358960266266813,
+          "sharpe": -0.5167373111924066,
+          "max_drawdown": -0.2749923583850622,
+          "total_return": -0.12117785110074808,
+          "legacy_cagr_ratio": -0.5757047665681126
+        }
+      }
+    },
+    "2023\u20132025": {
+      "days": 752,
+      "metrics": {
+        "bl_llm_tilt_pos": {
+          "cagr": 0.18421780865917126,
+          "volatility": 0.16882268998674826,
+          "sharpe": 0.9686624089601865,
+          "max_drawdown": -0.1879280255298108,
+          "total_return": 0.6562625528392267,
+          "legacy_cagr_ratio": 0.9727235638293735
+        },
+        "bl_llm_tilt": {
+          "cagr": 0.17375378675226738,
+          "volatility": 0.15448979769855378,
+          "sharpe": 0.986246406430263,
+          "max_drawdown": -0.16320415401975397,
+          "total_return": 0.6129712342755007,
+          "legacy_cagr_ratio": 0.9952358605082614
+        },
+        "equal_weight": {
+          "cagr": 0.14583674511175326,
+          "volatility": 0.14348284619740279,
+          "sharpe": 0.8825810137015319,
+          "max_drawdown": -0.15375241508515203,
+          "total_return": 0.5011696639239063,
+          "legacy_cagr_ratio": 0.8770159531030481
+        },
+        "mvo": {
+          "cagr": 0.18915049517415183,
+          "volatility": 0.16958234702498517,
+          "sharpe": 0.9898362263164331,
+          "max_drawdown": -0.17004943624226343,
+          "total_return": 0.6769349951231556,
+          "legacy_cagr_ratio": 0.9974534386484832
+        },
+        "random_views": {
+          "cagr": 0.07157453671971892,
+          "volatility": 0.11876905561779065,
+          "sharpe": 0.47481069821889565,
+          "max_drawdown": -0.11762917034824194,
+          "total_return": 0.22910959679424803,
+          "legacy_cagr_ratio": 0.43424220603126074
+        },
+        "bl_llm": {
+          "cagr": 0.08275933764230747,
+          "volatility": 0.12060277047516882,
+          "sharpe": 0.5555779407087476,
+          "max_drawdown": -0.12684717812533297,
+          "total_return": 0.2677910666416399,
+          "legacy_cagr_ratio": 0.5203805633572003
+        }
+      }
+    }
+  },
+  "common_window_degradation": {
+    "bl_llm_tilt_pos": 0.12574948747643863,
+    "bl_llm_tilt": 0.06902623743343603,
+    "equal_weight": 0.10284123707288233,
+    "mvo": 0.327786253560508,
+    "random_views": -0.1692120573840568,
+    "bl_llm": -0.4092236995396897
+  }
+}

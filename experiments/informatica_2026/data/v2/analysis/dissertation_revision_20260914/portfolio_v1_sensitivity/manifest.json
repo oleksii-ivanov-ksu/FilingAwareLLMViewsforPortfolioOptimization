@@ -1,0 +1,30 @@
+{
+  "status": "post_hoc_factorial_sensitivity_not_validated_new_method",
+  "input_hashes": {
+    "data/views/views_summary.csv": "09d9aa00143e9eefcb83148097c03c51bb56a5cecc2bdce8e62149536b40d107",
+    "aligned_prices": "938033a11e9a54fff0835bfd20e84c15cb4c4f2abec7d4809cb965839d41456b"
+  },
+  "modes": {
+    "legacy": [
+      1.0,
+      1.0
+    ],
+    "q_x4_only": [
+      4.0,
+      1.0
+    ],
+    "q_x4_omega_x16": [
+      4.0,
+      16.0
+    ]
+  },
+  "filter": "medium confidence and positive views",
+  "uncertainty_policy": "legacy confidence and sentiment mapping",
+  "q_x4_omega_x16_assumption": "annualization of quarterly mean estimate and its standard error; sigma horizon not empirically established",
+  "window": "legacy simulation, returns truncated to 2025-12-31, no terminal liquidation",
+  "allocation": "projection of legacy normalized targets, then optional 1/10000 grid rounding; no sector constraints",
+  "cost_bps": 10,
+  "reproduction": "legacy callback target arrays matched shared engine at every evaluated date",
+  "no_view_policy": "equal weights",
+  "count": 36
+}

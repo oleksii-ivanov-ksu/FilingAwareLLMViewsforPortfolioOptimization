@@ -1,0 +1,14 @@
+{
+  "job": {
+    "case_id": "W086",
+    "condition": "original",
+    "repeat": 1,
+    "order": 1152
+  },
+  "valid": true,
+  "cost": 0.00245805,
+  "parsed": {
+    "view_bps": 70,
+    "confidence": "medium"
+  }
+}

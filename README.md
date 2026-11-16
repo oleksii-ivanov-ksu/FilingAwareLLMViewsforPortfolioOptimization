@@ -1,18 +1,30 @@
-# Filing-Aware LLM Views for Portfolio Optimization
+# Integrating Corporate Filings into Black–Litterman Portfolio Construction with LLMs
 
 A two-stage LLM pipeline that extracts structured investment signals from SEC filings (10-K, 10-Q) and integrates them into Black-Litterman portfolio optimization via weight tilting.
 
 ## Key Results
 
-| Strategy | Sharpe (Core) | Sharpe (Holdout) | Ann. Return (Core) | Total Return (Core) |
+| Strategy | Sharpe (Core) | Sharpe (Holdout) | CAGR (Core) | CAGR (Holdout) |
 |----------|:---:|:---:|:---:|:---:|
-| **BL-Filing+ (ours)** | **0.569** | **0.463** | **16.0%** | **1775%** |
-| MVO | 0.544 | 0.328 | 13.9% | 1206% |
-| BL-Filing | 0.498 | 0.439 | 13.1% | 1049% |
-| Equal Weight | 0.502 | 0.424 | 12.4% | 900% |
-| Random Views | 0.334 | — | 6.9% | 271% |
+| **BL-Filing+ (ours)** | **0.635** | **0.547** | **15.67%** | **13.24%** |
+| MVO | 0.603 | 0.402 | 13.62% | 8.82% |
+| BL-Filing | 0.570 | 0.515 | 13.01% | 11.47% |
+| Equal Weight | 0.565 | 0.496 | 12.19% | 10.66% |
+| Random Views | 0.370 | 0.424 | 6.73% | 7.78% |
+| BL-Filing MVO | 0.340 | 0.440 | 6.27% | 8.09% |
 
-> BL-Filing+ significantly outperforms Equal Weight (p=0.007) and Random Views (p=0.006) over 20 years of backtesting (2006-2025).
+> BL-Filing+ has higher historical compounded returns in both stock groups, with
+> greater volatility and deeper drawdowns. Paired 95% intervals for its Sharpe
+> advantage over equal weighting include zero; Sharpe superiority is not established.
+
+**Updated reporting:** results end on 31 December 2025. Core has 4,969 daily
+observations from 3 April 2006; Holdout has 4,701 from 27 April 2007. Sharpe uses
+arithmetic daily excess returns and a constant 2% annual risk-free assumption.
+The earlier `(CAGR − 2%)/volatility` convention and 13 observations in January 2026
+are excluded. Saved historical returns have not been overwritten.
+
+*The original figures below are retained as historical illustrations. Their
+metrics and reporting windows may differ from the revised table above.*
 
 ![Cumulative Returns](figures/fig2_cumulative_returns.png)
 
@@ -26,9 +38,9 @@ The system uses a two-stage LLM pipeline aligned with quarterly SEC filing cycle
 
 **Stage 2 — Reasoning:** The same LLM combines extracted facts with analyst consensus estimates to produce quantitative investment views in basis points (bps) with confidence levels (high / medium / low).
 
-**Portfolio Construction:** Views are integrated into the Black-Litterman framework. Instead of MVO (which suffers from estimation error), we use **weight tilting**: `w_i = w_eq * (1 + tilt_strength * z_i)`, where `z_i` are z-scores of BL posterior returns. This preserves diversification while expressing LLM views.
+**Portfolio Construction:** Views are integrated into the Black-Litterman framework. The primary configuration uses **weight tilting**: `w_i = w_eq * (1 + tilt_strength * z_i)`, where `z_i` are z-scores of BL posterior returns. Preliminary weights are clipped and normalized; final weights need not remain within the preliminary clipping bounds.
 
-**Rebalancing:** Quarterly, aligned with 10-Q filing publication cycles (~45 days after quarter end). 80 rebalancing dates over 20 years.
+**Rebalancing:** Quarterly, using the latest eligible view aged at most 120 days. The saved outputs contain 80 target-weight records per stock group. New weights apply to the following trading day’s close-to-close return.
 
 ## Dataset
 
@@ -40,13 +52,28 @@ The system uses a two-stage LLM pipeline aligned with quarterly SEC filing cycle
 
 ![Views Distribution](figures/fig15_views_distribution_overview.png)
 
-### Out-of-Sample Validation
+### Cross-Company Holdout Comparison
 
-The holdout portfolio (50 unseen stocks) validates that the method generalizes — it is not overfitted to the core universe.
+The Holdout portfolio contains 50 separate stocks. It provides a cross-company comparison over substantially the same historical period; it does not establish temporal out-of-sample validity or eliminate model-training leakage.
 
 ![Core vs Holdout](figures/fig13_core_vs_holdout.png)
 
 ## Robustness
+
+**Revised paired comparisons:** 10,000 circular moving-block bootstrap draws,
+with a main block length of 21 trading days and checks at 5 and 63 days.
+BL-Filing+ minus EW arithmetic-Sharpe intervals are **[−0.042, 0.171]** in Core
+and **[−0.044, 0.143]** in Holdout. All six main Sharpe-contrast intervals include
+zero. Mean-return tests are separate from Sharpe comparisons.
+[Revised comparisons](experiments/informatica_2026/paper/informatica/tables/paired_comparisons.md).
+
+<details>
+<summary>Original robustness outputs (legacy metric and sample conventions)</summary>
+
+The following archived results use the original reporting conventions. They are
+retained for provenance and should not be read as tests of the revised Sharpe
+advantage. In particular, the original pairwise p-values concern mean returns.
+
 
 - **Bootstrap CI (95%):** BL-Filing+ Sharpe [0.086, 1.123], all filing-based strategies significantly > 0
 - **Pairwise significance:** BL-Filing+ vs EW p=0.007, vs Random Views p=0.006
@@ -55,11 +82,44 @@ The holdout portfolio (50 unseen stocks) validates that the method generalizes �
 - **Excluding 2009 (GFC recovery):** BL-Filing+ still #1 (Sharpe 0.536, Return 14.3%)
 - **Regime analysis:** BL-Filing+ best in 4/6 market regimes on holdout
 
+</details>
+
+## New Experiments
+
+The historical extraction and views used **Grok 4.1 Fast**. The new diagnostics
+use **Grok 4.3**, with three fresh responses per condition. They test the
+second-stage view-to-weight interface and do not replace the historical backtest.
+
+| Experiment | Inputs / responses | Main result | Materials |
+|---|---|---|---|
+| Identifier-masking pilot | 50 documents / **300** | Mean masked-minus-original view −10.77 bps; mean absolute change 13.57 bps; Spearman 0.9593 | [Protocol](experiments/informatica_2026/docs/informatica/PILOT_PROTOCOL.md) · [Results](experiments/informatica_2026/docs/informatica/PILOT_RESULTS.md) |
+| Portfolio-slice masking | 199 inputs / **1,194** | Mean-weight distance 6.84–12.47% of capital; cross-minus-within distance −0.61 to 1.74 percentage points | [Protocol](experiments/informatica_2026/docs/informatica/PORTFOLIO_MASKING_PROTOCOL.md) · [Results](experiments/informatica_2026/docs/informatica/PORTFOLIO_MASKING_RESULTS.md) |
+| Filing-summary ablation | 199 inputs / **1,791** | Removing summaries changes mean views by 26.88 bps in absolute terms; using another company's summaries changes them by 36.88 bps | [Protocol](experiments/informatica_2026/docs/informatica/TEXT_ABLATION_PROTOCOL.md) · [Results](experiments/informatica_2026/docs/informatica/TEXT_ABLATION_RESULTS.md) |
+
+The two 199-input experiments use Core and Holdout on 30 September 2015 and
+30 September 2025. One stock lacks an eligible view. The first pilot masks more
+identifying context than the portfolio experiment; their results are not pooled.
+
+In the summary ablation, financial context is fixed across own-summary,
+no-summary and shuffled-summary conditions. Cross-condition weight differences
+exceed average repeat variability in all four slices: by 3.96–10.86 percentage
+points for own/no summaries and 5.41–13.54 for own/shuffled summaries. Distances
+are half-L1, or capital reallocated in one direction.
+
+**Interpretation:** filing summaries affect views and weights. This does not
+establish that they caused the historical return advantage. Masking also shows
+substantial variability between repeated requests and does not remove temporal
+leakage. [Matched historical controls](experiments/informatica_2026/docs/informatica/MATCHED_CONTROLS_RESULTS.md)
+retain much of the observed Sharpe: prior-only tilting 0.600/0.515 and eligible-only
+reassignment medians 0.631/0.541, versus 0.635/0.547 for real views. Real-minus-control
+intervals include zero.
+
 ## Project Structure
 
 ```
 .
-├── scripts/                    # Pipeline scripts (run in order)
+├── experiments/informatica_2026/ # New experiments + offline reproduction package
+├── scripts/                    # Original pipeline scripts (run in order)
 ├── src/
 │   ├── data/                   # FMP API client
 │   ├── extraction/             # LLM fact extraction (Stage 1)
@@ -77,7 +137,77 @@ The holdout portfolio (50 unseen stocks) validates that the method generalizes �
 └── requirements.txt
 ```
 
+## Reproduce the New Experiments' Analyses (Offline)
+
+This route uses the saved results and makes **no API calls**. It reproduces
+calculations and tables, not hosted-model inference. Python **3.11+** is required.
+The original pipeline remains documented in the next section.
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/oleksii-ivanov-ksu/FilingAwareLLMViewsforPortfolioOptimization.git
+cd FilingAwareLLMViewsforPortfolioOptimization
+```
+
+### Step 2: Create a Separate Environment
+
+```bash
+python3 -m venv .venv-replication
+source .venv-replication/bin/activate
+# Windows: .venv-replication\Scripts\activate
+```
+
+### Step 3: Install the Pinned Dependencies
+
+```bash
+python -m pip install -r experiments/informatica_2026/requirements.txt
+```
+
+### Step 4: Verify and Recompute
+
+```bash
+python experiments/informatica_2026/verify_and_reproduce.py
+```
+
+The verifier checks SHA-256 hashes, recomputes financial and pilot statistics,
+audits all 36 sensitivity scenarios, checks saved masking weight distances and
+text-ablation contrasts, and compares the generated tables. It works in a temporary
+copy, preserving the supplied results. Bootstrap calculations may take several minutes.
+
+Expected final message:
+
+```text
+PASS: all hashes, financial and pilot statistics, sensitivity audit and paper tables.
+```
+
+### Step 5: Inspect Results and Generate Figures
+
+Tables are stored in `experiments/informatica_2026/paper/informatica/tables/`.
+Protocols and readable reports are in `experiments/informatica_2026/docs/informatica/`.
+Saved responses, weights and summaries are under
+`experiments/informatica_2026/data/v2/analysis/informatica_revision/`.
+To generate figures in the package directory:
+
+```bash
+cd experiments/informatica_2026
+python scripts/v2/informatica_figures_and_tables.py
+cd ../..
+```
+
+Figures are written to `experiments/informatica_2026/paper/informatica/figures/`.
+The package contains minimal records for all **3,285 responses**, saved portfolio
+returns and weights, analysis scripts, protocols, pinned dependencies and checksums.
+For portfolio masking, the offline verifier checks distances from saved weights;
+it does not reconstruct allocations from omitted financial inputs.
+
 ## Pipeline
+
+**Original pipeline:** the steps below are retained for acquisition, extraction,
+view generation and backtesting. First complete the [Setup](#setup) section.
+Acquisition/inference require external services and may incur charges. Re-running
+a hosted model is not guaranteed to reproduce its historical responses; use the
+offline steps above to verify the revised paper's calculations.
 
 The scripts must be executed in the following order. Each step depends on the output of the previous one.
 
@@ -170,23 +300,34 @@ cp config/config.example.yaml config/config.yaml
 | Rebalancing | Quarterly | Aligned with 10-Q filing cycles |
 | tau | 0.05 | BL uncertainty in prior |
 | delta | 2.5 | Risk aversion coefficient |
-| Max weight | 10% | Per-stock concentration limit |
-| Transaction cost | 10 bps | Round-trip |
-| Tilt strength | 0.5 | Weight tilting intensity |
+| Preliminary weight clipping | 0.5–10% | Applied before normalization; not final-weight bounds |
+| Transaction cost | 0.001 × absolute traded weight | Charged at rebalance |
+| Tilt strength | 1.0 | Historical BL-Filing configurations |
 | Views filter | Medium confidence, positive only | For BL-Filing+ strategy |
 
 ## Limitations
 
-- **Survivorship bias** — universe selected from current S&P 500 constituents
-- **LLM reproducibility** — Grok 4.1 Fast is a proprietary model; results may vary across versions
-- **Information Coefficient ~ 0** — views do not predict returns cross-sectionally; alpha comes from Bayesian integration with market prior via BL framework
-- **Transaction costs** — 10 bps is realistic for institutional investors, not retail
+- **Selected universe:** 100 companies selected from then-current S&P 500 constituents on 23 January 2026; historical membership was not reconstructed.
+- **Temporal leakage:** pretrained models may encode later events. Company holdouts, masking and text ablation do not establish temporal validity.
+- **Input vintages:** saved analyst estimates lack independent as-of/revision timestamps.
+- **Numerical interpretation:** quarterly prompt values enter an annualized BL calculation without horizon conversion; they function as adjustment scores rather than calibrated forecasts.
+- **Risk and attribution:** higher returns accompany higher volatility/drawdowns; the exact view assignment has not shown an incremental Sharpe advantage under the matched controls.
+- **LLM reproducibility:** hosted model outputs may change; the supplied package reproduces calculations from saved outputs.
+
+## Data and Code Availability
+
+The revision package is in [experiments/informatica_2026](experiments/informatica_2026).
+It includes derived portfolio returns, saved weights and minimal model-response
+records (job labels, view, confidence, validity and cost). Raw FMP market and
+analyst inputs, full API request bodies and narrative responses are excluded.
+SEC filings are obtainable from EDGAR. Re-running acquisition or inference needs
+service access and credentials. No new license or DOI is assigned by this update.
 
 ## Citation
 
 ```
 @misc{filing_aware_llm_2026,
-  title={Filing-Aware LLM Views for Portfolio Optimization},
+  title={Integrating Corporate Filings into Black–Litterman Portfolio Construction with LLMs},
   year={2026}
 }
 ```

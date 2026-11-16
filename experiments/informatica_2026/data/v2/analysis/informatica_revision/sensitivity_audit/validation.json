@@ -1,0 +1,17 @@
+{
+  "configurations": 36,
+  "max_daily_difference_from_frozen": {
+    "core": 5.967448757360216e-16,
+    "holdout": 2.914335439641036e-16
+  },
+  "max_sharpe_change_projection": 0.0006827795232919875,
+  "max_sharpe_change_rounding": 9.726098609341705e-05,
+  "projected_violations": 0,
+  "rounded_violations": 0,
+  "source_hashes": {
+    "summary.csv": "a2ea2c62d142c8a0b1c502a708df8e4f2c5f304c403424ca98b81d24a18f2266",
+    "daily_returns.csv": "9dc17395906a9508468bc5d74a350982222d9b8ee5661291aecb673c1e67b842",
+    "manifest.json": "302d8d099d941ba83fea47288dbb68f4e8e82f370af6654a3493ce6fd241b972"
+  },
+  "supersedes": "Numerical claims in POINT2_V1_RESULT.md and old validation.json must not substitute for this direct CSV audit."
+}

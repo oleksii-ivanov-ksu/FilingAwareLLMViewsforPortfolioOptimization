@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "arms_per_group": 203,
+  "seeds_per_family": 100,
+  "sources_unchanged": true,
+  "permutation_constraints": "asserted for every draw",
+  "reproduction": {
+    "core": {
+      "real": 5.967448757360216e-16,
+      "equal_weight": 1.0408340855860843e-16,
+      "new_arm_shared_engine": 4.163336342344337e-17
+    },
+    "holdout": {
+      "real": 2.970713952610282e-16,
+      "equal_weight": 1.0408340855860843e-16,
+      "new_arm_shared_engine": 4.163336342344337e-17
+    }
+  },
+  "reporting_amendment": "Turnover and HHI exclude the 2025-12-31 target, executed in January 2026; returns and controls unchanged."
+}

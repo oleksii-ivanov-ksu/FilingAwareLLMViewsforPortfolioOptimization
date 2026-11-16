@@ -1,0 +1,14 @@
+{
+  "job": {
+    "case_id": "W127",
+    "condition": "anonymized",
+    "repeat": 1,
+    "order": 721
+  },
+  "valid": true,
+  "cost": 0.0023018,
+  "parsed": {
+    "view_bps": -70,
+    "confidence": "medium"
+  }
+}
