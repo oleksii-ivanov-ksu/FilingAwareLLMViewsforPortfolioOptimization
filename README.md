@@ -1,17 +1,17 @@
-# Integrating Corporate Filings into Black–Litterman Portfolio Construction with LLMs
+# Evaluating LLM-Based Integration of Corporate Filings into Black–Litterman Portfolio Construction
 
-A two-stage LLM pipeline that extracts structured investment signals from SEC filings (10-K, 10-Q) and integrates them into Black-Litterman portfolio optimization via weight tilting.
+A two-stage LLM pipeline that extracts structured investment information from SEC filings (10-K, 10-Q) and integrates them into Black-Litterman portfolio optimization via weight tilting.
 
 ## Key Results
 
 | Strategy | Sharpe (Core) | Sharpe (Holdout) | CAGR (Core) | CAGR (Holdout) |
 |----------|:---:|:---:|:---:|:---:|
-| **BL-Filing+ (ours)** | **0.635** | **0.547** | **15.67%** | **13.24%** |
-| MVO | 0.603 | 0.402 | 13.62% | 8.82% |
-| BL-Filing | 0.570 | 0.515 | 13.01% | 11.47% |
-| Equal Weight | 0.565 | 0.496 | 12.19% | 10.66% |
-| Random Views | 0.370 | 0.424 | 6.73% | 7.78% |
-| BL-Filing MVO | 0.340 | 0.440 | 6.27% | 8.09% |
+| **BL-Filing+ (ours)** | **0.649** | **0.569** | **15.67%** | **13.24%** |
+| MVO | 0.619 | 0.426 | 13.62% | 8.82% |
+| BL-Filing | 0.586 | 0.539 | 13.01% | 11.47% |
+| Equal Weight | 0.581 | 0.522 | 12.19% | 10.66% |
+| Random Views | 0.393 | 0.457 | 6.73% | 7.78% |
+| BL-Filing MVO | 0.362 | 0.473 | 6.27% | 8.09% |
 
 > BL-Filing+ has higher historical compounded returns in both stock groups, with
 > greater volatility and deeper drawdowns. Paired 95% intervals for its Sharpe
@@ -19,7 +19,9 @@ A two-stage LLM pipeline that extracts structured investment signals from SEC fi
 
 **Updated reporting:** results end on 31 December 2025. Core has 4,969 daily
 observations from 3 April 2006; Holdout has 4,701 from 27 April 2007. Sharpe uses
-arithmetic daily excess returns and a constant 2% annual risk-free assumption.
+arithmetic daily excess returns and the date-aligned historical risk-free series
+from the Kenneth French data library. The new publication audit reconciles the
+earlier constant-2% calculations; those dated packages remain available.
 The earlier `(CAGR − 2%)/volatility` convention and 13 observations in January 2026
 are excluded. Saved historical returns have not been overwritten.
 
@@ -27,6 +29,36 @@ are excluded. Saved historical returns have not been overwritten.
 metrics and reporting windows may differ from the revised table above.*
 
 ![Cumulative Returns](figures/fig2_cumulative_returns.png)
+
+## Current V2 Publication Audit
+
+[Read the updated article (PDF)](experiments/informatica_2026_publication/manuscript.pdf) · [Google Doc](https://docs.google.com/document/d/1l3qmvo7pjalw00jXdP6fy1J2Ryo7YmSkxgob3ZUZARE/edit) · [Supplement S12](experiments/informatica_2026_publication/SUPPLEMENT_S12.md)
+
+The current V2 uses realized daily RF consistently. Annual L1 turnover for
+BL-Filing+ is 2.24/2.44 (one-way 1.12/1.22), with effective target holdings
+29.23/29.82. At 20 bp per unit of L1 turnover, CAGR remains 15.41%/12.97%,
+versus 12.15%/10.62% for EW. Conditional minimum detectable Sharpe differences
+against EW are 0.153/0.134 at 80% power and two-sided 5% size; observed
+differences are 0.067/0.047. DSR is 0.987/0.984 under an assumed effective
+trial count of 24 and observed candidate dispersion. This scenario concerns
+positive portfolio Sharpe, not superiority over EW or identification of a text signal.
+
+### Reproduce the current article without API calls
+
+```bash
+git clone https://github.com/oleksii-ivanov-ksu/FilingAwareLLMViewsforPortfolioOptimization.git
+cd FilingAwareLLMViewsforPortfolioOptimization
+python3 -m venv .venv-audit
+source .venv-audit/bin/activate
+python -m pip install -r experiments/informatica_2026_publication/requirements.txt
+python experiments/informatica_2026_publication/verify.py
+```
+
+The verifier checks hashes and recomputes both RF conventions, 5/10/20 bp cost
+scenarios, all matched-control metrics, DSR scenarios and 10,000-draw paired
+bootstrap/MDE comparisons. It makes no network or model calls. The previous
+packages below reproduce their own dated analyses, including IC and ablation.
+All materials are in this repository; no external archive or DOI deposit is required.
 
 ## Architecture
 
@@ -62,10 +94,10 @@ The Holdout portfolio contains 50 separate stocks. It provides a cross-company c
 
 **Revised paired comparisons:** 10,000 circular moving-block bootstrap draws,
 with a main block length of 21 trading days and checks at 5 and 63 days.
-BL-Filing+ minus EW arithmetic-Sharpe intervals are **[−0.042, 0.171]** in Core
-and **[−0.044, 0.143]** in Holdout. All six main Sharpe-contrast intervals include
+BL-Filing+ minus EW arithmetic-Sharpe intervals are **[−0.045, 0.168]** in Core
+and **[−0.048, 0.140]** in Holdout. All six main Sharpe-contrast intervals include
 zero. Mean-return tests are separate from Sharpe comparisons.
-[Revised comparisons](experiments/informatica_2026/paper/informatica/tables/paired_comparisons.md).
+[Revised comparisons](experiments/informatica_2026_publication/results/comparisons.csv).
 
 <details>
 <summary>Original robustness outputs (legacy metric and sample conventions)</summary>
@@ -110,15 +142,18 @@ are half-L1, or capital reallocated in one direction.
 establish that they caused the historical return advantage. Masking also shows
 substantial variability between repeated requests and does not remove temporal
 leakage. [Matched historical controls](experiments/informatica_2026/docs/informatica/MATCHED_CONTROLS_RESULTS.md)
-retain much of the observed Sharpe: prior-only tilting 0.600/0.515 and eligible-only
+use the archived constant-2% convention and retain much of the observed Sharpe: prior-only tilting 0.600/0.515 and eligible-only
 reassignment medians 0.631/0.541, versus 0.635/0.547 for real views. Real-minus-control
 intervals include zero.
 
-## V2 Signal and Risk Diagnostics
+## V2 Signal and Risk Diagnostics — archived constant-2% convention
+
+The following table preserves the first diagnostic release. Use the publication
+audit above for the current manuscript’s realized-RF Sharpe values.
 
 The separate evaluation revision, **Evaluating LLM-Based Integration of Corporate
 Filings into Black–Litterman Portfolio Construction**, adds offline checks of the
-signal and allocator. The historical return table above is unchanged.
+signal and allocator. The current table above uses realized RF; this archived diagnostic table uses fixed 2%.
 
 | Diagnostic | Core | Holdout |
 |---|---:|---:|
@@ -387,7 +422,9 @@ cp config/config.example.yaml config/config.yaml
 
 ## Data and Code Availability
 
-The revision package is in [experiments/informatica_2026](experiments/informatica_2026).
+The current manuscript and audit are in [experiments/informatica_2026_publication](experiments/informatica_2026_publication).
+The earlier response/portfolio package is in [experiments/informatica_2026](experiments/informatica_2026),
+and the IC/factor diagnostics are in [experiments/informatica_2026_signal_risk](experiments/informatica_2026_signal_risk).
 It includes derived portfolio returns, saved weights and minimal model-response
 records (job labels, view, confidence, validity and cost). Raw FMP market and
 analyst inputs, full API request bodies and narrative responses are excluded.
@@ -398,7 +435,7 @@ service access and credentials. No new license or DOI is assigned by this update
 
 ```
 @misc{filing_aware_llm_2026,
-  title={Integrating Corporate Filings into Black–Litterman Portfolio Construction with LLMs},
+  title={Evaluating LLM-Based Integration of Corporate Filings into Black–Litterman Portfolio Construction},
   year={2026}
 }
 ```

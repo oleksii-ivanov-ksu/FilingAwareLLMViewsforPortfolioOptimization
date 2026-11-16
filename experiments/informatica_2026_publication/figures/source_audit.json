@@ -1,0 +1,26 @@
+{
+  "core": {
+    "source_sha256": "e83a6a6a25a4c08f83e6b92e0d48206e983e1bf771c151a1ecc1894909614c1e",
+    "rows": 4969,
+    "end_values": {
+      "bl_llm": 3.316150309708748,
+      "random_views": 3.6095607897313613,
+      "mvo": 12.409512152861344,
+      "bl_llm_tilt": 11.155113349767568,
+      "equal_weight": 9.661926087010716,
+      "bl_llm_tilt_pos": 17.632163259918446
+    }
+  },
+  "holdout": {
+    "source_sha256": "62c09bf83a5443c167f7a8be906a08c8c961517f896c547e6044619fe4166ded",
+    "rows": 4701,
+    "end_values": {
+      "bl_llm": 4.267543020166133,
+      "random_views": 4.0478897593020156,
+      "mvo": 4.837246704491847,
+      "bl_llm_tilt": 7.5774296597326956,
+      "equal_weight": 6.617482465396234,
+      "bl_llm_tilt_pos": 10.17736504977967
+    }
+  }
+}
