@@ -34,5 +34,6 @@
   "all_existing_media_unchanged": true,
   "pdf_pages": 12,
   "layout": "Tables 3, 4 and 6 kept together using column breaks; Table 8 compacted; exported pages visually reviewed.",
-  "numerical_snapshot_commit": "e9dad1e28a7e2376caaf905476dd2fdc84f469a2"
+  "numerical_snapshot_commit": "e9dad1e28a7e2376caaf905476dd2fdc84f469a2",
+  "latest_change": "Author-requested removal of Slovenian working abstract; all other nonempty paragraphs and table cells match the preceding live export."
 }

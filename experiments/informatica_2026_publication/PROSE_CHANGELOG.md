@@ -46,3 +46,8 @@ Two passes were applied to the revised prose. Removed the overlong DSR explanati
 ## Validation
 
 Live Google Docs exported to DOCX/PDF. All 8 tables match manuscript.md cell for cell; changed paragraphs and new references match; citations first occur in order 1–25. All existing embedded media are unchanged. Twelve-page layout reviewed, including Figure 2 and table continuations. Tables 3, 4 and 6 were moved intact to the next column; Table 8 uses compact cell paragraphs. Historical source data, analysis code and all numerical outputs are unchanged.
+
+
+## Author-requested removal of Povzetek — 16 November 2026
+
+Removed the complete working Slovenian translation at the author’s request. English abstract and all other text, table cells and references are unchanged, verified against the live DOCX export. Academic-humanizer preservation review: no prose rewrite; no changes to the meaning of retained text; no citation flags. The template includes a Povzetek placeholder, but the submission guidelines do not explicitly require an author-supplied Slovenian translation at initial submission.
