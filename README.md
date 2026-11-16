@@ -114,11 +114,82 @@ retain much of the observed Sharpe: prior-only tilting 0.600/0.515 and eligible-
 reassignment medians 0.631/0.541, versus 0.635/0.547 for real views. Real-minus-control
 intervals include zero.
 
+## V2 Signal and Risk Diagnostics
+
+The separate evaluation revision, **Evaluating LLM-Based Integration of Corporate
+Filings into Black–Litterman Portfolio Construction**, adds offline checks of the
+signal and allocator. The historical return table above is unchanged.
+
+| Diagnostic | Core | Holdout |
+|---|---:|---:|
+| Mean next-quarter rank IC, 79 dates | −0.018 | −0.021 |
+| IC Holm-adjusted p-value | 0.563 | 0.563 |
+| BL-Filing+ Sharpe | 0.635 | 0.547 |
+| Beta / prior-only tilt Sharpe | 0.600 | 0.515 |
+| Volatility tilt Sharpe | 0.681 | 0.545 |
+| Quarterly-horizon BL Sharpe | 0.624 | 0.522 |
+| Real-minus-prior four-factor alpha, p.p./year | 0.36 | 0.63 |
+| Alpha raw p-value | 0.709 | 0.504 |
+
+Prior-only weights coincide with a beta tilt against the within-group equal-weight
+return (maximum difference 1.25 × 10⁻¹⁶). This follows from the equal-weight
+covariance prior, scalar-identity shrinkage and cross-sectional z-normalization.
+The new controls do not establish an incremental LLM-view advantage. Positive
+historical CAGR relative to EW and sensitivity to filing text remain distinct
+findings; neither is a clean test of predictive value.
+
+The package also includes confidence-stratified IC/hit rates/quintile spreads,
+three subperiods, 756-day rolling Sharpe, realized-risk-free sensitivity,
+FF5-plus-momentum regressions, all 100 full-reassignment seeds per group, a
+quarterly-horizon check and exact source-count/drawdown audits. An exploratory
+IC check within accepted positive medium-confidence views is positive but
+uncertain (0.015/0.023); it is labelled separately from the primary tests.
+
+![Rolling Sharpe for real and no-LLM risk tilts](experiments/informatica_2026_signal_risk/figures/figS3_rolling_sharpe.png)
+
+[Full diagnostic report (S11)](experiments/informatica_2026_signal_risk/SUPPLEMENT_S11.md)
+· [Full revised supplement](experiments/informatica_2026_signal_risk/SUPPLEMENT_FULL.md)
+· [Protocol](experiments/informatica_2026_signal_risk/results/protocol.md)
+· [Downloadable archive](experiments/V2_signal_risk_reproduction_20261116.zip)
+
+### Reproduce the V2 Diagnostics
+
+After cloning the repository, run these steps from its root:
+
+```bash
+# 1. Create and activate a separate environment.
+python3 -m venv .venv-signal-risk
+source .venv-signal-risk/bin/activate
+# Windows: .venv-signal-risk\Scripts\activate
+
+# 2. Install the pinned dependencies.
+python -m pip install -r experiments/informatica_2026_signal_risk/requirements.txt
+
+# 3. Verify the archive and recompute the saved-output diagnostics.
+python experiments/informatica_2026_signal_risk/verify.py
+```
+
+Expected result: `PASS`, with hash checks, portfolio metrics, all defined ICs,
+the beta/prior identity and **448 factor regressions** verified. No API keys,
+LLM requests or raw FMP price files are required. The verifier reconstructs
+statistics from saved derived records; it does not independently reconstruct
+licensed price history. The complete raw-input analysis source is included for
+use with the original project data. The factor source and the four-factor
+specification are documented in the package README.
+
+No new model calls were made: **3,285** remains the total (300 + 1,791 + 1,194).
+The corrected source inventory is **9,117 HTML filings**, **9,101 extracted
+records** (1,100 before 2006), and **8,001 views** matched to the 8,001 extractions
+in 2006–2025. View dates are filing dates plus one calendar day. Sixteen HTML
+files lack extraction output. These diagnostics do not remove model-training
+leakage, survivor selection or uncertain analyst-estimate vintages.
+
 ## Project Structure
 
 ```
 .
-├── experiments/informatica_2026/ # New experiments + offline reproduction package
+├── experiments/informatica_2026/ # Existing experiments + offline package
+├── experiments/informatica_2026_signal_risk/ # V2 signal/risk diagnostics
 ├── scripts/                    # Original pipeline scripts (run in order)
 ├── src/
 │   ├── data/                   # FMP API client

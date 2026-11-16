@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "sources_unchanged": true,
+  "groups": {
+    "core": {
+      "real": 9.996344030316351e-17,
+      "prior_only": 9.996344030316351e-17,
+      "equal_weight": 9.996344030316351e-17,
+      "beta_shared_engine": 2.7755575615628914e-17
+    },
+    "holdout": {
+      "real": 9.974659986866641e-17,
+      "prior_only": 9.974659986866641e-17,
+      "equal_weight": 9.974659986866641e-17,
+      "beta_shared_engine": 2.7755575615628914e-17
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "core_ic_rank_error": 1.1102230246251565e-16,
+  "core_beta_prior_return_error": 1.1102230246251565e-16,
+  "core_beta_prior_weight_error": 1.249000902703301e-16,
+  "holdout_ic_rank_error": 1.1102230246251565e-16,
+  "holdout_beta_prior_return_error": 1.1102230246251565e-16,
+  "holdout_beta_prior_weight_error": 1.249000902703301e-16
+}
