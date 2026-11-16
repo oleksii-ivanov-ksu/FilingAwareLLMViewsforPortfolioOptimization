@@ -43,6 +43,8 @@ differences are 0.067/0.047. DSR is 0.987/0.984 under an assumed effective
 trial count of 24 and observed candidate dispersion. This scenario concerns
 positive portfolio Sharpe, not superiority over EW or identification of a text signal.
 
+The editorial update adds the existing volatility and horizon controls to Table 6 and cost comparisons for EW, BL-Filing+, prior/beta and volatility tilts to Table 8. BL-Filing+ retains higher CAGR than EW across 5–20 bp costs; the volatility tilt has higher CAGR than BL-Filing+ in both groups. Quarterly IC does not test 1/5/21-day filing-event returns. Masking does not demonstrate a stable effect beyond three-repeat variability. See the [editorial change log](experiments/informatica_2026_publication/EDITORIAL_FOLLOWUP.md).
+
 ### Reproduce the current article without API calls
 
 ```bash
@@ -58,7 +60,7 @@ The verifier checks hashes and recomputes both RF conventions, 5/10/20 bp cost
 scenarios, all matched-control metrics, DSR scenarios and 10,000-draw paired
 bootstrap/MDE comparisons. It makes no network or model calls. The previous
 packages below reproduce their own dated analyses, including IC and ablation.
-All materials are in this repository; no external archive or DOI deposit is required.
+All reproduction materials are available in this repository. The article pins the numerical snapshot to commit `e9dad1e28a7e2376caaf905476dd2fdc84f469a2`; journal repository-policy compliance remains a submission check.
 
 ## Architecture
 
