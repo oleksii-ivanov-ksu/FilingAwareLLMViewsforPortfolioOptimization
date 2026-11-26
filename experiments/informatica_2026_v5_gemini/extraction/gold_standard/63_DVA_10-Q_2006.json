@@ -1,0 +1,62 @@
+{
+  "index": 63,
+  "id": "DVA_10-Q_2006",
+  "ticker": "DVA",
+  "form": "10-Q",
+  "year": 2006,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquired dialysis businesses consisting of 14 centers for a total of $68,131 thousand in cash and deferred purchase price obligations during the first six months of 2006.",
+      "source_quote": "During the first six months of 2006, the Company acquired dialysis businesses consisting of 14 centers, for a total of $68,131 in cash and deferred purchase price obligations.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of three dialysis centers to Renal Advantage, Inc. on January 1, 2006, receiving net cash of $17,518 thousand.",
+      "source_quote": "Effective January 1, 2006, the Company completed the sale of three centers to Renal Advantage, Inc. that were pending state regulatory approval... The Company received net cash of $17,518 for these three divested centers...",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Terminated the Alliance and Product Supply Agreement with Gambro AB and Gambro Renal Products on May 29, 2006, claiming a material breach by Gambro Renal Products for failure to perform its obligations.",
+      "source_quote": "On May 29, 2006, the Company notified Gambro Renal Products Inc (Gambro Renal Products) that the Company was terminating the Alliance and Product Supply Agreement (the Supply Agreement) with Gambro AB and Gambro Renal Products... Our termination notice claims a material breach by Gambro Renal Products for failure to perform its obligations under the Supply Agreement.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Received an additional subpoena in February 2006 from the U.S. Attorney's Office for the Eastern District of Missouri requesting documents and patient records relating to the administration and billing of Epogen (EPO).",
+      "source_quote": "In February 2006, the Company received an additional subpoena for documents, including certain patient records relating to the administration and billing of Epogen (EPO).",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A lawsuit filed by Blue Cross/Blue Shield of Louisiana in August 2005 was dismissed in March 2006, compelling the plaintiff to seek arbitration, with a demand to compel arbitration proceeded with in August 2006.",
+      "source_quote": "In March 2006, the case was dismissed and the plaintiff was compelled to seek arbitration to resolve the matter. In August 2006, the plaintiff proceeded with a demand to compel arbitration.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Interest rate margins on Term Loan A and Term Loan B (comprising the Credit Facility) were reduced by 0.25% on March 1, 2006, as a result of achieving certain financial ratios.",
+      "source_quote": "On March 1, 2006, our interest rate margins on our term loan A and term loan B (collectively the Credit Facility), were reduced by 0.25% as a result of achieving certain financial ratios as defined in the Credit Facility.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Made principal prepayments of $53,000 thousand on Term Loan A and $137,000 thousand on Term Loan B during the first six months of 2006, and an additional $120,000 thousand on Term Loan B on August 1, 2006.",
+      "source_quote": "During the first six months of 2006, the Company made principal prepayments of $53,000 on the term loan A and $137,000 on the term loan B. On August 1, 2006, the Company made an additional $120,000 principal prepayment on the term loan B.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Determined in the first quarter of 2006 not to make a Section 338(h)(10) tax election in connection with the DVA Renal Healthcare acquisition, which would have required an estimated $170 million cash payment to Gambro Inc.",
+      "source_quote": "During the first quarter of 2006, we determined that we would not make an election pursuant to Section 338(h)(10) of the Internal Revenue Code which we had previously reported we were considering making in connection with our acquisition of DVA Renal Healthcare. If we had made such an election, it would have required an additional cash payment to Gambro Inc. estimated to be approximately $170 million.",
+      "section": "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    }
+  ]
+}

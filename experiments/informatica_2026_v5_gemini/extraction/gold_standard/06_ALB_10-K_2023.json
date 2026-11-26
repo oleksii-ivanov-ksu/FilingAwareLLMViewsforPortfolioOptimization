@@ -1,0 +1,44 @@
+{
+  "index": 6,
+  "id": "ALB_10-K_2023",
+  "ticker": "ALB",
+  "form": "10-K",
+  "year": 2023,
+  "sector": "Materials",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 5,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of all outstanding equity of Guangxi Tianyuan New Energy Materials Co., Ltd. ('Qinzhou') for approximately $200 million in cash",
+      "source_quote": "On October 25, 2022 the Company completed the acquisition of all of the outstanding equity of Guangxi Tianyuan New Energy Materials Co., Ltd. (“Qinzhou”), for approximately $200 million in cash.",
+      "section": "Item 1. Business"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Divestiture of the fine chemistry services ('FCS') business to W. R. Grace & Co. for approximately $570 million",
+      "source_quote": "On June 1, 2021, we completed the sale of our fine chemistry services (“FCS”) business to W. R. Grace & Co. (“Grace”) for proceeds of approximately $570 million, consisting of $300 million in cash and the issuance to Albemarle of preferred equity of a Grace subsidiary having an aggregate stated value of $270 million.",
+      "section": "Item 1. Business"
+    },
+    {
+      "event_type": "litigation_settlement",
+      "description": "Settlement of legacy Rockwood litigation with Huntsman Corporation for $665 million paid in two installments",
+      "source_quote": "Following the arbitration panel decision, Albemarle reached a settlement with Huntsman to pay $665 million in two equal installments, with the first payment made in December 2021. The second and final payment of $332.5 million was made in May 2022.",
+      "section": "Item 7. MD&A"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Realigning the global business units from Lithium, Bromine, and Catalysts to Energy Storage, Specialties, and Ketjen",
+      "source_quote": "In August 2022, we announced plans to realign our Lithium and Bromine global business units into a new corporate structure designed to better meet customer needs and foster talent required to deliver in a competitive global environment. ... The realignment was effective January 1, 2023, and resulted in the following three reportable segments: (1) Energy Storage; (2) Specialties; and (3) Ketjen (Catalysts).",
+      "section": "Item 7. MD&A"
+    },
+    {
+      "event_type": "debt_issuance",
+      "description": "Issuance of $1.7 billion aggregate principal amount of senior notes across three tranches",
+      "source_quote": "On May 13, 2022, the Company issued a series of notes (collectively, the “2022 Notes”) as follows: • $650.0 million aggregate principal amount of senior notes, bearing interest at a rate of 4.65%... • $600.0 million aggregate principal amount of senior notes, bearing interest at a rate of 5.05%... • $450.0 million aggregate principal amount of senior notes, bearing interest at a rate of 5.65%...",
+      "section": "Note 14"
+    }
+  ]
+}

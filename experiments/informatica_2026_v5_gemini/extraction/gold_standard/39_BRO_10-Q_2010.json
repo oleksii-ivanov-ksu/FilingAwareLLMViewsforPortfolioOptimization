@@ -1,0 +1,62 @@
+{
+  "index": 39,
+  "id": "BRO_10-Q_2010",
+  "ticker": "BRO",
+  "form": "10-Q",
+  "year": 2010,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of DiMartino Associates, Inc. within the Retail segment for a total recorded purchase price of $10.45 million, including a net cash payment of $7.05 million and a recorded earn-out payable of $3.40 million.",
+      "source_quote": "DiMartino Associates, Inc. \tRetail \tMarch 1 \t$ \t7,047 \t$ \t— \t$ \t3,402 \t$ \t10,449",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 5 - Business Combinations"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Stone Insurance Agencies, et al. within the Retail segment for a total recorded purchase price of $15.95 million, including a net cash payment of $15.83 million and a recorded earn-out payable of $0.12 million.",
+      "source_quote": "Stone Insurance Agencies, et al. \tRetail \tMay 1 \t15,826 \t— \t124 \t15,950",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 5 - Business Combinations"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Combined acquisition of several other smaller insurance intermediaries and books of business for an aggregate recorded purchase price of $16.14 million, consisting of $10.39 million in net cash, $0.18 million in notes payable, and $5.58 million in estimated earn-out payable.",
+      "source_quote": "Other \tVarious \tVarious \t10,389 \t175 \t5,575 \t16,139",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 5 - Business Combinations"
+    },
+    {
+      "event_type": "executive_change",
+      "description": "Retirement of Vice Chairman and Chief Operating Officer Jim W. Henderson, effective August 1, 2010.",
+      "source_quote": "As previously announced, Jim W. Henderson, our Vice Chairman and Chief Operating Officer, has retired from the Company effective as of August 1, 2010.",
+      "section": "Part I - Item 2 - Management's Discussion and Analysis of Financial Condition and Results of Operations - General"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Litigation commenced by the Company against the State Attorney General’s Office in Connecticut to protect the confidentiality of subpoenaed or produced information.",
+      "source_quote": "The Company is currently in litigation commenced by the Company against the State Attorney General’s Office in Connecticut in an effort to protect the confidentiality of information sought by, or produced in response to, a subpoena.",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 11 - Legal and Regulatory Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Conclusion of regulatory investigations regarding compensation practices by agencies in Arizona, Virginia, Washington, and Florida.",
+      "source_quote": "In addition, agencies in Arizona, Virginia, Washington and Florida have concluded their respective investigations of subsidiaries of Brown & Brown, Inc. based in those states.",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 11 - Legal and Regulatory Proceedings"
+    },
+    {
+      "event_type": "other",
+      "description": "Re-evaluation of fair value of estimated acquisition earn-out payables for post-2009 acquisitions, resulting in a reduction of $1.56 million and a corresponding credit to the statement of income.",
+      "source_quote": "For acquisitions consummated after January 1, 2009, $16,327,000 was initially recorded as the estimated earn-out payable. As of June 30, 2010, the fair value of the estimated earn-out payable was re-evaluated and reduced by $1,556,000, which resulted in a credit to the Condensed Consolidated Statement of Income.",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 5 - Business Combinations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declaration of a quarterly cash dividend of $0.0775 per share, representing an increase over the prior year rate of $0.075 per share.",
+      "source_quote": "Dividends declared per share \t$ \t0.0775 \t$ \t0.075",
+      "section": "Condensed Consolidated Statements of Income"
+    }
+  ]
+}

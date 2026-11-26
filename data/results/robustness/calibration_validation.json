@@ -1,0 +1,126 @@
+{
+  "calibration": {
+    "bl_llm_tilt": {
+      "annualized_return": 0.13776652910432308,
+      "annualized_volatility": 0.23094904009062087,
+      "sharpe_ratio": 0.50992430649685,
+      "sortino_ratio": 0.645718593461447,
+      "max_drawdown": -0.5468465306243424,
+      "calmar_ratio": 0.2153557214121252,
+      "total_return": 11.828088506399055,
+      "n_days": 4982
+    },
+    "bl_llm_tilt_pos": {
+      "annualized_return": 0.15563996308903372,
+      "annualized_volatility": 0.25029461919300716,
+      "sharpe_ratio": 0.5419212107969411,
+      "sortino_ratio": 0.698254225737378,
+      "max_drawdown": -0.5740024322758474,
+      "calmar_ratio": 0.2363055545796877,
+      "total_return": 16.457894952383658,
+      "n_days": 4982
+    },
+    "bl_llm": {
+      "annualized_return": 0.07084916828347398,
+      "annualized_volatility": 0.16177092126068504,
+      "sharpe_ratio": 0.3143282357991478,
+      "sortino_ratio": 0.3970287206197263,
+      "max_drawdown": -0.3968788574876572,
+      "calmar_ratio": 0.1281226432805264,
+      "total_return": 2.870114779057747,
+      "n_days": 4982
+    },
+    "equal_weight": {
+      "annualized_return": 0.11848473971916418,
+      "annualized_volatility": 0.20588147542556764,
+      "sharpe_ratio": 0.4783564889244704,
+      "sortino_ratio": 0.5980972821562998,
+      "max_drawdown": -0.5254711599889721,
+      "calmar_ratio": 0.18742177919189904,
+      "total_return": 8.149737363471223,
+      "n_days": 4982
+    },
+    "mvo": {
+      "annualized_return": 0.14370697540530641,
+      "annualized_volatility": 0.23517648310009065,
+      "sharpe_ratio": 0.5260176263145195,
+      "sortino_ratio": 0.7014738645652346,
+      "max_drawdown": -0.430754739700888,
+      "calmar_ratio": 0.2871865681413218,
+      "total_return": 13.219153536924216,
+      "n_days": 4982
+    },
+    "random_views": {
+      "annualized_return": 0.0841547058612917,
+      "annualized_volatility": 0.16148294379664352,
+      "sharpe_ratio": 0.39728471845349883,
+      "sortino_ratio": 0.5016436350100237,
+      "max_drawdown": -0.4135927247069934,
+      "calmar_ratio": 0.15511565370677546,
+      "total_return": 3.9402465678760548,
+      "n_days": 4982
+    }
+  },
+  "validation": {
+    "bl_llm_tilt": {
+      "annualized_return": 0.13059004863632118,
+      "annualized_volatility": 0.1912394864891734,
+      "sharpe_ratio": 0.5782804099015502,
+      "sortino_ratio": 0.6957615939858172,
+      "max_drawdown": -0.39460731794553916,
+      "calmar_ratio": 0.28025341550200045,
+      "total_return": 2.323755363739881,
+      "n_days": 2466
+    },
+    "bl_llm_tilt_pos": {
+      "annualized_return": 0.1623822641137438,
+      "annualized_volatility": 0.2056476936267794,
+      "sharpe_ratio": 0.6923601310703094,
+      "sortino_ratio": 0.8979293383265112,
+      "max_drawdown": -0.36448406814509554,
+      "calmar_ratio": 0.3906405699386114,
+      "total_return": 3.3599990641741284,
+      "n_days": 2466
+    },
+    "bl_llm": {
+      "annualized_return": 0.05198652772457968,
+      "annualized_volatility": 0.15300489459068964,
+      "sharpe_ratio": 0.20905558485660405,
+      "sortino_ratio": 0.2453148656809398,
+      "max_drawdown": -0.34448818044061025,
+      "calmar_ratio": 0.0928523227811996,
+      "total_return": 0.6420459797214342,
+      "n_days": 2466
+    },
+    "equal_weight": {
+      "annualized_return": 0.12827136996210853,
+      "annualized_volatility": 0.18108087766436176,
+      "sharpe_ratio": 0.5979171923541944,
+      "sortino_ratio": 0.7265005428711505,
+      "max_drawdown": -0.3761642382927818,
+      "calmar_ratio": 0.28783004586905236,
+      "total_return": 2.2576483424023657,
+      "n_days": 2466
+    },
+    "mvo": {
+      "annualized_return": 0.15710632513432543,
+      "annualized_volatility": 0.2053771144121135,
+      "sharpe_ratio": 0.6675832676235063,
+      "sortino_ratio": 0.8274278867056418,
+      "max_drawdown": -0.42562610925092254,
+      "calmar_ratio": 0.32212855873814855,
+      "total_return": 3.1701597290502477,
+      "n_days": 2466
+    },
+    "random_views": {
+      "annualized_return": 0.0613421062311148,
+      "annualized_volatility": 0.15240099310699273,
+      "sharpe_ratio": 0.27127189520406,
+      "sortino_ratio": 0.31819007963265555,
+      "max_drawdown": -0.34742828048821744,
+      "calmar_ratio": 0.11899464883232745,
+      "total_return": 0.7906615162890227,
+      "n_days": 2466
+    }
+  }
+}

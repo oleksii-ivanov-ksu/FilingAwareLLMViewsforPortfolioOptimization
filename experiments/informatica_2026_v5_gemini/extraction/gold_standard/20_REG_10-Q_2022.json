@@ -1,0 +1,56 @@
+{
+  "index": 20,
+  "id": "REG_10-Q_2022",
+  "ticker": "REG",
+  "form": "10-Q",
+  "year": 2022,
+  "sector": "Real Estate",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquired partner's 75% ownership interest in four properties held in the RegCal, LLC partnership for a total purchase price of $88.5 million in April 2022, which are now consolidated",
+      "source_quote": "During April 2022, we acquired our partner's 75% share in four properties held in the RegCal, LLC partnership for a total purchase price of $88.5 million, which are now consolidated. A single operating property remains within RegCal, LLC at June 30, 2022.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sold the remaining two properties of the NYC partnership on May 25, 2022 and distributed the sales proceeds to members, with planned liquidation and dissolution of the partnership to follow",
+      "source_quote": "On May 25, 2022, the NYC partnership sold the remaining two properties and distributed sales proceeds to the members. Liquidation and dissolution will follow final distributions.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Settled 984,618 shares subject to forward sale agreements under the ATM equity program in April 2022, receiving net proceeds of approximately $61.3 million",
+      "source_quote": "In April 2022, the Company settled 984,618 shares subject to forward sales agreements and received proceeds of approximately $61.3 million, after approximately $3.3 million in underwriting discounts and offering expenses.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased 1,234,417 shares of Class A common stock for an aggregate purchase price of $71.9 million during June 2022 under the Authorized Repurchase Program",
+      "source_quote": "We paid $71.9 million during June 2022 to repurchase 1,234,417 common shares through our Authorized Repurchase Program.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared a quarterly common stock dividend of $0.625 per share on August 2, 2022, payable on October 4, 2022 to shareholders of record as of September 15, 2022",
+      "source_quote": "On August 2, 2022, our Board of Directors declared a common stock dividend of $0.625 per share, payable on October 4, 2022, to shareholders of record as of September 15, 2022.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sold one operating property, two land parcels, and one development project interest during the six months ended June 30, 2022, receiving net proceeds of $136.4 million and recognizing net gains on sale of $106.2 million",
+      "source_quote": "During the six months ended June 30, 2022, we recognized gains on sale of $106.2 million for three land parcel and one operating property.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Invested $6.1 million in an existing co-investment partnership to fund Regency's share of acquiring one operating property during the six months ended June 30, 2022",
+      "source_quote": "We invested $11.5 million in our real estate partnerships during 2022, including: o $6.1 million to fund our share of acquiring one operating property within an existing co-investment partnership",
+      "section": "MD&A"
+    }
+  ]
+}

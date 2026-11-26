@@ -1,0 +1,68 @@
+{
+  "index": 1,
+  "id": "AIG_10-Q_2023",
+  "ticker": "AIG",
+  "form": "10-Q",
+  "year": 2023,
+  "sector": "Financials",
+  "tier": "tier1a_tuning",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 9,
+  "events": [
+    {
+      "event_type": "divestiture",
+      "description": "Agreement to sell Validus Re (incl. AlphaCat Managers and Talbot Treaty business) to RenaissanceRe for $2.7B cash plus ~1.3M RenRe shares; announced May 22, 2023, expected close Q4 2023; classified held-for-sale",
+      "source_quote": "On May 22, 2023, AIG announced that it entered into a definitive agreement to sell Validus Reinsurance, Ltd. (Validus Re), including AlphaCat Managers Ltd. and the Talbot Treaty reinsurance business, to RenaissanceRe Holdings Ltd. (RenaissanceRe) for $ 2.7 billion in cash and approximately 1.3 million common shares of RenaissanceRe.",
+      "section": "Notes (Note 1, Note 4)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sale of Crop Risk Services to American Financial Group for ~$240M; announced May 2, 2023, closed July 3, 2023 (gross proceeds $234M)",
+      "source_quote": "On May 2, 2023, AIG announced that it reached an agreement to sell Crop Risk Services, Inc. (CRS) to American Financial Group, Inc. (AFG) for approximately $ 240 million. The transaction closed on July 3, 2023.",
+      "section": "Notes (Note 1, Note 4)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Secondary offering of 74.75M Corebridge shares at $16.25 (incl. full greenshoe of 9.75M), ~$1.2B gross proceeds; closed June 12, 2023; AIG ownership reduced to 65.3%",
+      "source_quote": "On June 12, 2023, AIG sold 74.75 million shares of Corebridge common stock in a secondary offering at a public offering price of $16.25 per share, which included 65 million shares initially offered and the full exercise by the underwriters of their option to purchase an additional 9.75 million shares.",
+      "section": "MD&A – Liquidity and Capital Resources (also Note 1, Note 16)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Corebridge repurchased 12.2M of its shares for $200M on June 26, 2023, of which 11.0M shares ($180M, $16.41/share) were bought from AIG",
+      "source_quote": "On June 26, 2023, Corebridge repurchased 12.2 million shares of Corebridge common stock for an aggregate purchase price of $ 200 million, of which 11.0 million shares were from AIG for an aggregate purchase price of $ 180 million.",
+      "section": "Notes (Note 16 – Equity; also MD&A – Liquidity)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board authorized $7.5B AIG common stock repurchase program on August 1, 2023 (inclusive of ~$2.15B remaining under prior authorization)",
+      "source_quote": "On August 1, 2023, the Board of Directors authorized the repurchase of $ 7.5 billion of AIG Common Stock (inclusive of the approximately $ 2.15 billion of expected remaining authorization under the Board's prior share repurchase authorization upon expiration of the current 10b5-1 plan as of August 7, 2023).",
+      "section": "Notes (Note 16 – Equity)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Quarterly common dividend raised 12.5% to $0.36/share (from $0.32) for Q2 2023; $0.36 re-declared August 1, 2023 payable Sept 29",
+      "source_quote": "We made cash dividend payments in the amount of $0.36 per share on AIG Common Stock for the three months ended June 30, 2023 (an increase of 12.5 percent from prior dividend payments), and $0.32 per share for the three months ended March 31, 2023, totaling $494 million.",
+      "section": "MD&A – Liquidity and Capital Resources (also Note 16)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $750M 5.125% Notes Due 2033 in March 2023",
+      "source_quote": "In March 2023, we issued $750 million aggregate principal amount of 5.125% Notes Due 2033.",
+      "section": "MD&A – Liquidity and Capital Resources"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Corebridge special cash dividend of $0.62/share (AIG received $264M; $138M paid to non-AIG holders) in H1 2023",
+      "source_quote": "Corebridge made a special cash dividend of $0.62 per share on Corebridge common stock, totaling $138 million to its public company shareholders other than AIG.",
+      "section": "MD&A – Liquidity and Capital Resources"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Moriarty v. American General Life Insurance Co. (No. 17-cv-1709, S.D. Cal.) putative class action over California AB 1747 lapse-notice rules; case reassigned to new judge, additional oral argument heard July 19, 2023, decision pending; probable loss accrued",
+      "source_quote": "Subsequently, the case was reassigned to a new District Court judge, who requested additional briefing on certain issues addressed by the summary judgment decisions and heard additional oral argument on those issues on July 19, 2023.",
+      "section": "Notes (Note 15 – Contingencies) / Part II Item 1 Legal Proceedings"
+    }
+  ]
+}

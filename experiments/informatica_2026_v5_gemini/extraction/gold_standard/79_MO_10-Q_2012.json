@@ -1,0 +1,62 @@
+{
+  "index": 79,
+  "id": "MO_10-Q_2012",
+  "ticker": "MO",
+  "form": "10-Q",
+  "year": 2012,
+  "sector": "Consumer Staples",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Approved a 7.3% increase in the quarterly dividend rate to $0.44 per common share, up from the previous rate of $0.41 per common share",
+      "source_quote": "During the third quarter of 2012, Altria Group, Inc.'s Board of Directors approved a 7.3% increase in the quarterly dividend rate to $0.44 per common share versus the previous rate of $0.41 per common share.",
+      "section": "Note 1. Background and Basis of Presentation"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased 19.6 million shares of common stock at an aggregate cost of approximately $622 million (average price of $31.76 per share) during the nine months ended September 30, 2012",
+      "source_quote": "During the nine and three months ended September 30, 2012, Altria Group, Inc. repurchased 19.6 million shares (aggregate cost of approximately $622 million, and $31.76 average price per share) and 7.7 million shares (aggregate cost of approximately $262 million, and $34.25 average price per share), respectively.",
+      "section": "Note 1. Background and Basis of Presentation"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorized the expansion of the outstanding share repurchase program from $1.0 billion to $1.5 billion",
+      "source_quote": "On October 23, 2012, Altria Group, Inc.'s Board of Directors authorized the expansion of the current share repurchase program from $1.0 billion to $1.5 billion.",
+      "section": "Note 1. Background and Basis of Presentation"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Reorganized Middleton as a wholly-owned subsidiary of PM USA effective January 1, 2012 as part of the 2011 Cost Reduction Program",
+      "source_quote": "The combination of these two formerly separate segments is related to the restructuring associated with a cost reduction program announced in October 2011 (the '2011 Cost Reduction Program'). Also, in connection with the 2011 Cost Reduction Program, effective January 1, 2012, Middleton became a wholly-owned subsidiary of PM USA, reflecting management's goal to achieve efficiencies in the management of these businesses.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $1.9 billion of 2.850% senior unsecured notes due 2022 and $0.9 billion of 4.250% senior unsecured notes due 2042",
+      "source_quote": "on August 9, 2012, Altria Group, Inc. issued $1.9 billion aggregate principal amount of 2.850% senior unsecured long-term notes due 2022 and $0.9 billion aggregate principal amount of 4.250% senior unsecured long-term notes due 2042.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid in full $600 million aggregate principal amount of UST senior unsecured notes upon maturity",
+      "source_quote": "In July 2012, senior unsecured notes issued by UST in the aggregate principal amount of $600 million matured and were repaid in full.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Paid approximately $262,000 in May 2012 to satisfy and conclude the F. Campbell Engle progeny litigation",
+      "source_quote": "In May 2012, PM USA paid an amount of approximately $262,000 in satisfaction of the judgment and associated costs and interest. This litigation has concluded.",
+      "section": "Note 11. Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Broward County jury returned a zero damages verdict in the Hancock case on August 10, 2012, with PM USA's final comparative fault liability set at approximately $700",
+      "source_quote": "August 2012 Hancock On August 10, 2012, a Broward County jury returned a verdict in the amount of zero damages and allocated 5% of the fault to each of the defendants (PM USA and R.J. Reynolds)... PM USA's portion of the damages was approximately $700.",
+      "section": "Note 11. Contingencies"
+    }
+  ]
+}

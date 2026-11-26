@@ -1,0 +1,314 @@
+{
+  "index": 11,
+  "id": "BMY_10-Q_2006",
+  "ticker": "BMY",
+  "form": "10-Q",
+  "year": 2006,
+  "sector": "Health Care",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 50,
+  "events": [
+    {
+      "event_type": "divestiture",
+      "description": "Sale of U.S. DOVONEX inventory, trademark, patent and IP rights to Warner Chilcott for $200M cash (Jan 2006); pre-tax gain of $200M in Q1 2006",
+      "source_quote": "In January 2006, the Company completed the sale of its inventory, trademark, patent and intellectual property rights in the United States related to DOVONEX*, a treatment for psoriasis to Warner Chilcott Company, Inc. for $200 million in cash.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sale of U.S. and Canadian Consumer Medicines business to Novartis for $661M cash (Q3 2005); pre-tax gain $569M",
+      "source_quote": "Under the terms of the agreement, Novartis acquired the trademarks, patents and intellectual property rights of Consumer Medicines for $661 million in cash, including the impact of a working capital adjustment, of which $15 million is attributable to a post-closing supply arrangement between the Company and Novartis.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sale of Oncology Therapeutics Network (OTN) to One Equity Partners LLC for $197M (May 2005); pre-tax gain $63M, presented as discontinued operations",
+      "source_quote": "In May 2005, the Company completed the sale of Oncology Therapeutics Network (OTN) to One Equity Partners LLC for cash proceeds of $197 million, including the impact of a preliminary working capital adjustment.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "2006 restructuring: $14M pre-tax charge for termination benefits, workforce reduction of ~280 selling and administrative personnel in North America, Latin America and Canada (incl. Q2 2006 $4M / ~140 personnel)",
+      "source_quote": "In the six months ended June 30, 2006, the Company recorded a pre-tax charge of $14 million related to the termination benefits for workforce reductions of approximately 280 selling and administrative personnel primarily in North America, Latin America and Canada.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Q2 2006 restructuring action: $4M pre-tax charge, ~140 selling and administrative personnel primarily in Latin America and Canada",
+      "source_quote": "In the second quarter of 2006, the Company recorded pre-tax charges of $4 million related to the termination benefits for workforce reductions and downsizing and streamlining of approximately 140 selling and administrative personnel, primarily in Latin America and Canada.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "2005 restructuring: $6M pre-tax charge for workforce reduction of ~109 selling and administrative personnel in Latin America, Europe and Africa (incl. Q2 2005 $4M / 47 personnel in Africa)",
+      "source_quote": "In the six months ended June 30, 2005, the Company recorded a pre-tax charge of $6 million related to the termination benefits and other related costs for workforce reductions of approximately 109 selling and administrative personnel primarily in Latin America, Europe and Africa.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Impairment charges of $32M (Q1 2006) and $42M (2005) on TEQUIN intangible assets due to sales declines, recorded in cost of products sold",
+      "source_quote": "In the first quarter of 2006 and for the year 2005, the Company recorded impairment charges of $32 million and $42 million, respectively, resulting from actual and estimated future sales declines of TEQUIN.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "product",
+      "description": "Decision in Q1 2006 to discontinue commercialization of TEQUIN; stopped shipping to U.S. wholesalers in June 2006 and established return reserve",
+      "source_quote": "In the first quarter of 2006, the Company made the decision to discontinue commercialization of TEQUIN for commercial reasons.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "product",
+      "description": "FDA approval of ERBITUX for squamous cell carcinoma of the head and neck (March 2006)",
+      "source_quote": "In March 2006, the FDA approved ERBITUX* for use in the treatment of squamous cell carcinoma of the head and neck in combination with radiation or as monotherapy.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "partnership",
+      "description": "$250M milestone payment to ImClone in March 2006 triggered by FDA approval of ERBITUX for head and neck cancer",
+      "source_quote": "In March 2006, as a result of the FDA approval of ERBITUX* for use in the treatment of head and neck cancer, the Company made a $250 million milestone payment to ImClone.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "product",
+      "description": "FDA approval and U.S. launch of EMSAM (April 2006) for major depressive disorder; exclusive distribution rights from Somerset Pharmaceuticals",
+      "source_quote": "EMSAM*, a transdermal patch for the delivery of a monoamine oxidase inhibitor for the treatment of major depressive disorder in adults, was launched in the U.S. in April 2006.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "partnership",
+      "description": "$30M milestone payment to Somerset Pharmaceuticals in April 2006 upon FDA approval of EMSAM",
+      "source_quote": "In April 2006, as a result of the FDA approval of EMSAM* for use in the treatment of major depressive disorders in adults, the Company made a $30 million milestone payment to Somerset Pharmaceuticals, Inc.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "product",
+      "description": "U.S. launch of ORENCIA (rheumatoid arthritis biologic) in February 2006",
+      "source_quote": "ORENCIA is a novel biologic agent for the treatment of rheumatoid arthritis that was launched in the U.S. in February.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "product",
+      "description": "FDA approval (May 2006) of sBLA permitting a third party to manufacture ORENCIA at an additional facility",
+      "source_quote": "In May 2006, the U.S. Food and Drug Administration (FDA) approved a supplemental Biologics License Application (sBLA) that permits a third party to manufacture ORENCIA at an additional facility.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "product",
+      "description": "FDA accelerated approval of SPRYCEL (dasatinib) for CML and Ph+ALL (June 2006)",
+      "source_quote": "In June 2006, the Company announced that the FDA granted accelerated approval of SPRYCEL (dasatinib), an oral inhibitor of multiple tyrosine kinases, for the treatment of adults with chronic, accelerated, or myeloid or lymphoid blast phase chronic myeloid leukemia (CML) with resistance or intolerance to prior therapy, including GLEEVEC* (imatinib mesylate).",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "product",
+      "description": "European Commission approval of BARACLUDE for chronic hepatitis B (June 2006)",
+      "source_quote": "In June 2006, the Company received approval from the European Commission for BARACLUDE for the treatment of chronic hepatitis B virus infection.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "product",
+      "description": "Approval of BARACLUDE in Japan (July 2006)",
+      "source_quote": "BARACLUDE was also approved in Japan in July 2006.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "product",
+      "description": "FDA approval of ATRIPLA (SUSTIVA + TRUVADA single-tablet HIV regimen) with Gilead on July 12, 2006; launched July 2006",
+      "source_quote": "On July 12, 2006, the Company and Gilead Sciences, Inc. (Gilead) announced FDA approval of ATRIPLA* (efavirenz 600 mg/ emtricitabine 200 mg / tenofovir disoproxil fumarate 300 mg) for the treatment of human immunodeficiency virus (HIV) infection in adults.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Distribution agreement with Watson Pharmaceutical authorizing Watson to distribute pravastatin sodium tablets (authorized generic PRAVACHOL) in the U.S.",
+      "source_quote": "As previously disclosed, the Company entered into a distribution agreement with Watson Pharmaceutical, Inc. (Watson) authorizing Watson to distribute pravastatin sodium tablets in the U.S.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Joint development agreement for ERBITUX in Japan among BMS, BMKK, Merck KGaA, Merck Ltd. and ImClone (December 2004)",
+      "source_quote": "In December 2004, the Company, its Japanese affiliate (BMKK), Merck KGaA, Merck Ltd., and ImClone executed a joint development agreement for ERBITUX* in Japan.",
+      "section": "Financial Statements (Notes)"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Announced plans (June 2006) to build a new large-scale bulk biologics manufacturing facility in Devens, Massachusetts; construction to begin late 2006, operational 2009, commercial production 2011",
+      "source_quote": "In June 2006, the Company announced plans to locate its new large-scale, expandable multi-product bulk biologics manufacturing facility in Devens, Massachusetts, subject to final agreement between the Company and the State.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Proposed settlement agreement (March 21, 2006) with Apotex to settle PLAVIX '265 patent infringement suit in S.D.N.Y.; Apotex license effective Sept 17, 2011, up to $40M inventory reimbursement, subject to FTC/state AG clearance",
+      "source_quote": "On March 21, 2006, the Company and Sanofi (the companies) announced that they had executed a proposed settlement agreement (the March Agreement) with Apotex to settle the patent infringement lawsuit pending between the parties in the U.S. District Court for the Southern District of New York.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Modified Apotex settlement agreement announced June 25, 2006 in response to FTC and state AG concerns (license effective June 1, 2011; several payment provisions deleted)",
+      "source_quote": "On June 25, 2006, the companies announced that the March Agreement had been modified by the parties in response to concerns raised by the FTC and the state attorneys general.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Apotex settlement failed to receive antitrust clearance from state attorneys general (announced July 28, 2006); Apotex terminated settlement obligations effective July 31, 2006, generic clopidogrel launch anticipated",
+      "source_quote": "On July 28, 2006, the companies announced that the amended settlement agreement had failed to receive required antitrust clearance from the state attorneys general.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Companies sought leave in S.D.N.Y. to move for a temporary restraining order against Apotex generic launch; Court declined to entertain motion before expiry of five-business-day period",
+      "source_quote": "The companies sought leave from the U.S. District Court for the Southern District of New York to move for provisional relief, including a temporary restraining order.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Reserves of $20M recorded by each of BMS and Sanofi in Q1 2006 for potential payments under the proposed Apotex settlement",
+      "source_quote": "As previously disclosed, each of the companies recorded reserves in the amount of $20 million in the first quarter of this year with respect to the potential payments under the proposed settlement.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "U.S. DOJ Antitrust Division criminal investigation of the Apotex settlement; grand jury subpoenas to Company, CEO and another senior officer; search warrant executed at New York offices",
+      "source_quote": "The Company received a grand jury subpoena to produce documents, the Company’s chief executive officer and another senior officer received grand jury subpoenas to provide testimony, and a search warrant was executed at their New York offices.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Deferred Prosecution Agreement with U.S. Attorney's Office for the District of New Jersey (June 15, 2005) re wholesaler inventory/accounting matters; criminal complaint for conspiracy to commit securities fraud deferred for two years; $300M payment to shareholder fund",
+      "source_quote": "As previously disclosed, the Company entered into a Deferred Prosecution Agreement (DPA) with the U.S. Attorney’s Office for the District of New Jersey (USAO) on June 15, 2005.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "SEC Consent Order settlement (August 4, 2004) concluding investigation of wholesaler inventory and accounting matters",
+      "source_quote": "As previously disclosed, on August 4, 2004, the Company entered into a final settlement with the Securities and Exchange Commission (SEC), concluding an investigation concerning certain wholesaler inventory and accounting matters.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Board separated roles of Chairman and CEO and elected a Non-Executive Chairman on June 15, 2005 under the DPA",
+      "source_quote": "Also as part of the DPA, the Board of Directors separated the roles of Chairman and Chief Executive Officer of the Company and on June 15, 2005, elected a Non-Executive Chairman.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "PLAVIX '265 patent infringement suits in S.D.N.Y. against Dr. Reddy's, Teva and Cobalt; Teva and Cobalt actions stayed pending Apotex outcome",
+      "source_quote": "The patent infringement actions against Teva and Cobalt have been stayed pending resolution of the Apotex litigation, and the parties to those actions have agreed to be bound by the outcome of the litigation in the District Court against Apotex.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "PLAVIX patent infringement suit against Watson Pharmaceuticals in D.N.J. stayed pending Apotex litigation",
+      "source_quote": "This case has also been stayed pending the outcome of the litigation in the District Court against Apotex.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Fourteen antitrust lawsuits (Sherman Act) filed in S.D. Ohio against BMS, Sanofi and Apotex over the Apotex settlement; consolidated as In re: Plavix Direct/Indirect Purchaser Antitrust Litigation",
+      "source_quote": "In related matters, since the announcement of the settlement agreement with Apotex in March 2006, fourteen lawsuits, making essentially the same allegations, have been filed against the Company, Sanofi and Apotex in U.S. District Court, Southern District of Ohio, Western Division, by various plaintiffs, including pharmacy chains (individually and as assignees, in whole or in part, of certain wholesalers), various health and welfare benefit plans/funds and individual residents of various states.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Canadian Federal Court rejected Apotex challenge to Canadian PLAVIX patent (March 2005); Apotex appeal scheduled for December 2006",
+      "source_quote": "Apotex’s appeal has now been scheduled to be heard in December 2006.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Korean Intellectual Property Tribunal invalidated all claims of Sanofi's Korean clopidogrel Patent 103,094 (June 2006); Sanofi appealed to Patent Court",
+      "source_quote": "In Korea, in response to separate invalidation actions brought by several generic manufacturers, in June of this year the Korean Intellectual Property Tribunal (IPT) invalidated all claims of Sanofi’s Korean Patent 103,094, including claims directed to clopidogrel and pharmaceutically acceptable salts and to clopidogrel bisulfate.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Yeda v. ImClone/Aventis inventorship suit over ERBITUX-related U.S. Patent 6,217,866: trial completed June 2006, judgment pending (Company not a party)",
+      "source_quote": "Trial on the matter was completed in June 2006, and the parties await a judgment of the court.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Repligen/MIT patent suit against ImClone re ERBITUX manufacture: D. Mass. granted summary judgment for Repligen and MIT on July 28, 2006 (Company not a party)",
+      "source_quote": "On July 28, 2006, the Court granted summary judgment in favor of Repligen and MIT by rejecting ImClone’s defense of patent exhaustion.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "USPTO issued Ex Parte Reexamination Certificate (June 2006) confirming all original claims of the ABILIFY composition of matter patent ('528 Patent)",
+      "source_quote": "In June 2006, the USPTO officially issued an Ex Parte Reexamination Certificate for the ‘528 Patent, in which the USPTO confirmed the patentability of all original claims and three new claims.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "VANLEV securities class action settlement: $185M paid into settlement fund; preliminary approval Feb 2006, final approval by D.N.J. after May 2006 fairness hearing; June 2006 appeal on attorneys' fees allocation",
+      "source_quote": "In February 2006, the U.S. District Court for the District of New Jersey granted preliminary approval of a settlement between the parties under which the Company paid $185 million into a settlement fund and agreed to certain non-monetary terms.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Starkman v. Bristol-Myers Squibb holder class action (N.Y. State Supreme Court, removed to S.D.N.Y.): stay lifted after March 2006 Supreme Court preemption decision; remand and amendment motions pending",
+      "source_quote": "The matter was stayed until the Supreme Court, in March 2006, entered its decision in another case which held that holder class actions asserting securities fraud claims under state law, like Starkman , are preempted under federal law.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "E.D. Mo. class action alleging channel-stuffing with D&K Health Care Resources: Court granted Company's motion to dismiss in June 2006",
+      "source_quote": "In June 2006, the Court granted the Company’s motion to dismiss the complaint.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "AWP pricing MDL (D. Mass.): Arizona AG case transferred to MDL in Q2 2006; Court ordered Classes 2 and 3 trial scheduled for November 2006",
+      "source_quote": "In July 2006, the Court ordered that Classes 2 and 3 (insurance companies and health and welfare funds in Massachusetts) be scheduled for trial in November of this year.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Section 340B pricing class actions: California court granted defendants' second motion to dismiss (Q2 2006); Alabama plaintiffs withdrew class certification request",
+      "source_quote": "In the second quarter of 2006, the Court granted defendants’ second motion to dismiss the amended complaint.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "HRT product liability mass-tort litigation: 364 lawsuits on behalf of ~1,686 plaintiffs as of July 25, 2006",
+      "source_quote": "As of July 25, 2006, the Company was a defendant in 364 lawsuits filed on behalf of approximately 1,686 plaintiffs in federal and state courts throughout the United States.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Individual settlement of $460,000 (April 2006) in Puerto Rico Superior Court class action over wastewater facility air emissions, subject to class certification",
+      "source_quote": "In April 2006, the Company executed an individual settlement with the plaintiffs in the amount of $460,000, subject to certain conditions, including the Court’s certification of the case as a class action.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Antitrust complaint filed July 14, 2006 by RxUSA Wholesale in E.D.N.Y. against the Company and other manufacturers/wholesalers, seeking $586M damages before trebling",
+      "source_quote": "Plaintiff claims that defendants allegedly engaged in anti-competitive acts that resulted in the exclusion of plaintiff from the relevant market and seeks $586 million in damages before any trebling, and other relief.",
+      "section": "Legal Proceedings (Note 17)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Litigation income of $14M in Q2 2006 from settlement of a litigation matter ($35M for six months incl. insurance recovery for previously settled matters)",
+      "source_quote": "Litigation income includes $14 million in the second quarter of 2006 from a settlement of a litigation matter.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Q2 2005: $295M insurance recoveries from settlements of coverage disputes with insurers ($65M STADOL NS/SERZONE, $230M D&O and fiduciary liability) and $269M litigation charges for private litigations, governmental investigations and ERISA litigation",
+      "source_quote": "In the second quarter of 2005, the Company recorded litigation insurance recovery of $295 million in aggregate as a result of agreements to settle coverage disputes with its various insurers.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase/retirement in 2005 of the $2.5 billion Notes due 2006, with debt retirement costs recorded",
+      "source_quote": "The $49 million decrease in other expense in 2006 was primarily due to debt retirement costs in 2005 in connection with the repurchase of the $2.5 billion Notes due 2006 and lower net foreign exchange losses in 2006 compared to 2005, partially offset by a gain on sale of an equity investment in 2005.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "$14 billion share repurchase program authorized by Board in June 2001; no shares repurchased in H1 2006 and none expected for remainder of 2006",
+      "source_quote": "In June 2001, the Company announced that the Board of Directors authorized the purchase of up to $14 billion of Company common stock.",
+      "section": "Part II, Item 2"
+    }
+  ]
+}

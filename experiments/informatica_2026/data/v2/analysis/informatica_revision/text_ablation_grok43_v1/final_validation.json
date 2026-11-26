@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "calls": 1791,
+  "unique_generation_ids": 1791,
+  "valid": 1791,
+  "http_retries": 0,
+  "input_files_verified": 1796,
+  "source_files_verified": 1198,
+  "source_data_unchanged": true,
+  "request_payloads_match": true,
+  "reported_cost_usd": 3.7563828999999984,
+  "budget_usd": 10,
+  "independent_weight_contrasts_verified": 24,
+  "independent_view_contrasts_verified": 15
+}

@@ -1,0 +1,26 @@
+{
+ "original": {
+  "dates": [
+   "2015-09-30",
+   "2025-09-30"
+  ],
+  "model": "google/gemini-2.5-flash",
+  "missing": [
+   {
+    "date": "2025-09-30",
+    "group": "holdout",
+    "ticker": "MO",
+    "policy": "no view within 120 days; stock stays in the 50-stock universe without a view"
+   }
+  ]
+ },
+ "extra": {
+  "dates": [
+   "2010-09-30",
+   "2020-09-30",
+   "2023-09-30"
+  ],
+  "model": "google/gemini-2.5-flash",
+  "missing": []
+ }
+}

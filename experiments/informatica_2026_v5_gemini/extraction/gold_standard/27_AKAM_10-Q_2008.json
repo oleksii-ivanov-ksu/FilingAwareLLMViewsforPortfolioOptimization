@@ -1,0 +1,74 @@
+{
+  "index": 27,
+  "id": "AKAM_10-Q_2008",
+  "ticker": "AKAM",
+  "form": "10-Q",
+  "year": 2008,
+  "sector": "Information Technology",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "impairment",
+      "description": "Temporary impairment of Auction-Rate Securities (ARS) held by the Company, resulting in a $16.0 million unrealized loss recorded in accumulated other comprehensive loss due to failed auctions starting in late February 2008",
+      "source_quote": "As of March 31, 2008, the Company recorded an unrealized loss of $16.0 million related to the temporary impairment of the ARSs, which was included in accumulated other comprehensive loss within stockholders’ equity.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Reclassification of Auction-Rate Securities (ARS) from short-term to long-term marketable securities on the balance sheet due to liquidity issues",
+      "source_quote": "During the quarter ended March 31, 2008, the Company reclassified its ARSs from short-term marketable securities to long-term marketable securities on its consolidated balance sheet due to management's estimate of its inability to liquidate these investments within the next twelve months.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "The return of 952 thousand shares of common stock upon the settlement of escrow claims related to prior business acquisitions",
+      "source_quote": "Common stock returned upon settlement of escrow claims related to prior business acquisitions (952)",
+      "section": "Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Credits of approximately $0.5 million received from settlements and renegotiated contracts in connection with billing disputes related to bandwidth contracts",
+      "source_quote": "Cost of revenues during each of the three months ended March 31, 2008 and 2007 also included credits received of approximately $0.5 million from settlements and renegotiated contracts entered into in connection with billing disputes related to bandwidth contracts.",
+      "section": "Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Realized gain of $0.2 million from the sale of marketable securities during the first quarter of 2008",
+      "source_quote": "During the three months ended March 31, 2008, we recorded a gain of $0.2 million from the sales of marketable securities.",
+      "section": "Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Long-term purchase commitments for bandwidth usage and co-location services with network and Internet service providers of approximately $39.5 million for the remainder of 2008, $7.8 million for 2009, and $2.3 million for 2010",
+      "source_quote": "For the remainder of 2008 and for the years ending December 31, 2009 and 2010, the minimum commitments pursuant to contracts in effect as of March 31, 2008 are approximately $39.5 million, $7.8 million and $2.3 million, respectively.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Equipment purchase commitment of approximately $500,000 expiring in August 2008",
+      "source_quote": "As of March 31, 2008, the Company had an equipment purchase commitment of approximately $500,000. This purchase commitment expires in August 2008 in accordance with the terms of the applicable agreement.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Aggregate purchase commitments of $14.1 million under purchase orders with various vendors, expected to be paid over the next twelve months",
+      "source_quote": "Additionally, as of March 31, 2008, the Company had entered into purchase orders with various vendors for aggregate purchase commitments of $14.1 million, which are expected to be paid over the next twelve months.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Subsequent amendment to the Registrant's Amended and Restated 1999 Employee Stock Purchase Plan (ESPP) dated April 22, 2008",
+      "source_quote": "Amendment dated April 22, 2008 to the Amended and Restated 1999 Employee Stock Purchase Plan of the Registrant.",
+      "section": "Exhibits"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Amendment dated March 31, 2008 to the Employment Letter Agreement between the Registrant and CEO Paul Sagan",
+      "source_quote": "Amendment dated March 31, 2008 to the Employment Letter Agreement between the Registrant and Paul Sagan",
+      "section": "Exhibits"
+    }
+  ]
+}

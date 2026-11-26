@@ -1,0 +1,50 @@
+{
+  "index": 45,
+  "id": "CHD_10-Q_2023",
+  "ticker": "CHD",
+  "form": "10-Q",
+  "year": 2023,
+  "sector": "Consumer Staples",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of Hero on October 13, 2022, for a cash purchase price of $546.8 million (net of cash acquired), with $400.0 million allocated to the trade name.",
+      "source_quote": "On October 13, 2022, we completed the Hero Acquisition. Hero is included in our results since the date of acquisition.",
+      "section": "Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of the TheraBreath brand of oral care products business (Dr. Harold Katz, LLC and HK-IP International, Inc.) on December 24, 2021, for $556.0 million, net of cash acquired, and deferred an additional cash payment of $14.0 million related to indemnity obligations.",
+      "source_quote": "On December 24, 2021, the Company acquired all of the outstanding equity of Dr. Harold Katz, LLC and HK-IP International, Inc. , the owners of the THERABREATH® brand of oral care products business (the “TheraBreath Acquisition”).  The Company paid $ 556.0 , net of cash acquired, at closing and deferred an additional cash payment of $ 14.0 related to certain indemnity obligations provided by the seller.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared and paid quarterly cash dividends of $0.27 per common share in Q2 2023 (representing $0.54 per share for the first six months of 2023, up from $0.53 in 2022).",
+      "source_quote": "Cash dividends per share ... $ 0.27 ... 0.26 ... 0.54 ... 0.53",
+      "section": "CONDENSED CONSOLIDATED STATEMENTS OF INCOME"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid $200.0 million on the Term Loan due December 22, 2024 during the first half of 2023, reducing the outstanding balance from $400.0 million as of December 31, 2022, to $200.0 million as of June 30, 2023.",
+      "source_quote": "Term loan due December 22, 2024 ... $ 200.0 ... $ 400.0",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased a total of 1,210 thousand shares of common stock during the second quarter of 2023 at an average price of $90.93 per share, leaving approximately $729,727,297 available for future purchases under publicly announced programs.",
+      "source_quote": "Total ... 1,210 ... $ 90.93 ... $ 729,727,297",
+      "section": "Part II - Item 2. Unregistered Sales of Equity Securities and Use of Proceeds"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Granted Performance Stock Units (PSUs) to members of the Executive Leadership Team (including the CEO) during the first quarter of 2023, with an aggregate award fair value of $2.2 million (exactly 19,650 PSUs issued at a weighted average grant date fair value of $110.95 per PSU).",
+      "source_quote": "In the first quarter of 2023, the Company granted PSUs to members of the ELT including the CEO, with an aggregate award fair value equal to $ 2.2 .  Exactly 19,650 PSUs were issued at a weighted average grant date fair value equal to $ 110.95 per PSU using a Monte Carlo model.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    }
+  ]
+}

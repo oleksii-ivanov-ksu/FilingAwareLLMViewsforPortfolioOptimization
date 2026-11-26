@@ -1,0 +1,97 @@
+{
+  "ticker": "MO",
+  "view_date": "2025-07-31",
+  "fiscal_period": "Six Months Ended June 30, 2025",
+  "sector": "Consumer Staples",
+  "trigger_filing_type": "10-Q",
+  "trigger_filing_date": "2025-07-30",
+  "latest_10k_date": "2025-02-27",
+  "annual_risk_factors": [
+    {
+      "category": "competition",
+      "severity": "high",
+      "description": "Operating companies face significant competition in product quality, taste, price, innovation, marketing, packaging, distribution; failure to compete effectively could negatively impact profitability,"
+    },
+    {
+      "category": "regulatory",
+      "severity": "high",
+      "description": "Broad FDA regulatory authority, pre-market reviews, product standards, enforcement inaction on illicit products could materially adversely affect sales volumes, product availability, and ability to ac"
+    },
+    {
+      "category": "macroeconomic",
+      "severity": "high",
+      "description": "Discretionary income pressures from high prices, inflation, wage growth lag, high credit delinquency influence down-trading to discount brands, cross-category shifts, higher cigarette volume declines."
+    },
+    {
+      "category": "legal",
+      "severity": "high",
+      "description": "Pending/threatened litigation including patent infringement, RICO, product liability; unfavorable outcomes, bonding requirements, non-monetary remedies could materially adversely affect results."
+    },
+    {
+      "category": "supply_chain",
+      "severity": "high",
+      "description": "Changes in price, availability, quality of tobacco, raw materials due to weather, geopolitics, reduced demand for combustibles could restrict manufacturing, impact profitability."
+    },
+    {
+      "category": "operational",
+      "severity": "high",
+      "description": "Reliance on few facilities, key suppliers/distributors; disruptions from disasters, labor, pandemics could suspend operations, materially adversely affect business."
+    },
+    {
+      "category": "financial",
+      "severity": "high",
+      "description": "Potential impairments of goodwill, intangibles due to volume declines, litigation, illicit products, regulatory changes could result in material non-cash charges."
+    },
+    {
+      "category": "strategic",
+      "severity": "high",
+      "description": "Failure to realize benefits from strategic transactions like NJOY acquisition, Horizon JV due to regulatory delays, litigation, consumer shifts could negatively impact Vision."
+    },
+    {
+      "category": "cybersecurity",
+      "severity": "high",
+      "description": "Failure of IT systems, cyber-attacks, data breaches could result in loss of data, disruptions, legal costs, reputational harm."
+    },
+    {
+      "category": "labor",
+      "severity": "high",
+      "description": "Decreasing social acceptance of tobacco may impair attracting/retaining skilled workforce needed for Vision."
+    }
+  ],
+  "annual_risk_summary": "Primary risks include regulatory/FDA actions, illicit trade, competition from innovative/illicit products, litigation/patent issues, macroeconomic pressures on consumers, supply chain disruptions, asset impairments.",
+  "annual_key_events": [
+    "Optimize & Accelerate Initiative announced October 2024; multi-phase to centralize/automate processe",
+    "Skoal trademark non-cash pre-tax impairment of $354M in Q2 2024 due to MST volume declines from inno",
+    "Assignment of IQOS System U.S. commercialization rights to PMI in April 2024; pre-tax gain $2.7B.",
+    "ITC final determination Jan 29, 2025 finding NJOY ACE infringes JUUL patents; exclusion/cease-desist",
+    "NJOY Transaction completed June 1, 2023."
+  ],
+  "latest_10q_date": "2025-07-30",
+  "quarterly_sentiment": "cautious",
+  "quarterly_sentiment_rationale": "Management uses language such as 'continued headwinds', 'monitoring closely', 'potential material adverse effect', and notes significant non-cash impairments while highlighting that adjusted results improved.",
+  "quarterly_guidance": {
+    "direction": "cautious",
+    "revenue_outlook": null,
+    "earnings_outlook": null,
+    "statement": "Trends and developments have not had a material adverse impact on results of operations, cash flows or financial position or ability to achieve Vision; will continue to evaluate potential impacts as trends evolve."
+  },
+  "quarterly_key_events": [
+    "Recorded net pre-tax charges of $70 million (six months) and $16 million (three months) related to I",
+    "Recorded non-cash goodwill impairment charge of $873 million to reduce carrying value of e-vapor rep"
+  ],
+  "earnings_surprise": {
+    "period": "Q2 2025",
+    "filing_date": "2025-07-30",
+    "eps_actual": 1.41,
+    "eps_estimate": 1.38669,
+    "eps_surprise_pct": 1.6809813296410836,
+    "revenue_actual": 5.29,
+    "revenue_estimate": 5.189356502,
+    "revenue_surprise_pct": 1.9394215441011147,
+    "num_analysts": 6,
+    "estimate_dispersion": 0.029191816483857293
+  },
+  "price_return_1m": 6.535947712418295,
+  "price_return_3m": 4.716821639898561,
+  "price_volatility_60d": 21.07012624756191
+}

@@ -1,0 +1,98 @@
+{
+  "index": 59,
+  "id": "D_10-Q_2022",
+  "ticker": "D",
+  "form": "10-Q",
+  "year": 2022,
+  "sector": "Utilities",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 14,
+  "events": [
+    {
+      "event_type": "divestiture",
+      "description": "In February 2022, Dominion Energy entered into an agreement to sell 100% of the equity interests in Hope Gas, Inc. (Hope) to Ullico Inc. for $690 million of cash consideration, subject to customary closing adjustments.",
+      "source_quote": "In February 2022, Dominion Energy entered into an agreement to sell 100 % of the equity interests in Hope to Ullico for $ 690 million of cash consideration, subject to customary closing adjustments.",
+      "section": "Note 3. Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In June 2022, Dominion Energy completed the sale of 100% of the equity interests in Dominion Energy Kewaunee, Inc. to EnergySolutions, LLC, transferring all decommissioning obligations associated with the Kewaunee nuclear power station. Dominion Energy recorded a pre-tax loss of $649 million ($513 million after-tax) on the sale.",
+      "source_quote": "The sale closed in June 2022 following approval from the Wisconsin Commission in May 2022 and NRC approval of a requested license transfer in March 2022. ... In the second quarter of 2022, Dominion Energy recorded a loss of $ 649 million ($ 513 million after-tax), recorded in losses (gains) on sales of assets in its Consolidated Statements of Income, primarily related to the difference between the nuclear decommissioning trust and AROs.",
+      "section": "Note 3. Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "partnership",
+      "description": "In February 2022, Dominion Energy entered into an agreement with Patriot to form Dominion Privatization, a partnership to maintain and operate electric and gas distribution infrastructure under service concession arrangements with U.S. military installations. The initial contribution of privatization operations closed in March 2022 for total consideration of $120 million (comprising $60 million in cash and a 50% noncontrolling ownership interest valued at $60 million), resulting in a pre-tax gain of $23 million.",
+      "source_quote": "In February 2022 , Dominion Energy entered into an agreement to form Dominion Privatization, a partnership with Patriot. ... The initial contribution, consisting of privatization operations in South Carolina, Texas and Pennsylvania, closed in March 2022 for total consideration of $ 120 million, subject to customary closing adjustments, comprised of $ 60 million in cash proceeds and a 50 % noncontrolling ownership interest in Dominion Privatization with an initial fair value of $ 60 million ... In the first quarter of 2022 , Dominion Energy recorded a gain of $ 23 million ($ 16 million after-tax), presented in losses (gains) on sales of assets in its Consolidated Statements of Income.",
+      "section": "Note 10. Investments"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In March 2022, Dominion Energy completed the sale of its remaining 15% noncontrolling partnership interest in Wrangler to Interstate Gas Supply, Inc. for cash consideration of $85 million, recognizing a pre-tax gain of $11 million.",
+      "source_quote": "In March 2022, Dominion Energy sold its remaining 15 % noncontrolling partnership interest in Wrangler to Interstate Gas Supply, Inc. for cash consideration of $ 85 million. Dominion Energy recognized a gain of $ 11 million ($ 8 million after-tax), included in other income (expense), in its Consolidated Statements of Income for the six months ended June 30, 2022.",
+      "section": "Note 10. Investments"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In June 2022, Dominion Energy completed the sale of certain utility property in South Carolina for total cash consideration of $16 million, recognizing a pre-tax gain of $16 million.",
+      "source_quote": "In June 2022, Dominion Energy completed the sale of certain utility property in South Carolina, as approved by the South Carolina Commission in May 2022, for total cash consideration of $ 16 million. In connection with the sale, Dominion Energy recognized a gain of $ 16 million ($ 12 million after-tax), recorded in losses (gains) on sales of assets, in its Consolidated Statements of Income for the three and six months ended June 30, 2022.",
+      "section": "Note 11. Property, Plant and Equipment"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "In March 2022, Dominion Energy entered into an agreement to acquire the 200 MW Atlanta Farms solar project in Ohio for an estimated project cost of $390 million. The transaction closed in May 2022.",
+      "source_quote": "Atlanta Farms [Project Name] ... March 2022 [Date Agreement Entered] ... May 2022 [Date Agreement Closed] ... Ohio [Project Location] ... $ 390 [Project Cost in millions] ... 200 [MW Capacity]",
+      "section": "Note 11. Property, Plant and Equipment"
+    },
+    {
+      "event_type": "litigation",
+      "description": "In July 2022, Virginia Power, the Virginia Commission staff, and another party filed a comprehensive settlement agreement with the Virginia Commission resolving its May 2022 annual fuel factor filing (which sought to recover $2.3 billion in projected fuel expense and a $1.0 billion under-recovered balance). The agreement provides for recovery over a three-year period beginning July 1, 2022, and requires Virginia Power to exclude half of related financing costs, resulting in a pre-tax charge of $191 million ($142 million after-tax) recorded in Q2 2022.",
+      "source_quote": "In May 2022, Virginia Power filed its annual fuel factor filing with the Virginia Commission to recover an estimated $ 2.3 billion in Virginia jurisdictional projected fuel expense for the rate year beginning July 1, 2022 and a projected $ 1.0 billion under-recovered balance as of June 30, 2022. ... In July 2022, Virginia Power, the Virginia Commission staff and another party filed a comprehensive settlement agreement ... the proposed settlement agreement ... provided for the collection of the requested under-recovered projected fuel expense over a three-year period beginning July 1, 2022 and that Virginia Power will exclude from recovery through base rates one half of the related financing costs over the three-year period. ... As a result, Virginia Power recorded a $ 191 million ($ 142 million after-tax) charge in the second quarter of 2022 within impairment of assets and other charges in its Consolidated Statement of Income.",
+      "section": "Note 13. Regulatory Matters"
+    },
+    {
+      "event_type": "litigation",
+      "description": "In June 2022, the Virginia Commission approved Virginia Power's May 2022 petition requesting a suspension of Rider RGGI, authorizing compliance costs to be recovered through existing base rates. Consequently, Virginia Power recorded a pre-tax charge of $180 million ($134 million after-tax) in Q2 2022 for the amount deemed recovered through base rates.",
+      "source_quote": "In May 2022, Virginia Power filed a petition with the Virginia Commission requesting a suspension of Rider RGGI approved in August 2021. ... The Virginia Commission approved the request in June 2022.  In the second quarter of 2022, Virginia Power recorded a charge of $ 180 million ($ 134 million after-tax) in impairment of assets and other charges for the amount deemed recovered through base rates through June 30, 2022...",
+      "section": "Note 13. Regulatory Matters"
+    },
+    {
+      "event_type": "litigation",
+      "description": "In June 2022, the State Court of Common Pleas in Richland County, South Carolina granted final approval of the $63 million settlement agreement resolving both the Federal Court Merger Case and the State Court Merger Case. Dominion Energy satisfied its obligations by utilizing $33 million of insurance proceeds, issuing 0.4 million shares of common stock valued at $30 million, and paying $2 million in cash.",
+      "source_quote": "In June 2022, the State Court of Common Pleas in Richland County, South Carolina issued final approval of the settlement agreement.  Also in June 2022, Dominion Energy utilized the $ 33 million of insurance proceeds from the State Court Derivative Case settlement, the issuance of 0.4 million shares of its common stock and paid $ 2 million in cash to satisfy its obligations under the settlement agreement.",
+      "section": "Note 17. Commitments and Contingencies"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In June 2022, Dominion Energy settled the stock purchase contract component of its 2019 Equity Units, issuing 19.4 million shares of common stock and receiving proceeds of $1.6 billion.",
+      "source_quote": "In June 2022, Dominion Energy issued 19.4 million shares to settle the stock purchase contract component of the 2019 Equity Units and received proceeds of $ 1.6 billion.",
+      "section": "Note 16. Significant Financing Transactions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In May 2022, Dominion Energy borrowed $900 million under its Sustainability Revolving Credit Facility, which bears a variable interest rate and matures in 2024, allocating the proceeds to support environmental sustainability and social investment initiatives ($450 million) and general corporate purposes ($450 million). The $450 million general corporate portion was subsequently repaid in June 2022.",
+      "source_quote": "In May 2022, Dominion Energy borrowed $ 900 million under its Sustainability Revolving Credit Facility which matures in 2024 and bears interest at a variable rate. The proceeds from these borrowings were used to support environmental sustainability and social investment initiatives ($ 450 million) and for general corporate purposes ($ 450 million). In June 2022, Dominion Energy repaid $ 450 million borrowed for general corporate purposes.",
+      "section": "Note 16. Significant Financing Transactions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In May 2022, Dominion Energy entered into an agreement to post a short-term deposit of $2.0 billion as collateral with a financial institution to secure its redemption obligation of the Series A Preferred Stock, which was subsequently called in July 2022 for redemption in September 2022.",
+      "source_quote": "In May 2022, Dominion Energy entered into an agreement with a financial institution and committed to make a short-term deposit of at least $ 1.6 billion but not more than $ 2.0 billion to be posted as collateral to secure its $ 1.6 billion redemption obligation of the Series A Preferred Stock ... In May 2022, Dominion Energy funded the short-term deposit in the amount of $ 2.0 billion ... In July 2022, Dominion Energy called all outstanding shares of Series A Preferred Stock for redemption in September 2022.",
+      "section": "Note 10. Investments / Note 16. Significant Financing Transactions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In January 2022, Virginia Power issued a total of $1.0 billion in senior notes, consisting of $600 million of 2.40% senior notes due 2032 and $400 million of 2.95% senior notes due 2051.",
+      "source_quote": "In January 2022, Virginia Power issued $ 600 million of 2.40 % senior notes and $ 400 million of 2.95 % senior notes that mature in 2032 and 2051 , respectively.",
+      "section": "Note 16. Significant Financing Transactions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In May 2022, Virginia Power issued a total of $1.2 billion in senior notes, consisting of $600 million of 3.75% senior notes due 2027 and $600 million of 4.625% senior notes due 2052.",
+      "source_quote": "In May 2022, Virginia Power issued $ 600 million of 3.75 % senior notes and $ 600 million of 4.625 % senior notes that mature in 2027 and 2052 , respectively.",
+      "section": "Note 16. Significant Financing Transactions"
+    }
+  ]
+}

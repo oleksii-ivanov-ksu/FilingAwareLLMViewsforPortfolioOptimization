@@ -1,0 +1,50 @@
+{
+  "index": 83,
+  "id": "SYK_10-Q_2021",
+  "ticker": "SYK",
+  "form": "10-Q",
+  "year": 2021,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of Wright Medical Group N.V. (Wright) for $30.75 per share, or an aggregate purchase price of $4.1 billion ($5.6 billion including convertible notes). Wright is part of the Trauma and Extremities business within Orthopaedics.",
+      "source_quote": "In November 2020 we completed the acquisition of Wright Medical Group N.V. (Wright) for $ 30.75 per share, or an aggregate purchase price of $ 4.1 billion ($ 5.6 billion including convertible notes).",
+      "section": "Note 7 - Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of OrthoSensor, Inc. (OrthoSensor), a leader in the digital evolution of musculoskeletal care and sensor technology for total joint replacement, which became part of the Joint Replacement business within Orthopaedics.",
+      "source_quote": "In December 2020 we completed the acquisition of OrthoSensor, Inc. (OrthoSensor).",
+      "section": "Note 7 - Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed various other acquisitions in the first six months of 2021 for an aggregate purchase price of $108 million, net of cash acquired.",
+      "source_quote": "The aggregate purchase price of our acquisitions, net of cash acquired was $ 108 and $ 26 in the six months 2021 and 2020.",
+      "section": "Note 7 - Acquisitions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid/retired the 2.625% Senior Unsecured Notes which matured on March 15, 2021, and had an outstanding principal balance of $750 million as of December 31, 2020.",
+      "source_quote": "Senior unsecured notes: 2.625 % March 15, 2021 $ — [June 2021] $ 750 [December 2020]",
+      "section": "Note 8 - Debt and Credit Facilities"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared cash dividends of $0.63 per share of common stock for the three months ended June 30, 2021 and $1.26 per share for the six months ended June 30, 2021.",
+      "source_quote": "Cash dividends declared per share of common stock $ 0.63 [Three Months 2021] ... $ 1.26 [Six Months 2021]",
+      "section": "Consolidated Statements of Earnings"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued 3,231 shares of common stock as performance incentive awards to employees during the three months ended June 30, 2021.",
+      "source_quote": "We issued 3,231 shares of our common stock in the three months 2021 as performance incentive awards to employees.",
+      "section": "Part II - Item 2 / Other Information"
+    }
+  ]
+}

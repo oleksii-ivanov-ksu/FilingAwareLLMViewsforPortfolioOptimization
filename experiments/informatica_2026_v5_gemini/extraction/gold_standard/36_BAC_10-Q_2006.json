@@ -1,0 +1,92 @@
+{
+  "index": 36,
+  "id": "BAC_10-Q_2006",
+  "ticker": "BAC",
+  "form": "10-Q",
+  "year": 2006,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 13,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "completed acquisition of 100 percent of the outstanding stock of MBNA Corporation for $34.6 billion, comprising 631 million shares of BAC common stock and $5.2 billion in cash",
+      "source_quote": "The Corporation acquired 100 percent of the outstanding stock of MBNA Corporation (MBNA) on January 1, 2006, for $34.6 billion. In connection therewith 1,260 million shares of MBNA common stock were exchanged for 631 million shares of the Corporation’s common stock. ... MBNA shareholders also received cash of $5.2 billion.",
+      "section": "Note 2—MBNA Merger and Restructuring Activity / MBNA Merger Overview"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "completed the sale of Brazilian operations to Banco Itau Holding Financeira S.A. for approximately $1.9 billion in equity, resulting in a $720 million pre-tax gain",
+      "source_quote": "On September 1, 2006, the Corporation completed the sale of its Brazilian operations for approximately $1.9 billion in equity of Banco Itau Holding Financeira S.A. ... The sale resulted in a $720 million gain (pre-tax) that was recorded in Other Income.",
+      "section": "Note 1—Summary of Significant Accounting Principles / Recent Events"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "entered into a definitive agreement to sell Bank of America (Asia) Ltd. (retail and commercial banking franchise in Hong Kong) to China Construction Bank (CCB) for approximately $1.25 billion",
+      "source_quote": "In August 2006, we entered into an agreement with CCB to sell Bank of America (Asia) Ltd., our retail and commercial banking franchise in Hong Kong, for total consideration of approximately $1.25 billion.",
+      "section": "Recent Events / ALM/Other"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "announced a definitive agreement to sell retail and commercial banking operations in Chile and Uruguay to Banco Itau for approximately $615 million in stock and other consideration",
+      "source_quote": "Also during August, 2006, we announced a definitive agreement to sell our operations in Chile and Uruguay for stock in Banco Itau and other consideration for approximately $615 million.",
+      "section": "ALM/Other"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "established a liability of $468 million for MBNA exit and termination costs in purchase accounting, including $409 million for employee expenses and $59 million for contract terminations",
+      "source_quote": "On January 1, 2006, liabilities of $468 million for MBNA’s exit and termination costs were recorded as purchase accounting adjustments ... Included in the $468 million were $409 million for severance, relocation and other employee-related expenses and $59 million for contract terminations.",
+      "section": "Note 2—MBNA Merger and Restructuring Activity"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "incurred $269 million in Q3 2006 and $561 million in the first nine months of 2006 in merger and restructuring charges related to the integration of MBNA",
+      "source_quote": "Merger and Restructuring Charges are recorded in the Consolidated Statement of Income, and include incremental costs to integrate the operations of the Corporation and MBNA. ... Total merger and restructuring charges [for the nine months ended September 30, 2006] $561 [million].",
+      "section": "Note 2—MBNA Merger and Restructuring Activity"
+    },
+    {
+      "event_type": "litigation",
+      "description": "entered into settlement agreements in the Adelphia litigation with Los Angeles County Employees Retirement Association and The Division of Investment of the New Jersey Department of the Treasury",
+      "source_quote": "On September 26, 2006, the defendant banks, including Banc of America Securities LLC (BAS), entered into a settlement agreement with the Los Angeles County Employees Retirement Association. On September 29, 2006, the defendant banks, including BAS and Bank of America, N.A., entered into a settlement agreement with The Division of Investment of the New Jersey Department of the Treasury.",
+      "section": "Note 10—Commitments and Contingencies / Litigation and Regulatory Matters"
+    },
+    {
+      "event_type": "litigation",
+      "description": "court dismissed plaintiff's amended claims regarding the 'anti-backloading' rule and breach of fiduciary duty in Donna C. Richards v. FleetBoston Financial Pension Plan, followed by a plaintiff motion to add a lump-sum calculation claim",
+      "source_quote": "In Donna C. Richards v. FleetBoston Financial Pension Plan, et al., on July 26, 2006, the court dismissed plaintiff’s amended claims alleging violation of ERISA’s “anti-backloading” rule and an allegation of breach of fiduciary duty. ... On October 6, 2006, plaintiff filed a motion for leave to file a second amended complaint adding a new claim alleging that the Fleet Pension Plan violated ERISA in calculating lump-sum distributions.",
+      "section": "Note 10—Commitments and Contingencies / Pension Plan Matters"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "issued 33,000 shares of 6.204% Non-Cumulative Preferred Stock, Series D, raising $825 million in capital",
+      "source_quote": "In September 2006, the Corporation authorized 34,500 shares and issued 33,000 shares, or $825 million, of Bank of America Corporation 6.204% Non-Cumulative Preferred Stock, Series D",
+      "section": "Note 11—Shareholders’ Equity and Earnings Per Common Share / Recent Events"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "issued 74,000 shares of Floating Rate Non-Cumulative Preferred Stock, Series E, raising $1.9 billion in capital",
+      "source_quote": "In November 2006, the Corporation issued 74,000 shares of Bank of America Corporation Floating Rate Non-Cumulative Preferred Stock, Series E with a par value of $0.01 per share for $1.9 billion.",
+      "section": "Recent Events / Shareholders’ Equity and Earnings Per Common Share"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "redeemed all outstanding shares of 6.75% Perpetual Preferred Stock for $96 million and Fixed/Adjustable Rate Cumulative Preferred Stock for $175 million",
+      "source_quote": "In July 2006, the Corporation redeemed its 700,000 shares, or $175 million, of Fixed/Adjustable Rate Cumulative Preferred Stock and redeemed its 382,450 shares, or $96 million, of 6.75% Perpetual Preferred Stock. Both classes were redeemed at their stated value of $250 per share, plus accrued and unpaid dividends.",
+      "section": "Recent Events / Note 11—Shareholders’ Equity and Earnings Per Common Share"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "increased the quarterly cash dividend on common stock by 12 percent from $0.50 to $0.56 per share",
+      "source_quote": "In July 2006, the Board increased the quarterly cash dividend on common stock 12 percent from $0.50 to $0.56 per share.",
+      "section": "Note 11—Shareholders’ Equity and Earnings Per Common Share / Recent Events"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board authorized a stock repurchase program of up to 200 million shares of the Corporation's common stock at an aggregate cost not to exceed $12.0 billion over 18 months",
+      "source_quote": "On April 26, 2006, the Board authorized an additional stock repurchase program of up to 200 million shares of the Corporation’s common stock at an aggregate cost not to exceed $12.0 billion and to be completed within a period of 18 months.",
+      "section": "Note 11—Shareholders’ Equity and Earnings Per Common Share"
+    }
+  ]
+}

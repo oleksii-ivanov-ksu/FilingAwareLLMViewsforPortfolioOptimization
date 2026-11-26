@@ -1,0 +1,282 @@
+{
+  "core": {
+    "days": 4969,
+    "start": "2006-04-03",
+    "end": "2025-12-31",
+    "reproduction_max_abs_error": {
+      "real": 5.967448757360216e-16,
+      "equal_weight": 1.0408340855860843e-16,
+      "new_arm_shared_engine": 4.163336342344337e-17
+    },
+    "fallbacks": [
+      {
+        "date": "2006-03-31",
+        "reason": "Not enough observations: 45 (need \u226560)"
+      }
+    ],
+    "controls": {
+      "full_shuffle": {
+        "median_sharpe": 0.6174098164327981,
+        "seed_percentiles_2_5_97_5": [
+          0.5250892774394104,
+          0.6855430403153409
+        ],
+        "real_sharpe": 0.6348786961325011,
+        "seeds_ge_real": 34,
+        "conditional_rank_exceedance": 0.3465346534653465
+      },
+      "eligible_shuffle": {
+        "median_sharpe": 0.630515468966242,
+        "seed_percentiles_2_5_97_5": [
+          0.6060489103757944,
+          0.6480053123809657
+        ],
+        "real_sharpe": 0.6348786961325011,
+        "seeds_ge_real": 35,
+        "conditional_rank_exceedance": 0.3564356435643564
+      }
+    },
+    "paired_sharpe_intervals": {
+      "5": {
+        "prior_only": {
+          "difference": 0.03449676053723583,
+          "ci95": [
+            -0.049729633424153104,
+            0.11681811504762545
+          ]
+        },
+        "equal_weight": {
+          "difference": 0.07013080484900536,
+          "ci95": [
+            -0.039061988670198895,
+            0.17588545468244093
+          ]
+        },
+        "full_shuffle_mean_series": {
+          "difference": 0.010688509485938469,
+          "ci95": [
+            -0.05944695100697367,
+            0.07962858593856718
+          ]
+        },
+        "eligible_shuffle_mean_series": {
+          "difference": 0.003553054040066006,
+          "ci95": [
+            -0.018797388638476995,
+            0.025897450749397154
+          ]
+        }
+      },
+      "21": {
+        "prior_only": {
+          "difference": 0.03449676053723583,
+          "ci95": [
+            -0.04702546819604219,
+            0.11324994708836526
+          ]
+        },
+        "equal_weight": {
+          "difference": 0.07013080484900536,
+          "ci95": [
+            -0.041832287694943855,
+            0.17095245785545896
+          ]
+        },
+        "full_shuffle_mean_series": {
+          "difference": 0.010688509485938469,
+          "ci95": [
+            -0.06116673196797498,
+            0.07666059269646627
+          ]
+        },
+        "eligible_shuffle_mean_series": {
+          "difference": 0.003553054040066006,
+          "ci95": [
+            -0.019007253231471323,
+            0.026935751909252185
+          ]
+        }
+      },
+      "63": {
+        "prior_only": {
+          "difference": 0.03449676053723583,
+          "ci95": [
+            -0.057754717061914075,
+            0.1174934532890882
+          ]
+        },
+        "equal_weight": {
+          "difference": 0.07013080484900536,
+          "ci95": [
+            -0.03838285039095639,
+            0.16526466502954518
+          ]
+        },
+        "full_shuffle_mean_series": {
+          "difference": 0.010688509485938469,
+          "ci95": [
+            -0.061651330574702116,
+            0.07480655781662053
+          ]
+        },
+        "eligible_shuffle_mean_series": {
+          "difference": 0.003553054040066006,
+          "ci95": [
+            -0.018659388822466712,
+            0.02590049486695341
+          ]
+        }
+      }
+    }
+  },
+  "holdout": {
+    "days": 4701,
+    "start": "2007-04-27",
+    "end": "2025-12-31",
+    "reproduction_max_abs_error": {
+      "real": 2.970713952610282e-16,
+      "equal_weight": 1.0408340855860843e-16,
+      "new_arm_shared_engine": 4.163336342344337e-17
+    },
+    "fallbacks": [
+      {
+        "date": "2006-03-31",
+        "reason": "Not enough observations: 0 (need \u226560)"
+      },
+      {
+        "date": "2006-06-30",
+        "reason": "Not enough observations: 0 (need \u226560)"
+      },
+      {
+        "date": "2006-09-29",
+        "reason": "Not enough observations: 0 (need \u226560)"
+      },
+      {
+        "date": "2006-12-29",
+        "reason": "Not enough observations: 0 (need \u226560)"
+      },
+      {
+        "date": "2007-03-30",
+        "reason": "Not enough observations: 0 (need \u226560)"
+      },
+      {
+        "date": "2007-06-29",
+        "reason": "Not enough observations: 45 (need \u226560)"
+      }
+    ],
+    "controls": {
+      "full_shuffle": {
+        "median_sharpe": 0.48597200313318767,
+        "seed_percentiles_2_5_97_5": [
+          0.438940034098691,
+          0.5603401391342478
+        ],
+        "real_sharpe": 0.546926851393598,
+        "seeds_ge_real": 7,
+        "conditional_rank_exceedance": 0.07920792079207921
+      },
+      "eligible_shuffle": {
+        "median_sharpe": 0.5405747982920895,
+        "seed_percentiles_2_5_97_5": [
+          0.5204991379953829,
+          0.5598459867687591
+        ],
+        "real_sharpe": 0.546926851393598,
+        "seeds_ge_real": 29,
+        "conditional_rank_exceedance": 0.297029702970297
+      }
+    },
+    "paired_sharpe_intervals": {
+      "5": {
+        "prior_only": {
+          "difference": 0.03213832553244822,
+          "ci95": [
+            -0.041606998409883196,
+            0.10632531979303271
+          ]
+        },
+        "equal_weight": {
+          "difference": 0.05104826254047684,
+          "ci95": [
+            -0.04559328746132654,
+            0.14473945580013461
+          ]
+        },
+        "full_shuffle_mean_series": {
+          "difference": 0.05097682021691746,
+          "ci95": [
+            -0.013577297412528964,
+            0.11494161736337888
+          ]
+        },
+        "eligible_shuffle_mean_series": {
+          "difference": 0.005076443783239237,
+          "ci95": [
+            -0.021252975361433685,
+            0.0314047970731262
+          ]
+        }
+      },
+      "21": {
+        "prior_only": {
+          "difference": 0.03213832553244822,
+          "ci95": [
+            -0.043857768789497105,
+            0.1058787308435003
+          ]
+        },
+        "equal_weight": {
+          "difference": 0.05104826254047684,
+          "ci95": [
+            -0.04411741383635925,
+            0.14420445146455463
+          ]
+        },
+        "full_shuffle_mean_series": {
+          "difference": 0.05097682021691746,
+          "ci95": [
+            -0.013915097361352373,
+            0.11485412670184084
+          ]
+        },
+        "eligible_shuffle_mean_series": {
+          "difference": 0.005076443783239237,
+          "ci95": [
+            -0.02205554700065506,
+            0.03361104129998682
+          ]
+        }
+      },
+      "63": {
+        "prior_only": {
+          "difference": 0.03213832553244822,
+          "ci95": [
+            -0.036985474172030505,
+            0.10409586698790632
+          ]
+        },
+        "equal_weight": {
+          "difference": 0.05104826254047684,
+          "ci95": [
+            -0.03707751353947929,
+            0.1346238876280288
+          ]
+        },
+        "full_shuffle_mean_series": {
+          "difference": 0.05097682021691746,
+          "ci95": [
+            -0.007183907364658908,
+            0.10925460342277779
+          ]
+        },
+        "eligible_shuffle_mean_series": {
+          "difference": 0.005076443783239237,
+          "ci95": [
+            -0.021637959802258067,
+            0.03344134563804473
+          ]
+        }
+      }
+    }
+  }
+}

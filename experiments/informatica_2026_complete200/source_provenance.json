@@ -1,0 +1,24 @@
+{
+  "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418025000111/mo-20250630.htm",
+  "accession": "0000764180-25-000111",
+  "ticker": "MO",
+  "filing_date": "2025-07-30",
+  "period_end": "2025-06-30",
+  "prepared_utc": "2026-11-23T18:19:03.019698+00:00",
+  "published_prompt_commit": "bbc4bcbb0dfe59d9f0e6be7135349c5c07bbfa6b",
+  "repair_extraction_model": "x-ai/grok-4.3",
+  "historical_extraction_model": "x-ai/grok-4.1-fast",
+  "historical_model_absent_from_current_public_catalog": true,
+  "source_bytes": 2339482,
+  "section_characters": {
+    "risk_factors": 80000,
+    "mda": 80000,
+    "liquidity": 79999
+  },
+  "estimated_input_tokens": 54317,
+  "maximum_output_tokens": 8000,
+  "paid_calls_made": 0,
+  "status": "source recovered; extraction request ready; awaiting new budget authorization",
+  "frozen_files_modified": false,
+  "estimated_extraction_upper_cost_usd": 0.08839625000000001
+}

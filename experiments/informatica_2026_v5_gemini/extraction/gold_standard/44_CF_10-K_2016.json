@@ -1,0 +1,86 @@
+{
+  "index": 44,
+  "id": "CF_10-K_2016",
+  "ticker": "CF",
+  "form": "10-K",
+  "year": 2016,
+  "sector": "Materials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 12,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of the remaining 50% equity interest in CF Fertilisers UK Group Limited (formerly GrowHow UK Group Limited) on July 31, 2015, for total consideration of $570.4 million, making it a wholly-owned subsidiary.",
+      "source_quote": "On July 31, 2015, we acquired the remaining 50% equity interest in CF Fertilisers UK Group Limited (formerly known as GrowHow UK Group Limited) ( CF Fertilisers UK ) not previously owned by us for total consideration of $570.4 million , and CF Fertilisers UK became a wholly-owned subsidiary.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of the phosphate mining and manufacturing business located in Florida to The Mosaic Company on March 17, 2014, for approximately $1.4 billion in cash, recognizing a pre-tax gain of $750.1 million.",
+      "source_quote": "On March 17, 2014, we completed the sale of our phosphate mining and manufacturing business, which was located in Florida, to The Mosaic Company (Mosaic) for approximately $1.4 billion in cash. ... In 2014, we recognized pre-tax and after-tax gains on the sale of the phosphate business of $750.1 million and $462.8 million, respectively.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Subsequent event: Commenced a strategic venture with CHS Inc. on February 1, 2016, in which CHS purchased a minority equity interest in CF Industries Nitrogen, LLC (CFN) for $2.8 billion in cash.",
+      "source_quote": "On August 12, 2015, we announced that we agreed to enter into a strategic venture with CHS Inc. (CHS). The strategic venture commenced on February 1, 2016, at which time CHS purchased a minority equity interest in CF Industries Nitrogen, LLC (CFN), a subsidiary of CF Holdings, for $2.8 billion .",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared and executed a five-for-one common stock split in the form of a stock dividend distributed on June 17, 2015, to stockholders of record as of June 1, 2015.",
+      "source_quote": "On May 15, 2015, we announced that our Board of Directors declared a five-for-one split of our common stock to be effected in the form of a stock dividend. On June 17, 2015, stockholders of record as of the close of business on June 1, 2015 (Record Date) received four additional shares of common stock for each share of common stock held on the Record Date.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issuance of $1.0 billion aggregate principal amount of Private Senior Notes on September 24, 2015, comprising $250 million of 4.49% notes due 2022, $500 million of 4.93% notes due 2025, and $250 million of 5.03% notes due 2027.",
+      "source_quote": "On September 24, 2015, CF Industries issued in a private placement $250.0 million aggregate principal amount of 4.49% senior notes due October 15, 2022, $500.0 million aggregate principal amount of 4.93% senior notes due October 15, 2025 and $250.0 million aggregate principal amount of 5.03% senior notes due October 15, 2027 (the Private Senior Notes).",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issuance of $1.5 billion aggregate principal amount of Public Senior Notes on March 11, 2014, consisting of $750 million of 5.150% notes due 2034 and $750 million of 5.375% notes due 2044.",
+      "source_quote": "On March 11, 2014 , CF Industries issued $750 million aggregate principal amount of 5.150% senior notes due March 15, 2034 and $750 million aggregate principal amount of 5.375% senior notes due March 15, 2044...",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of all outstanding noncontrolling interests in Canadian Fertilizers Limited (CFL) in April 2013 for approximately C$0.9 billion, making CFL a wholly-owned subsidiary.",
+      "source_quote": "In April 2013, we completed the acquisitions. ... CFL became a wholly-owned subsidiary.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognized a non-cash impairment charge of $61.9 million in the fourth quarter of 2015 to write down the carrying value of the equity method investment in Point Lisas Nitrogen Limited (PLNL).",
+      "source_quote": "In the fourth quarter of 2015, we determined the carrying value of our equity method investment in PLNL exceeded fair value and recognized an impairment of our equity method investment in PLNL of $61.9 million...",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorization of a $1.0 billion share repurchase program (the 2014 Program) on August 6, 2014, running through December 31, 2016, under which 8.9 million shares were repurchased for $527.2 million during 2015.",
+      "source_quote": "On August 6, 2014, our Board of Directors authorized a program to repurchase up to $1.0 billion of the common stock of CF Holdings through December 31, 2016 (the 2014 Program). ... In 2015, we repurchased 8.9 million shares for $527.2 million under the $1.0 billion share repurchase program...",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Entered into a Consent Order in 2014 with the Idaho Department of Environmental Quality (IDEQ) and the U.S. Forest Service to conduct a remedial investigation and feasibility study at a former phosphate mine site in Georgetown Canyon, Idaho.",
+      "source_quote": "In 2014, we and the current property owner entered into a Consent Order with IDEQ and the U.S. Forest Service to conduct a remedial investigation and feasibility study of the site.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "product",
+      "description": "Approved a plan in early 2015 to discontinue the use of the TerraCair brand in the sale of Diesel Exhaust Fluid (DEF), resulting in full amortization of related intangible assets during the first quarter of 2015.",
+      "source_quote": "In early 2015, management approved a plan to discontinue the use of the TerraCair brand in the sale of DEF. Based on the discontinuation of the use of this brand, the related intangible assets were fully amortized during the first quarter of 2015.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "product",
+      "description": "Launch and commissioning of the new urea plant at the Donaldsonville, Louisiana complex in November 2015, marking the first completed plant of the North American capacity expansion projects.",
+      "source_quote": "In November 2015, the new urea plant at the Donaldsonville, Louisiana complex came on line and was the first plant to be commissioned as part of our capacity expansion projects.",
+      "section": "Notes to Consolidated Financial Statements"
+    }
+  ]
+}

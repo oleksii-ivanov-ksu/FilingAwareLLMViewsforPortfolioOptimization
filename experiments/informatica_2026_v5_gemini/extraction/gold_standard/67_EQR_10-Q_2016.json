@@ -1,0 +1,74 @@
+{
+  "index": 67,
+  "id": "EQR_10-Q_2016",
+  "ticker": "EQR",
+  "form": "10-Q",
+  "year": 2016,
+  "sector": "Real Estate",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of the entire equity interest in three consolidated rental properties consisting of 479 apartment units from unaffiliated parties for an aggregate purchase price of $204.134 million ($204,134 thousand), with $80.9 million allocated to land and $123.2 million to depreciable property, completed during the quarter ended March 31, 2016 to protect the tax status of certain third parties from the Starwood transaction.",
+      "source_quote": "During the quarter ended March 31, 2016, the Company acquired the entire equity interest in the following from unaffiliated parties (purchase price in thousands): Rental Properties – Consolidated (1): 3 properties, 479 apartment units, purchase price $204,134... (1) Purchase price includes an allocation of approximately $80.9 million to land and $123.2 million to depreciable property... The Company acquired these properties in order to protect the tax status of certain unaffiliated third parties arising from the Starwood Transaction.",
+      "section": "Note 4. Real Estate, Real Estate Held for Sale and Lease Intangibles - Acquisitions and Dispositions / Starwood Disposition"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Disposal of 80 consolidated rental properties consisting of 26,162 apartment units to unaffiliated parties for an aggregate sales price of $6.315 billion ($6,314,953 thousand), recognizing a net gain on sales of real estate properties of approximately $3.7 billion during the quarter ended March 31, 2016.",
+      "source_quote": "During the quarter ended March 31, 2016, the Company disposed of the following to unaffiliated parties (sales price in thousands): Rental Properties – Consolidated (1): 80 properties, 26,162 apartment units, sales price $6,314,953... The Company recognized a net gain on sales of real estate properties of approximately $3.7 billion... on the above sales.",
+      "section": "Note 4. Real Estate, Real Estate Held for Sale and Lease Intangibles - Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the Starwood Transaction on January 26 and 27, 2016, disposing of a portfolio of 72 operating properties consisting of 23,262 apartment units located in five markets across the United States to controlled affiliates of Starwood Capital Group for $5.365 billion.",
+      "source_quote": "Following the approval by the Company's Board of Trustees, the Company executed an agreement with controlled affiliates of Starwood Capital Group (\"Starwood\") on October 23, 2015 to sell a portfolio of 72 operating properties consisting of 23,262 apartment units located in five markets across the United States for $5.365 billion (the \"Starwood Transaction\").... On January 26 and 27, 2016, the Company closed on the sale of the entire portfolio described above.",
+      "section": "Note 4. Real Estate, Real Estate Held for Sale and Lease Intangibles - Starwood Disposition"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Disposal of two land parcels to unaffiliated parties for $27.455 million ($27,455 thousand), recognizing a net gain on sales of land parcels of approximately $11.7 million during the quarter ended March 31, 2016.",
+      "source_quote": "During the quarter ended March 31, 2016, the Company disposed of the following to unaffiliated parties (sales price in thousands): ... Land Parcels: --, sales price $27,455... The Company recognized ... a net gain on sales of land parcels of approximately $11.7 million on the above sales.",
+      "section": "Note 4. Real Estate, Real Estate Held for Sale and Lease Intangibles - Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sold interest in the management contracts and related rights associated with the military housing ventures at Joint Base Lewis McChord, effective April 1, 2016.",
+      "source_quote": "The Company sold its interest in the management contracts and related rights associated with the military housing ventures at Joint Base Lewis McChord effective April 1, 2016.",
+      "section": "Note 4. Real Estate, Real Estate Held for Sale and Lease Intangibles - Portfolio Summary (Footnote C)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Paid a special cash dividend of $8.00 per share/unit (totaling approximately $3.0 billion) on March 10, 2016 to shareholders and holders of OP Units of record as of March 3, 2016, utilizing proceeds from the Starwood Transaction and other sales.",
+      "source_quote": "The Company used proceeds from the Starwood Transaction and other sales discussed above to pay a special dividend of $8.00 per share/unit (approximately $3.0 billion) on March 10, 2016 to shareholders and holders of OP Units of record as of March 3, 2016.",
+      "section": "Note 4. Real Estate, Real Estate Held for Sale and Lease Intangibles - Starwood Disposition"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid $440.8 million of 6.256% mortgage debt held in a Fannie Mae loan pool maturing in 2017, incurring a prepayment penalty of approximately $29.3 million during the quarter ended March 31, 2016.",
+      "source_quote": "During the quarter ended March 31, 2016, the Company: Repaid $440.8 million of 6.256% mortgage debt held in a Fannie Mae loan pool maturing in 2017 and incurred a prepayment penalty of approximately $29.3 million;",
+      "section": "Note 8. Debt - Mortgage Notes Payable"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid $41.8 million of various tax-exempt mortgage bonds maturing in 2026 through 2034, incurring a prepayment penalty of approximately $0.2 million during the quarter ended March 31, 2016.",
+      "source_quote": "During the quarter ended March 31, 2016, the Company: ... Repaid $41.8 million of various tax-exempt mortgage bonds maturing in 2026 through 2034 and incurred a prepayment penalty of approximately $0.2 million;",
+      "section": "Note 8. Debt - Mortgage Notes Payable"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Assumed $43.4 million of mortgage debt on one acquired rental property during the quarter ended March 31, 2016.",
+      "source_quote": "During the quarter ended March 31, 2016, the Company: ... assumed $43.4 million of mortgage debt on one acquired property.",
+      "section": "Note 8. Debt - Mortgage Notes Payable"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Ongoing housing discrimination lawsuit alleging design and construction of properties in violation of FHA and ADA accessibility requirements. On March 31, 2016, the Court issued a ruling finding that certain features at seven of the Company’s properties do not satisfy the accessibility requirements of the FHA, and finding that six of the properties do not belong in the case.",
+      "source_quote": "The Company is party to a housing discrimination lawsuit brought by a non-profit civil rights organization in April 2006 in the U.S. District Court for the District of Maryland. ... On March 31, 2016, the Court found that certain features at seven of the Company’s properties do not satisfy the accessibility requirements of the FHA. The Court also found that six of the Company's properties do not belong in the case based on date of design/construction or the fact that the Company did not participate in design/construction.",
+      "section": "Part II. Other Information - Item 1. Legal Proceedings"
+    }
+  ]
+}

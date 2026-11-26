@@ -1,0 +1,194 @@
+{
+  "core": {
+    "performance": {
+      "real_absolute": {
+        "cagr": 0.1567413487101137,
+        "volatility": 0.2518562609335568,
+        "sharpe": 0.6394060213805511,
+        "max_drawdown": -0.6223433789603848,
+        "annual_turnover": 2.0896061075504884,
+        "effective_holdings": 28.774864610072544
+      },
+      "prior_only": {
+        "cagr": 0.15439578425968858,
+        "volatility": 0.2646656239723182,
+        "sharpe": 0.6134082935181954,
+        "max_drawdown": -0.644557572188089,
+        "annual_turnover": 0.8941188772117403,
+        "effective_holdings": 30.966008034278552
+      },
+      "equal_weight": {
+        "cagr": 0.12190722299604206,
+        "volatility": 0.20653863275421858,
+        "sharpe": 0.5814336623967622,
+        "max_drawdown": -0.5254711599889721,
+        "annual_turnover": 0.3725655303090702,
+        "effective_holdings": 49.99999999999999
+      },
+      "rel_pos": {
+        "cagr": 0.15463541885496368,
+        "volatility": 0.26412851195213644,
+        "sharpe": 0.6149119034161766,
+        "max_drawdown": -0.6422610956564636,
+        "annual_turnover": 0.9507540225492052,
+        "effective_holdings": 31.081289690015016
+      },
+      "rel_all": {
+        "cagr": 0.14671335386522633,
+        "volatility": 0.26128013716838705,
+        "sharpe": 0.5924578760234204,
+        "max_drawdown": -0.640608953670065,
+        "annual_turnover": 1.290437493101908,
+        "effective_holdings": 31.12268247175275
+      }
+    },
+    "permutations": {
+      "eligible_shuffle": {
+        "median": 0.6107107413827102,
+        "p05": 0.6052782867427385,
+        "p95": 0.6161743144423505,
+        "runs_at_or_above_real": 11
+      },
+      "full_shuffle": {
+        "median": 0.6107595786034408,
+        "p05": 0.6040372654323255,
+        "p95": 0.6175885102227927,
+        "runs_at_or_above_real": 15
+      }
+    },
+    "differences": {
+      "rel_pos_minus_prior_only": {
+        "sharpe_difference": 0.0015036098979812618,
+        "ci95": [
+          -0.007281888285328515,
+          0.010712140200426934
+        ],
+        "mean_return_difference": 6.754524054069701e-05,
+        "p_raw": 0.954597222039531
+      },
+      "rel_pos_minus_equal_weight": {
+        "sharpe_difference": 0.033478241019414434,
+        "ci95": [
+          -0.0699338569175821,
+          0.12946259332775617
+        ],
+        "mean_return_difference": 0.042325747530048065,
+        "p_raw": 0.01202652329973825
+      },
+      "rel_all_minus_prior_only": {
+        "sharpe_difference": -0.020950417494774998,
+        "ci95": [
+          -0.05908275485465651,
+          0.018503924361228382
+        ],
+        "mean_return_difference": -0.007552203663977952,
+        "p_raw": 0.12375836556398259
+      },
+      "rel_pos_minus_rel_all": {
+        "sharpe_difference": 0.02245402739275626,
+        "ci95": [
+          -0.011855010485902314,
+          0.056131724266473344
+        ],
+        "mean_return_difference": 0.00761974890451865,
+        "p_raw": 0.07629881133222328
+      }
+    }
+  },
+  "holdout": {
+    "performance": {
+      "real_absolute": {
+        "cagr": 0.126644561700894,
+        "volatility": 0.25303804526344476,
+        "sharpe": 0.5410457810665463,
+        "max_drawdown": -0.635779468269882,
+        "annual_turnover": 2.1842853556145663,
+        "effective_holdings": 30.76561532388289
+      },
+      "prior_only": {
+        "cagr": 0.12836402896626664,
+        "volatility": 0.26404749980109066,
+        "sharpe": 0.535186451408368,
+        "max_drawdown": -0.6464541571794813,
+        "annual_turnover": 0.8090939898959079,
+        "effective_holdings": 32.72646272519803
+      },
+      "equal_weight": {
+        "cagr": 0.10660784041949145,
+        "volatility": 0.2082348000224227,
+        "sharpe": 0.5217399436016431,
+        "max_drawdown": -0.5658066953805181,
+        "annual_turnover": 0.3559486483959108,
+        "effective_holdings": 49.99999999999999
+      },
+      "rel_pos": {
+        "cagr": 0.12785600434467703,
+        "volatility": 0.2633492642441293,
+        "sharpe": 0.5342019512706672,
+        "max_drawdown": -0.6500035217469475,
+        "annual_turnover": 0.877562656941048,
+        "effective_holdings": 32.81679969694919
+      },
+      "rel_all": {
+        "cagr": 0.12374385464619442,
+        "volatility": 0.2596964105842991,
+        "sharpe": 0.5239861519436015,
+        "max_drawdown": -0.654041744844684,
+        "annual_turnover": 1.2781310347923311,
+        "effective_holdings": 32.88363126789197
+      }
+    },
+    "permutations": {
+      "eligible_shuffle": {
+        "median": 0.5328804284143926,
+        "p05": 0.5282532605160546,
+        "p95": 0.5393252229615307,
+        "runs_at_or_above_real": 40
+      },
+      "full_shuffle": {
+        "median": 0.5332977220482134,
+        "p05": 0.5276036007182947,
+        "p95": 0.5407985526773175,
+        "runs_at_or_above_real": 43
+      }
+    },
+    "differences": {
+      "rel_pos_minus_prior_only": {
+        "sharpe_difference": -0.0009845001377007945,
+        "ci95": [
+          -0.009372646592594187,
+          0.007922086421647588
+        ],
+        "mean_return_difference": -0.000633037133603345,
+        "p_raw": 0.5798657918095779
+      },
+      "rel_pos_minus_equal_weight": {
+        "sharpe_difference": 0.012462007669024056,
+        "ci95": [
+          -0.08052367098896533,
+          0.09989285549055842
+        ],
+        "mean_return_difference": 0.032036407261091505,
+        "p_raw": 0.04803316043866522
+      },
+      "rel_all_minus_prior_only": {
+        "sharpe_difference": -0.011200299464766417,
+        "ci95": [
+          -0.04465204953892476,
+          0.023417722208717132
+        ],
+        "mean_return_difference": -0.005237857476243676,
+        "p_raw": 0.24876332427436676
+      },
+      "rel_pos_minus_rel_all": {
+        "sharpe_difference": 0.010215799327065622,
+        "ci95": [
+          -0.019229906662372807,
+          0.03862344825353239
+        ],
+        "mean_return_difference": 0.004604820342640331,
+        "p_raw": 0.23113555906194572
+      }
+    }
+  }
+}

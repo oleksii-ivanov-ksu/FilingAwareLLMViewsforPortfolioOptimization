@@ -1,0 +1,146 @@
+{
+  "job": {
+    "name": "extraction",
+    "request": "extraction_request.json"
+  },
+  "request_sha256": "790b23c5ee42999c8f64f0520fbf8715abd93ce8c827cb5afeeac71e543e314f",
+  "reserved_max_cost": 0.08914625000000001,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.07098435,
+  "response": {
+    "id": "gen-1795458545-SuybuUbVnn7ED4oTC22M",
+    "object": "chat.completion",
+    "created": 1795458545,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"ticker\": \"MO\",\n  \"filing_date\": \"2025-07-30\",\n  \"filing_type\": \"10-Q\",\n  \"fiscal_period\": \"Six Months Ended June 30, 2025\",\n  \"risk_factors\": [\n    {\n      \"category\": \"regulatory\",\n      \"severity\": \"high\",\n      \"description\": \"FDA failure to effectively address illicit tobacco products including flavored disposable e-vapor and synthetic oral nicotine pouch products; insufficient enforcement actions against manufacturers, distributors and retailers of products requiring PMTA review have allowed such products to proliferate.\",\n      \"is_new\": false\n    },\n    {\n      \"category\": \"regulatory\",\n      \"severity\": \"high\",\n      \"description\": \"Potential product standards including maximum nicotine level in cigarettes and combustible products, bans on menthol in cigarettes and characterizing flavors in cigars, and NNN levels in smokeless tobacco; if finalized and upheld could have material adverse effect.\",\n      \"is_new\": false\n    },\n    {\n      \"category\": \"macroeconomic\",\n      \"severity\": \"high\",\n      \"description\": \"Discretionary income pressures on adult tobacco consumers due to inflation, high prices for essentials, tariffs introduced in April 2025 at historically high levels, and potential unemployment concerns creating likelihood of continued headwinds for discretionary spending.\",\n      \"is_new\": false\n    },\n    {\n      \"category\": \"legal\",\n      \"severity\": \"high\",\n      \"description\": \"Pending and threatened litigation, bonding requirements, tobacco and health litigation items, and ITC exclusion and cease-and-desist orders prohibiting importation and sale of NJOY ACE.\",\n      \"is_new\": false\n    },\n    {\n      \"category\": \"competition\",\n      \"severity\": \"high\",\n      \"description\": \"Highly competitive nature of all tobacco categories; growth of innovative tobacco products such as e-vapor and oral nicotine pouches; growth of products using nicotine analogues not subject to FDA regulatory framework.\",\n      \"is_new\": false\n    },\n    {\n      \"category\": \"supply_chain\",\n      \"severity\": \"medium\",\n      \"description\": \"Potential adverse changes in prices, availability and quality of tobacco, other raw materials and component parts due to macroeconomic, geopolitical, climate and environmental conditions, tariffs, and reduced demand for tobacco leaf.\",\n      \"is_new\": false\n    },\n    {\n      \"category\": \"market\",\n      \"severity\": \"high\",\n      \"description\": \"Reductions in consumption levels of cigarettes and MST products resulting in lower shipment volumes; changes in adult tobacco consumer purchase behavior influenced by illicit products, excise taxes and product price gap relationships.\",\n      \"is_new\": false\n    }\n  ],\n  \"risk_summary\": \"Primary risks center on FDA regulatory actions and enforcement failures regarding illicit products, macroeconomic pressures on consumers, litigation, and evolving competitive dynamics in smoke-free categories.\",\n  \"guidance\": {\n    \"direction\": \"cautious\",\n    \"statement\": \"Trends and developments have not had a material adverse impact on results of operations, cash flows or financial position or ability to achieve Vision; will continue to evaluate potential impacts as trends evolve.\",\n    \"revenue_outlook\": null,\n    \"earnings_outlook\": null\n  },\n  \"sentiment\": \"cautious\",\n  \"sentiment_rationale\": \"Management uses language such as 'continued headwinds', 'monitoring closely', 'potential material adverse effect', and notes significant non-cash impairments while highlighting that adjusted results improved.\",\n  \"key_events\": [\n    {\n      \"event_type\": \"litigation\",\n      \"description\": \"Recorded net pre-tax charges of $70 million (six months) and $16 million (three months) related to ITC exclusion order and cease-and-desist orders prohibiting importation and sale of NJOY ACE; net of insurance recoveries.\",\n      \"impact\": null\n    },\n    {\n      \"event_type\": \"restructuring\",\n      \"description\": \"Recorded non-cash goodwill impairment charge of $873 million to reduce carrying value of e-vapor reporting unit goodwill for three months ended March 31, 2025.\",\n      \"impact\": \"No income tax benefit as impairment is non-deductible for tax purposes.\"\n    }\n  ],\n  \"competitive_position\": \"We have a leading portfolio of tobacco products for U.S. tobacco consumers age 21+; PM USA is the most profitable U.S. cigarette manufacturer; USSTC is the leading global moist smokeless tobacco manufacturer; Helix is a leading manufacturer of oral nicotine pouches.\",\n  \"extraction_confidence\": \"high\"\n}",
+          "refusal": null,
+          "reasoning": "I am extracting qualitative information from Altria's 10-Q filing dated July 30, 2025.\n\nI am identifying the required JSON fields and extracting risk factors. Regulatory risks are prominent, including FDA oversight, FSPTCA, PMTA, illicit products, and product standards such as nicotine levels and flavors.\n\nAdditional risks include excise taxes, macroeconomic pressures, competition, litigation, supply chain issues, and government investigations. Severity is high. No new risk categories are present. The filing contains no specific numerical forward-looking guidance.\n\nThe MD&A tone is cautious. Adjusted net earnings improved, but the filing notes continued headwinds and monitoring of regulatory and market risks. No material adverse impact has been identified yet. Revenue and earnings outlooks are null.\n\nKey events include a $873 million goodwill impairment for the e-vapor reporting unit in Q1 2025. Prior events include Skoal trademark impairment in 2024, NJOY litigation and ITC orders, the ABI Transaction in 2024, and the IQOS rights assignment in 2024. Competitive position is strong, with PM USA as the most profitable cigarette manufacturer and USSTC leading the MST segment. Extraction confidence is high.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am extracting qualitative information from Altria's 10-Q filing dated July 30, 2025.\n\nI am identifying the required JSON fields and extracting risk factors. Regulatory risks are prominent, including FDA oversight, FSPTCA, PMTA, illicit products, and product standards such as nicotine levels and flavors.\n\nAdditional risks include excise taxes, macroeconomic pressures, competition, litigation, supply chain issues, and government investigations. Severity is high. No new risk categories are present. The filing contains no specific numerical forward-looking guidance.\n\nThe MD&A tone is cautious. Adjusted net earnings improved, but the filing notes continued headwinds and monitoring of regulatory and market risks. No material adverse impact has been identified yet. Revenue and earnings outlooks are null.\n\nKey events include a $873 million goodwill impairment for the e-vapor reporting unit in Q1 2025. Prior events include Skoal trademark impairment in 2024, NJOY litigation and ITC orders, the ABI Transaction in 2024, and the IQOS rights assignment in 2024. Competitive position is strong, with PM USA as the most profitable cigarette manufacturer and USSTC leading the MST segment. Extraction confidence is high.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_0594e05f-6c6d-4df8-b053-04ea0cc196d2",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 53651,
+      "completion_tokens": 1622,
+      "total_tokens": 55273,
+      "cost": 0.07098435,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 128,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.07098435,
+        "upstream_inference_prompt_cost": 0.06692935,
+        "upstream_inference_completions_cost": 0.004055
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 697,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "ticker": "MO",
+    "filing_date": "2025-07-30",
+    "filing_type": "10-Q",
+    "fiscal_period": "Six Months Ended June 30, 2025",
+    "risk_factors": [
+      {
+        "category": "regulatory",
+        "severity": "high",
+        "description": "FDA failure to effectively address illicit tobacco products including flavored disposable e-vapor and synthetic oral nicotine pouch products; insufficient enforcement actions against manufacturers, distributors and retailers of products requiring PMTA review have allowed such products to proliferate.",
+        "is_new": false
+      },
+      {
+        "category": "regulatory",
+        "severity": "high",
+        "description": "Potential product standards including maximum nicotine level in cigarettes and combustible products, bans on menthol in cigarettes and characterizing flavors in cigars, and NNN levels in smokeless tobacco; if finalized and upheld could have material adverse effect.",
+        "is_new": false
+      },
+      {
+        "category": "macroeconomic",
+        "severity": "high",
+        "description": "Discretionary income pressures on adult tobacco consumers due to inflation, high prices for essentials, tariffs introduced in April 2025 at historically high levels, and potential unemployment concerns creating likelihood of continued headwinds for discretionary spending.",
+        "is_new": false
+      },
+      {
+        "category": "legal",
+        "severity": "high",
+        "description": "Pending and threatened litigation, bonding requirements, tobacco and health litigation items, and ITC exclusion and cease-and-desist orders prohibiting importation and sale of NJOY ACE.",
+        "is_new": false
+      },
+      {
+        "category": "competition",
+        "severity": "high",
+        "description": "Highly competitive nature of all tobacco categories; growth of innovative tobacco products such as e-vapor and oral nicotine pouches; growth of products using nicotine analogues not subject to FDA regulatory framework.",
+        "is_new": false
+      },
+      {
+        "category": "supply_chain",
+        "severity": "medium",
+        "description": "Potential adverse changes in prices, availability and quality of tobacco, other raw materials and component parts due to macroeconomic, geopolitical, climate and environmental conditions, tariffs, and reduced demand for tobacco leaf.",
+        "is_new": false
+      },
+      {
+        "category": "market",
+        "severity": "high",
+        "description": "Reductions in consumption levels of cigarettes and MST products resulting in lower shipment volumes; changes in adult tobacco consumer purchase behavior influenced by illicit products, excise taxes and product price gap relationships.",
+        "is_new": false
+      }
+    ],
+    "risk_summary": "Primary risks center on FDA regulatory actions and enforcement failures regarding illicit products, macroeconomic pressures on consumers, litigation, and evolving competitive dynamics in smoke-free categories.",
+    "guidance": {
+      "direction": "cautious",
+      "statement": "Trends and developments have not had a material adverse impact on results of operations, cash flows or financial position or ability to achieve Vision; will continue to evaluate potential impacts as trends evolve.",
+      "revenue_outlook": null,
+      "earnings_outlook": null
+    },
+    "sentiment": "cautious",
+    "sentiment_rationale": "Management uses language such as 'continued headwinds', 'monitoring closely', 'potential material adverse effect', and notes significant non-cash impairments while highlighting that adjusted results improved.",
+    "key_events": [
+      {
+        "event_type": "litigation",
+        "description": "Recorded net pre-tax charges of $70 million (six months) and $16 million (three months) related to ITC exclusion order and cease-and-desist orders prohibiting importation and sale of NJOY ACE; net of insurance recoveries.",
+        "impact": null
+      },
+      {
+        "event_type": "restructuring",
+        "description": "Recorded non-cash goodwill impairment charge of $873 million to reduce carrying value of e-vapor reporting unit goodwill for three months ended March 31, 2025.",
+        "impact": "No income tax benefit as impairment is non-deductible for tax purposes."
+      }
+    ],
+    "competitive_position": "We have a leading portfolio of tobacco products for U.S. tobacco consumers age 21+; PM USA is the most profitable U.S. cigarette manufacturer; USSTC is the leading global moist smokeless tobacco manufacturer; Helix is a leading manufacturer of oral nicotine pouches.",
+    "extraction_confidence": "high"
+  },
+  "completed_utc": "2026-11-23T18:29:20.999989+00:00"
+}

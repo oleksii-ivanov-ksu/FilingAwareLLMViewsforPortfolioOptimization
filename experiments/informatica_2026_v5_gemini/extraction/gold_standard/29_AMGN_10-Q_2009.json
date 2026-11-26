@@ -1,0 +1,80 @@
+{
+  "index": 29,
+  "id": "AMGN_10-Q_2009",
+  "ticker": "AMGN",
+  "form": "10-Q",
+  "year": 2009,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "partnership",
+      "description": "collaboration with GlaxoSmithKline to share commercialization of denosumab for osteoporosis indications in Europe, Australia, New Zealand and Mexico for $120 million in initial and milestone payments",
+      "source_quote": "On July 27, 2009, we announced a collaboration with GlaxoSmithKline in which the companies will share commercialization of denosumab for osteoporosis indications in Europe, Australia, New Zealand and Mexico (the “Primary Territories”). ... Financial terms of the partnership include an initial payment and commercial milestones payable to us totaling $120 million.",
+      "section": "MD&A - Denosumab Developments"
+    },
+    {
+      "event_type": "partnership",
+      "description": "payment of $50 million to obtain an exclusive license to Cytokinetics Incorporated's cardiac contractility program",
+      "source_quote": "...payment to obtain an exclusive license to Cytokinetics Incorporated’s (“Cytokinetics”) cardiac contractility program and lower clinical trial costs of $42 million... and ...the $50 million expense resulting from the payment to Cytokinetics in the six months ended June 30, 2009.",
+      "section": "MD&A - Selected operating expenses"
+    },
+    {
+      "event_type": "product",
+      "description": "FDA approval of revisions to the Vectibix prescribing information, specifying that use is not recommended for colorectal cancer with KRAS mutations in codon 12 or 13",
+      "source_quote": "On July 17, 2009, we announced that the FDA approved certain revisions to the U.S. prescribing information (“PI”) for the EGFr class of antibodies, including Vectibix®. The INDICATION AND USAGE section of the PI has been updated to include that retrospective subset analyses of mCRC trials have not shown a treatment benefit for Vectibix® in patients whose tumors had KRAS mutations in codon 12 or 13 and that use of Vectibix® is not recommended for the treatment of colorectal cancer with these mutations.",
+      "section": "MD&A - Vectibix® Developments"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "issuance of $1.0 billion of 5.70% Senior Notes due 2019 and $1.0 billion of 6.40% Senior Notes due 2039 in a registered offering",
+      "source_quote": "In January 2009, we issued $1.0 billion aggregate principal amount of notes due in 2019 (the “2019 Notes”) and $1.0 billion aggregate principal amount of notes due in 2039 (the “2039 Notes”) in a registered offering.",
+      "section": "Note 9 - Financing arrangements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "repurchase of 37.5 million shares of common stock at a total cost of $2.0 billion under authorized programs",
+      "source_quote": "During the six months ended June 30, 2009, we repurchased 37.5 million shares of our common stock at a total cost of $2.0 billion.",
+      "section": "Note 10 - Stockholders’ equity"
+    },
+    {
+      "event_type": "litigation",
+      "description": "settlement and dismissal of Amgen and Immunex from the state of Arizona pricing lawsuit",
+      "source_quote": "On June 29, 2009 Amgen and Immunex were dismissed from the case after reaching a settlement with the state of Arizona.",
+      "section": "Note 13 - Commitments and Contingencies - Average Wholesale Price (“AWP”) Litigation"
+    },
+    {
+      "event_type": "litigation",
+      "description": "settlement and dismissal of Amgen and Immunex from the state of Illinois pricing lawsuit",
+      "source_quote": "On July 2, 2009, Amgen and Immunex were dismissed from the case after reaching a settlement with the state of Illinois.",
+      "section": "Note 13 - Commitments and Contingencies - Average Wholesale Price (“AWP”) Litigation"
+    },
+    {
+      "event_type": "litigation",
+      "description": "dismissal with prejudice of the third-party payers class action lawsuit by the California Central District Court",
+      "source_quote": "On June 17, 2009, the California Central District Court granted Amgen’s motion and dismissed the entire action with prejudice.",
+      "section": "Note 13 - Commitments and Contingencies - Third-Party Payers Litigation"
+    },
+    {
+      "event_type": "litigation",
+      "description": "patent infringement lawsuit filed by Teva against Amgen in the Eastern District of Pennsylvania alleging infringement of U.S. Patent No. 7,449,603",
+      "source_quote": "On May 20, 2009, Teva Pharmaceutical Industries Ltd. (“Teva Ltd.”) and Teva Pharmaceuticals USA, Inc. (“Teva USA”) filed a lawsuit against Amgen in the U.S. District Court for the Eastern District of Pennsylvania alleging infringement of U.S. Patent No. 7,449,603 (the ‘603 Patent).",
+      "section": "Note 13 - Commitments and Contingencies - Teva U.S. Patent No. 7,449,603 (‘603) Litigation"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Maricopa County, Arizona Superior Court granting defendants' motion for summary judgment in the Robert J. Swanston lawsuit",
+      "source_quote": "On June 8, 2009, the Maricopa County, Arizona Superior Court granted defendants’ motion for summary judgment.",
+      "section": "Note 13 - Commitments and Contingencies - Robert J. Swanston v. TAP Pharmaceutical Products, Inc., et al."
+    },
+    {
+      "event_type": "restructuring",
+      "description": "recognition of $29 million in staff separation costs during the three months ended June 30, 2009 under newly identified cost saving initiatives",
+      "source_quote": "For the three and six months ended June 30, 2009, in connection with certain additional cost saving initiatives subsequently identified, staff separation costs were $29 million and $34 million, respectively.",
+      "section": "MD&A - Selected operating expenses / Note 14 - Other charges"
+    }
+  ]
+}

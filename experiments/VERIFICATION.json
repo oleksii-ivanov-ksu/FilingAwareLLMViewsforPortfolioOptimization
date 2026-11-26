@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-16",
+  "offline_verification": "PASS",
+  "readme_links": "PASS",
+  "response_counts": {
+    "grok43_replication_v1": 300,
+    "portfolio_masking_grok43_v1": 1194,
+    "text_ablation_grok43_v1": 1791
+  },
+  "no_live_api_calls": true,
+  "secret_pattern_scan": "PASS",
+  "scope": "Saved-output analysis reproduction; not model inference or raw-data acquisition."
+}

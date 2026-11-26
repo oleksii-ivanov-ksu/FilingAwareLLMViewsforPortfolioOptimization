@@ -1,0 +1,11 @@
+{
+  "stage": "extraction",
+  "requests": {
+    "extraction_request.json": "790b23c5ee42999c8f64f0520fbf8715abd93ce8c827cb5afeeac71e543e314f"
+  },
+  "combined_cap_usd": 0.2,
+  "model": "x-ai/grok-4.3",
+  "automatic_retries": 0,
+  "authorization": "2026-11-23 user: Окей выполняй необходимые доработки; minimal single-report repair, not full rerun",
+  "runner_sha256": "fac598d3c4e3a7cad1b74b0f41806de09eb17ed8711baae9ea55eb9f342417d3"
+}

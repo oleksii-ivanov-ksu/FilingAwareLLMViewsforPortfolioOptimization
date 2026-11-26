@@ -1,0 +1,74 @@
+{
+  "index": 28,
+  "id": "ALGN_10-Q_2021",
+  "ticker": "ALGN",
+  "form": "10-Q",
+  "year": 2021,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "litigation",
+      "description": "Arbitrator issued a final award of $43.4 million plus interest in favor of Align in its dispute with SmileDirectClub (SDC) regarding SDC's capital account balance",
+      "source_quote": "On March 12, 2021 the Arbitrator issued a final award in favor of Align and against SDC finding that the SDC entities owed Align an additional $ 43.4 million plus interest. SDC paid the amount due to Align on March 17, 2021.",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 2 / Note 6"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Stipulation and Agreement of Settlement signed to resolve the 2018 Securities Class Action Lawsuit for $16 million",
+      "source_quote": "On June 30, 2021, counsel for the parties signed a Stipulation and Agreement of Settlement to resolve all claims for $ 16 million. The settlement amount will be funded by insurance proceeds and consequently, we recorded a short term liability and a receivable for this amount in our condensed consolidated financial statements.",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 6"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors authorized a plan to repurchase up to $1.0 billion of common stock under the May 2021 Repurchase Program",
+      "source_quote": "In May 2021, our Board of Directors authorized a plan to repurchase up to $ 1.0 billion of our common stock (“May 2021 Repurchase Program”).",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 9"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into a $100.0 million Accelerated Stock Repurchase (ASR) agreement on April 30, 2021 under the May 2018 Repurchase Program, which completed on July 30, 2021 with the delivery of 171,322 shares",
+      "source_quote": "April 30, 2021 | May 2018 | $ 100.0 | July 30, 2021 | 171,322 | $ 583.70",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 9"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into a $100.0 million Accelerated Stock Repurchase (ASR) agreement on May 17, 2021 under the May 2021 Repurchase Program, which completed on August 31, 2021 with the delivery of 161,707 shares",
+      "source_quote": "May 17, 2021 | May 2021 | $ 100.0 | August 31, 2021 | 161,707 | $ 618.40",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 9"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into a $75.0 million Accelerated Stock Repurchase (ASR) agreement on August 2, 2021 under the May 2021 Repurchase Program, which completed on September 27, 2021 with the delivery of 109,239 shares",
+      "source_quote": "August 2, 2021 | May 2021 | $ 75.0 | September 27, 2021 | 109,239 | $ 686.91",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 9"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Amended the aligner material purchase agreement with a single-source supplier on June 24, 2021, requiring an additional minimum purchase of approximately $348.0 million from 2023 through 2026",
+      "source_quote": "In 2018, we entered into a purchase agreement, as amended, with an existing single source supplier which requires us to purchase aligner material for a minimum amount of approximately $ 425.9 million over a five year period through 2022. On June 24, 2021, we amended the agreement which requires an additional minimum aligner material purchase of approximately $ 348.0 million from 2023 through 2026.",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 7"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed an immaterial business combination during Q3 2021, resulting in a $3.6 million addition to goodwill",
+      "source_quote": "During the three months ended September 30, 2021, we completed an immaterial business combination which increased goodwill and existing technology intangible assets... Additions from acquisition 3,646",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 4"
+    },
+    {
+      "event_type": "product",
+      "description": "Launched the iTero Element 5D and 5D Plus Series of next generation scanners and imaging systems in February 2021",
+      "source_quote": "adoption of the iTero Element 5D and 5D Plus Series of next generation scanners and imaging systems launched in February 2021",
+      "section": "Management's Discussion and Analysis - Key financial and operating metrics"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Subsequent to Q3 2021, entered into an Accelerated Stock Repurchase (ASR) agreement on October 29, 2021 to repurchase $100.0 million of common stock",
+      "source_quote": "Subsequent to the third quarter, on October 29, 2021, we entered into an ASR to repurchase $ 100.0 million of our common stock. We paid $ 100.0 million and received an initial delivery of approximately 0.1 million shares based on current market prices.",
+      "section": "Notes to Condensed Consolidated Financial Statements - Note 9"
+    }
+  ]
+}

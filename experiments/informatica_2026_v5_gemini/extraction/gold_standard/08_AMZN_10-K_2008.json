@@ -1,0 +1,74 @@
+{
+  "index": 8,
+  "id": "AMZN_10-K_2008",
+  "ticker": "AMZN",
+  "form": "10-K",
+  "year": 2008,
+  "sector": "Consumer Discretionary",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "product",
+      "description": "design, manufacture, marketing, and sale of wireless e-reading device Amazon Kindle",
+      "source_quote": "We also design, manufacture, market and sell a wireless e-reading device, the Amazon Kindle.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "product",
+      "description": "launch of Amazon MP3 digital music store offering DRM-free tracks",
+      "source_quote": "In September 2007, we launched Amazon MP3, a digital music store offering DRM-free tracks from major and independent labels.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of Brilliance Audio, an independent publisher of audiobooks",
+      "source_quote": "In May 2007, we acquired Brilliance Audio, an independent publisher of audiobooks.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of Digital Photography Review (dpreview.com)",
+      "source_quote": "In July 2007, we acquired Digital Photography Review, a website dedicated to digital photography.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "rebranding",
+      "description": "rebranding of Joyo.com to Amazon.cn",
+      "source_quote": "In 2007, Joyo.com was rebranded to Amazon.cn to further expand our marketplace in China.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "management_change",
+      "description": "appointment of Diego Piacentini as Senior Vice President, International Retail",
+      "source_quote": "Mr. Piacentini has served as Senior Vice President, International Retail, since January 2007.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "management_change",
+      "description": "appointment of Jeffrey A. Wilke as Senior Vice President, North America Retail",
+      "source_quote": "Mr. Wilke has served as Senior Vice President, North America Retail, since January 2007.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "management_change",
+      "description": "appointment of Sebastian J. Gunningham as Senior Vice President, Seller Services",
+      "source_quote": "Mr. Gunningham has served as Senior Vice President, Seller Services, since joining Amazon.com in March 2007.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "management_change",
+      "description": "appointment of Shelley L. Reynolds as Vice President, Worldwide Controller, and Principal Accounting Officer",
+      "source_quote": "Ms. Reynolds has served as Vice President, Worldwide Controller, and Principal Accounting Officer since April 2007.",
+      "section": "Item 1"
+    },
+    {
+      "event_type": "credit_facility",
+      "description": "entered into a $300 million credit facility agreement",
+      "source_quote": "In May 2007, we entered into a $300 million Credit Agreement.",
+      "section": "Item 7"
+    }
+  ]
+}

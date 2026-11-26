@@ -1,0 +1,122 @@
+{
+  "index": 64,
+  "id": "DVN_10-K_2012",
+  "ticker": "DVN",
+  "form": "10-K",
+  "year": 2012,
+  "sector": "Energy",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 18,
+  "events": [
+    {
+      "event_type": "partnership",
+      "description": "Executed an agreement with Sinopec in January 2012 where Sinopec will pay $2.5 billion ($900 million at closing and $1.6 billion in drilling carry) for a 33.3% interest in five of Devon's new venture exploration plays.",
+      "source_quote": "In January 2012, Devon announced a transaction with Sinopec International Petroleum Exploration & Production Corporation that Devon expects to close in the first quarter of 2012. Under the agreement, Sinopec will pay $2.5 billion, including $900 million at closing and $1.6 billion toward Devon’s share of future drilling costs, and will receive a 33.3% interest in five new venture exploration plays in the United States.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of Brazilian offshore operations in the second quarter of 2011 for gross cash proceeds of $3.25 billion as part of the strategic divestiture of International assets.",
+      "source_quote": "The second quarter of 2011 includes the divestiture of our Brazil operations and the related gain was  $2.5 billion ($ 2.5 billion after income taxes, or $6.01 per diluted share).",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Divested Gulf of Mexico offshore operations in 2010 for gross cash proceeds of $4,059 million.",
+      "source_quote": "Gulf of Mexico (continuing operations) \t 4,059 \t 2010",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Divested Azerbaijan operations in 2010 for gross cash proceeds of $1,925 million.",
+      "source_quote": "Azerbaijan (discontinued operations) \t 1,925 \t 2010",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Divested China Panyu and Exploration operations in 2010 for gross cash proceeds of $592 million.",
+      "source_quote": "China — Panyu and Exploration (discontinued operations) \t 592 \t 2010",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquired the Pike oil sands leasehold in 2010 for $500 million.",
+      "source_quote": "The increases in exploration and development capital spending in 2011 and 2010 were primarily due to new venture acreage acquisitions, the 2010 $500 million Pike oil sands acquisition and increased drilling and development.",
+      "section": "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Incurred $202 million of cumulative restructuring costs through the end of 2011 associated with the divestiture of offshore assets announced in the fourth quarter of 2009.",
+      "source_quote": "In the fourth quarter of 2009, we announced plans to divest our offshore assets. As of December 31, 2011, we had divested all of our U.S. Offshore assets and substantially all of our International assets. Through the end of 2011, we had incurred $202 million of restructuring costs associated with these divestitures.",
+      "section": "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Recognized $70 million of restructuring costs in 2010 representing the present value of future lease obligations for office space that Devon ceased using due to offshore divestitures.",
+      "source_quote": "Consequently, in 2010 Devon recognized $70 million of restructuring costs that represented the present value of its future obligations under the leases, net of anticipated sublease income.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A Texas court issued a $196 million judgment against Trevor Rees-Jones and Devon on June 20, 2011, with Devon's portion being $133 million, arising from a lawsuit filed by a former owner of Chief Holdings LLC alleging fraud and breach of fiduciary duty in connection with a 2004 redemption of minority ownership.",
+      "source_quote": "On June 20, 2011, a court issued a judgment against Rees-Jones for $196 million, of which $133 million of the judgment was also issued against Devon. Both Rees-Jones and Devon are appealing the judgment. ... Devon has recorded in its December 31, 2011, balance sheet both a $133 million liability relating to the judgment with an offsetting $133 million receivable relating to its right to be indemnified by Rees-Jones and certain other parties pursuant to the indemnification agreement.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Reversed an $84 million loss contingency accrual in 2009 for potential royalties on deep water leases following a favorable federal district court ruling.",
+      "source_quote": "In 2009, Devon reversed an $84 million loss contingency accrual. Devon had previously accrued $84 million for potential royalties on various deep water leases but reversed the accrual in 2009 due to a federal district court ruling.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors approved a $3.5 billion share repurchase program in May 2010, which was completed in the fourth quarter of 2011 after repurchasing 49.2 million shares at an average price of $71.18.",
+      "source_quote": "In May 2010, our Board of Directors approved a $3.5 billion share repurchase program. We completed this program in the fourth quarter of 2011. In total, we repurchased 49.2 million common shares for $3.5 billion, or $71.18 per share, under this program.",
+      "section": "Item 5. Market for Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $2.25 billion of Senior Notes in July 2011, consisting of $500 million of 2.40% notes due 2016, $500 million of 4.00% notes due 2021, and $1.250 billion of 5.60% notes due 2041, utilizing the net proceeds to repay outstanding commercial paper.",
+      "source_quote": "In July 2011, Devon issued $2.25 billion of senior notes. The net proceeds were used to repay outstanding commercial paper debt.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Retired $1.750 billion of 6.875% senior notes upon their maturity on September 30, 2011.",
+      "source_quote": "6.875% retired upon maturity on September 30, 2011 \t — \t 1,750",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Increased the quarterly common stock dividend from $0.16 per share to $0.17 per share in the second quarter of 2011.",
+      "source_quote": "In the second quarter of 2011, Devon increased its dividend rate from $0.16 per share to $0.17 per share.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Made cash contributions of $454 million to Devon's qualified defined benefit pension plans in 2011.",
+      "source_quote": "Devon’s 2011 pension plan contributions of $454 million presented in the table were primarily discretionary. After these contributions, the projected benefit obligation for Devon’s qualified plans was fully funded as of December 31, 2011.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Reduced the carrying value of U.S. oil and gas properties by $6.4 billion ($4.1 billion after tax) in the first quarter of 2009 due to a full cost ceiling limitation caused by declining natural gas prices.",
+      "source_quote": "In the first quarter of 2009, Devon reduced the carrying value of its U.S. oil and gas properties $6.4 billion, or $4.1 billion after taxes, due to a full cost ceiling limitation. The reduction resulted from a significant decrease in the full cost ceiling due to the effects of declining natural gas prices subsequent to December 31, 2008.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Reduced the carrying value of Brazil oil and gas properties by $109 million ($105 million after tax) in 2009 due to a full cost ceiling limitation from dry exploratory drilling at the BM-BAR-3 block.",
+      "source_quote": "During 2009, Devon reduced the carrying value of its Brazil oil and gas properties by  $109 million ($ 105 million after tax). This reduction resulted largely from an exploratory well drilled at the BM-BAR-3 block in the offshore Barreirinhas Basin that did not have adequate reserves for commercial viability.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognized $11 million of asset impairment charges in 2010 for leasehold improvements and furniture associated with office space ceased to be used due to the offshore asset divestitures.",
+      "source_quote": "In addition, Devon recognized $11 million of asset impairment charges for leasehold improvements and furniture associated with the office space that it ceased using.",
+      "section": "Notes to Consolidated Financial Statements"
+    }
+  ]
+}

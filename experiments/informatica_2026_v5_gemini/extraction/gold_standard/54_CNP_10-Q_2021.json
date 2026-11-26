@@ -1,0 +1,68 @@
+{
+  "index": 54,
+  "id": "CNP_10-Q_2021",
+  "ticker": "CNP",
+  "form": "10-Q",
+  "year": 2021,
+  "sector": "Utilities",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 9,
+  "events": [
+    {
+      "event_type": "divestiture",
+      "description": "On April 29, 2021, CenterPoint Energy, through CERC Corp., entered into an Asset Purchase Agreement to sell its Arkansas and Oklahoma Natural Gas businesses to Southern Col Midco, LLC (an affiliate of Summit Utilities, Inc.) for $2.15 billion in cash, which includes the recovery of approximately $425 million of storm-related costs.",
+      "source_quote": "On April 29, 2021, CenterPoint Energy, through its subsidiary CERC Corp., entered into an Asset Purchase Agreement to sell its Arkansas and Oklahoma Natural Gas businesses for $ 2.15 billion in cash, including recovery of approximately $ 425 million of storm-related incremental natural gas costs incurred in the February 2021 Winter Storm Event, subject to certain adjustments set forth in the Asset Purchase Agreement.",
+      "section": "(3) Held for Sale and Divestitures (CenterPoint Energy and CERC)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "On February 16, 2021, CenterPoint's equity investee Enable Midstream Partners entered into a merger agreement with Energy Transfer LP, under which Energy Transfer will acquire all of Enable's outstanding equity interests, resulting in CenterPoint exchanging its Enable common and Series A preferred units for Energy Transfer common units and Series G Preferred Units.",
+      "source_quote": "On February 16, 2021, Enable entered into the Enable Merger Agreement. At the closing of the transactions contemplated by the Enable Merger Agreement, if and when it occurs, Energy Transfer will acquire all of Enable’s outstanding equity interests, including all Enable common units and Enable Series A Preferred Units held by CenterPoint Energy, and in return CenterPoint Energy will receive Energy Transfer common units and Energy Transfer Series G Preferred Units.",
+      "section": "(1) Background and Basis of Presentation"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "On August 31, 2021, CenterPoint completed the sale of its mobile LNG/CNG delivery subsidiary, Mobile Energy Solutions, Inc. (MES), to Last Mile Energy.",
+      "source_quote": "On August 31, 2021, CenterPoint Energy, through its subsidiary CERC Corp., completed the sale of MES to Last Mile Energy.",
+      "section": "(1) Background and Basis of Presentation"
+    },
+    {
+      "event_type": "management_change",
+      "description": "On July 22, 2021, CenterPoint Energy announced the implementation of a new board structure and the elimination of the Executive Chairman position, resulting in Milton Carroll's exit from the Executive Chairman role on July 21, 2021 and from the Board on September 30, 2021, under a separation agreement providing a $28 million lump sum payment.",
+      "source_quote": "On July 22, 2021, CenterPoint Energy announced the decision of the independent directors of the Board to implement a new independent Board leadership and governance structure and appointed a new independent chair of the Board. To implement this new governance structure, the independent directors of the Board eliminated the Executive Chairman position that was formerly held by Milton Carroll. ... Under the terms of the separation agreement, Mr. Carroll exited the positions of Executive Chairman on July 21, 2021 and Board member on September 30, 2021. Under the terms of the separation agreement, Mr. Carroll received a lump sum cash payment of $ 28 million...",
+      "section": "(5) Employee Benefit Plans"
+    },
+    {
+      "event_type": "partnership",
+      "description": "On February 9, 2021, Indiana Electric entered into a Build Transfer Agreement (BTA) with Capital Dynamics and Tenaska to build a 300 MW solar array in Posey County, Indiana, which Indiana Electric will acquire upon completion (projected for late 2023) for a fixed purchase price.",
+      "source_quote": "On February 9, 2021, Indiana Electric entered into a BTA with a subsidiary of Capital Dynamics. Pursuant to the BTA, Capital Dynamics, with its partner Tenaska, will build a 300 MW solar array in Posey County, Indiana through a special purpose entity, Posey Solar. Upon completion of construction, currently projected to be at the end of 2023, and subject to IURC approval, which was received on October 27, 2021, Indiana Electric will acquire Posey Solar and its solar array assets for a fixed purchase price.",
+      "section": "(14) Commitments and Contingencies"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On February 4, 2021, CenterPoint Energy, Houston Electric, CERC, and VUHI replaced their existing revolving credit facilities with new amended and restated credit facilities, with CenterPoint rescaled down from $3.3 billion to $2.4 billion.",
+      "source_quote": "In February 2021, each of CenterPoint Energy, Houston Electric, CERC Corp. and VUHI replaced their existing revolving credit facilities with new amended and restated credit facilities. The size of the CenterPoint Energy facility decreased from $ 3.3 billion to $ 2.4 billion, while the sizes of the Houston Electric, CERC Corp. and VUHI facilities remained unchanged.",
+      "section": "(12) Short-term Borrowings and Long-term Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "During the first nine months of 2021, all outstanding shares of Series B and Series C Preferred Stock of CenterPoint Energy were converted into shares of Common Stock.",
+      "source_quote": "During the three and nine months ended September 30, 2021, 975,903 shares and 977,400 shares of Series B Preferred Stock, respectively, were converted into 35,875,574 shares and 35,921,441 shares of Common Stock. ... During the nine months ended September 30, 2021, 625,000 shares of Series C Preferred Stock were converted into 40,822,990 shares of Common Stock. As of September 30, 2021, all shares of Series B Preferred Stock have been converted into shares of Common Stock. ... As of September 30, 2021, all shares of Series C Preferred Stock have been converted into shares of Common Stock.",
+      "section": "(19) Equity Dividends Declared and Paid (CenterPoint Energy)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "During the first nine months of 2021, CenterPoint Energy and its subsidiaries issued an aggregate of $4.5 billion of senior notes and general mortgage bonds to fund general corporate purposes and repay outstanding debt.",
+      "source_quote": "During the nine months ended September 30, 2021, the following debt instruments were issued or incurred: ... CERC March 2021 Senior Notes $ 700 [million] ... Floating Rate Senior Notes 1,000 ... Houston Electric March 2021 General Mortgage Bonds 400 ... 700 ... CenterPoint Energy May 2021 Senior Notes 500 ... 500 ... Floating Rate Senior Notes 700 ... Total CenterPoint Energy $ 4,500 [million]",
+      "section": "(12) Short-term Borrowings and Long-term Debt"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In January 2021, CenterPoint collected a $4 million receivable from PowerTeam Services representing the final working capital settlement for the April 2020 sale of its Infrastructure Services Disposal Group.",
+      "source_quote": "CenterPoint Energy completed the sale of the Infrastructure Services Disposal Group on April 9, 2020 for $ 850 million and collected a receivable of $ 4 million from PowerTeam Services in January 2021 for full and final settlement of the working capital adjustment in the Securities Purchase Agreement.",
+      "section": "(3) Held for Sale and Divestitures (CenterPoint Energy and CERC)"
+    }
+  ]
+}

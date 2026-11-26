@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "content_W200_real_text_1",
+    "request": "requests/content_W200_real_text_1.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "real_text",
+    "repeat": 1
+  },
+  "request_sha256": "139605c050426d11219e4d80bb6a7f8be45fb54b6a73b65862eb18fc7b46d8a4",
+  "reserved_max_cost": 0.0073325000000000005,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.0023281,
+  "response": {
+    "id": "gen-1795458796-yvyAKYgYtTT6yfiVnMlN",
+    "object": "chat.completion",
+    "created": 1795458796,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -40,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management expresses cautious sentiment with repeated references to headwinds, impairments, and potential adverse regulatory effects, offset only modestly by a small earnings beat. Elevated risks around FDA actions, illicit competition, and consumer macro pressures dominate the outlook and limit upside. Recent positive stock performance and low analyst dispersion provide some support but do not outweigh the fundamental caution.\"\n}",
+          "refusal": null,
+          "reasoning": "Preparing an investment view for Altria Group (MO) as of 2025-09-30 using the provided 10-K summary and recent performance data.\n\nKey risks include regulatory actions, illicit trade, and competition. The 10-K reveals significant impairments, including $354M and $873M goodwill write-offs, alongside an IQOS rights assignment. Guidance is cautious with no specifics. Earnings beat estimates slightly. Analyst dispersion is moderate.\n\nRecent returns are positive. The view is neutral to slightly negative. Risks and caution outweigh the earnings beat. A conservative estimate is -50 basis points with medium confidence.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "Preparing an investment view for Altria Group (MO) as of 2025-09-30 using the provided 10-K summary and recent performance data.\n\nKey risks include regulatory actions, illicit trade, and competition. The 10-K reveals significant impairments, including $354M and $873M goodwill write-offs, alongside an IQOS rights assignment. Guidance is cautious with no specifics. Earnings beat estimates slightly. Analyst dispersion is moderate.\n\nRecent returns are positive. The view is neutral to slightly negative. Risks and caution outweigh the earnings beat. A conservative estimate is -50 basis points with medium confidence.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "de08WphmBYHRDvM3+Eyz2ogzflY66Cj60GZvdCmCBShbesPaJywgP5HT1nZwUWZrU6sOFLyArTx6wMN/Jtr2EtXmJZJC6K3Xyo2JoIxuaVGqRRO6ykAmF4C8HoAHIcpxUU3U+qC3Pp/VLjFFSPU/x1DY7iIh2oh64c+hCnx4lPpA41amWvIPG41p9vX/ocbzgrPqvTf0qpYQJ/0nyUIccxIUi/oV08FaawyByG2VZ1wuZqUQqQQvUm7yJwczlZEwpmhNmeqWqR3sk5liW3lPA66nsQt9dIVu2fYPVdw5SEsDZv3fotKudKJtanVfig/xymM/v2u4pEg/yF1rOeJFnT5rTAvO7TkkV8g1OefOHPjVkNcjDMz3D8JYnEvKYzebDuReL728DL8QEUzN7a6Ish3c41n19nnon790YsFyi8e96XjGtKZcHMC8+mYVwAGC5rp5YhoN780DmHwSP/euNUo2Ig6Ok4CSoHIYaU6uwYxzF8qp9250PzOBh6UqfGqy/581eIblVRqBNKBdVNdOB+SOPEW3qBcVK7ZmWekuF2QYp4WSJnAOemn732FDZbO0LG7j0qJZX4sqwa8YAERxwAj3g3itABmdCknV4n0TeBFWF8OJLLDQK1t3E4JJzDlHiWl1QNbaEKUqX1ZiCT4l6KGWcQ90bGKls2nfADzw/SD+AJXrm9JL3FT+ilDEqAv2+HQikDS4mGQbBLZK0g85y5lv8C9TCtVxLEcqoM0hQZdPywyS660PVuU/lvzS9Q4k6VX2G0yE9dIDeNu668Bm7NMFEOPmqUbbFzuZ6rSFhIwakJbSVmJJbHi5hku4puRBrhjXpekMT9jZU75mikE4mihAPemKYBoZRvVsipaytXc1Rvy1UNqDFnUZeVylrmTVCp+034I2NK6XZnSSsRFs0Mj12gBQTwA5RQYIRTvCVT6RLwlIsM+jeRhbCfDJE/nU6Z0YEHbetzOkg99JaPPHaCjN0EhD4JeC6DchQaFPj2yOHGQ2esmKL/FNlYYspwfsXqifB2qYp3hR6+6hRsl8knrrun9ZGqMQpfSg5x7jkUZLu03BFMUabToltaczfSiE6lWZ50g6AOntE5/2KnXpzHeGq7UNfG4zy9yPzqs/8e84elE50EIu+f2LZiYIF3IvNUKzOz7pyofgkTfHgi/PlvLrfj1DmVmV4Sv6LqR45swRsI3lV2zlf5riR+r04Sku5ScLNVcTlx756zZOja7De7ykbTT0MB18XETlZKnnG6tyEHNq2Pbhs3L/YkZkb2fSRZW5Psd9LGM0k7AX4Xs3Ee1Il/A8yqz/Kg7ZZLhYWsZ11Obfg16CdQGOhARtjDPZgQ+k.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_60709ef9-47ad-99bc-81c5-ebcf029f960a",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1058,
+      "completion_tokens": 456,
+      "total_tokens": 1514,
+      "cost": 0.0023281,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 128,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0023281,
+        "upstream_inference_prompt_cost": 0.0011881,
+        "upstream_inference_completions_cost": 0.00114
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 365,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -40,
+    "confidence": "medium",
+    "reasoning": "Management expresses cautious sentiment with repeated references to headwinds, impairments, and potential adverse regulatory effects, offset only modestly by a small earnings beat. Elevated risks around FDA actions, illicit competition, and consumer macro pressures dominate the outlook and limit upside. Recent positive stock performance and low analyst dispersion provide some support but do not outweigh the fundamental caution."
+  },
+  "completed_utc": "2026-11-23T18:33:23.564902+00:00"
+}

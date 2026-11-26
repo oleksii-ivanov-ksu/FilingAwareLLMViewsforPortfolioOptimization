@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "masking_W200_original_3",
+    "request": "requests/masking_W200_original_3.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "original",
+    "repeat": 3
+  },
+  "request_sha256": "81e5bb33c8c3c5c226875431bb0b4db5525b46b9d71e9b5d4101fb5e2fa831e8",
+  "reserved_max_cost": 0.007350000000000001,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.00165605,
+  "response": {
+    "id": "gen-1795458781-lZ4kAmKKWOwougIEkl4j",
+    "object": "chat.completion",
+    "created": 1795458781,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -40,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management's cautious tone, continued references to headwinds, and large non-cash impairments ($873M goodwill plus prior charges) signal ongoing challenges in the e-vapor segment despite the modest Q2 earnings beat. Elevated regulatory, illicit-trade, and macroeconomic risks remain unmitigated with no upward guidance provided. Recent positive stock performance and low analyst dispersion limit the magnitude of any negative view.\"\n}",
+          "refusal": null,
+          "reasoning": "I am preparing an investment view for MO using the provided 10-K summary and analyst data.\n\nThe view reflects expected excess return over the next quarter. MO's 10-Q for the six months ended June 30, 2025 shows cautious sentiment. The company cited continued headwinds and significant non-cash impairments. Adjusted results improved despite these challenges.\n\nThe 10-Q guidance is cautious with no specifics. A $70 million net pre-tax charge and an $873 million goodwill impairment on the e-vapor business signal serious problems. Earnings beat estimates by 1.7 percent and revenue by 1.9 percent. Analyst estimate dispersion is narrow at 2.9 percent. Recent returns are positive.\n\nThe view is conservative. The $873 million impairment and cautious guidance outweigh the earnings beat. A slight negative or neutral excess return is appropriate. Confidence is medium.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am preparing an investment view for MO using the provided 10-K summary and analyst data.\n\nThe view reflects expected excess return over the next quarter. MO's 10-Q for the six months ended June 30, 2025 shows cautious sentiment. The company cited continued headwinds and significant non-cash impairments. Adjusted results improved despite these challenges.\n\nThe 10-Q guidance is cautious with no specifics. A $70 million net pre-tax charge and an $873 million goodwill impairment on the e-vapor business signal serious problems. Earnings beat estimates by 1.7 percent and revenue by 1.9 percent. Analyst estimate dispersion is narrow at 2.9 percent. Recent returns are positive.\n\nThe view is conservative. The $873 million impairment and cautious guidance outweigh the earnings beat. A slight negative or neutral excess return is appropriate. Confidence is medium.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_3b0f7b17-a86e-4491-a298-644052d0de2f",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1071,
+      "completion_tokens": 557,
+      "total_tokens": 1628,
+      "cost": 0.00165605,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1024,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00165605,
+        "upstream_inference_prompt_cost": 0.00026355,
+        "upstream_inference_completions_cost": 0.0013925
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 457,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -40,
+    "confidence": "medium",
+    "reasoning": "Management's cautious tone, continued references to headwinds, and large non-cash impairments ($873M goodwill plus prior charges) signal ongoing challenges in the e-vapor segment despite the modest Q2 earnings beat. Elevated regulatory, illicit-trade, and macroeconomic risks remain unmitigated with no upward guidance provided. Recent positive stock performance and low analyst dispersion limit the magnitude of any negative view."
+  },
+  "completed_utc": "2026-11-23T18:33:09.707806+00:00"
+}

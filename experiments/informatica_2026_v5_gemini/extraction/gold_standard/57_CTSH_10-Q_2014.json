@@ -1,0 +1,38 @@
+{
+  "index": 57,
+  "id": "CTSH_10-Q_2014",
+  "ticker": "CTSH",
+  "form": "10-Q",
+  "year": 2014,
+  "sector": "Information Technology",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 4,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "On September 14, 2014, Cognizant signed a definitive agreement to acquire TZ US Parent, Inc. (TriZetto), a private U.S. healthcare information technology company, for approximately $2.7 billion ($2,700,000 thousand) in cash.",
+      "source_quote": "In September 2014, we announced a definitive agreement to acquire TZ US Parent, Inc. (\"TriZetto\"), a private U.S. healthcare information technology company for $2,700,000 in cash, subject to customary adjustments. The transaction is expected to close in the fourth quarter of 2014.",
+      "section": "Note 7 — Commitments and Contingencies"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In August 2014, Cognizant's Board of Directors expanded its stock repurchase program, increasing the authorization from $1.5 billion to $2.0 billion ($1,500,000 thousand to $2,000,000 thousand) and extending the term through December 31, 2015.",
+      "source_quote": "In August 2014, the company announced that its Board of Directors approved an expansion of its stock repurchase program. The Board of Directors increased the company’s stock repurchase authorization under the program from $1,500,000 to $2,000,000 and extended the term of the stock repurchase program from December 31, 2014 to December 31, 2015.",
+      "section": "Note 1 — Interim Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On September 14, 2014, Cognizant secured a committed unsecured bridge financing facility of up to $1.0 billion ($1,000,000 thousand) from a syndicate of financial institutions to fund the acquisition of TriZetto.",
+      "source_quote": "On September 14, 2014, we obtained committed bridge financing from Credit Suisse AG, Cayman Islands Branch, Credit Suisse Securities (USA) LLC, JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC and Barclays Bank PLC. The commitments in respect of the unsecured bridge facility (the “Bridge Facility”) allow us to borrow up to $1,000,000 to finance our acquisition of TriZetto (see Note 7 - Commitments and Contingencies) and to pay fees and expenses in connection therewith.",
+      "section": "Note 10 — Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On February 4, 2014, Cognizant's Board of Directors declared a two-for-one stock split of its Class A common stock in the form of a 100% stock dividend, which was paid on March 7, 2014 to stockholders of record as of February 21, 2014.",
+      "source_quote": "On February 4, 2014, the company’s Board of Directors declared a two-for-one stock split of our Class A common stock in the form of a 100% stock dividend, which was paid on March 7, 2014 to stockholders of record as of February 21, 2014.",
+      "section": "Note 1 — Interim Condensed Consolidated Financial Statements"
+    }
+  ]
+}

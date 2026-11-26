@@ -1,0 +1,86 @@
+{
+  "index": 53,
+  "id": "CNC_10-Q_2011",
+  "ticker": "CNC",
+  "form": "10-Q",
+  "year": 2011,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 12,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "In January 2011, Centene replaced its existing $300 million revolving credit agreement with a new $350 million unsecured revolving credit facility with a five-year maturity.",
+      "source_quote": "In January 2011, we replaced our $300 million revolving credit agreement with a new $350 million revolving credit facility, or the revolver.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - LIQUIDITY AND CAPITAL RESOURCES"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Centene's Board of Directors adopted a stock repurchase program of up to 4,000,000 shares of common stock, with a requirement under the terms of the Senior Notes that all redemptions be completed on or before April 1, 2011.",
+      "source_quote": "Our Board of Directors adopted a stock repurchase program of up to 4,000,000 shares. No duration has been placed on the repurchase program, however, the terms of the Senior Notes require that all such redemptions are consummated on or before April 1, 2011.",
+      "section": "Part II, Item 2. Unregistered Sales of Equity Securities and Use of Proceeds"
+    },
+    {
+      "event_type": "partnership",
+      "description": "In February 2011, Centene's subsidiary Bridgeway Health Solutions, LLC began operating under an agreement with Pima Health Systems of Arizona to administer their long-term care program on a non-risk basis.",
+      "source_quote": "In February 2011, Bridgeway Health Solutions, LLC began operating under an agreement with Pima Health Systems of Arizona to administer their long-term care program on a non-risk basis.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "partnership",
+      "description": "In January 2011, Centene began operating in Mississippi under the Mississippi Coordinated Access Network (MississippiCan) program, serving 33,100 members as of March 31, 2011, subject to CMS approval.",
+      "source_quote": "In January 2011, we began operating in Mississippi through the Mississippi Coordinated Access Network (MississippiCan) program, serving 33,100 members at March 31, 2011.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "partnership",
+      "description": "In February 2011, Centene began operating under an additional STAR+PLUS ABD contract in Texas in the Dallas service area.",
+      "source_quote": "In February 2011, we began operating under an additional STAR+PLUS ABD contract in Texas in the Dallas service area.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "partnership",
+      "description": "In September 2010, Centene's new subsidiary, IlliniCare Health Plan, was selected as one of two vendors to provide managed care services to older adults and adults with disabilities under the Integrated Care Program in six counties of Illinois, with operations expected to commence in the second quarter of 2011.",
+      "source_quote": "In September 2010, our new subsidiary, IlliniCare Health Plan, was selected as one of two vendors to provide managed care services to older adults and adults with disabilities under the Integrated Care Program in six counties of Illinois.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "In July 2010, Centene closed on the acquisition of certain assets and liabilities of NovaSys Health, LLC, a third party administrator in Arkansas, to complement its existing Celtic business.",
+      "source_quote": "In July 2010, we closed on the acquisition of certain assets and liabilities of NovaSys Health, LLC, a third party administrator in Arkansas that complements our existing Celtic business.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "In December 2010, Centene completed the acquisition of Citrus Health Care, Inc., a Medicaid and long-term care health plan in Florida.",
+      "source_quote": "Additionally, in December 2010, we completed the acquisition of Citrus Health Care, Inc., a Medicaid and long-term care health plan.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "In June 2010, Centene completed the acquisition of Carolina Crescent Health Plan in South Carolina.",
+      "source_quote": "In June 2010, we completed the acquisition of Carolina Crescent Health Plan.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Centene filed a legal challenge in 2010 to the State of Wisconsin's decision not to award its subsidiary, Managed Health Services (MHS), the Southeast Wisconsin BadgerCare Plus Managed Care contract (effective November 1, 2010), which remains pending before the Wisconsin court of appeals.",
+      "source_quote": "In 2010, we filed a legal challenge to the State of Wisconsin’s decision on the southeast region reprocurement. The lawsuit is currently pending before the Wisconsin court of appeals.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "partnership",
+      "description": "In November 2010, Centene's subsidiary Celtic began operating under a new contract with the Texas Department of Insurance to provide affordable health insurance plans for Texas small businesses under the Healthy Texas initiative.",
+      "source_quote": "In November 2010, Celtic began operating under a new contract with the Texas Department of Insurance to provide affordable health insurance plans for Texas small businesses under the new Healthy Texas initiative.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    },
+    {
+      "event_type": "partnership",
+      "description": "In December 2010, Cenpatico Behavioral Health of Arizona began operating under an expanded contract to manage behavioral healthcare services for an additional four counties in Arizona.",
+      "source_quote": "In December 2010, Cenpatico Behavioral Health of Arizona began operating under an expanded contract to manage behavioral healthcare services for an additional four counties.",
+      "section": "ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - OVERVIEW"
+    }
+  ]
+}

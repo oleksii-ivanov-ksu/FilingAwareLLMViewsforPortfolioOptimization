@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "masking_W200_anonymized_3",
+    "request": "requests/masking_W200_anonymized_3.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "anonymized",
+    "repeat": 3
+  },
+  "request_sha256": "003cad85c3b684a02c0b3197e34575df7fedf1ac02124b6218acec8d5c7369ac",
+  "reserved_max_cost": 0.0073525,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.00166355,
+  "response": {
+    "id": "gen-1795458840-hi654MwTtYm56ihDCQy9",
+    "object": "chat.completion",
+    "created": 1795458840,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -40,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management's cautious tone, highlighted by continued headwinds language and large non-cash impairments ($873M goodwill plus prior charges), signals elevated regulatory and competitive risks that could pressure results. The modest Q2 earnings beat (+1.7% EPS, +1.9% revenue) and improved adjusted metrics provide limited offset but do not overcome the absence of guidance or macro/illicit trade concerns. Overall mixed signals support a mildly negative excess return view for the next quarter.\"\n}",
+          "refusal": null,
+          "reasoning": "I am generating an investment view for Company_A using the provided 10-K summary and analyst data.\n\nThe view targets expected excess return over the next quarter in basis points. The company appears to be a Consumer Staples player in the nicotine or tobacco sector. The 10-K highlights regulatory risks, competition from illicit products, macroeconomic pressure, and asset impairments. The 10-Q filing from July 30, 2025 is also being reviewed.\n\nThe 10-Q shows cautious sentiment with continued headwinds and a potential material adverse effect. A $70 million net pre-tax charge and an $873 million goodwill impairment for e-vapor weigh on results. Earnings beat estimates slightly. The view will factor in these impairments and the cautious tone.\n\nThe slight earnings beat and improved adjusted results are minor positives. The view is neutral to slightly negative at roughly -50 basis points. Confidence is medium due to mixed signals.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am generating an investment view for Company_A using the provided 10-K summary and analyst data.\n\nThe view targets expected excess return over the next quarter in basis points. The company appears to be a Consumer Staples player in the nicotine or tobacco sector. The 10-K highlights regulatory risks, competition from illicit products, macroeconomic pressure, and asset impairments. The 10-Q filing from July 30, 2025 is also being reviewed.\n\nThe 10-Q shows cautious sentiment with continued headwinds and a potential material adverse effect. A $70 million net pre-tax charge and an $873 million goodwill impairment for e-vapor weigh on results. Earnings beat estimates slightly. The view will factor in these impairments and the cautious tone.\n\nThe slight earnings beat and improved adjusted results are minor positives. The view is neutral to slightly negative at roughly -50 basis points. Confidence is medium due to mixed signals.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "IsQLGKHhXppF/xFF7kt0vmUi/MZigkIDYKc9oAk9zraaO9HCyWx8dddOL6kvSFHQVWKwD8BgOl1P6t2420fZwAomI1sCe1S9qbtYUXaEc325CkUZsGwD2GB8jrCkIj3EPFF+E/Nf8VC2wy5+RDPlbmsR/DiYJKw3uG4QkkECeQVie2FjxY+hBeGOQu6NBY5mzb3YmkdHH+9BsFuGba2xOf9TPJ3FtPrun822EEJARAjkHXKFEcC8MJVqYR1tCbcVYHfnUuckARVaVvt5C3kL7wlUm0yIBWnXVFWUDeRaRJ7z425GKOX7QulriAHW7nGabKgg7SklcyLRSL0yUzkIf0u2LlVnbjs5Im5TV5USXTkB51HGDURVHj9AxXtt/qf3iXc0UJdU5FRe8uJT80NOq1pn4vOJMNgxPr4XUhlev/IZggByQGNiQZLPwu2Bs7IWxwqD69XNiAZ2MK6GW/pF2VaH5H+Si/OUQCgl6wKCpoiSBBIt9pZ6tH3qJnNXkX7qg8A026JOSLPbSAnDnsQo9QLQuerhp4cvzzO+JP8JTfbdRwEC23gBCMoOxLlnUhx8CRoak8b798eDUDF/37bEFS8fJJT1Y/h4m6NKgpWfRfW5H2NmZrgnhVHW3pCR/KmCrER3Pyr8ajZBcsJ0QJEni5zVd9/5+BH/IryJom2ldKpjDgAiidA3NIbobv4iFQtaXqZLuS82o9D8Y6hfigjaBq4xBkGazky4mVVMBYd6JL29g95VdxTslqI3ZtTUSLErne8b3ZQG2LT+F3GemStK4qfj6HWV7KmGchQuGUkqAm9TYb/4aiT61fgV0/92ZSG0iAn/BtZzrrLbgQWlkwK/YQ4wWH22M0XISXPINMn6pK4Ihk0UpNp2RgQdF4h5ZCL6VFJ28NoUozOiSFXsPcW5nvi36bWQIJmj6REwNccoNznbswKFBpCMWBAbng/BLqfROTj0zO+CM5HNxDCivec4w1I2qT6CJo/fR5OMDnEnh5H8eQvNSni7BXScm6Q90IByOOeqRJng1laY4BUzbgyzQbBx0EtvrQYCGudDpsmPfXkrfWup53pR5Ue6D34RADrg4F9WJL8altLzZQgikg4Z7rgiZDnfpxyX6OOqk4R1f3+Nuc9fPaAsFPi2HuWVfYI+B5CWQgBvQgSUtO2qfsSGEZY03rHnCOGoPqi0VHNwZzZ4XpcNKNl7eET0XQAEuX+2CKlhQcNdS/MDEzmYzA+BS9JgjMBr+yLvNwfgI09l0T1DqyYf7ddFrshsLYmIDU0/w5ez7td4MlOqfIylo1IUOKAfaCbwfMkSX2B54mCUTO7ABa2DTcila8FNzmOcRpdXtvfYAczWknFwvIEdZP8t+4NkpIWyHaOP6OZqPUaa+zDmW+xIKS0O3reY3If1URRxvZ4TxW90KTRaaHY8hfhtX841Ce/z1FULHRnw2sSNpENdbTh4hC3Hjr6SVUNbHVqkudQvDxBqgy5qcl9mSfBiTG2TI6FZUR/rPnXYO8Qf.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_e3e57eac-9140-95e6-9b9e-10ec341e0dd0",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1073,
+      "completion_tokens": 559,
+      "total_tokens": 1632,
+      "cost": 0.00166355,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1024,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00166355,
+        "upstream_inference_prompt_cost": 0.00026605,
+        "upstream_inference_completions_cost": 0.0013975
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 442,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -40,
+    "confidence": "medium",
+    "reasoning": "Management's cautious tone, highlighted by continued headwinds language and large non-cash impairments ($873M goodwill plus prior charges), signals elevated regulatory and competitive risks that could pressure results. The modest Q2 earnings beat (+1.7% EPS, +1.9% revenue) and improved adjusted metrics provide limited offset but do not overcome the absence of guidance or macro/illicit trade concerns. Overall mixed signals support a mildly negative excess return view for the next quarter."
+  },
+  "completed_utc": "2026-11-23T18:34:07.950211+00:00"
+}

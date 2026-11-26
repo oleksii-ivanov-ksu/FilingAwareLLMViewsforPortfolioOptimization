@@ -1,0 +1,80 @@
+{
+  "index": 90,
+  "id": "WMT_10-Q_2012",
+  "ticker": "WMT",
+  "form": "10-Q",
+  "year": 2012,
+  "sector": "Consumer Staples",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors approved an increase in the annual dividend for fiscal 2013 to .59 per share, to be paid in four quarterly installments of -bash.3975 per share",
+      "source_quote": "On March 1, 2012, the Board of Directors approved an increase in the annual dividend for fiscal 2013 to .59 per share, an increase of approximately 9% over the .46 per share dividend paid in fiscal 2012. For fiscal 2013, the annual dividend will be paid in four quarterly installments of -bash.3975 per share",
+      "section": "Note 7. Common Stock Dividends"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Pending acquisition of the remaining equity interest in Bounteous Company Limited (BCL), which operates in China under the Trust-Mart banner",
+      "source_quote": "Pursuant to the Share Purchase Agreement, the Company was committed to purchase the remaining interest in BCL. The Company expects to complete its acquisition of the remaining equity interest in BCL in the second quarter of fiscal 2013.",
+      "section": "Note 9. Acquisitions"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The Company filed a Motion to Dismiss on March 5, 2012, in the gender discrimination lawsuit Odle v. Wal-Mart Stores, Inc. in Texas",
+      "source_quote": "On October 28, 2011, the plaintiffs’ attorneys filed a complaint in the United States District Court for the Northern District of Texas entitled Odle v. Wal-Mart Stores, Inc., proposing a class of current and former female associates at the Company’s Texas retail facilities, and the Company filed a Motion to Dismiss on March 5, 2012.",
+      "section": "Note 8. Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Wal-Mart Puerto Rico, Inc. presented documentation demonstrating compliance to the U.S. Army Corps of Engineers (USACE) on March 22, 2012, regarding creek and wetland permit violations in Caguas",
+      "source_quote": "On March 22, 2012, Wal-Mart Puerto Rico presented documentation demonstrating compliance to the USACE.",
+      "section": "Part II. Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The Company received notice in a letter dated April 24, 2012, that the Riverside County District Attorney decided not to pursue further action regarding landfill construction disposal violations",
+      "source_quote": "The Company received notice in a letter dated April 24, 2012, that the District Attorney’s office has decided not to pursue any further action with regard to this matter.",
+      "section": "Part II. Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A shareholder derivative lawsuit, Klein v. Walton, was filed on April 25, 2012, in Delaware Court of Chancery alleging breach of fiduciary duties regarding FCPA compliance",
+      "source_quote": "Klein v. Walton, et al., Delaware Ct. of Chancery, Wilmington, DE, 4/25/12",
+      "section": "Part II. Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A shareholder derivative lawsuit, Cottrell v. Duke, was filed on April 25, 2012, in USDC Western District of Arkansas alleging breach of fiduciary duties regarding FCPA compliance",
+      "source_quote": "Cottrell v. Duke, et al., USDC, Western Dist. of AR, Texarkana, AR, 4/25/12",
+      "section": "Part II. Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A shareholder derivative lawsuit, Emory v. Duke, was filed on April 26, 2012, in Lonoke County Circuit Court alleging breach of fiduciary duties regarding FCPA compliance",
+      "source_quote": "Emory v. Duke, et al., Circuit Ct. of Lonoke County, Lonoke, AR, 4/26/12",
+      "section": "Part II. Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A shareholder derivative lawsuit, Louisiana Municipal Police Employees Retirement System v. Scott, was filed on April 27, 2012, in USDC Western District of Arkansas alleging breach of fiduciary duties regarding FCPA compliance",
+      "source_quote": "Louisiana Municipal Police Employees Retirement System v. Scott, et al., USDC, Western Dist. of AR, Texarkana, AR, 4/27/12",
+      "section": "Part II. Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A shareholder derivative lawsuit, Cohen v. Alvarez, was filed on April 27, 2012, in Delaware Court of Chancery alleging breach of fiduciary duties regarding FCPA compliance",
+      "source_quote": "Cohen v. Alvarez, et al., Delaware Ct. of Chancery, Wilmington, DE, 4/27/12",
+      "section": "Part II. Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A shareholder derivative lawsuit, Tuberville v. Duke, was filed on April 30, 2012, in USDC Western District of Arkansas alleging breach of fiduciary duties regarding FCPA compliance",
+      "source_quote": "Tuberville v. Duke, et al., USDC, Western Dist. of AR, Texarkana, AR, 4/30/12",
+      "section": "Part II. Item 1. Legal Proceedings"
+    }
+  ]
+}

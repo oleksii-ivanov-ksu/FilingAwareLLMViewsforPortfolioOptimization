@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "content_W200_shuffled_text_1",
+    "request": "requests/content_W200_shuffled_text_1.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "shuffled_text",
+    "repeat": 1
+  },
+  "request_sha256": "e3bcb8e64414ddd983b787595c36df0e2ff4a632b0ff5ce5a59311bf3520fc6d",
+  "reserved_max_cost": 0.0073637500000000005,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.00266685,
+  "response": {
+    "id": "gen-1795458721-qs4fJ7J160dAYozxs687",
+    "object": "chat.completion",
+    "created": 1795458721,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": 20,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Slight Q2 2025 earnings beat (+1.7% EPS, +1.9% revenue) and completed asset sales ($9.2B proceeds) offer modest support, while 10-Q sentiment remains neutral with no forward guidance. Elevated risks around regulatory changes, CVOW project execution, and weather events introduce uncertainty, offset by low analyst dispersion (2.9%). Overall signals are mixed, supporting a small positive excess return view.\"\n}",
+          "refusal": null,
+          "reasoning": "I am preparing the investment view for MO as of 2025-09-30.\n\nThe MO filing appears to describe a utility company with CVOW and East Ohio operations rather than a typical consumer staples business. Key risks include regulatory changes, extreme weather, and CVOW project execution. The company also reported major asset sales totaling $9.2B and CVOW-related charges.\n\nThe 10-Q shows neutral sentiment with no strong guidance. Q2 2025 earnings beat estimates slightly. Analyst coverage is thin with six analysts and low dispersion. Recent returns are positive. The CVOW project resembles an offshore wind initiative, which seems mismatched for a typical MO business. The view will be neutral.\n\nThe view is set at +20 basis points with medium confidence. The slight earnings beat and asset sales are weighed against the CVOW risks and neutral guidance.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am preparing the investment view for MO as of 2025-09-30.\n\nThe MO filing appears to describe a utility company with CVOW and East Ohio operations rather than a typical consumer staples business. Key risks include regulatory changes, extreme weather, and CVOW project execution. The company also reported major asset sales totaling $9.2B and CVOW-related charges.\n\nThe 10-Q shows neutral sentiment with no strong guidance. Q2 2025 earnings beat estimates slightly. Analyst coverage is thin with six analysts and low dispersion. Recent returns are positive. The CVOW project resembles an offshore wind initiative, which seems mismatched for a typical MO business. The view will be neutral.\n\nThe view is set at +20 basis points with medium confidence. The slight earnings beat and asset sales are weighed against the CVOW risks and neutral guidance.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_d4b0ba7c-29eb-49f0-979d-334eb2e891f7",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1093,
+      "completion_tokens": 574,
+      "total_tokens": 1667,
+      "cost": 0.00266685,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 128,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00266685,
+        "upstream_inference_prompt_cost": 0.00123185,
+        "upstream_inference_completions_cost": 0.001435
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 460,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": 20,
+    "confidence": "medium",
+    "reasoning": "Slight Q2 2025 earnings beat (+1.7% EPS, +1.9% revenue) and completed asset sales ($9.2B proceeds) offer modest support, while 10-Q sentiment remains neutral with no forward guidance. Elevated risks around regulatory changes, CVOW project execution, and weather events introduce uncertainty, offset by low analyst dispersion (2.9%). Overall signals are mixed, supporting a small positive excess return view."
+  },
+  "completed_utc": "2026-11-23T18:32:08.873973+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "index": 46,
+  "id": "CHRW_10-Q_2013",
+  "ticker": "CHRW",
+  "form": "10-Q",
+  "year": 2013,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 5,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Pro forma adjustments presented for the acquisition of Phoenix International, including six-month adjustments of $(5.08) million for contractual compensation changes, $8.13 million for additional amortization of identifiable intangible assets, and $1.28 million for incremental interest expense.",
+      "source_quote": "For the three and six month periods ended June 30, 2012, Phoenix pro forma financial information includes the following adjustments (in thousands). Contractual changes in compensation $ (5,080 ) Additional amortization expense on identifiable intangible assets 4,067 8,133 ... Incremental interest expense 638 1,275",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Paid contingent purchase price of $927 thousand during the six months ended June 30, 2013, related to previous acquisitions.",
+      "source_quote": "Payment of contingent purchase price (927)",
+      "section": "Condensed Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased common stock for a total cost of $96.43 million ($96,432 thousand) during the six months ended June 30, 2013.",
+      "source_quote": "Repurchase of common stock (96,432)",
+      "section": "Condensed Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Paid cash dividends of $113.03 million ($113,031 thousand) during the six months ended June 30, 2013.",
+      "source_quote": "Cash dividends (113,031)",
+      "section": "Condensed Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into short-term borrowings resulting in proceeds of $2,134.02 million ($2,134,023 thousand) and made payments on short-term borrowings of $2,022.02 million ($2,022,017 thousand) during the six months ended June 30, 2013.",
+      "source_quote": "Proceeds from short-term borrowings 2,134,023 Payments on short-term borrowings (2,022,017)",
+      "section": "Condensed Consolidated Statements of Cash Flows"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "index": 51,
+  "id": "CMG_10-Q_2019",
+  "ticker": "CMG",
+  "form": "10-Q",
+  "year": 2019,
+  "sector": "Consumer Discretionary",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "restructuring",
+      "description": "Corporate headquarters relocation to Newport Beach, California, consolidation of corporate functions in Columbus, Ohio, and closure of headquarters in Denver, Colorado and other corporate offices in New York City.",
+      "source_quote": "In May 2018, we announced that we would open a headquarters office in Newport Beach, California, consolidate certain corporate administrative functions into our existing office in Columbus, Ohio, and close our existing headquarters offices in Denver, Colorado, as well as additional corporate offices in New York, New York.",
+      "section": "Note 5. Corporate Restructuring Costs"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors announced an additional $100 million in authorized common stock repurchases with no expiration date on February 6, 2019.",
+      "source_quote": "This column includes an additional $100 million in authorized repurchases announced on February 6, 2019. Each repurchase program has no expiration date.",
+      "section": "Part II, Item 2. Unregistered Sales of Equity Securities and Use of Proceeds"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Elizabeth Kelley filed a purported class action complaint in the U.S. District Court for the District of Colorado on July 20, 2017, alleging failure to disclose material information regarding quality controls and safeguards in connection with foodborne illnesses at a Sterling, Virginia restaurant. The court granted Chipotle's motion to dismiss the case with prejudice on March 29, 2019.",
+      "source_quote": "Additionally, on July 20, 2017, Elizabeth Kelley filed a complaint in the U.S. District Court for the District of Colorado on behalf of a purported class of purchasers of shares of our common stock between February 5, 2016 and July 19, 2017, with claims and factual allegations similar to the Ong complaint, based primarily on media reports regarding illnesses associated with a Chipotle restaurant in Sterling, Virginia. On March 29, 2019, the court granted our motion to dismiss, with prejudice.",
+      "section": "Note 11. Commitments and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Susie Ong filed a shareholder class action complaint in the U.S. District Court for the Southern District of New York on January 8, 2016, alleging failure to disclose material quality control and safeguard information. Following dismissal with prejudice and denial of a motion for relief, the plaintiff initiated an appeal to the U.S. Court of Appeals for the Second Circuit on December 20, 2018.",
+      "source_quote": "On January 8, 2016, Susie Ong filed a complaint in the U.S. District Court for the Southern District of New York on behalf of a purported class of purchasers of shares of our common stock between February 4, 2015 and January 5, 2016... On December 20, 2018, the plaintiff initiated an appeal to the U.S. Court of Appeals for the Second Circuit.",
+      "section": "Note 11. Commitments and Contingencies"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Incurred $1.395 million of operating lease impairment and other office closure costs during the three months ended March 31, 2019, in connection with corporate restructuring.",
+      "source_quote": "Operating lease impairment and other office closure costs (2)... $1,395",
+      "section": "Note 5. Corporate Restructuring Costs"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Incurred $6.9 million in impairment, closure costs, and asset disposals for the three months ended March 31, 2019, representing an increase from $4.9 million in Q1 2018, primarily due to asset retirements from the restaurant refresh project.",
+      "source_quote": "Impairment, closure costs and asset disposals increased in dollar terms during the three months ended March 31, 2019, primarily as a result of asset retirements associated with our restaurant refresh project.",
+      "section": "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    }
+  ]
+}

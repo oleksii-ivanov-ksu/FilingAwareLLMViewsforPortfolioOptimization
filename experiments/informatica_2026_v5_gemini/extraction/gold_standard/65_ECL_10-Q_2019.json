@@ -1,0 +1,50 @@
+{
+  "index": 65,
+  "id": "ECL_10-Q_2019",
+  "ticker": "ECL",
+  "form": "10-Q",
+  "year": 2019,
+  "sector": "Materials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "restructuring",
+      "description": "Increased goals for the Accelerate 2020 restructuring plan with total anticipated costs of $260 million ($190 million after tax) to simplify processes, reduce management layers, and consolidate facilities, and recorded restructuring charges of $40.5 million ($30.4 million after tax) in the first quarter of 2019",
+      "source_quote": "During the third quarter of 2018, the Company formally commenced a restructuring plan Accelerate 2020 (“the Plan”), to leverage technology and systems investments and organizational changes. During the first quarter of 2019, the Company raised its goals for the Plan to simplify and automate processes and tasks, reduce complexity and management layers, consolidate facilities and focus on key long-term growth areas by leveraging technology and structural improvements. The Company now expects that the restructuring activities will be completed by the end of 2020, with total anticipated costs of $260 million ($190 million after tax) over this period of time... The Company recorded restructuring charges of $40.5 million ($30.4 million after tax) in the first quarter of 2019.",
+      "section": "Note 2. Special (Gains) and Charges / MD&A"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Anticipated spin-off of the Upstream Energy business into a new stand-alone company, with $4.3 million of spin-off related charges recorded in the first quarter of 2019",
+      "source_quote": "These statements include the anticipated spin-off of our Upstream Energy business into a new stand-alone company and the expected form, timing and tax effects... Special (gains) and charges: Upstream energy spin-off: 4.3 [million]",
+      "section": "Forward-Looking Statements / Note 2"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed multiple business acquisitions during the first quarter of 2019 for an aggregate purchase price of $302.3 million (net cash paid of $281.8 million), which were not individually significant, and allocated goodwill of $90.1 million to Global Industrial and $90.3 million to Global Institutional segments",
+      "source_quote": "Acquisitions during the first quarter of 2019 and 2018 were not significant to the Company’s consolidated financial statements; therefore, pro forma financial information is not presented... Total aggregate purchase price: 302.3... Net cash paid for acquisitions, including acquisition related liabilities and contingent consideration: $281.8... Goodwill associated with current year acquisitions: Global Industrial $90.1 [million], Global Institutional $90.3 [million]",
+      "section": "Note 3. Acquisitions and Dispositions / Note 6. Goodwill and Other Intangible Assets"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Common stock repurchase program of up to 20 million shares authorized in February 2015, with 8,004,726 shares remaining to be repurchased as of March 31, 2019",
+      "source_quote": "In February 2015, the Company’s Board of Directors authorized the repurchase of up to 20 million shares of its common stock, including shares to be repurchased under Rule 10b5–1. As of March 31, 2019, 8,004,726 shares remained to be repurchased under the Company’s repurchase authorization.",
+      "section": "Note 10. Shareholders’ Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared quarterly dividends of $0.460 per common share in the first quarter of 2019, an increase from $0.410 in the first quarter of 2018",
+      "source_quote": "Dividends declared per common share were $0.460 and $0.410 in the first quarter of 2019 and 2018, respectively.",
+      "section": "Item 1. Financial Statements - Footnote (b) of Consolidated Statement of Equity"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Defending various lawsuits and claims asserted against subsidiary Nalco Company",
+      "source_quote": "The Company believes the claims asserted against Nalco Company are without merit and intends to defend these lawsuits vigorously.",
+      "section": "Note 17. Commitments and Contingencies"
+    }
+  ]
+}

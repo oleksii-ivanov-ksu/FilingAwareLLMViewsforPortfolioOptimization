@@ -1,0 +1,62 @@
+{
+  "index": 3,
+  "id": "EOG_10-Q_2019",
+  "ticker": "EOG",
+  "form": "10-Q",
+  "year": 2019,
+  "sector": "Energy",
+  "tier": "tier1a_tuning",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Board increased quarterly cash dividend from $0.22 to $0.2875 per share, effective with the July 31, 2019 payment",
+      "source_quote": "On May 2, 2019, EOG's Board of Directors increased the quarterly cash dividend on the common stock from the previous $0.22 per share to $0.2875 per share, effective beginning with the dividend to be paid on July 31, 2019, to stockholders of record as of July 17, 2019.",
+      "section": "Notes to Financial Statements (Note 10, Long-Term Debt and Common Stock)"
+    },
+    {
+      "event_type": "impairment",
+      "description": "$25 million pretax impairment of proved oil and gas properties and other assets in Q1 2019 (carrying amount $208M written down to $183M), including $24M commodity price-related write-down of other assets",
+      "source_quote": "Proved oil and gas properties and other assets with a carrying amount of $208 million were written down to their fair value of $183 million, resulting in pretax impairment charges of $25 million for the three months ended March 31, 2019.",
+      "section": "Notes to Financial Statements (Note 11, Fair Value Measurements)"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "$303 million cash property acquisitions in the United States during Q1 2019",
+      "source_quote": "During the three months ended March 31, 2019, EOG paid cash for property acquisitions of $303 million in the United States.",
+      "section": "Notes to Financial Statements (Note 13, Acquisitions and Divestitures)"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "$62 million of non-cash additions to oil and gas properties through property exchanges in Q1 2019",
+      "source_quote": "Non-cash investing activities for the three months ended March 31, 2019 and 2018, included additions of $62 million and $9 million, respectively, to EOG's oil and gas properties as a result of property exchanges.",
+      "section": "Notes to Financial Statements (Note 4, Supplemental Cash Flow Information)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sale of proved property in Texas for approximately $15 million in proceeds, resulting in a $4 million net loss on asset dispositions",
+      "source_quote": "Additionally, during the three months ended March 31, 2019, EOG recognized a net loss on asset dispositions of $(4) million, primarily due to the sale of proved property in Texas, and received proceeds of approximately $15 million.",
+      "section": "Notes to Financial Statements (Note 13, Acquisitions and Divestitures)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sale of EOG's United Kingdom operations, completed in the fourth quarter of 2018",
+      "source_quote": "The United Kingdom operations were sold in the fourth quarter of 2018.",
+      "section": "Notes to Financial Statements (Note 5, Segment Information)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repayment in October 2018 of $350 million aggregate principal amount of 6.875% Senior Notes due 2018",
+      "source_quote": "Interest expense, net of $55 million for the first quarter of 2019 decreased $7 million compared to the same prior year period primarily due to repayment in October 2018 of the $350 million aggregate principal amount of 6.875% Senior Notes due 2018.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Compensation Committee adopted a new EOG Resources, Inc. Annual Bonus Plan (effective January 1, 2019) on April 29, 2019, and terminated the Amended and Restated Executive Officer Annual Bonus Plan",
+      "source_quote": "On April 29, 2019, the Compensation Committee of the Board (Compensation Committee) approved and adopted the EOG Resources, Inc. Annual Bonus Plan (Annual Bonus Plan), effective as of January 1, 2019.",
+      "section": "Part II, Item 5 Other Information"
+    }
+  ]
+}

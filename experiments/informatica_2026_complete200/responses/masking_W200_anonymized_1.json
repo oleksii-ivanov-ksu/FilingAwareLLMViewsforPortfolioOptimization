@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "masking_W200_anonymized_1",
+    "request": "requests/masking_W200_anonymized_1.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "anonymized",
+    "repeat": 1
+  },
+  "request_sha256": "003cad85c3b684a02c0b3197e34575df7fedf1ac02124b6218acec8d5c7369ac",
+  "reserved_max_cost": 0.0073525,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.00172605,
+  "response": {
+    "id": "gen-1795458738-9gYBIKpETLYA3cPcgGVF",
+    "object": "chat.completion",
+    "created": 1795458738,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -30,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management's cautious tone, continued references to headwinds, and large non-cash impairments ($873M goodwill plus prior charges) signal ongoing segment challenges and elevated risks despite the modest Q2 earnings beat. No forward guidance was provided, and prominent regulatory/competitive risks from the 10-K remain unmitigated. The combination of positive surprise offset by negative qualitative signals supports a mildly negative excess return view.\"\n}",
+          "refusal": null,
+          "reasoning": "I am analyzing the provided SEC filings and analyst data to formulate an investment view for Company_A.\n\nCompany_A appears to be a tobacco and alternative products company. The 10-K highlights regulatory, litigation, and competition risks. I am now reviewing the 10-Q filed on July 30, 2025.\n\nThe 10-Q shows cautious sentiment. The company recorded a $70 million net pre-tax charge and a $873 million goodwill impairment for e-vapor. Adjusted results improved despite ongoing headwinds. Earnings beat estimates by 1.7% and revenue by 1.9%. Analyst coverage is thin with six analysts and low estimate dispersion. Recent returns are positive but volatility is elevated at 21.1%.\n\nThe earnings beat is weighed against the $873 million non-cash impairment and cautious management guidance. A conservative view is emerging near zero basis points.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am analyzing the provided SEC filings and analyst data to formulate an investment view for Company_A.\n\nCompany_A appears to be a tobacco and alternative products company. The 10-K highlights regulatory, litigation, and competition risks. I am now reviewing the 10-Q filed on July 30, 2025.\n\nThe 10-Q shows cautious sentiment. The company recorded a $70 million net pre-tax charge and a $873 million goodwill impairment for e-vapor. Adjusted results improved despite ongoing headwinds. Earnings beat estimates by 1.7% and revenue by 1.9%. Analyst coverage is thin with six analysts and low estimate dispersion. Recent returns are positive but volatility is elevated at 21.1%.\n\nThe earnings beat is weighed against the $873 million non-cash impairment and cautious management guidance. A conservative view is emerging near zero basis points.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_78449954-f61c-42fd-86a2-0b587c324b5d",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1073,
+      "completion_tokens": 584,
+      "total_tokens": 1657,
+      "cost": 0.00172605,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1024,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00172605,
+        "upstream_inference_prompt_cost": 0.00026605,
+        "upstream_inference_completions_cost": 0.00146
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 481,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -30,
+    "confidence": "medium",
+    "reasoning": "Management's cautious tone, continued references to headwinds, and large non-cash impairments ($873M goodwill plus prior charges) signal ongoing segment challenges and elevated risks despite the modest Q2 earnings beat. No forward guidance was provided, and prominent regulatory/competitive risks from the 10-K remain unmitigated. The combination of positive surprise offset by negative qualitative signals supports a mildly negative excess return view."
+  },
+  "completed_utc": "2026-11-23T18:32:27.766562+00:00"
+}

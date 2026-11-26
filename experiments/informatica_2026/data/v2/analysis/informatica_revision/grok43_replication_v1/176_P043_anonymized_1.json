@@ -1,0 +1,14 @@
+{
+  "job": {
+    "case_id": "P043",
+    "condition": "anonymized",
+    "repeat": 1,
+    "order": 176
+  },
+  "parsed": {
+    "view_bps": 50,
+    "confidence": "medium"
+  },
+  "valid": true,
+  "cost": 0.00162855
+}

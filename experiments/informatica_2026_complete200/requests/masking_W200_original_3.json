@@ -1,0 +1,25 @@
+{
+  "model": "x-ai/grok-4.3",
+  "temperature": 0.3,
+  "max_tokens": 2000,
+  "response_format": {
+    "type": "json_object"
+  },
+  "provider": {
+    "only": [
+      "xai"
+    ],
+    "allow_fallbacks": false,
+    "require_parameters": true
+  },
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a quantitative investment analyst. Your task is to generate investment views based on SEC filings and analyst data.\n\nA \"view\" is your expected EXCESS return for the stock over the next quarter, expressed in BASIS POINTS (bps). 100 bps = 1%.\n\nGuidelines:\n- Range: -300 to +300 bps (extreme cases)\n- Typical range: -100 to +100 bps\n- 0 bps = no view (neutral)\n\nConsider these factors:\n1. Sentiment & Guidance: Is management confident or cautious?\n2. Risk Factors: Any new or elevated risks?\n3. Key Events: M&A, restructuring, litigation?\n4. Earnings Surprise: Beat or miss vs consensus?\n5. Analyst Dispersion: High dispersion = more uncertainty\n\nConfidence levels:\n- HIGH: Clear signals, low uncertainty\n- MEDIUM: Mixed signals or moderate uncertainty\n- LOW: Conflicting signals or high uncertainty\n\nIMPORTANT:\n- Base your view ONLY on the information provided\n- Do NOT use external knowledge about the company\n- Be conservative - avoid extreme views without strong evidence\n- Explain your reasoning briefly (2-3 sentences)\n\nRespond in JSON format with exactly these fields:\n{\n  \"view_bps\": <integer from -300 to 300>,\n  \"confidence\": \"<high|medium|low>\",\n  \"reasoning\": \"<2-3 sentence explanation>\"\n}"
+    },
+    {
+      "role": "user",
+      "content": "Generate an investment view for MO as of 2025-07-31 (after Six Months Ended June 30, 2025 filing).\n\n## Company: MO (Consumer Staples)\n\n## Latest 10-K Summary (filed 2025-02-27)\n- Risk Summary: Primary risks include regulatory/FDA actions, illicit trade, competition from innovative/illicit products, litigation/patent issues, macroeconomic pressures on consumers, supply chain disruptions, asset impairments.\n- Key Risks: competition: Operating companies face significant competition in product quality, taste, price, innovation, marke; regulatory: Broad FDA regulatory authority, pre-market reviews, product standards, enforcement inaction on illic; macroeconomic: Discretionary income pressures from high prices, inflation, wage growth lag, high credit delinquency\n- Key Events: Optimize & Accelerate Initiative announced October 2024; multi-phase to centralize/automate processe, Skoal trademark non-cash pre-tax impairment of $354M in Q2 2024 due to MST volume declines from inno, Assignment of IQOS System U.S. commercialization rights to PMI in April 2024; pre-tax gain $2.7B., ITC final determination Jan 29, 2025 finding NJOY ACE infringes JUUL patents; exclusion/cease-desist, NJOY Transaction completed June 1, 2023.\n\n## Latest 10-Q Summary (filed 2025-07-30)\n- Sentiment: cautious - Management uses language such as 'continued headwinds', 'monitoring closely', 'potential material adverse effect', and notes significant non-cash impairments while highlighting that adjusted results improved.\n- Guidance: cautious\n  - Revenue outlook: Not specified\n  - Earnings outlook: Not specified\n- Recent Events: Recorded net pre-tax charges of $70 million (six months) and $16 million (three months) related to I, Recorded non-cash goodwill impairment charge of $873 million to reduce carrying value of e-vapor rep\n\n## Most Recent Earnings (Q2 2025, filed 2025-07-30)\n- EPS: Actual $1.41 vs Estimate $1.39 (+1.7% surprise)\n- Revenue: Actual $5.3B vs Estimate $5.2B (+1.9% surprise)\n- Analyst Coverage: 6 analysts\n- Estimate Dispersion: 2.9% (spread in analyst estimates)\n\n## Recent Performance\n- 1-month return: +6.5%\n- 3-month return: +4.7%\n- 60-day volatility: 21.1%\n\n---\n\nBased on the above, provide your investment view in JSON format:\n- view_bps: Expected excess return in basis points (-300 to +300)\n- confidence: high, medium, or low\n- reasoning: Brief explanation (2-3 sentences)"
+    }
+  ]
+}

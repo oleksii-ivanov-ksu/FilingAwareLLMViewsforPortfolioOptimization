@@ -1,0 +1,80 @@
+{
+  "index": 52,
+  "id": "CMI_10-K_2011",
+  "ticker": "CMI",
+  "form": "10-K",
+  "year": 2011,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "On January 4, 2010, Cummins acquired the remaining 70 percent interest in Cummins Western Canada (CWC) from its former principal for approximately $71 million to increase ownership in key portions of the distribution channel, which resulted in a $12 million gain on re-measuring the pre-existing 30 percent interest.",
+      "source_quote": "On January 4, 2010, we acquired the remaining 70 percent interest in Cummins Western Canada (CWC) from our former principal for consideration of approximately $71 million in order to increase our ownership interests in key portions of the distribution channel. ... Distribution segment results also include a $12 million gain for the three months ended March 28, 2010, as we were required to re-measure our pre-existing 30 percent ownership interest in CWC to value in accordance with GAAP.",
+      "section": "Note 21. ACQUISITIONS AND DIVESTITURES"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "In November 2010, Cummins purchased a majority interest in a previously independent North American distributorship for an aggregate purchase price of $27 million, which generated $1 million of goodwill.",
+      "source_quote": "In November 2010, we purchased a majority interest in a previously independent North American distributorship. The acquisition was accounted for under the purchase method of accounting and resulted in an aggregate purchase price of $27 million. The assets of the acquired business were primarily accounts receivable, inventory, and fixed assets. The transaction generated $1 million of goodwill.",
+      "section": "Note 21. ACQUISITIONS AND DIVESTITURES"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In January 2011, Cummins reached an agreement to sell certain assets and liabilities of its exhaust business for an expected sales price of $120 million to $130 million, with an expected pre-tax gain of approximately $70 million to $80 million.",
+      "source_quote": "In January 2011, we reached an agreement to sell certain assets and liabilities of our exhaust business which manufactures exhaust products and select components for emission systems for a variety of applications. ... The sales price is expected to range from $120 million to $130 million, subject to a final financial statement review. ... We expect to recognize a pre-tax gain on the sale of approximately $70 million to $80 million, which includes an allocation of goodwill of approximately $15 million.",
+      "section": "Note 26. SUBSEQUENT EVENTS"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In February 2011, Cummins signed a non-binding letter of intent to sell certain assets and liabilities of its light-duty filtration business for an expected sales price of $70 million to $75 million, with an expected pre-tax gain of approximately $30 million to $35 million.",
+      "source_quote": "In February 2011, we signed a non-binding letter of intent to sell certain assets and liabilities of our light-duty filtration business which manufactures light-duty automotive and industrial filtration solutions. ... The sales price is expected to be approximately $70 million to $75 million, subject to a final financial statement review. ... We expect to recognize a pre-tax gain on the sale of approximately $30 million to $35 million, which includes an allocation of goodwill of approximately $9 million.",
+      "section": "Note 26. SUBSEQUENT EVENTS"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On July 16, 2010, Cummins entered into a new four-year revolving credit agreement with a syndicate of lenders which provides a $1.24 billion senior unsecured revolving credit facility for general corporate purposes.",
+      "source_quote": "On July 16, 2010, we entered into a new four year revolving credit agreement with a syndicate of lenders which provides us with a $1.24 billion unsecured revolving credit facility, the proceeds of which are to be used for the general corporate purposes of Cummins.",
+      "section": "Note 9. DEBT"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In February 2010, Cummins guaranteed 49 percent of a four-year $101 million debt financing arrangement executed by its equity method joint venture, Cummins Olayan Energy Limited, amounting to a $50 million guarantee.",
+      "source_quote": "In February 2010, Cummins Olayan Energy Limited, a 49 percent owned entity accounted for under the equity method, executed a four-year $101 million (at current exchange rates) debt financing arrangement to acquire certain rental equipment assets. As a part of this transaction, we guaranteed 49 percent of the total outstanding loan amount or $50 million (at current exchange rates).",
+      "section": "Note 13. COMMITMENTS AND CONTINGENCIES"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In February 2011, the Board of Directors approved a new share repurchase program authorizing the acquisition of up to $1 billion of Cummins common stock upon the completion of the 2007 $500 million program.",
+      "source_quote": "In February 2011, the Board of Directors approved a new share repurchase program and authorized the acquisition of up to $1 billion of Cummins common stock upon the completion of the $500 million program.",
+      "section": "Note 14. CUMMINS INC. SHAREHOLDERS' EQUITY"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In July 2010, the Board of Directors approved a 50 percent increase in the quarterly dividends on common stock from $0.175 per share to $0.2625 per share.",
+      "source_quote": "In July 2010, our Board of Directors approved a 50 percent increase in the quarterly dividends on our common stock from $0.175 per common share to $0.2625 per common share.",
+      "section": "Note 14. CUMMINS INC. SHAREHOLDERS' EQUITY"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In April 2010, Cummins terminated its existing trade receivables facility and entered into a new 364-day agreement with a financial institution to sell trade receivables to a special purpose subsidiary up to $250 million, accounted for as secured borrowings.",
+      "source_quote": "In April 2010, we terminated our existing trade receivables facility and entered into a new 364-day agreement (subject to renewal) with a financial institution to sell trade receivables from time to time to Cummins Trade Receivables, LLC (CTR), a wholly-owned special purpose subsidiary, for the purpose of obtaining credit secured by such receivables from one or more commercial paper conduit and committed institutional lenders. ... The amount of aggregate advances that can be outstanding under the agreement at any point in time is limited to the lesser of $250 million or, with certain adjustments, the amount of eligible receivables held by CTR.",
+      "section": "Note 23. SALES OF ACCOUNTS RECEIVABLE"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "In response to economic deterioration, Cummins executed major restructuring actions starting in late 2008 and 2009, reducing its workforce by 1,000 professional employees and approximately 3,200 hourly employees, along with closure of several facilities, with terminations substantially complete by December 31, 2010.",
+      "source_quote": "In 2009, we executed restructuring actions in response to a reduction in orders in most of our U.S. and foreign markets due to the deterioration in the global economy. We reduced our global workforce by approximately 1,000 professional employees. In addition, we took numerous employee actions at many of our manufacturing locations, including approximately 3,200 hourly employees, significant downsizing at numerous facilities and complete closure of several facilities and branch distributor locations. ... At December 31, 2010, of the approximately 4,200 employees affected by this plan, substantially all terminations were complete.",
+      "section": "Note 22. RESTRUCTURING AND OTHER CHARGES"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Effective January 1, 2010, Cummins deconsolidated its joint venture Cummins Komatsu Engine Corporation (CKEC) as a result of adopting the amended variable interest entities accounting standard, transitioning it to the equity method.",
+      "source_quote": "The only significant impact of the adoption of this standard was to deconsolidate Cummins Komatsu Engine Corporation (CKEC) as of January 1, 2010 and to account for CKEC under GAAP for equity method investees. ... Prior to January 1, 2010, we were deemed the primary beneficiary of this VIE due to the pricing arrangements of purchases and the substantial volume of purchases we made from the VIE.",
+      "section": "Note 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES"
+    }
+  ]
+}

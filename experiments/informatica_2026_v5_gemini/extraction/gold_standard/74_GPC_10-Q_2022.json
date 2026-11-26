@@ -1,0 +1,50 @@
+{
+  "index": 74,
+  "id": "GPC_10-Q_2022",
+  "ticker": "GPC",
+  "form": "10-Q",
+  "year": 2022,
+  "sector": "Consumer Discretionary",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of Kaman Distribution Group (KDG) for approximately $1.3 billion in cash, financed using a combination of revolving credit facility borrowings, accounts receivable sales, and cash.",
+      "source_quote": "On January 3, 2022, we, through our wholly-owned subsidiary, Motion Industries, Inc., acquired all of the equity interests in KDG for a purchase price of approximately $1.3 billion in cash. ... The KDG acquisition was financed using a combination of borrowings under the existing unsecured revolving credit facility, proceeds of $200 million from the selling of additional receivables under our amended A/R Sales Agreement and $109 million of cash.",
+      "section": "Note 5. Acquisitions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of real estate leased to S.P. Richards, resulting in a one-time pre-tax gain of $103 million ($102.8 million).",
+      "source_quote": "The increase in total operating expenses for both periods was partially offset by a one-time benefit of $103 million from a gain on the sale of real estate that had been leased to S.P. Richards.",
+      "section": "Note 2. Segment Information / Item 2. MD&A"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recorded a $17 million non-cash impairment charge in June 2022 due to the decision to retire certain legacy Industrial trade names as part of the KDG integration and rebranding strategy.",
+      "source_quote": "In June 2022, we incurred a $17 million non-cash impairment charge related to our decision to retire certain legacy Industrial trade names, classified as other intangible assets, prior to the end of their estimated useful lives as part of the KDG integration and rebranding strategy.",
+      "section": "Note 5. Acquisitions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $500 million of 1.750% Senior Notes due 2025 and $500 million of 2.750% Senior Notes due 2032 to repay borrowings under the Revolving Credit Facility incurred for the KDG acquisition.",
+      "source_quote": "On January 6, 2022, we issued $500 million of unsecured 1.750% Senior Notes due 2025. Simultaneously, we issued $500 million of unsecured 2.750% Senior Notes due 2032. ... We utilized the proceeds from these offerings to repay borrowings under our Revolving Credit Facility, which were incurred to finance a significant portion of the Kaman Distribution Group (\"KDG\") acquisition.",
+      "section": "Note 1. General - Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Amended the accounts receivable sales agreement to increase the facility limit by $200 million, bringing the total capacity to $1 billion.",
+      "source_quote": "On January 3, 2022, we amended our A/R Sales Agreement to increase the facility limit by an additional $200 million bringing the total to $1 billion.",
+      "section": "Item 2. MD&A - Liquidity and Capital Resources"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Announced a 10% increase in the regular quarterly cash dividend, raising the annual rate to $3.58 per share.",
+      "source_quote": "On February 14, 2022, we announced a 10% increase in the regular quarterly cash dividend for 2022. Our Board of Directors increased the cash dividend payable to an annual rate of $3.58 per share compared with the previous dividend of $3.26 per share.",
+      "section": "Item 2. MD&A - Liquidity and Capital Resources"
+    }
+  ]
+}

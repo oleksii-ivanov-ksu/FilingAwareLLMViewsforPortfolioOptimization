@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2015-09-30",
+    "group": "core",
+    "removal_distance": 0.03693761400607671,
+    "removal_between_repeats": 0.011547726449840305,
+    "replacement_distance": 0.03909262135388943,
+    "replacement_between_repeats": 0.014483649982614541,
+    "masking_distance": 0.026506352220844843,
+    "masking_between_repeats": 0.015137121169893327
+  },
+  {
+    "date": "2015-09-30",
+    "group": "holdout",
+    "removal_distance": 0.03703655198521413,
+    "removal_between_repeats": 0.007828712380277356,
+    "replacement_distance": 0.05859496842505481,
+    "replacement_between_repeats": 0.010069727070634492,
+    "masking_distance": 0.04300833864819329,
+    "masking_between_repeats": 0.01250218475071438
+  },
+  {
+    "date": "2025-09-30",
+    "group": "core",
+    "removal_distance": 0.032182149283621245,
+    "removal_between_repeats": 0.007635311778043102,
+    "replacement_distance": 0.0279901680889959,
+    "replacement_between_repeats": 0.00918839856288506,
+    "masking_distance": 0.008530802730220636,
+    "masking_between_repeats": 0.006312768660159597
+  },
+  {
+    "date": "2025-09-30",
+    "group": "holdout",
+    "removal_distance": 0.027296726754020624,
+    "removal_between_repeats": 0.007047840662827445,
+    "replacement_distance": 0.02885180888665697,
+    "replacement_between_repeats": 0.006916750494949483,
+    "masking_distance": 0.015628044143840093,
+    "masking_between_repeats": 0.013294782757965024
+  },
+  {
+    "date": "2010-09-30",
+    "group": "core",
+    "removal_distance": 0.01762224987321019,
+    "removal_between_repeats": 0.003702322588908085,
+    "replacement_distance": 0.01634429760389766,
+    "replacement_between_repeats": 0.005711619083769215,
+    "masking_distance": 0.0073659549297807455,
+    "masking_between_repeats": 0.0048203397393418125
+  },
+  {
+    "date": "2010-09-30",
+    "group": "holdout",
+    "removal_distance": 0.0205471792181649,
+    "removal_between_repeats": 0.005079757918301475,
+    "replacement_distance": 0.019331342505585748,
+    "replacement_between_repeats": 0.00894493966474819,
+    "masking_distance": 0.009016490335448461,
+    "masking_between_repeats": 0.006282884170552093
+  },
+  {
+    "date": "2020-09-30",
+    "group": "core",
+    "removal_distance": 0.00786518637629904,
+    "removal_between_repeats": 0.0021437976582570277,
+    "replacement_distance": 0.007112934771645502,
+    "replacement_between_repeats": 0.003039629373569764,
+    "masking_distance": 0.0026990688827534795,
+    "masking_between_repeats": 0.0023790684649876047
+  },
+  {
+    "date": "2020-09-30",
+    "group": "holdout",
+    "removal_distance": 0.00920777753476842,
+    "removal_between_repeats": 0.0017641487531780294,
+    "replacement_distance": 0.00851851000159635,
+    "replacement_between_repeats": 0.0015712389994501311,
+    "masking_distance": 0.00370662203806818,
+    "masking_between_repeats": 0.0023768254097056704
+  },
+  {
+    "date": "2023-09-30",
+    "group": "core",
+    "removal_distance": 0.019951085264007677,
+    "removal_between_repeats": 0.0045150626088863105,
+    "replacement_distance": 0.018819620193420296,
+    "replacement_between_repeats": 0.006043475444313332,
+    "masking_distance": 0.021771667028650916,
+    "masking_between_repeats": 0.010798142502595061
+  },
+  {
+    "date": "2023-09-30",
+    "group": "holdout",
+    "removal_distance": 0.02322778328929989,
+    "removal_between_repeats": 0.007880084702308573,
+    "replacement_distance": 0.037776656898009374,
+    "replacement_between_repeats": 0.00638222934151679,
+    "masking_distance": 0.024380189824141307,
+    "masking_between_repeats": 0.014722375571231022
+  }
+]

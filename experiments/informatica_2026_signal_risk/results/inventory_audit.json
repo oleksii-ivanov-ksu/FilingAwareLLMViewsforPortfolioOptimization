@@ -1,0 +1,35 @@
+{
+  "raw_html": 9117,
+  "extracted_json": 9101,
+  "extracted_before_2006": 1100,
+  "extracted_2006_2025": 8001,
+  "view_rows": 8001,
+  "view_json": 8001,
+  "raw_without_extraction": [
+    "data/raw/AES/filings/10-K_2003-03-26.html",
+    "data/raw/AES/filings/10-Q_2003-05-15.html",
+    "data/raw/AES/filings/10-Q_2003-08-13.html",
+    "data/raw/AES/filings/10-Q_2003-11-14.html",
+    "data/raw/ALL/filings/10-Q_2004-11-03.html",
+    "data/raw/ALL/filings/10-Q_2005-05-03.html",
+    "data/raw/ALL/filings/10-Q_2005-08-03.html",
+    "data/raw/ALL/filings/10-Q_2005-11-01.html",
+    "data/raw/CMS/filings/10-Q_2004-05-07.html",
+    "data/raw/CMS/filings/10-Q_2004-08-06.html",
+    "data/raw/CMS/filings/10-Q_2004-11-04.html",
+    "data/raw/CMS/filings/10-Q_2005-05-05.html",
+    "data/raw/CMS/filings/10-Q_2005-08-04.html",
+    "data/raw/CMS/filings/10-Q_2005-11-01.html",
+    "data/raw/EXPE/filings/10-Q_2005-08-12.html",
+    "data/raw/MO/filings/10-Q_2025-07-30.html"
+  ],
+  "new_response_accounting": {
+    "pilot": 300,
+    "text_ablation": 1791,
+    "portfolio_masking": 1194,
+    "total": 3285,
+    "two_portfolio_experiments": 2985
+  },
+  "one_to_one_view_to_extraction_match": 8001,
+  "view_date_offset_calendar_days": 1
+}

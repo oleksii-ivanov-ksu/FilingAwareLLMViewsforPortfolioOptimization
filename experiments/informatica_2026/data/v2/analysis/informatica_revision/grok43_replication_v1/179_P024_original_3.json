@@ -1,0 +1,14 @@
+{
+  "job": {
+    "case_id": "P024",
+    "condition": "original",
+    "repeat": 3,
+    "order": 179
+  },
+  "parsed": {
+    "view_bps": -80,
+    "confidence": "medium"
+  },
+  "valid": true,
+  "cost": 0.0025743
+}

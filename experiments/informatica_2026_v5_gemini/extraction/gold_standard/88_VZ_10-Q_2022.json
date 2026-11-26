@@ -1,0 +1,56 @@
+{
+  "index": 88,
+  "id": "VZ_10-Q_2022",
+  "ticker": "VZ",
+  "form": "10-Q",
+  "year": 2022,
+  "sector": "Communication Services",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase of $5.032 billion aggregate principal amount of senior unsecured notes through tender offers for a total cash consideration of $5.587 billion.",
+      "source_quote": "Tender Offers... Verizon and subsidiary 2.987 % - 8.950 % notes, due 2032 - 2056... Principal Amount Purchased: $5,032 [million] Cash Consideration: $5,587 [million]",
+      "section": "Note 5"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issuance of $1.0 billion in 3.875% notes due 2052 (Green Bonds) and $655 million in 4.100% notes due 2055, generating aggregate net proceeds of $1.632 billion.",
+      "source_quote": "Verizon 3.875 % notes due 2052... $1,000 [million]... Verizon 4.100 % notes due 2055... 655... Net Proceeds... $1,632 [million]",
+      "section": "Note 5"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Completion of Series 2022-1 and Series 2022-2 Asset-Backed Notes (ABS Notes) issuances for an aggregate principal amount of $1.7 billion.",
+      "source_quote": "During the three months ended March 31, 2022 , we completed the following ABS Notes transactions... Total $ 1,700 million",
+      "section": "Note 5"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Payment of $1.4 billion for obligations related to accelerated clearing incentives for the C-Band spectrum acquired in Auction 107.",
+      "source_quote": "In January 2022, we made additional payments of $ 1.4 billion for obligations related to accelerated clearing incentives",
+      "section": "Note 3"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Agreements signed with satellite operators for early clearance of C-Band spectrum, with estimated costs of up to $340 million.",
+      "source_quote": "In March 2022, Verizon signed agreements with satellite operators in which operators agreed to clear C-Band spectrum in certain markets and frequencies ahead of the previously expected December 2023 timeframe... Our estimated costs relating to these agreements could reach $340 million.",
+      "section": "Note 3"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Payment of $94 million in severance benefits during the first quarter of 2022.",
+      "source_quote": "During the three months ended March 31, 2022, we paid severance benefits of $ 94 million.",
+      "section": "Note 8"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Establishment of a short-term uncommitted credit facility of up to $1.0 billion, and execution of $9.4 billion in commercial paper issuances and $5.6 billion in repayments.",
+      "source_quote": "In March 2022, we entered into a short-term uncommitted credit facility with the ability to borrow up to $ 1.0 billion... we issued $ 9.4 billion in commercial paper and we repaid $ 5.6 billion of commercial paper.",
+      "section": "Note 5"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "index": 32,
+  "id": "APH_10-Q_2025",
+  "ticker": "APH",
+  "form": "10-Q",
+  "year": 2025,
+  "sector": "Information Technology",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of the Andrew Business from CommScope on January 31, 2025, for an aggregate purchase price of approximately $2,033.5 million net of cash acquired.",
+      "source_quote": "On January 31, 2025, pursuant to a purchase agreement (the “CommScope Purchase Agreement”) with CommScope, dated July 18, 2024, the Company completed the acquisition of the Andrew Business from CommScope for an aggregate purchase price of approximately $2,033.5 net of cash acquired and subject to customary post-closing adjustments.",
+      "section": "Note 11—Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed two acquisitions during the first quarter of 2025 (the 2025 Acquisitions) for a total of approximately $2,172.2 million net of cash acquired, including the Andrew Business.",
+      "source_quote": "During the three months ended March 31, 2025, the Company completed two acquisitions (collectively, the “2025 Acquisitions”), including the acquisition of the Andrew Business from CommScope, for approximately $2,172.2, net of cash acquired.",
+      "section": "Note 11—Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed two acquisitions during 2024 (the 2024 Acquisitions), including the acquisition of CIT, for approximately $2,156.4 million, net of cash acquired.",
+      "source_quote": "During the year ended December 31, 2024, the Company completed two acquisitions (collectively, the “2024 Acquisitions”), including the acquisition of CIT, for approximately $2,156.4, net of cash acquired.",
+      "section": "Note 11—Acquisitions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased 2.7 million shares of Class A Common Stock for $180.9 million under the Board-authorized $2.0 billion stock repurchase program during the first quarter of 2025.",
+      "source_quote": "On April 23, 2024, the Board authorized a stock repurchase program under which the Company may purchase up to $2,000.0 of its Common Stock during the three-year period ending on the close of business on April 28, 2027 (the “2024 Stock Repurchase Program”). ... During the three months ended March 31, 2025, the Company repurchased 2.7 million shares of its Common Stock for $180.9 under the 2024 Stock Repurchase Program.",
+      "section": "Note 7—Stockholders’ Equity and Noncontrolling Interests"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Redeemed the outstanding 2.05% Senior Notes due March 2025 for $400.0 million on March 3, 2025.",
+      "source_quote": "In the first quarter of 2025, net cash used in financing activities was primarily driven by (i) redemption of the 2.050% Senior Notes of $400.0 ... Unsecured Senior Notes 2.05Percent Due March 2025 ... March 3, 2025",
+      "section": "Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared a quarterly dividend of $0.165 per common share during the first quarter of 2025, representing a total dividend obligation of $199.6 million.",
+      "source_quote": "Dividends declared per share $ 0.165 ... Dividends declared $ 199.6",
+      "section": "Note 7—Stockholders’ Equity and Noncontrolling Interests"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Incurred borrowings of $639.8 million under the U.S. Commercial Paper Program during the first quarter of 2025 to partially fund the Andrew Business acquisition and for general corporate purposes.",
+      "source_quote": "In the first quarter of 2025, net cash used in financing activities was primarily driven by ... borrowings under the U.S. Commercial Paper Program of $639.8, and ... Outstanding borrowings under the U.S. Commercial Paper Program were at a weighted average floating interest rate of 4.57% as of March 31, 2025.",
+      "section": "Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Approved a two-for-one split of Class A Common Stock, distributed on June 11, 2024 to record holders as of May 31, 2024.",
+      "source_quote": "On May 20, 2024, the Company announced that its Board of Directors (the “Board”) approved a two-for-one split of the Company’s Class A Common Stock (“Common Stock”). The stock split was effected in the form of a stock dividend paid to stockholders of record as of May 31, 2024. The additional shares were distributed on June 11, 2024...",
+      "section": "Note 1—Basis of Presentation and Principles of Consolidation"
+    }
+  ]
+}

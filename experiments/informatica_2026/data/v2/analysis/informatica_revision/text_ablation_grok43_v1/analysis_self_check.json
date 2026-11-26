@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "neutral_reference_max_error": 0.0,
+  "synthetic_distance_verified": true,
+  "identical_inputs_identical_weights": true,
+  "four_slices_verified": true
+}

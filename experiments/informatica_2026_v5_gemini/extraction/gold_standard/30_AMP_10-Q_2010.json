@@ -1,0 +1,74 @@
+{
+  "index": 30,
+  "id": "AMP_10-Q_2010",
+  "ticker": "AMP",
+  "form": "10-Q",
+  "year": 2010,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of the long-term asset management business of Columbia Management from Bank of America for $927 million",
+      "source_quote": "On April 30, 2010, the Company acquired the long-term asset management business of Columbia Management from Bank of America for $927 million. This acquisition further enhances the scale and performance of the Company’s retail mutual fund and institutional management businesses.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "purchase of an additional $6 million ownership interest in Cofunds, increasing the Company's ownership from 16% to 20% and transitioning to the equity method of accounting",
+      "source_quote": "In the second quarter of 2010, the Company purchased an additional $6 million ownership interest in Cofunds, a leading investment platform that provides distribution access to over 1,300 funds from over 90 UK fund managers. This additional investment increased the Company’s ownership percentage from 16% to 20%, and as a result, the Company adopted the equity method of accounting and recorded a retrospective adjustment to the investment balance, results of operations and retained earnings",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "issuance of $750 million aggregate principal amount of unsecured senior notes maturing in 2020",
+      "source_quote": "On March 11, 2010, Ameriprise Financial issued $750 million aggregate principal amount of unsecured senior notes which mature on March 15, 2020, and incurred debt issuance costs of $6 million.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "authorization of a new common stock repurchase program of up to $1.5 billion",
+      "source_quote": "In May 2010, the Company’s Board of Directors authorized the expenditure of up to $1.5 billion for the repurchase of the Company’s common stock through the date of its 2012 annual meeting.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "declaration of a quarterly cash dividend of $0.18 per common share",
+      "source_quote": "On July 28, 2010, our Board of Directors declared a quarterly cash dividend of $0.18 per common share. The dividend will be paid on August 20, 2010 to our shareholders of record at the close of business on August 6, 2010.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "U.S. Supreme Court decision in Jones v. Harris Associates and subsequent vacating and remanding of the Gallus v. American Express excessive fee class action",
+      "source_quote": "On March 30, 2010, the Supreme Court issued its ruling in Jones v. Harris Associates, and on April 5, 2010, the Supreme Court vacated the Eighth Circuit’s decision in this case and remanded it to the Eighth Circuit for further consideration in light of the Supreme Court’s decision in Jones v. Harris Associates. Without any further briefing or argument, on June 4, 2010, the Eighth Circuit remanded the case to the district court for further consideration in light of the Supreme Court’s decision in Jones v. Harris Associates.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "filing of an Administrative Complaint by the Commonwealth of Massachusetts against subsidiary Securities America, Inc. (SAI) related to sales of private placement interests",
+      "source_quote": "On January 26, 2010, the Commonwealth of Massachusetts filed an Administrative Complaint against SAI, and on February 16, 2010, SAI filed an Answer.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "centralization of four Medical Capital-related class actions against Securities America, Inc. into the Central District of California",
+      "source_quote": "On April 15, 2010, four Medical Capital-related class actions were centralized and moved to the Central District of California by order of the United States Judicial Panel on Multidistrict Litigation under the caption “In re: Medical Capital Securities Litigation.”",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "filing of an adversary action by the Liquidating Trustee of the Provident Liquidating Trust in the Provident bankruptcy proceeding against Securities America, Inc.",
+      "source_quote": "On June 22, 2010, the Liquidating Trustee of the Provident Liquidating Trust filed an adversary action in the Provident bankruptcy proceeding naming SAI on behalf of both the Provident Liquidating Trust and a number of individual Provident investors who are alleged to have assigned their claims.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "ruling in the Texas Provident Shale class action granting the motion to dismiss the securities law claims against Securities America, Inc.",
+      "source_quote": "On July 26, 2010, the court in the Texas Provident Shale class action granted the motion to dismiss as to the securities law claim against SAI, held that the securities law claim against Ameriprise Financial could not proceed without an underlying claim against SAI, and denied the motion as to the common law claim for breach of fiduciary duty in the absence of sufficient facts for determination of the issue.",
+      "section": "Notes to Consolidated Financial Statements"
+    }
+  ]
+}

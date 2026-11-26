@@ -1,0 +1,74 @@
+{
+  "index": 35,
+  "id": "BA_10-Q_2008",
+  "ticker": "BA",
+  "form": "10-Q",
+  "year": 2008,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase of 15,553,535 shares of common stock for $1,158 million in the open market share repurchase program",
+      "source_quote": "During the three months ended March 31, 2008, we repurchased 15,553,535 shares at an average price of $79.69 in our open market share repurchase program... Cash used for treasury share repurchases was $1,158 million for the three months ended March 31, 2008",
+      "section": "MD&A - Liquidity and Capital Resources"
+    },
+    {
+      "event_type": "product",
+      "description": "Announcement of a revised plan for the 787 Dreamliner, delaying the first flight to Q4 2008 and initial deliveries to Q3 2009",
+      "source_quote": "In April 2008 we announced a revised plan for the new 787 Dreamliner. First flight has been moved from the second quarter of 2008 to the fourth quarter of 2008 and deliveries are now expected to begin in the third quarter of 2009 rather than the first quarter of 2009.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Ninth Circuit Court of Appeals favorable ruling on the Williams employment race discrimination class action appeal, expected to conclude both the Williams and Calender class actions",
+      "source_quote": "On February 27, 2008, the Ninth Circuit Court of Appeals ruled for Boeing on the Williams appeal which is expected to conclude both the Williams and Calender class actions.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "New Skies Satellites B.V. assertion of an anticipatory contract breach regarding a replacement satellite option following the 2007 Sea Launch NSS-8 satellite loss",
+      "source_quote": "In 2007, a Sea Launch Zenit-3SL vehicle, carrying the New Skies Satellites B.V. (New Skies) NSS-8 satellite, experienced an anomaly during launch, which resulted in the total loss of the satellite. New Skies did not exercise its option to purchase a replacement satellite within the required option exercise period, but nevertheless has asserted that we anticipatorily breached the option contract.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Reorganization and realignment of operating segments within Integrated Defense Systems and transfer of certain environmental remediation contracts to the Other segment",
+      "source_quote": "Effective January 1, 2008, certain programs were realigned between Integrated Defense Systems segments and certain environmental remediation contracts (formerly included in Network and Space Systems) are included in the Other Segment. Certain intercompany items were also realigned between the Other Segment and Unallocated expense.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Ongoing BSSI patent and contract litigation with ICO Global Communications, seeking damages significantly in excess of the $2,400 million contract price, with trial set for May 2008",
+      "source_quote": "On August 16, 2004, Boeing Satellite Systems International, Inc. (BSSI) filed a complaint for declaratory relief against ICO Global Communications (Operations), Ltd. (ICO) in Los Angeles County Superior Court. ... In its claims, ICO seeks to recover damages significantly in excess of the $2,400 contract price. ... Trial is set for May 2008.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "ICC subrogated insurance arbitration brought by Thuraya underwriters against BSSI for $219 million to $365 million regarding a model 702 satellite power loss anomaly",
+      "source_quote": "On September 10, 2004, a group of insurance underwriters for Thuraya Satellite Telecommunications (Thuraya) requested arbitration before the International Chamber of Commerce (ICC) on a subrogated claim against BSSI. ... The claimants seek approximately $219 (plus claims of interest, costs and fees) consisting of insurance payments made to Thuraya. Thuraya has reserved its rights to seek uninsured losses that could increase the total amount disputed to $365.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Court order in the UAW Local 1069 retiree medical benefits class action granting the union's motion to amend its complaint on the condition that lifetime retiree benefits claims are dismissed with prejudice",
+      "source_quote": "On September 13, 2006, two UAW Local 1069 retirees filed a class action lawsuit ... On January 17, 2008, the court granted the motion to amend the complaint on the condition that the lifetime retiree benefits claims are to be dismissed with prejudice.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "U.S. Air Force decision choosing a competitor's bid to build 179 KC-135 replacement tankers, prompting Boeing to file a formal protest with the Government Accountability Office",
+      "source_quote": "On February 29, 2008, the U.S. Air Force announced it had chosen a competitor’s bid to build 179 replacement tankers for the Air Force’s aging KC-135 fleet of air-to-air refueling tankers. We have filed a formal protest with the Government Accountability Office, citing irregularities with the process of the tanker competition and the evaluation of the competitor’s bids.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Granting of 2008 Performance Awards to executives with a potential maximum payout of $311 million based on achievement of financial goals through December 31, 2010",
+      "source_quote": "On February 25, 2008, we also granted to our executives Performance Awards with the payout based on the achievement of financial goals for the three-year period ending December 31, 2010. ... the maximum amount we could be required to payout for the 2008 Performance Awards is $311.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    }
+  ]
+}

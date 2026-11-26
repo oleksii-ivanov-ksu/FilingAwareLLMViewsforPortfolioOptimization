@@ -1,0 +1,38 @@
+{
+  "index": 24,
+  "id": "AFL_10-Q_2010",
+  "ticker": "AFL",
+  "form": "10-Q",
+  "year": 2010,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 4,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Declaration of a quarterly cash dividend of $0.28 per share payable on June 1, 2010, to shareholders of record as of May 19, 2010.",
+      "source_quote": "In April 2010, the board of directors declared the second quarter cash dividend of $.28 per share. The dividend is payable on June 1, 2010, to shareholders of record at the close of business on May 19, 2010.",
+      "section": "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Pending maturity and planned repayment of 39.4 billion yen (approximately $423 million) of Samurai notes in July 2010.",
+      "source_quote": "In July 2010, 39.4 billion yen (approximately $423 million using the March 31, 2010, exchange rate) of our Samurai notes will mature. We plan to use existing cash to pay off these notes.",
+      "section": "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognition of other-than-temporary impairment losses of $41 million ($27 million after-tax) on perpetual securities due to below investment grade downgrades of two issuers.",
+      "source_quote": "During the three-month period ended March 31, 2010, the perpetual securities of two issuers we own were downgraded to below investment grade. ... we recognized other-than-temporary impairment losses for perpetual securities being evaluated under our equity impairment model of $41 million ($27 million after-tax) during the three-month period ended March 31, 2010.",
+      "section": "Item 1. Financial Statements - Notes to the Consolidated Financial Statements"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Execution of an amendment to the employment agreement with Tohru Tonoike, President of Aflac Japan, on February 9, 2010.",
+      "source_quote": "Aflac Incorporated Employment Agreement with Tohru Tonoike, effective February 1, 2007 ... Amendment to Aflac Incorporated Employment Agreement with Tohru Tonoike, dated February 9, 2010",
+      "section": "Part II - Other Information - Item 6. Exhibits"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "index": 22,
+  "id": "AEP_10-Q_2014",
+  "ticker": "AEP",
+  "form": "10-Q",
+  "year": 2014,
+  "sector": "Utilities",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "litigation",
+      "description": "Wrongful death and personal injury/illness lawsuit filed in August 2014 in Mason County, West Virginia Circuit Court against AEP, AEPSC, OPCo, and an individual supervisor by 77 plaintiffs alleging exposure to coal combustion by-product waste at the Gavin Plant landfill.",
+      "source_quote": "In August 2014, a complaint was filed in the Mason County, West Virginia Circuit Court against AEP, AEPSC, OPCo and an individual supervisor alleging wrongful death and personal injury/illness claims arising out of purported exposure to coal combustion by-product waste at the Gavin Plant landfill. The lawsuit was filed on behalf of 77 plaintiffs, consisting of 39 current and former contractors of the landfill and 38 family members of those contractors. In September 2014, we filed a motion to dismiss the complaint, contending the case should be filed in Ohio.",
+      "section": "Note 5 - Commitments, Guarantees and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Telephone Consumer Protection Act (TCPA) class action lawsuit filed in May 2014 in the U.S. District Court for the Northern District of Illinois against AEP Energy for alleged unauthorized telemarketing calls to numbers registered on the National Do Not Call Registry.",
+      "source_quote": "In May 2014, AEP Energy was served with a complaint filed in the U.S. District Court for the Northern District of Illinois, alleging violations of the Telephone Consumer Protection Act (TCPA). The plaintiff alleges that he received telemarketing calls on behalf of AEP Energy despite having registered his telephone number on the National Do Not Call Registry.",
+      "section": "Note 5 - Commitments, Guarantees and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Conditional class certification granted in March 2014 by the federal court in a lawsuit alleging unpaid overtime for on-call hours filed in the U.S. District Court for the Northern District of Oklahoma by current and former line and warehouse employees.",
+      "source_quote": "In March 2014, the federal court granted plaintiffs’ motion to conditionally certify the action as a class action. Notice was given to all potential class members and an additional 43 individuals opted in to the class, bringing the plaintiff class to 79 current and former employees.",
+      "section": "Note 5 - Commitments, Guarantees and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Biennial generation and distribution base rate case filed by APCo in March 2014 with the Virginia SCC, with subsequent recommendations in August 2014 by staff and intervenors for customer refunds of $15 million to $22 million and asset write-offs of $27 million, and hearings held in September 2014.",
+      "source_quote": "In March 2014, APCo filed a biennial generation and distribution base rate case with the Virginia SCC. ... In August 2014, the Virginia SCC staff and intervenors filed testimony concluding that APCo's adjusted earned rate of return on common equity for 2012 and 2013, reflecting their recommended adjustments, was above the allowed threshold. Recommendations included (a) refunds to customers ranging from $15 million to $22 million, (b) the write-off of certain APCo assets, including IGCC pre-construction costs and previously approved 2009 storm costs, totaling $27 million ... Hearings at the Virginia SCC were held in September 2014.",
+      "section": "Note 4 - Rate Matters"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Request filed by APCo in June 2014 with the WVPSC to increase annual West Virginia base rates by $181 million (later modified to $156 million for APCo separate), with subsequent procedural schedule and rate implementation delays approved by the WVPSC in October 2014.",
+      "source_quote": "In June 2014, APCo filed a request with the WVPSC to increase annual base rates by $181 million, based upon a 10.62% return on common equity, to be effective in the second quarter of 2015. ... In October 2014, the WVPSC approved APCo's motion to revise the procedural schedule which included the extension of the intervention period to November 2014 and a delay in the implementation of new rates from April 2015 to May 2015.",
+      "section": "Note 4 - Rate Matters"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Base rate case filed by PSO in January 2014 with the OCC to increase annual rates by $38 million, followed by a non-unanimous stipulation agreement in June 2014 recommending no overall base rate change but establishing an advanced metering rider ($7M in 2014 rising to $27M in 2016), with hearings held in July 2014.",
+      "source_quote": "In January 2014, PSO filed a request with the OCC to increase annual base rates by $38 million, based upon a 10.5% return on common equity. ... In June 2014, a non-unanimous stipulation agreement between PSO, the OCC staff and certain intervenors was filed with the OCC. ... The advanced metering rider would provide $7 million of revenues in 2014 and increase to $27 million in 2016. ... A hearing at the OCC was held in July 2014.",
+      "section": "Note 4 - Rate Matters"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "APCo and WPCo filed a request in March 2014 to transfer at net book value a one-half interest (representing 780 MW of generating capacity) in the Mitchell Plant from nonregulated subsidiary AGR to regulated subsidiary WPCo, which was approved by FERC in June 2014 and resulted in a West Virginia stipulation agreement in October 2014.",
+      "source_quote": "In March 2014, APCo and WPCo filed a request with the WVPSC for approval to transfer at net book value to WPCo a one-half interest in the Mitchell Plant, comprising 780 MW of average annual generating capacity presently owned by AGR. ... In June 2014, the FERC issued an order approving AGR and WPCo's request to transfer AGR’s one-half interest in the Mitchell Plant to WPCo. ... In October 2014, a stipulation agreement between APCo, WPCo, the WVPSC staff and intervenors in the case was filed with the WVPSC.",
+      "section": "Note 4 - Rate Matters"
+    },
+    {
+      "event_type": "litigation",
+      "description": "I&M recorded an accrual in September 2014 of approximately $17 million for environmental remediation at certain additional sites in Michigan following a request for voluntary mitigation from the Michigan Department of Environmental Quality.",
+      "source_quote": "In September 2014, I&M recorded an accrual for remediation at certain additional sites in Michigan. As of September 30, 2014, I&M’s accrual for all of these sites is approximately $17 million.",
+      "section": "Note 5 - Commitments, Guarantees and Contingencies"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "APCo issued $300.0 million of 4.40% Senior Unsecured Notes due in 2044 during the first nine months of 2014 to fund its financing activities.",
+      "source_quote": "APCo Senior Unsecured Notes $ 300,000 4.40 2044",
+      "section": "Note 12 - Financing Activities"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "AEP Credit increased its receivables securitization agreement commitment with bank conduits from $700.0 million to $750.0 million in June 2014 to accelerate cash collections.",
+      "source_quote": "Our receivables securitization agreement provides a commitment of $750 million from bank conduits to purchase receivables. The agreement was increased in June 2014 from $700 million and expires in June 2016.",
+      "section": "Note 12 - Financing Activities"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "index": 82,
+  "id": "SHW_10-Q_2007",
+  "ticker": "SHW",
+  "form": "10-Q",
+  "year": 2007,
+  "sector": "Materials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 14,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "completed acquisition of 100 percent of Columbia Paint & Coatings Co., substantially all stock of Pinturas Industriales S.A., substantially all assets/business of Napko, S.A. de C.V. and brand names/formulas/patents of VHT brand paint line for $100.8 million net of cash acquired",
+      "source_quote": "During the third quarter of 2007, the Company completed its acquisition of 100 percent of the stock of Columbia Paint & Coatings Co. (Columbia), substantially all of the stock of Pinturas Industriales S.A. (PISA), substantially all of the assets and business of Napko, S.A. de C.V. (Napko) and the brand names, formulas and patents of the VHT â brand paint line (VHT) for an aggregate consideration of $100.8 million, net of cash acquired, including costs of acquisition and the assumption of certain financial obligations.",
+      "section": "Note O — Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "completed acquisitions of 100 percent of the stock of M. A. Bruder & Sons Incorporated (MAB) and substantially all of the assets and business of Nitco Paints Private Limited (Nitco) for an aggregate consideration of $147.4 million, net of cash acquired",
+      "source_quote": "During the second quarter of 2007, the Company completed its acquisitions of 100 percent of the stock of M. A. Bruder & Sons Incorporated (MAB) and substantially all of the assets and business of Nitco Paints Private Limited (Nitco) for an aggregate consideration of $147.4 million, net of cash acquired, including costs of acquisition and the assumption of certain financial obligations.",
+      "section": "Note O — Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquired substantially all of the assets and business of Susannah Dobbs Company LLC (Dobco) for $51.2 million paid in cash",
+      "source_quote": "In October 2006, the Company acquired substantially all of the assets and business of Susannah Dobbs Company LLC (Dobco) for $51.2 million paid in cash.",
+      "section": "Note O — Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "completed acquisition of the remaining 75 percent interest in Life Shield Engineered Systems, LLC (Life Shield)",
+      "source_quote": "In October 2007, the Company’s wholly-owned subsidiary acquired the remaining 75 percent interest in Life Shield.",
+      "section": "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "litigation",
+      "description": "State of Ohio filed a public nuisance action against the Company and other companies seeking compensatory and punitive damages, which was reinstated by the trial court in September 2007",
+      "source_quote": "In April 2007, the State of Ohio filed an action against the Company and other companies asserting a claim for public nuisance. The State of Ohio seeks compensatory and punitive damages.",
+      "section": "Note I — Contingencies / Lead pigment and lead-based paint litigation"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Missouri Supreme Court affirmed summary judgment for the Company and other defendants in a public nuisance case, concluding the case in favor of the defendants",
+      "source_quote": "On June 12, 2007, the Missouri Supreme Court affirmed summary judgment for the Company and other defendants. This decision concludes the case in favor of the Company and the other defendants.",
+      "section": "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations / Lead pigment and lead-based paint litigation"
+    },
+    {
+      "event_type": "litigation",
+      "description": "trial court entered an order severing and staying the public nuisance claims against Mautz Paint Co. (defended and indemnified by the Company)",
+      "source_quote": "On February 13, 2007 the trial court entered an order severing and staying the claims against Mautz Paint Co.",
+      "section": "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations / Lead pigment and lead-based paint litigation"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "purchased 5,550,000 shares of common stock for treasury purposes through open market purchases during the third quarter of 2007",
+      "source_quote": "During the third quarter of 2007, the Company purchased 5,550,000 shares of its common stock for treasury purposes through open market purchases, which brings the total number of shares purchased during the first nine months of 2007 to 10,200,000.",
+      "section": "Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations / Financial Condition, Liquidity and Cash Flow"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors authorized a new 30.0 million share repurchase program and rescinded the previous program",
+      "source_quote": "On October 19, 2007, the Board of Directors of the Company rescinded the October 21, 2005 share repurchase program, and the Company announced a new 30.0 million share repurchase program.",
+      "section": "Part II. Other Information / Item 2. Unregistered Sales of Equity Securities and Use of Proceeds"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "entered into an additional five-year credit agreement giving the Company the right to borrow and obtain letters of credit up to an aggregate availability of $250.0 million on April 26, 2007",
+      "source_quote": "On April 26, 2007, the Company entered into an additional five-year credit agreement. This additional credit agreement gives the Company the right to borrow and to obtain the issuance, renewal, extension and increase of a letter of credit up to an aggregate availability of $250.0 million.",
+      "section": "Note N — Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "entered into an additional five-year credit agreement giving the Company the right to borrow and obtain letters of credit up to an aggregate availability of $250.0 million during the third quarter of 2007",
+      "source_quote": "During the third quarter of 2007, the Company entered into an additional five-year credit agreement. This additional credit agreement gives the Company the right to borrow and to obtain the issuance, renewal, extension and increase of a letter of credit up to an aggregate availability of $250.0 million.",
+      "section": "Note N — Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "extended the accounts receivable securitization borrowing facility to January 27, 2010 from January 28, 2009",
+      "source_quote": "During the second quarter of 2007, the Company extended its accounts receivable securitization borrowing facility to January 27, 2010 from January 28, 2009.",
+      "section": "Note N — Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "adopted FIN No. 48, \"Accounting for Uncertainty in Income Taxes,\" recognizing a cumulative-effect adjustment of $3.4 million increasing liability for unrecognized tax benefits and reducing Retained Earnings on January 1, 2007",
+      "source_quote": "Effective January 1, 2007, the Company adopted FIN No. 48, \"Accounting for Uncertainty in Income Taxes.\" In accordance with FIN No. 48, the Company recognized a cumulative-effect adjustment of $3.4 million, increasing its liability for unrecognized tax benefits, interest, and penalties and reducing the January 1, 2007 balance of Retained earnings.",
+      "section": "Note K — Income Taxes"
+    },
+    {
+      "event_type": "product",
+      "description": "completed an upgrade of certain domestic financial information systems to more technologically current and flexible financial systems during the third quarter of 2007",
+      "source_quote": "During the third quarter of 2007, we completed an upgrade of certain of our domestic financial information systems to more technologically current and flexible financial systems. This upgrade in financial software enhances our common financial platform worldwide and will create additional efficiencies to support our continued growth.",
+      "section": "Item 4. Controls and Procedures"
+    }
+  ]
+}

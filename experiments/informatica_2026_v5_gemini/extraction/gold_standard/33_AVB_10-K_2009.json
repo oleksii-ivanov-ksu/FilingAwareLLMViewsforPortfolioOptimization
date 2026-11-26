@@ -1,0 +1,74 @@
+{
+  "index": 33,
+  "id": "AVB_10-K_2009",
+  "ticker": "AVB",
+  "form": "10-K",
+  "year": 2009,
+  "sector": "Real Estate",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "declared a combined special and regular dividend of .70 per share, consisting of a .8075 special dividend and a -bash.8925 regular quarterly dividend",
+      "source_quote": "in December 2008 we declared a combined special and regular dividend (the “Combined Dividend”) of .70 per share, comprised of a special dividend of .8075 (the “Special Dividend”) per share and our regular dividend of -bash.8925 per share.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "impairment",
+      "description": "recognized a non-cash land impairment charge of 7,899,000 on eight land parcels which the company decided to no longer develop",
+      "source_quote": "the Company recognized an impairment loss of 7,899 relating to eight land parcels for which the Company no longer intends to pursue development",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "recorded employee severance and separation charges of ,400,000 due to planned reduction in development activities",
+      "source_quote": "a charge for severance and employment related costs associated with the reduction in planned development activity of approximately ,400 reported as a component of general and administrative expense.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "partnership",
+      "description": "announced the formation of AvalonBay Value Added Fund II, L.P. (Fund II) with 33,000,000 in equity commitments, including a 50,000,000 commitment from AvalonBay",
+      "source_quote": "On September 2, 2008, we announced the formation of AvalonBay Value Added Fund II, L.P. (“Fund II”), a private, discretionary investment vehicle with commitments from four institutional investors including us totaling 33,000,000. We have committed 50,000,000 to Fund II, representing a 45% equity interest.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "entered into a 30,000,000 variable rate unsecured term loan comprised of three tranches maturing over three years",
+      "source_quote": "we entered into a 30,000,000, variable rate unsecured term loan comprised of three tranches bearing interest at LIBOR plus a spread of 1.25%, of which approximately one third matures in each of the next three years beginning in 2009;",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "redeemed all 4,000,000 outstanding shares of 8.70% Series H Cumulative Redeemable Preferred Stock for 00,701,000",
+      "source_quote": "In October 2008, we exercised our option to redeem all 4,000,000 outstanding shares of our 8.70% Series H Cumulative Redeemable Preferred Stock for 00,701,000. The repayment amount includes the redemption value of the outstanding shares of 5 per share and accrued but unpaid dividends through the redemption date.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "sold ten wholly owned communities during 2008 for an aggregate gross sales price of 64,950,000",
+      "source_quote": "During the year ended December 31, 2008, the Company sold ten wholly owned communities for an aggregate gross sales price of 64,950, a portion of which was used to repay outstanding debt related to these dispositions in the amount of 3,715. These dispositions resulted in a gain in accordance with GAAP of approximately 84,901.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "U.S. Attorney’s Office for the Southern District of New York filed a civil lawsuit against the company alleging FHA accessibility violations at Avalon Chrystie Place",
+      "source_quote": "On August 13, 2008, the U.S. Attorney’s Office for the Southern District of New York filed a civil lawsuit against the Company and the joint venture (CVP I, LLC) in which it has an interest that owns Avalon Chrystie Place. The lawsuit alleges that Avalon Chrystie Place was not designed and constructed in accordance with the accessibility requirements of the FHA.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "issued a 70,125,000 interest-only five-year mortgage loan secured by Avalon at Arlington Square",
+      "source_quote": "we borrowed 70,125,000 under an interest-only mortgage note secured by Avalon at Arlington Square, located in Arlington, Virginia at an effective rate of 4.69% for five years;",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "issued a 50,000,000 interest-only seven-year mortgage loan secured by Avalon Silicon Valley",
+      "source_quote": "we borrowed 50,000,000 under an interest-only mortgage note secured by Avalon Silicon Valley, located in Sunnyvale, California at an effective rate of 5.66% for seven years;",
+      "section": "MD&A"
+    }
+  ]
+}

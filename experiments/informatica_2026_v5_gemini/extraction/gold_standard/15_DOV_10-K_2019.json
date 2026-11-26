@@ -1,0 +1,86 @@
+{
+  "index": 15,
+  "id": "DOV_10-K_2019",
+  "ticker": "DOV",
+  "form": "10-K",
+  "year": 2019,
+  "sector": "Industrials",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 12,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of 100% of the voting stock of Ettlinger Group for $53.2 million",
+      "source_quote": "On January 2, 2018, the Company acquired 100 % of the voting stock of Ettlinger Group (\"Ettlinger\"), within the Fluids segment for $ 53,218 , net of cash acquired.",
+      "section": "Note 4"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of 100% of the voting stock of Rosario Handel B.V. for $15.3 million",
+      "source_quote": "On January 12, 2018, the Company acquired 100 % of the voting stock of Rosario Handel B.V. (\"Rosario\"), within the Refrigeration & Food Equipment segment for total consideration of $ 15,339 , net of cash acquired.",
+      "section": "Note 4"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Subsequent acquisition of Belanger, Inc. for approximately $180 million",
+      "source_quote": "On January 25, 2019, the Company acquired Belanger, Inc. (\"Belanger\"), a leading full-line car wash equipment manufacturer, for approximately $ 180 million.",
+      "section": "Note 22"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the spin-off of Apergy Corporation through a pro rata distribution of 100% of its common stock",
+      "source_quote": "On May 9, 2018, Dover completed the distribution of Apergy to its shareholders. The transaction was completed through the pro rata distribution of 100% of the common stock of Apergy to Dover's shareholders of record as of the close of business on April 30, 2018.",
+      "section": "Note 2"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of the consumer and industrial winch business of Warn Industries, Inc. for $250.3 million",
+      "source_quote": "On November 1, 2017, the Company completed the sale of the consumer and industrial winch business of Warn Industries, Inc. (\"Warn\"), a wholly owned subsidiary of the Company, for total consideration of $ 250,283.",
+      "section": "Note 5"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of Performance Motorsports International (PMI) for total consideration of $147.3 million",
+      "source_quote": "On February 14, 2017, the Company completed the sale of Performance Motorsports International (\"PMI\"), a wholly owned subsidiary of the Company that manufactures pistons and other engine related components serving the motorsports and powersports markets. Total consideration for the transaction was $ 147,313, including cash proceeds of $ 118,706.",
+      "section": "Note 5"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Incurred $58.5 million in restructuring charges from programs initiated in 2017 and 2018",
+      "source_quote": "Total restructuring charges of $ 58,503 incurred during the year ended December 31, 2018, were a result of restructuring programs initiated in 2017 and 2018.",
+      "section": "Note 10"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Voluntary product recall in collaboration with the CPSC due to a product component quality issue in the Fluids segment",
+      "source_quote": "During the fourth quarter of 2016, the Company determined that there was a quality issue with a product component part in the Fluids segment and voluntarily reported this issue to the U.S. Consumer Product Safety Commission (“CPSC”). ... During the first quarter of 2017, the Company announced a voluntary recall of the product in collaboration with the CPSC.",
+      "section": "Note 15"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Richard J. Tobin appointed as President and Chief Executive Officer of Dover",
+      "source_quote": "Richard J. Tobin 55 President and Chief Executive Officer (since May 2018) and Director (since August 2016)",
+      "section": "Executive Officers of the Registrant"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repayment of $350 million of matured 5.45% notes on March 15, 2018",
+      "source_quote": "On March 15, 2018, the outstanding 5.45% notes with a principal value of $ 350.0 million matured. The repayment of debt was funded by the Company's commercial paper program and existing cash balances.",
+      "section": "Note 11"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Approved a new standing share repurchase authorization of up to 20 million shares",
+      "source_quote": "In February 2018, the Company's Board of Directors approved a new standing share repurchase authorization, whereby the Company may repurchase up to 20,000,000 shares of its common stock through December 31, 2020.",
+      "section": "Note 20"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into a $700 million accelerated share repurchase agreement with Goldman Sachs",
+      "source_quote": "On May 22, 2018, the Company entered into a $ 700,000 accelerated share repurchase agreement (the “ASR Agreement”) with Goldman Sachs & Co. LLC (“Goldman Sachs”) to repurchase its shares in an accelerated share repurchase program (the “ASR Program”).",
+      "section": "Note 20"
+    }
+  ]
+}

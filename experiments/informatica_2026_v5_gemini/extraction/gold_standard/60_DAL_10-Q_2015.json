@@ -1,0 +1,50 @@
+{
+  "index": 60,
+  "id": "DAL_10-Q_2015",
+  "ticker": "DAL",
+  "form": "10-Q",
+  "year": 2015,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "restructuring",
+      "description": "Recorded a $10 million fleet restructuring charge in Q1 2015 to replace older, less cost-effective aircraft and removed seventeen 50-seat regional aircraft from the operating fleet.",
+      "source_quote": "During the March 2015 quarter, we recorded a $10 million charge associated with our fleet restructuring initiative. We continue to restructure our domestic fleet by replacing a significant portion of our 50-seat regional flying ... During the March 2015 quarter, we removed seventeen 50-seat regional aircraft from our fleet as part of our strategy to restructure our domestic fleet.",
+      "section": "Note 10. Restructuring and Other Items / Regional Carrier Expense"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Restructured the fuel hedge portfolio by early settling certain hedges originally scheduled to expire in the second half of 2015, resulting in a cash payment of $302 million.",
+      "source_quote": "During the March 2015 quarter, we restructured our fuel hedge portfolio by early settling certain 2015 hedges and deferring the settlement of a portion of the remaining positions. We paid $302 million to early settle contracts that were in a loss position and originally scheduled to expire in the second half of 2015.",
+      "section": "Note 5. Fuel Hedging / Operating Expense"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into fuel derivative transactions that effectively defer approximately $300 million of hedge settlements from the second half of 2015 into 2016.",
+      "source_quote": "Additionally, we effectively deferred settlement of a portion of our hedge portfolio until 2016 by entering into fuel derivative transactions that will provide approximately $300 million in cash receipts during the second half of 2015 and require approximately $300 million in cash payments in 2016 (excluding market movements from the date of the transactions).",
+      "section": "Note 5. Fuel Hedging"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased and retired 9.3 million shares of common stock for $425 million under the $2 billion share repurchase program authorized in May 2014, bringing total program repurchases to 30.6 million shares at a cost of $1.3 billion.",
+      "source_quote": "authorized a new $2 billion share repurchase program to be completed no later than December 31, 2016. During the March 2015 quarter, we repurchased and retired 9.3 million shares at a cost of $425 million bringing the total under this program to 30.6 million shares at a cost of $1.3 billion.",
+      "section": "Capital Return to Shareholders / Item 2. Unregistered Sales of Equity Securities and Use of Proceeds"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared a quarterly dividend of $0.09 per share on February 6, 2015, paid in March 2015, representing a total cash dividend distribution of $75 million.",
+      "source_quote": "On February 6, 2015, the Board of Directors declared a $0.09 per share dividend for shareholders of record as of February 20, 2015. This dividend was paid in March 2015 and totaled $75 million.",
+      "section": "Capital Return to Shareholders"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Paid $260 million to reduce the principal on debt and capital lease obligations in Q1 2015, decreasing the total carrying amount of debt and capital leases to $9.6 billion from $9.9 billion.",
+      "source_quote": "During the three months ended March 31, 2015, we generated $1.6 billion in cash from operating activities, which we used, along with existing cash, to ... reduce the principal on our debt and capital lease obligations by $260 million ... Our principal amount of debt and capital leases has declined from $9.9 billion at December 31, 2014 to $9.6 billion at March 31, 2015.",
+      "section": "Financial Condition and Liquidity / Debt and Capital Leases"
+    }
+  ]
+}

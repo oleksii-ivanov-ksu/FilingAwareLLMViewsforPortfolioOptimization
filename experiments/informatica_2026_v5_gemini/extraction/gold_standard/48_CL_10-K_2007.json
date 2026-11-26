@@ -1,0 +1,92 @@
+{
+  "index": 48,
+  "id": "CL_10-K_2007",
+  "ticker": "CL",
+  "form": "10-K",
+  "year": 2007,
+  "sector": "Consumer Staples",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 13,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquired 84% of the outstanding shares of Tom's of Maine, Inc. on May 1, 2006, for approximately $100 million plus transaction costs.",
+      "source_quote": "On May 1, 2006, the Company completed the purchase of 84% of the outstanding shares of Tom's of Maine, Inc., for approximately $100 plus transaction costs.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquired 100% of the outstanding shares of European oral care company GABA Holding AG (GABA) on June 1, 2004, for approximately $729 million (net of cash acquired) plus acquisition costs.",
+      "source_quote": "On June 1, 2004, the Company purchased 100% of the outstanding shares of GABA Holding AG (GABA), a privately owned European oral care company headquartered in Switzerland. The cost of GABA, net of cash acquired, was approximately $729 plus acquisition costs.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Announced agreement in Q4 2006 to sell Latin American and Canadian bleach brands for approximately $126 million plus inventory at cost. The Canadian transaction closed in Q4 2006 for proceeds of $55.0 million and a pretax gain of $46.5 million.",
+      "source_quote": "during 2006 the Company announced its agreement to sell its Latin American and Canadian bleach brands for approximately $126 plus inventory at cost... The transaction closed in Canada during the fourth quarter of 2006, with proceeds of $55.0 and a pretax gain of $46.5 ($38.2 aftertax) included in Other (income) expense, net.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sold North American and Southeast Asian heavy-duty laundry detergent businesses in 2005 for aggregate proceeds of $215.6 million, resulting in a pretax gain of $147.9 million.",
+      "source_quote": "During 2005, the Company sold its North American and Southeast Asian heavy-duty laundry detergent businesses. ... The aggregate proceeds from these sales were $215.6, resulting in a pretax gain of $147.9 ($93.5 aftertax) included in Other (income) expense, net.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sold detergent businesses in Ecuador and Peru during 2004, resulting in a pretax gain of $26.7 million.",
+      "source_quote": "During 2004, the Company sold its detergent businesses in Ecuador and Peru resulting in a pretax gain of $26.7 included in Other (income) expense, net for the year ended December 31, 2004.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Commenced the 2004 Restructuring Program in December 2004, a four-year global supply chain streamlining program involving the rationalization of about one-third of manufacturing facilities, closure of select warehouses, and an estimated 12% workforce reduction, with estimated cumulative pretax charges of $750 million to $900 million.",
+      "source_quote": "In December 2004, the Company commenced a four-year restructuring and business-building program (the 2004 Restructuring Program) to enhance the Company’s global leadership position in core businesses. As part of this program the Company anticipates the rationalization of approximately one-third of the Company’s manufacturing facilities, closure of certain warehousing facilities and an estimated 12% workforce reduction. The cost of implementing the 2004 Restructuring Program is estimated to result in cumulative pretax charges, once all the phases are approved and implemented, totaling between $750 and $900 ($550 and $650 aftertax).",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Central Bank, tax, and criminal proceedings in Brazil relating to the financing of the Kolynos acquisition, where a federal judge in February 2004 authorized criminal charges against certain current and former officers of the Brazilian subsidiary.",
+      "source_quote": "At the request of these prosecutors, in February 2004, a federal judge agreed to authorize criminal charges against certain current and former officers of the Company’s Brazilian subsidiary based on the same allegations made in the Central Bank and tax proceedings discussed above. ... in connection with the financing of the Kolynos acquisition.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Retirement of Javier G. Teruel, Vice Chairman, effective April 1, 2007.",
+      "source_quote": "Javier G. Teruel, Vice Chairman, has advised the Company that he will retire on April 1, 2007.",
+      "section": "Executive Officers of the Registrant"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorization of the 2006 Stock Repurchase Program by the Board of Directors, as well as the prior 2004 Program which authorized the purchase of up to 20 million shares.",
+      "source_quote": "Prior to the Board’s approval of the 2006 Program, the Company purchased its shares under a program that was approved by the Board of Directors and publicly announced in October 2004 (the 2004 Program). Under the 2004 Program, the Company was authorized to purchase up to 20 million shares of the Company’s common stock.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repatriation of $780 million in incremental foreign earnings in the second half of 2005 under the American Jobs Creation Act of 2004, at a tax cost of approximately $40.9 million.",
+      "source_quote": "The Company repatriated $780 in incremental foreign earnings in the second half of 2005 at a full year tax cost of approximately $40.9.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Entered into a global agreement in Q3 2006 with IBM to outsource certain procurement and accounts payable services.",
+      "source_quote": "in the third quarter of 2006 the Company entered into an agreement with IBM to provide certain procurement services globally and accounts payable services for Europe and North America.",
+      "section": "Controls and Procedures"
+    },
+    {
+      "event_type": "product",
+      "description": "Launch of multiple major oral care products including Colgate Max Fresh, Colgate Sensitive Multi-Protection, Colgate Sensitive Plus Whitening, Colgate Time Control, Colgate 360°, Colgate MicroSonic, and Plax Overnight.",
+      "source_quote": "Significant recent product launches include Colgate Max Fresh, Colgate Sensitive Multi-Protection, Colgate Sensitive Plus Whitening and Colgate Time Control toothpastes, Colgate 360° manual toothbrushes, Colgate MicroSonic battery-powered toothbrushes, Colgate Smiles line of manual toothbrushes for kids and Plax Overnight mouth rinse.",
+      "section": "Business"
+    },
+    {
+      "event_type": "product",
+      "description": "Launch of multiple major personal care products including Irish Spring MoistureBlast, Palmolive Nutri-Milk, Protex Deo 12, Softsoap Brand Pure Cashmere, Palmolive BodYogurt, Palmolive Naturals, and Lady Speed Stick Double Defense.",
+      "source_quote": "Significant recent product launches include Irish Spring MoistureBlast, Palmolive Nutri-Milk, Protex Deo 12 bar soap, Softsoap Brand Pure Cashmere moisturizing liquid hand soap and body wash, Palmolive BodYogurt shower gel, Palmolive Naturals shampoo and conditioner and Lady Speed Stick Double Defense deodorant.",
+      "section": "Business"
+    }
+  ]
+}

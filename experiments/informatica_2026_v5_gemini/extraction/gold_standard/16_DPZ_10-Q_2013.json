@@ -1,0 +1,32 @@
+{
+  "index": 16,
+  "id": "DPZ_10-Q_2013",
+  "ticker": "DPZ",
+  "form": "10-Q",
+  "year": 2013,
+  "sector": "Consumer Discretionary",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 3,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors approved a $200.0 million open market share repurchase program",
+      "source_quote": "under its Board of Directors approved $200.0 million open market share repurchase program.",
+      "section": "Note 7"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors declared a $0.20 per share dividend on its outstanding common stock during the second quarter of 2013, recording $11.1 million of dividends payable",
+      "source_quote": "during the second quarter of 2013, the Company’s Board of Directors declared a $0.20 per share dividend on its outstanding common stock. In connection with the declaration of the dividend, the Company recorded $11.1 million of dividends payable.",
+      "section": "Note 5"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors declared a subsequent $0.20 per share quarterly dividend on outstanding common stock on July 17, 2013, to be paid on September 30, 2013",
+      "source_quote": "On July 17, 2013, the Company’s Board of Directors declared a $0.20 per share quarterly dividend on its outstanding common stock for shareholders of record as of September 13, 2013 to be paid on September 30, 2013.",
+      "section": "Note 5"
+    }
+  ]
+}

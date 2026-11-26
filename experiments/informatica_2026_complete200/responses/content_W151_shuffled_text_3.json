@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "content_W151_shuffled_text_3",
+    "request": "requests/content_W151_shuffled_text_3.json",
+    "experiment": "content",
+    "case_id": "W151",
+    "condition": "shuffled_text",
+    "repeat": 3
+  },
+  "request_sha256": "df3fc80f1dcd7c6ce97b1edcefb63dd368ee61a45f44a441cf17ce430ea0ba7c",
+  "reserved_max_cost": 0.00733375,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.00270185,
+  "response": {
+    "id": "gen-1795458763-8e27VSV9HYq4QB3FNRXZ",
+    "object": "chat.completion",
+    "created": 1795458763,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": 20,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Strong Q2 EPS beat (+80%) and modest revenue outperformance provide positive momentum, offset by management's cautious tone citing ongoing headwinds, multiple large non-cash impairments, and prominent regulatory/competitive risks. High analyst dispersion (11.8%) signals elevated uncertainty around future results.\"\n}",
+          "refusal": null,
+          "reasoning": "I am preparing an investment view for AEP as of 2025-09-30.\n\nThe provided data appears to describe a tobacco company rather than AEP. I will proceed using only the information given.\n\nThe data shows strong earnings beats and positive returns. Risks include regulatory and litigation exposure. Analyst dispersion is high. I will base the view solely on these provided figures.\n\nThe massive earnings beat likely reflects the $2.7B IQOS assignment gain. Still, large impairments and cautious guidance suggest underlying headwinds. I am settling on a neutral to slightly positive view_bps.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am preparing an investment view for AEP as of 2025-09-30.\n\nThe provided data appears to describe a tobacco company rather than AEP. I will proceed using only the information given.\n\nThe data shows strong earnings beats and positive returns. Risks include regulatory and litigation exposure. Analyst dispersion is high. I will base the view solely on these provided figures.\n\nThe massive earnings beat likely reflects the $2.7B IQOS assignment gain. Still, large impairments and cautious guidance suggest underlying headwinds. I am settling on a neutral to slightly positive view_bps.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_58a14bda-883a-4014-9670-128318aa6f37",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1059,
+      "completion_tokens": 605,
+      "total_tokens": 1664,
+      "cost": 0.00270185,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 128,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00270185,
+        "upstream_inference_prompt_cost": 0.00118935,
+        "upstream_inference_completions_cost": 0.0015125
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 526,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": 20,
+    "confidence": "medium",
+    "reasoning": "Strong Q2 EPS beat (+80%) and modest revenue outperformance provide positive momentum, offset by management's cautious tone citing ongoing headwinds, multiple large non-cash impairments, and prominent regulatory/competitive risks. High analyst dispersion (11.8%) signals elevated uncertainty around future results."
+  },
+  "completed_utc": "2026-11-23T18:32:52.873277+00:00"
+}

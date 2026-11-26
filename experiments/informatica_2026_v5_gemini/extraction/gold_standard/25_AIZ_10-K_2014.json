@@ -1,0 +1,68 @@
+{
+  "index": 25,
+  "id": "AIZ_10-K_2014",
+  "ticker": "AIZ",
+  "form": "10-K",
+  "year": 2014,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 9,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquired Field Asset Services from FirstService Corporation for $54,636 thousand ($54.6 million) in cash to expand existing collateral protection service offerings.",
+      "source_quote": "On September 30, 2013, the Company acquired Field Asset Services from FirstService Corporation for $54,636 in cash.",
+      "section": "Notes to Consolidated Financial Statements - Note 3 (Acquisitions)"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquired Lifestyle Services Group (LSG), a mobile phone insurance provider based in the U.K., to develop the European business into a mobile platform, resulting in £70,234 thousand ($113,646 thousand) of goodwill.",
+      "source_quote": "In October 2013, we acquired Lifestyle Services Group (“LSG”), a mobile phone insurance provider based in the U.K. ... and £70,234 ($113,646) of goodwill, none of which is tax-deductible.",
+      "section": "Item 1 (Business) / Notes to Consolidated Financial Statements - Note 3 (Acquisitions)"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Acquired a 40% equity interest in the Mexican operations of Iké Asistencia (Iké) on December 30, 2013, for Mex$1,191,499 thousand ($91.42 million USD) and subsequently acquired a 40% interest in Iké's Latin American operations on February 10, 2014, for Mex$272,541 thousand ($20.404 million USD).",
+      "source_quote": "On December 30, 2013, the Company paid Mex$1,191,499 (U.S.D $91,420) for a 40% investment in the Mexican operations of Iké Asistencia (“Iké”), a services assistance business with operations in Mexico and other countries in Latin America. On February 10, 2014, the Company made an additional payment of Mex$272,541 (U.S.D $20,404) for 40% of Iké’s Latin American operations.",
+      "section": "Notes to Consolidated Financial Statements - Note 3 (Acquisitions)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Reached a settlement agreement on March 21, 2013 with the New York Department of Financial Services (NYDFS) regarding lender-placed insurance business practices, paying a $14,000 thousand non-tax-deductible settlement payment and modifying certain business practices.",
+      "source_quote": "on March 21, 2013, the Company and two of its wholly owned subsidiaries, ASIC and American Bankers Insurance Company of Florida (“ABIC”), reached an agreement with the New York Department of Financial Services (“NYDFS”) regarding the Company’s lender-placed insurance business in the State of New York. Under the terms of the agreement, and without admitting or denying any wrongdoing, ASIC made a $14,000 (non tax-deductible) settlement payment to the NYDFS.",
+      "section": "Item 1A (Risk Factors) / Notes to Consolidated Financial Statements - Note 24 (Contingencies and Commitments)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Reached a regulatory rate agreement on October 7, 2013 with the Florida Office of Insurance Regulation (FOIR) to implement a 10% reduction in lender-placed hazard insurance rates in Florida and eliminate commissions and client quota-share reinsurance arrangements.",
+      "source_quote": "On October 7, 2013, the Company reached an agreement with the FOIR to file for a 10% reduction in lender-placed hazard insurance rates in Florida. Once filed and approved, these rates will be effective for new and renewing policies starting in first quarter 2014. As part of the agreement, ASIC will eliminate commissions and client quota-share reinsurance arrangements to meet new requirements of lender-placed insurance providers in Florida.",
+      "section": "Item 7 (MD&A) / Notes to Consolidated Financial Statements - Note 24 (Contingencies and Commitments)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Completed a debt offering on March 28, 2013 of $467,330 thousand used to repay debt that matured in February 2014, part of a total of $698,093 thousand in debt issued during 2013.",
+      "source_quote": "excluding $467,330 from the March 28, 2013 debt offering which was used to repay debt that matured in February 2014.",
+      "section": "Item 7 (MD&A) / Notes to Consolidated Financial Statements - Note 14 (Debt) or Parent Cash Flows"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased outstanding common stock under share repurchase programs for a total aggregate purchase price of $393,012 thousand during the fiscal year 2013.",
+      "source_quote": "Acquisition of common stock (393,012)",
+      "section": "Notes to Consolidated Financial Statements - Note 17 (Stock Repurchase) or Parent Only Cash Flows / Consolidated Statement of Cash Flows"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Distributed quarterly cash dividends to common stockholders totaling $74,128 thousand during the fiscal year 2013.",
+      "source_quote": "Dividends paid (74,128)",
+      "section": "Notes to Consolidated Financial Statements - Note 17 (Stock Repurchase) or Parent Only Cash Flows / Consolidated Statement of Cash Flows"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Removed $137,071 thousand of fully amortized intangible assets from the books in 2013 after determining they had no remaining future value.",
+      "source_quote": "In 2013, the Company removed $137,071 of fully amortized intangible assets that were determined to have no future value.",
+      "section": "Notes to Consolidated Financial Statements - Note 7 (Goodwill and Other Intangible Assets)"
+    }
+  ]
+}

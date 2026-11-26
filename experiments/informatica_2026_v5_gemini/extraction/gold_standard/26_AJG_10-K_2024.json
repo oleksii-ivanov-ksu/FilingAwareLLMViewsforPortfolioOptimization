@@ -1,0 +1,74 @@
+{
+  "index": 26,
+  "id": "AJG_10-K_2024",
+  "ticker": "AJG",
+  "form": "10-K",
+  "year": 2024,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of the partnership interests of BCHR Holdings, L.P. and its subsidiaries dba Buck (Buck) for a total recorded purchase price of $620.8 million.",
+      "source_quote": "On April 3 2023, we acquired the partnership interests of BCHR holdings, L.P. and its subsidiaries dba Buck (which we refer to as Buck). We funded the transaction using free cash flow and funds received from an unsecured senior notes offering.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of all of the issued and outstanding shares of Cadence Insurance, Inc. (CDI) for a total recorded purchase price of $886.0 million.",
+      "source_quote": "On November 30, 2023, we acquired all of the issued and outstanding shares of Cadence Insurance, Inc. (which we refer to as Cadence Insurance). We funded the transaction using free cash flow and funds received from an unsecured senior notes offering.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of the net assets of Eastern Insurance Group, LLC (EIG) for a total recorded purchase price of $515.1 million.",
+      "source_quote": "On October 31, 2023, we acquired the net assets of Eastern Insurance Group, LLC (which we refer to as Eastern Insurance). We funded the transaction using free cash flow and funds received from an unsecured senior notes offering.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of all of the issued and outstanding shares of My Plan Manager Group Pty Ltd (MPM) for a total recorded purchase price of $301.6 million.",
+      "source_quote": "On December 6, 2023, we acquired all of the issued and outstanding shares of My Plan Manager Group Pty Ltd (which we refer to as My Plan Manager). We funded the transaction using free cash flow and borrowings under our Credit Agreement.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Funded $1,000.0 million of senior unsecured notes on November 2, 2023, which was used as a source of funding for several of the company's major acquisitions.",
+      "source_quote": "Interest on the $1,000.0 million senior notes funded on November 2, 2023",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Amended the revolving loan facility (Premium Financing Debt Facility) on October 31, 2023, providing funding for Australian and New Zealand premium finance subsidiaries, structured into Facility B (with AU $390.0 million and NZ $25.0 million tranches), Facility C (AU $60.0 million overdraft tranche), and Facility D (NZ $15.0 million overdraft tranche).",
+      "source_quote": "On October 31, 2023, we entered into an amendment to our revolving loan facility (which we refer to as the Premium Financing Debt Facility), that provides funding for the three Australian (AU) and New Zealand (NZ) premium finance subsidiaries. The Premium Financing Debt Facility is comprised of: (i) Facility B is separated into AU $390.0 million and NZ$ 25.0 million tranches (the NZ $tranche will be decreased as of May 1, 2024 to NZ$ 10.0 million), (ii) Facility C, an AU $60.0 million equivalent multi‑currency overdraft tranche and (iii) Facility D, a NZ$ 15.0 million equivalent multi-currency overdraft tranche.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Settled the patent infringement lawsuit brought by Midwest Energy Emissions Corp. and MES Inc. (Midwest Energy, originally filed in July 2019 in the Delaware District Court) in the fourth quarter of 2023 for an amount that was not material, without admitting wrongdoing.",
+      "source_quote": "In July 2019, Midwest Energy Emissions Corp. and MES Inc. (which we refer to together as Midwest Energy) filed a patent infringement lawsuit in the United States District Court for the District of Delaware against us, Chem‑Mod LLC and numerous other related and unrelated parties. The complaint alleges that the named defendants indirectly infringed patents held exclusively by Midwest Energy and sought unspecified damages and injunctive relief. During fourth quarter of 2023, we settled this matter for an amount that was not material and without admitting any wrongdoing.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The U.S. Department of Justice (DOJ) closed its FCPA Unit inquiry in the fourth quarter of 2023 and decided not to pursue any enforcement action against the company regarding its insurance business with public entities in Ecuador.",
+      "source_quote": "During 2022, we received a subpoena from the FCPA Unit of the U.S. Department of Justice seeking information related to our insurance business with public entities in Ecuador. During the fourth quarter of 2023, the DOJ informed us that it had closed its inquiry and would not be pursuing enforcement action against us in connection with this matter.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Promoted Thomas J. Gallagher to President and Patrick M. Gallagher to Executive Vice President and Chief Operating Officer effective in 2024, with J. Patrick Gallagher, Jr. continuing to serve as Chairman and CEO.",
+      "source_quote": "J. Patrick Gallagher, Jr. ... Chairman since 2006, Chief Executive Officer since 1995, President 1990 - 2024 ... Thomas J. Gallagher President since 2024 ... Patrick M. Gallagher Executive Vice President, Chief Operating Officer since 2024",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared cash dividends of $478.8 million ($2.20 per common share) in 2023, and subsequently announced a quarterly dividend increase to $0.60 per common share on January 24, 2024.",
+      "source_quote": "In 2023, we declared $478.8 million in cash dividends on our common stock, or $2.20 per common share. ... On January 24, 2024, we announced a quarterly dividend for first quarter 2024 of $0.60 per common share.",
+      "section": "MD&A"
+    }
+  ]
+}

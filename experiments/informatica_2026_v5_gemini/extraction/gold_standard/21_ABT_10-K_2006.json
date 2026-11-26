@@ -1,0 +1,74 @@
+{
+  "index": 21,
+  "id": "ABT_10-K_2006",
+  "ticker": "ABT",
+  "form": "10-K",
+  "year": 2006,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Agreement to acquire Guidant's vascular intervention and endovascular solutions businesses for $4.1 billion plus contingent milestone payments of up to $500 million",
+      "source_quote": "In early 2006, Abbott agreed to acquire Guidant's vascular intervention and endovascular solutions businesses for $4.1 billion in connection with Boston Scientific's acquisition of Guidant. Abbott would also pay $250 million each upon government approvals to market Guidant's drug-eluting stent in the U.S. and in Japan.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Approval of restructuring plans to realign global manufacturing operations and selected commercial operations, recording pretax charges of approximately $256 million with up to an additional $150 million expected in future periods",
+      "source_quote": "In 2005, Abbott management approved plans to realign its global manufacturing operations and selected domestic and international commercial operations. In 2005, Abbott recorded pretax charges against earnings of approximately $256 reflecting the impairment of manufacturing facilities and other assets, employee severance and other related charges. ... Abbott expects to incur up to an additional $150 in future periods for restructuring plans, primarily for accelerated depreciation and plant and equipment dispositions.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Approved court settlements with the majority of plaintiffs in the Hytrin antitrust and unfair competition lawsuits for an aggregate amount of $90 million",
+      "source_quote": "In 2005, the court approved settlements with the majority of the plaintiffs in the aggregate amount of $90 million, which was previously reserved.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "TAP Pharmaceutical Products Inc. reached settlements, including a court-approved class settlement, with the majority of plaintiffs in Lupron marketing and pricing lawsuits for an aggregate amount of approximately $160 million",
+      "source_quote": "In 2005, settlements, including a court-approved class settlement, were reached with the majority of the plaintiffs in the aggregate amount of approximately $160 million, which was previously reserved.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquired additional product rights related to the immunology drug HUMIRA for approximately $270 million",
+      "source_quote": "In 2005, Abbott acquired additional rights related to HUMIRA for approximately $270 million, which will be amortized over 13 years.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase of approximately 30 million shares of common stock under a Board-approved share repurchase program at a cost of approximately $1.3 billion",
+      "source_quote": "In 2005, Abbott purchased approximately 30 million of its common shares under this authorization at a cost of approximately $1.3 billion.",
+      "section": "Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Borrowing of $1.9 billion of long-term variable rate debt maturing in May 2008 to invest in short-term investments",
+      "source_quote": "In 2005, Abbott borrowed $1.9 billion of long-term debt that matures in May 2008 with variable interest rates above LIBOR. Proceeds from this debt were invested in short-term investments.",
+      "section": "Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Remittance of $4.3 billion of foreign earnings under the American Jobs Creation Act of 2004, resulting in an additional tax expense of $245 million",
+      "source_quote": "In 2005, Abbott remitted $4.3 billion of foreign earnings in accordance with the American Jobs Creation Act of 2004 and recorded additional tax expense of $245 million, which increased the effective tax rate by approximately 5.3 percentage points.",
+      "section": "Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Pending legal transfer of remaining international operations and assets outside the United States to spun-off hospital products company Hospira, Inc. expected in the first half of 2006",
+      "source_quote": "The legal transfer of certain remaining operations and assets (net of liabilities) outside the United States is expected to occur in the first half of 2006. These operations and assets are used in the conduct of Hospira's international business and Hospira is subject to the risks and entitled to the benefits generated by these operations and assets.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "product",
+      "description": "Permittance of generic competitor Baxter to market a competitive form of anesthesia product sevoflurane upon the expiration of a court order in December 2005",
+      "source_quote": "Upon the December 2005 expiration of a court order related to licenses for sevoflurane, Baxter is now permitted to market a competitive form of sevoflurane.",
+      "section": "Management's Discussion and Analysis"
+    }
+  ]
+}

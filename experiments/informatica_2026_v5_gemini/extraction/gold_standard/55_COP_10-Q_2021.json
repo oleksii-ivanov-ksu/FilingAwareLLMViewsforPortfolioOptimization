@@ -1,0 +1,98 @@
+{
+  "index": 55,
+  "id": "COP_10-Q_2021",
+  "ticker": "COP",
+  "form": "10-Q",
+  "year": 2021,
+  "sector": "Energy",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 14,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "On September 20, 2021, ConocoPhillips signed a definitive agreement to acquire Shell Enterprises LLC’s assets in the Delaware Basin in an all-cash transaction for $9.5 billion before customary adjustments.",
+      "source_quote": "In September 2021, we signed a definitive agreement to acquire Shell Enterprises LLC’s assets in the Delaware Basin in an all-cash transaction for $9.5 billion before customary adjustments (Shell Permian Acquisition).",
+      "section": "Note 3—Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "ConocoPhillips completed the acquisition of Concho Resources Inc. on January 15, 2021, for a total consideration of $13.1 billion, with each share of Concho common stock exchanged for 1.46 shares of ConocoPhillips common stock.",
+      "source_quote": "We completed our acquisition of Concho on January 15, 2021 and as defined under the terms of the transaction agreement, each share of Concho common stock was exchanged for 1.46 shares of ConocoPhillips common stock, for total consideration of $13.1 billion.",
+      "section": "Note 3—Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In connection with the sale of Australia-West assets in 2020, ConocoPhillips became entitled to a $200 million payment upon a final investment decision (FID) of the Barossa development project, which was announced on March 30, 2021.",
+      "source_quote": "The sales agreement entitled us to a $200 million payment upon a final investment decision (FID) of the Barossa development project. On March 30, 2021, FID was announced and as such, we recognized a $200 million gain on disposition in the first quarter of 2021.",
+      "section": "Note 3—Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In the third quarter of 2021, ConocoPhillips sold its interests in certain noncore assets in the Lower 48 segment for approximately $150 million after customary adjustments, recognizing a before-tax gain of $26 million.",
+      "source_quote": "In the third quarter of 2021, we sold our interests in certain noncore assets in our Lower 48 segment for approximately $150 million after customary adjustments, recognizing a before-tax gain on sale of approximately $26 million.",
+      "section": "Note 3—Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "ConocoPhillips completed the sale of its noncore exploration interests in Argentina, recognizing a before-tax loss on disposition of $179 million.",
+      "source_quote": "We also completed the sale of our noncore exploration interests in Argentina, recognizing a before-tax loss on disposition of $179 million.",
+      "section": "Note 3—Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In May 2021, ConocoPhillips announced and began a paced monetization of its 208 million Cenovus Energy (CVE) shares, selling 67 million shares by September 30, 2021, for total proceeds of $584 million.",
+      "source_quote": "Since we began disposing of our CVE shares in May 2021, we have sold 67 million shares for total proceeds of $584 million, of which $569 million was received by the end of the third quarter.",
+      "section": "Note 5—Investment in Cenovus Energy"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "In the first quarter of 2021, ConocoPhillips commenced a company-wide restructuring program to combine operations of ConocoPhillips and Concho, recognizing $209 million of restructuring costs for the nine months ended September 30, 2021, primarily for employee severance and related incremental pension benefit costs.",
+      "source_quote": "In the first quarter of 2021, we commenced a company-wide restructuring program, the scope of which included combining the operations of the two companies as well as other global restructuring activities. For the three- and nine-month periods ending September 30, 2021, we recognized non-recurring restructuring costs of approximately $52 million and $209 million, respectively, mainly for employee severance and related incremental pension benefit costs.",
+      "section": "Note 3—Acquisitions and Dispositions"
+    },
+    {
+      "event_type": "litigation",
+      "description": "On May 10, 2021, ConocoPhillips filed arbitration under the rules of the Singapore International Arbitration Centre (SIAC) against Santos KOTN Pty Ltd. and Santos Limited for failure to pay the $200 million bonus due upon FID of the Barossa development project.",
+      "source_quote": "On May 10, 2021, ConocoPhillips filed arbitration under the rules of the Singapore International Arbitration Centre (SIAC) against Santos KOTN Pty Ltd. and Santos Limited for their failure to timely pay the $200 million bonus due upon FID of the Barossa development project under the sale and purchase agreement.",
+      "section": "Note 10—Contingencies and Commitments"
+    },
+    {
+      "event_type": "litigation",
+      "description": "ConocoPhillips and the Office of Natural Resources Revenue (ONRR) entered into a settlement agreement on March 23, 2021, to resolve a dispute regarding royalty payments on federal lands, with all orders and associated appeals withdrawn with prejudice.",
+      "source_quote": "The Office of Natural Resources Revenue (ONRR) has conducted audits of ConocoPhillips’ payment of royalties on federal lands and has issued multiple orders to pay additional royalties to the federal government. ConocoPhillips and the ONRR entered into a settlement agreement on March 23, 2021, to resolve the dispute.",
+      "section": "Note 10—Contingencies and Commitments"
+    },
+    {
+      "event_type": "litigation",
+      "description": "On September 29, 2021, the ICSID annulment committee lifted the stay of enforcement on ConocoPhillips' $8.5 billion (plus interest) arbitration award against the government of Venezuela.",
+      "source_quote": "On September 29, 2021, the ICSID annulment committee lifted the stay of enforcement of the award.",
+      "section": "Note 10—Contingencies and Commitments"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In September 2021, ConocoPhillips announced a 7 percent increase in its quarterly ordinary dividend from 43 cents per share to 46 cents per share.",
+      "source_quote": "In September 2021, we declared an increase in the company’s quarterly ordinary dividend from 43 cents per share to 46 cents per share, representing a 7 percent increase.",
+      "section": "Management’s Discussion and Analysis - Business Environment and Executive Overview - Overview"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In February 2021, ConocoPhillips resumed its share repurchase program at an annualized level of $1.5 billion, and subsequently increased it to an annualized level of $2.5 billion in the second quarter of 2021.",
+      "source_quote": "In February 2021, we resumed our share repurchase program at an annualized level of $1.5 billion, which we increased in the second quarter to an annualized level of $2.5 billion for 2021.",
+      "section": "Management’s Discussion and Analysis - Business Environment and Executive Overview - Overview"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On February 8, 2021, ConocoPhillips completed a debt exchange offer in which approximately $3.8 billion of Concho’s senior notes (representing 98 percent) were tendered and accepted for new debt issued by ConocoPhillips with the same interest rates and maturity dates.",
+      "source_quote": "On February 8, 2021, we completed a debt exchange offer related to the debt assumed from Concho. Of the approximately $3.9 billion in aggregate principal amount of Concho’s senior notes offered in the exchange, 98 percent, or approximately $3.8 billion, were tendered and accepted.",
+      "section": "Note 7—Debt"
+    },
+    {
+      "event_type": "impairment",
+      "description": "In the third quarter of 2021, ConocoPhillips recognized a credit to impairment of $89 million in the Lower 48 segment due to a decreased ARO estimate for a previously sold asset where ConocoPhillips retained the ARO liability.",
+      "source_quote": "In the three-month period ended September 30, 2021, we recorded a credit to impairment of $89 million in our Lower 48 segment due to a decreased ARO estimate for a previously sold asset, in which we retained the ARO liability.",
+      "section": "Note 6—Impairments"
+    }
+  ]
+}

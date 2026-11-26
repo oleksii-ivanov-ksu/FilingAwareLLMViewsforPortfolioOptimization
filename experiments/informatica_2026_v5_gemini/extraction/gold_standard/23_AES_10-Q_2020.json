@@ -1,0 +1,74 @@
+{
+  "index": 23,
+  "id": "AES_10-Q_2020",
+  "ticker": "AES",
+  "form": "10-Q",
+  "year": 2020,
+  "sector": "Utilities",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "AES Panama completed the acquisition of the Penonome I wind farm from Goldwind International for $80 million in May 2020.",
+      "source_quote": "In May 2020, AES Panama completed the acquisition of the Penonome I wind farm from Goldwind International for $80 million. The transaction was accounted for as an asset acquisition...",
+      "section": "Note 19 — Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Subsequent event where BNDES accepted AES Holdings Brazil Ltd.'s binding offer to acquire an additional 18.5% ownership interest in AES Tietê for approximately $250 million, which closed on August 5, 2020, increasing the Company's ownership to 42.9%.",
+      "source_quote": "On July 27, 2020, BNDES accepted AES Holdings Brazil Ltd.’s binding offer to acquire an additional 18.5% ownership in AES Tietê for approximately $250 million, with the majority of funding provided by previously secured non-recourse debt financing from a consortium of Brazilian banks. This transaction closed on August 5, 2020, which increased the Company’s ownership of AES Tietê to 42.9%.",
+      "section": "Note 22 — Subsequent Events"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Entered into a definitive agreement in June 2020 to sell its 43% ownership interest in Itabo, a coal-fired plant and gas turbine in the Dominican Republic, for $101 million.",
+      "source_quote": "In June 2020, the Company entered into an agreement to sell its 43% ownership interest in Itabo, a coal-fired plant and gas turbine in Dominican Republic, for $101 million.",
+      "section": "Note 18 — Held-for-Sale and Dispositions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of land held by AES Redondo Beach, a gas-fired generating facility in California, in March 2020 with a carrying value of $24 million, resulting in a pre-tax gain on sale of $41 million.",
+      "source_quote": "In March 2020, the Company completed the sale of land held by AES Redondo Beach, a gas-fired generating facility in California. The land’s carrying value was $24 million, resulting in a pre-tax gain on sale of $41 million, reported in Other income on the Condensed Consolidated Statement of Operations.",
+      "section": "Note 18 — Held-for-Sale and Dispositions"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Arbitrator issued a final decision in May 2020 in favor of the AES Claimants regarding the Return Transfer Payment for two concessioned hydroelectric plants in Kazakhstan, awarding net damages of approximately $45 million which was collected, and AES recorded a remaining $30 million loss on sale.",
+      "source_quote": "In May 2020, the arbitrator issued a final decision in favor of the AES Claimants, awarding the AES Claimants a net amount of damages of approximately $45 million, which has been collected. AES recorded the remaining $30 million as a loss on sale during the quarter ended June 30, 2020.",
+      "section": "Note 18 — Held-for-Sale and Dispositions"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognized other-than-temporary impairments on its equity method investment in OPGC totaling $201 million during the six months ended June 30, 2020 ($43 million in March and $158 million in June) after agreeing to sell its entire 49% stake in OPGC.",
+      "source_quote": "In March 2020, management’s updated estimate of fair value was $152 million and the Company then recognized an additional other-than-temporary impairment of $43 million due to the current economic slowdown. In June 2020, the Company agreed to sell its entire 49% stake in OPGC resulting in an additional other-than-temporary impairment of $158 million. Total other-than-temporary impairment for the six months ended June 30, 2020 was $201 million recognized in Other non-operating expense.",
+      "section": "Note 7 — Investments in and Advances to Affiliates"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $900 million of 3.30% senior secured notes due 2025 and $700 million of 3.95% senior secured notes due 2030 in May 2020, using the net proceeds to purchase and redeem outstanding senior notes due in 2021 and 2023, resulting in a debt extinguishment loss of $37 million.",
+      "source_quote": "In May 2020, the Company issued $900 million aggregate principal of 3.30% senior secured notes due in 2025 and $700 million of 3.95% senior secured notes due in 2030. The Company used the net proceeds from these issuances to purchase via tender offer a portion of the 4.00% senior notes due in 2021, the 4.50% senior notes due in 2023, and the 4.875% senior notes due in 2023... recognized a loss on extinguishment of debt of $37 million.",
+      "section": "Note 8 — Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "IPALCO issued $475 million aggregate principal of 4.25% senior secured notes due 2030 in April 2020, using net proceeds to prepay outstanding principal of $405 million of its 3.45% senior unsecured notes and a $65 million term loan both due in July 2020.",
+      "source_quote": "In April 2020, IPALCO issued $475 million aggregate principal of 4.25% senior secured notes due in 2030. The net proceeds from the issuance were used to prepay the outstanding principal of $405 million of its 3.45% senior unsecured notes and a $65 million term loan both due in July 2020.",
+      "section": "Note 8 — Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "DPL issued $415 million aggregate principal of 4.125% senior secured notes due 2025 in June 2020, with proceeds used in July 2020 to prepay $380 million of its outstanding 7.25% senior unsecured notes due in 2021.",
+      "source_quote": "In June 2020, DPL issued $415 million aggregate principal of 4.125% senior secured notes due in 2025. In July 2020, the net proceeds from the issuance were used to prepay the outstanding principal of $380 million of its 7.25% senior unsecured notes due in 2021.",
+      "section": "Note 8 — Debt"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Mexico’s CFE served an arbitration demand on AES Mérida III in March 2020 claiming more than $180 million in damages for breach of obligations under a purchase agreement, and AES Mérida III filed an answer and counterclaim for damages in May 2020.",
+      "source_quote": "In March 2020, Mexico’s Comisión Federal de Electricidad (“CFE”) served an arbitration demand upon AES Mérida III. CFE alleges that AES Mérida III is in breach of its obligations under a power and capacity purchase agreement between the two parties and claims more than $180 million in alleged damages, relating to CFE’s own failure to provide fuel within the specifications of the contract. In May 2020, AES Mérida filed an answer denying liability to CFE and asserting a counterclaim for damages due to CFE’s breach of its obligations.",
+      "section": "Item 1 — Legal Proceedings"
+    }
+  ]
+}

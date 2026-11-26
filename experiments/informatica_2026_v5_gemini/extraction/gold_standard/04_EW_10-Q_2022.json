@@ -1,0 +1,68 @@
+{
+  "index": 4,
+  "id": "EW_10-Q_2022",
+  "ticker": "EW",
+  "form": "10-Q",
+  "year": 2022,
+  "sector": "Health Care",
+  "tier": "tier1a_tuning",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 9,
+  "events": [
+    {
+      "event_type": "product",
+      "description": "FDA approval of the MITRIS RESILIA mitral valve in March 2022 and U.S. product launch in April 2022",
+      "source_quote": "In March 2022, we received United States Food and Drug Administration approval for the MITRIS RESILIA valve and initiated the product launch in the United States in April 2022.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board approved an additional $1.5 billion share repurchase authorization, effective July 28, 2022 (subsequent event)",
+      "source_quote": "In July 2022, the Company's Board of Directors approved an additional $1.5 billion of repurchases of the Company's common stock under its share repurchase program, effective July 28, 2022.",
+      "section": "Notes to Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into new $750.0 million Five-Year multi-currency unsecured revolving Credit Agreement in July 2022, maturing July 15, 2027, replacing the prior credit agreement (subsequent event)",
+      "source_quote": "In July 2022, the Company and certain of its subsidiaries, as borrowers, entered into a new Five-Year Credit Agreement (the \"New Credit Agreement\") with the lenders thereto, which provides for a $750.0 million multi-currency unsecured revolving credit facility (the \"Revolving Facility\") and replaces the Company's prior credit agreement and related revolving credit facility.",
+      "section": "Notes to Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "January 2022 accelerated share repurchase agreement for $250.0 million, final settlement February 2022 (2.3 million shares at average $110.31)",
+      "source_quote": "During 2022 and 2021, the Company entered into accelerated share repurchase (\"ASR\") agreements providing for the repurchase of the Company's common stock based on the volume-weighted average price (\"VWAP\") of the Company's common stock during the term of the applicable agreement, less a discount.",
+      "section": "Notes to Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Option agreement to acquire an unnamed medtech company; $60.0 million paid for the option in Q2 2022 (including $10 million 2021 deposit)",
+      "source_quote": "In the second quarter of 2022, the Company entered into an option agreement with a medtech company. Under the option agreement, Edwards paid $60.0 million, of which $10 million was paid in 2021 as a deposit, for an option to acquire the medtech company.",
+      "section": "Notes to Financial Statements"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Convertible promissory note of up to $47.5 million ($32.5 million advanced) and amended warrant agreement ($35.0 million option to acquire) with an unnamed medical device company in Q2 2022",
+      "source_quote": "In the second quarter of 2022, the Company entered into a convertible promissory note and amended its existing warrant agreement with a medical device company. Under the convertible promissory note agreement, the Company has agreed to loan the medical device company up to $47.5 million, of which $32.5 million has been advanced as of June 30, 2022.",
+      "section": "Notes to Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Patent infringement lawsuit filed by Aortic Innovations LLC on September 28, 2021 in U.S. District Court for the District of Delaware regarding SAPIEN 3 Ultra",
+      "source_quote": "On September 28, 2021, Aortic Innovations LLC, a non-practicing entity, filed a lawsuit against Edwards Lifesciences Corporation and certain of its subsidiaries (\"Edwards\") in the United States District Court for the District of Delaware alleging that Edwards' SAPIEN 3 Ultra product infringes certain of its patents.",
+      "section": "Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Internal FCPA investigation of business activities in Japan and other markets; voluntarily self-reported to the SEC and DOJ in 2021 with ongoing status updates",
+      "source_quote": "The Company voluntarily notified the SEC and the United States Department of Justice (\"DOJ\") during 2021 that it has engaged outside counsel to conduct this review and investigation.",
+      "section": "Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Patent dispute settlement with Abbott Laboratories (agreement dated July 12, 2020) covering transcatheter mitral and tricuspid repair products; $167.2 million long-term and $54.4 million current settlement accrual as of June 30, 2022",
+      "source_quote": "On July 12, 2020, the Company reached an agreement with Abbott Laboratories and its direct and indirect subsidiaries to, among other things, settle all outstanding patent disputes between the companies in cases related to transcatheter mitral and tricuspid repair products.",
+      "section": "Notes to Financial Statements"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "index": 61,
+  "id": "DGX_10-Q_2010",
+  "ticker": "DGX",
+  "form": "10-Q",
+  "year": 2010,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 13,
+  "events": [
+    {
+      "event_type": "restructuring",
+      "description": "Workforce reductions resulting in a first quarter charge of $17.3 million in 2010.",
+      "source_quote": "Results for the nine months ended September 30, 2010 include a first quarter charge of $17.3 million, or $0.06 per diluted share, principally associated with workforce reductions.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors authorized an additional $750 million share repurchase program in January 2010.",
+      "source_quote": "In January 2010, the Company’s Board of Directors authorized the Company to repurchase an additional $750 million of the Company’s common stock.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board of Directors authorized $250 million of additional share repurchases on October 20, 2010.",
+      "source_quote": "On October 20, 2010, the Board of Directors authorized $250 million of additional share repurchases, which have no set expiration or termination date.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Renewed an $85 million credit line for letters of credit in the third quarter of 2010.",
+      "source_quote": "The Company has a line of credit with a financial institution totaling $85 million for the issuance of letters of credit (the “Letter of Credit Line”). The Letter of Credit Line, which was renewed during the third quarter of 2010, matures on November 19, 2011",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into fixed-to-variable interest rate swap agreements totaling $350 million in November 2009.",
+      "source_quote": "In November 2009, the Company entered into various fixed-to-variable interest rate swap agreements (the “Fixed-to-Variable Interest Rate Swap Agreements”) which have a notional amount totaling $350 million and a variable interest rate based on one-month LIBOR plus 1.33%.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "State of California intervened as plaintiff in a whistleblower civil lawsuit alleging overcharges to MediCal.",
+      "source_quote": "Subsequently, the State of California intervened as plaintiff in a civil lawsuit, California ex rel. Hunter Laboratories, LLC v. Quest Diagnostics Incorporated., et al. (the “California Lawsuit”), filed in California Superior Court... The complaint alleges that, among other things, the Company overcharged MediCal for testing services and violated the California False Claims Act.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Entered into an interim agreement to temporarily suspend billing MediCal for up to six months pending resolution of the California Lawsuit.",
+      "source_quote": "the Company entered into an interim agreement under which it has agreed to temporarily suspend billing MediCal for a period of up to six months, during which it continues to provide services, pending resolution of the California Lawsuit.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "U.S. District Court partially unsealed a whistleblower civil complaint alleging violations of the Anti-Kickback Statute and the federal False Claims Act.",
+      "source_quote": "Subsequently, in November 2009, the U.S. District Court for the Southern District of New York partially unsealed a civil complaint, U. S. ex rel. Fair Laboratory Practices Associates v. Quest Diagnostics Incorporated... The complaint alleges, among other things, violations of the federal Anti-Kickback Statute and the federal False Claims Act in connection with the Company’s pricing of laboratory services.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Shareholder plaintiff filed a purported derivative action alleging breaches of fiduciary duties related to NID test kits.",
+      "source_quote": "In June 2009, a shareholder plaintiff filed a purported derivative action in the Superior Court of New Jersey, Morris County, on behalf of the Company against certain present and former directors and officers of the Company based on, among other things, their alleged breaches of fiduciary duties in connection with the manufacture, marketing, sale and billing related to certain test kits manufactured by NID.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Putative class action filed alleging defective NID test kits and violations of RICO and state consumer protection laws.",
+      "source_quote": "In April 2010, a putative class action was filed against the Company and NID in the U.S. District Court for the Eastern District of New York on behalf of entities that allegedly purchased or paid for certain of NID’s test kits. The complaint alleges that certain of NID’s test kits were defective and that defendants, among other things, violated RICO and state consumer protection laws.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Shareholder derivative action filed alleging breaches of fiduciary duties related to alleged overcharges to MediCal.",
+      "source_quote": "In August 2010, a shareholder derivative action was filed in the Superior Court of New Jersey, Morris County, on behalf of the Company against the directors and certain present officers of the Company. The complaint alleges that the defendants breached their fiduciary duties in connection with, among other things, alleged overcharges by the Company to MediCal for testing services",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Finalized the resolution of the federal government investigation related to NID with a final settlement agreement and a total payment of $308 million in the second quarter of 2009.",
+      "source_quote": "On April 15, 2009, the Company finalized the resolution of the federal government investigation related to NID and entered into a final settlement agreement with the federal government. In the second quarter of 2009, the Company paid $268 million to settle the civil allegations... In addition, NID pled guilty to a single count of felony misbranding and paid a $40 million fine. These second quarter payments totaling $308 million, which had been previously reserved, were funded out of cash on-hand and available credit facilities.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Finalized separate settlement agreements with certain states and paid approximately $6 million in the third quarter of 2009 related to NID discontinued operations.",
+      "source_quote": "During the third quarter of 2009, the Company finalized separate settlement agreements with certain states and paid approximately $6 million, which had been previously reserved for.",
+      "section": "Notes to Consolidated Financial Statements"
+    }
+  ]
+}

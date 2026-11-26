@@ -1,0 +1,62 @@
+{
+  "index": 69,
+  "id": "EXPE_10-Q_2010",
+  "ticker": "EXPE",
+  "form": "10-Q",
+  "year": 2010,
+  "sector": "Consumer Discretionary",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased 8.4 million shares (specifically 8,382 thousand shares) of common stock under the 2006 share repurchase authorization during the first quarter of 2010 for a total cost of $188 million at an average price of $22.46 per share, leaving 11.6 million shares remaining authorized for repurchase.",
+      "source_quote": "During the first quarter of 2010, we repurchased 8.4 million shares under this authorization for a total cost of $188 million, representing an average repurchase price of $22.46 per share. As of March 31, 2010, 11.6 million shares remain authorized for repurchase.",
+      "section": "Note 10 - Shareholders' Equity / Item 2 - MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared a quarterly cash dividend of $0.07 per common share in the first quarter of 2010, resulting in total dividend payments of $20,220 thousand ($20.2 million).",
+      "source_quote": "Dividends declared per common share: $0.07... Payment of dividends to stockholders: (20,220)",
+      "section": "Consolidated Statements of Operations / Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into a new $750 million, three-year unsecured revolving credit facility in February 2010, replacing a prior $1 billion credit facility, and incurred approximately $8 million in related fees.",
+      "source_quote": "In February 2010, we entered into a new $750 million, three-year unsecured revolving credit facility (“the facility”) with a group of lenders, replacing our prior $1 billion credit facility (“prior facility”).",
+      "section": "Note 5 - Long-term Debt"
+    },
+    {
+      "event_type": "litigation",
+      "description": "On March 24, 2010, the California Court of Appeals affirmed the California Superior Court's decision that Expedia is not required to pay assessed occupancy taxes prior to litigating in Anaheim, California (pay-to-play), and the California Supreme Court subsequently denied the city's petition for review.",
+      "source_quote": "During the first quarter of 2009, the California Superior Court for Orange County determined we are not required to make a payment in order to litigate in Anaheim, California. That decision was affirmed by the California Court of Appeals on March 24, 2010 and the California Supreme Court denied the city’s petition for review.",
+      "section": "Note 5 - Long-term Debt"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Third-party appeals to the court's order approving the Settlement Agreement for a Class Action lawsuit were dismissed on April 14, 2010, with $18 million accrued for this settlement as of March 31, 2010, and $12 million expected to be paid during the second quarter of 2010.",
+      "source_quote": "The third party appeals to the court’s order approving the Settlement Agreement related to the Class Action lawsuit were dismissed on April 14, 2010. As of March 31, 2010, we had $18 million accrued for this settlement compared to $19 million as of December 31, 2009. We expect to pay $12 million of the settlement amount during the second quarter of 2010.",
+      "section": "Note 5 - Long-term Debt"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Dismissal of the Securities Class Action Litigation against IAC in its entirety on March 19, 2010, when the court granted the defendants' motion to dismiss, and subsequent dismissal of two related consolidated shareholder derivative suits with prejudice on consent on April 1, 2010.",
+      "source_quote": "Securities Class Action Litigation against IAC. On March 19, 2010, the court granted defendants’ motion to dismiss and dismissed the case in its entirety. The plaintiffs’ time to appeal has expired. On April 1, 2010, as a result of the court’s ruling, the plaintiff’s appeal from the dismissal of the complaint in the two related consolidated shareholder derivative suits was dismissed with prejudice on consent.",
+      "section": "Part II - Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Settled and dismissed the Hotels.com dispute on March 9, 2010.",
+      "source_quote": "Hotels.com. The parties settled the dispute and the case was dismissed on March 9, 2010.",
+      "section": "Part II - Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Reached a tentative settlement in the In re ARC Venture Holding, Inc. litigation, which requires approval by the bankruptcy court.",
+      "source_quote": "In re ARC Venture Holding, Inc. The parties have reached a tentative settlement. Final settlement requires approval by the bankruptcy court.",
+      "section": "Part II - Item 1. Legal Proceedings"
+    }
+  ]
+}

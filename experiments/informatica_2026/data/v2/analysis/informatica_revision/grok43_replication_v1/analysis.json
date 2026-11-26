@@ -1,0 +1,676 @@
+{
+  "completed_jobs": 300,
+  "planned_jobs": 300,
+  "complete_run": true,
+  "valid_jobs": 300,
+  "complete_cases": 50,
+  "missing_or_incomplete_cases": 0,
+  "invalid_jobs": [],
+  "reported_cost_usd": 0.66482175,
+  "confidence_counts_all_valid_calls": {
+    "anonymized": {
+      "medium": 110,
+      "low": 39,
+      "high": 1
+    },
+    "original": {
+      "medium": 117,
+      "low": 33
+    }
+  },
+  "metrics": {
+    "signed_change": {
+      "mean": -10.766666666666667,
+      "ci95": [
+        -15.033333333333333,
+        -6.766666666666665
+      ]
+    },
+    "absolute_change": {
+      "mean": 13.566666666666665,
+      "ci95": [
+        10.133333333333333,
+        17.33333333333333
+      ]
+    },
+    "sign_changed": {
+      "mean": 0.14,
+      "ci95": [
+        0.06,
+        0.24
+      ]
+    },
+    "original_repeat_distance": {
+      "mean": 13.999999999999998,
+      "ci95": [
+        10.66666666666667,
+        17.6
+      ]
+    },
+    "anonymized_repeat_distance": {
+      "mean": 16.266666666666666,
+      "ci95": [
+        13.2,
+        19.53333333333334
+      ]
+    },
+    "cross_distance": {
+      "mean": 17.544444444444444,
+      "ci95": [
+        14.388611111111112,
+        20.955555555555556
+      ]
+    },
+    "cross_minus_within": {
+      "mean": 2.4111111111111105,
+      "ci95": [
+        0.49972222222222157,
+        4.666666666666666
+      ]
+    },
+    "spearman": 0.9592967646955771
+  },
+  "cases": [
+    {
+      "case_id": "P001",
+      "original_mean": 8.333333333333334,
+      "anonymized_mean": -16.666666666666668,
+      "signed_change": -25.0,
+      "absolute_change": 25.0,
+      "sign_changed": 1,
+      "original_repeat_distance": 16.666666666666668,
+      "anonymized_repeat_distance": 33.333333333333336,
+      "cross_distance": 25.0,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P002",
+      "original_mean": -140.0,
+      "anonymized_mean": -156.66666666666666,
+      "signed_change": -16.666666666666657,
+      "absolute_change": 16.666666666666657,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 53.333333333333336,
+      "cross_distance": 30.0,
+      "cross_minus_within": -6.666666666666671
+    },
+    {
+      "case_id": "P003",
+      "original_mean": -43.333333333333336,
+      "anonymized_mean": -66.66666666666667,
+      "signed_change": -23.333333333333336,
+      "absolute_change": 23.333333333333336,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 23.333333333333332,
+      "cross_minus_within": 9.999999999999998
+    },
+    {
+      "case_id": "P004",
+      "original_mean": -130.0,
+      "anonymized_mean": -120.0,
+      "signed_change": 10.0,
+      "absolute_change": 10.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 0.0,
+      "cross_distance": 10.0,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P005",
+      "original_mean": -48.333333333333336,
+      "anonymized_mean": -85.0,
+      "signed_change": -36.666666666666664,
+      "absolute_change": 36.666666666666664,
+      "sign_changed": 0,
+      "original_repeat_distance": 50.0,
+      "anonymized_repeat_distance": 16.666666666666668,
+      "cross_distance": 36.666666666666664,
+      "cross_minus_within": 3.3333333333333286
+    },
+    {
+      "case_id": "P006",
+      "original_mean": 13.333333333333334,
+      "anonymized_mean": -46.666666666666664,
+      "signed_change": -60.0,
+      "absolute_change": 60.0,
+      "sign_changed": 1,
+      "original_repeat_distance": 40.0,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 60.0,
+      "cross_minus_within": 36.66666666666667
+    },
+    {
+      "case_id": "P007",
+      "original_mean": -110.0,
+      "anonymized_mean": -123.33333333333333,
+      "signed_change": -13.333333333333329,
+      "absolute_change": 13.333333333333329,
+      "sign_changed": 0,
+      "original_repeat_distance": 13.333333333333334,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 15.555555555555555,
+      "cross_minus_within": -1.1111111111111125
+    },
+    {
+      "case_id": "P008",
+      "original_mean": 16.666666666666668,
+      "anonymized_mean": 15.0,
+      "signed_change": -1.6666666666666679,
+      "absolute_change": 1.6666666666666679,
+      "sign_changed": 0,
+      "original_repeat_distance": 3.3333333333333335,
+      "anonymized_repeat_distance": 16.666666666666668,
+      "cross_distance": 9.444444444444445,
+      "cross_minus_within": -0.5555555555555554
+    },
+    {
+      "case_id": "P009",
+      "original_mean": -20.0,
+      "anonymized_mean": -56.666666666666664,
+      "signed_change": -36.666666666666664,
+      "absolute_change": 36.666666666666664,
+      "sign_changed": 0,
+      "original_repeat_distance": 46.666666666666664,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 36.666666666666664,
+      "cross_minus_within": 6.666666666666664
+    },
+    {
+      "case_id": "P010",
+      "original_mean": 16.666666666666668,
+      "anonymized_mean": -20.0,
+      "signed_change": -36.66666666666667,
+      "absolute_change": 36.66666666666667,
+      "sign_changed": 1,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 26.666666666666668,
+      "cross_distance": 36.666666666666664,
+      "cross_minus_within": 13.333333333333329
+    },
+    {
+      "case_id": "P011",
+      "original_mean": -46.666666666666664,
+      "anonymized_mean": -46.666666666666664,
+      "signed_change": 0.0,
+      "absolute_change": 0.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 4.444444444444445,
+      "cross_minus_within": -2.2222222222222223
+    },
+    {
+      "case_id": "P012",
+      "original_mean": -35.0,
+      "anonymized_mean": -26.666666666666668,
+      "signed_change": 8.333333333333332,
+      "absolute_change": 8.333333333333332,
+      "sign_changed": 0,
+      "original_repeat_distance": 10.0,
+      "anonymized_repeat_distance": 26.666666666666668,
+      "cross_distance": 15.0,
+      "cross_minus_within": -3.3333333333333357
+    },
+    {
+      "case_id": "P013",
+      "original_mean": -40.0,
+      "anonymized_mean": -46.666666666666664,
+      "signed_change": -6.666666666666664,
+      "absolute_change": 6.666666666666664,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 11.11111111111111,
+      "cross_minus_within": -2.222222222222223
+    },
+    {
+      "case_id": "P014",
+      "original_mean": -96.66666666666667,
+      "anonymized_mean": -93.33333333333333,
+      "signed_change": 3.333333333333343,
+      "absolute_change": 3.333333333333343,
+      "sign_changed": 0,
+      "original_repeat_distance": 26.666666666666668,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 16.666666666666668,
+      "cross_minus_within": -6.666666666666668
+    },
+    {
+      "case_id": "P015",
+      "original_mean": 0.0,
+      "anonymized_mean": -30.0,
+      "signed_change": -30.0,
+      "absolute_change": 30.0,
+      "sign_changed": 1,
+      "original_repeat_distance": 0.0,
+      "anonymized_repeat_distance": 33.333333333333336,
+      "cross_distance": 30.0,
+      "cross_minus_within": 13.333333333333332
+    },
+    {
+      "case_id": "P016",
+      "original_mean": -70.0,
+      "anonymized_mean": -83.33333333333333,
+      "signed_change": -13.333333333333329,
+      "absolute_change": 13.333333333333329,
+      "sign_changed": 0,
+      "original_repeat_distance": 40.0,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 31.11111111111111,
+      "cross_minus_within": 7.777777777777779
+    },
+    {
+      "case_id": "P017",
+      "original_mean": -60.0,
+      "anonymized_mean": -93.33333333333333,
+      "signed_change": -33.33333333333333,
+      "absolute_change": 33.33333333333333,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 33.333333333333336,
+      "cross_distance": 37.77777777777778,
+      "cross_minus_within": 11.11111111111111
+    },
+    {
+      "case_id": "P018",
+      "original_mean": 21.666666666666668,
+      "anonymized_mean": 0.0,
+      "signed_change": -21.666666666666668,
+      "absolute_change": 21.666666666666668,
+      "sign_changed": 1,
+      "original_repeat_distance": 3.3333333333333335,
+      "anonymized_repeat_distance": 40.0,
+      "cross_distance": 21.666666666666668,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P019",
+      "original_mean": -86.66666666666667,
+      "anonymized_mean": -83.33333333333333,
+      "signed_change": 3.333333333333343,
+      "absolute_change": 3.333333333333343,
+      "sign_changed": 0,
+      "original_repeat_distance": 26.666666666666668,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 16.666666666666668,
+      "cross_minus_within": -3.333333333333332
+    },
+    {
+      "case_id": "P020",
+      "original_mean": -46.666666666666664,
+      "anonymized_mean": -40.0,
+      "signed_change": 6.666666666666664,
+      "absolute_change": 6.666666666666664,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 0.0,
+      "cross_distance": 6.666666666666667,
+      "cross_minus_within": 3.3333333333333335
+    },
+    {
+      "case_id": "P021",
+      "original_mean": 0.0,
+      "anonymized_mean": 0.0,
+      "signed_change": 0.0,
+      "absolute_change": 0.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 0.0,
+      "anonymized_repeat_distance": 0.0,
+      "cross_distance": 0.0,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P022",
+      "original_mean": -40.0,
+      "anonymized_mean": -63.333333333333336,
+      "signed_change": -23.333333333333336,
+      "absolute_change": 23.333333333333336,
+      "sign_changed": 0,
+      "original_repeat_distance": 13.333333333333334,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 23.333333333333332,
+      "cross_minus_within": 13.333333333333332
+    },
+    {
+      "case_id": "P023",
+      "original_mean": 70.0,
+      "anonymized_mean": 80.0,
+      "signed_change": 10.0,
+      "absolute_change": 10.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 13.333333333333334,
+      "anonymized_repeat_distance": 26.666666666666668,
+      "cross_distance": 16.666666666666668,
+      "cross_minus_within": -3.333333333333332
+    },
+    {
+      "case_id": "P024",
+      "original_mean": -80.0,
+      "anonymized_mean": -90.0,
+      "signed_change": -10.0,
+      "absolute_change": 10.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 13.333333333333334,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 14.444444444444445,
+      "cross_minus_within": -2.222222222222223
+    },
+    {
+      "case_id": "P025",
+      "original_mean": 53.333333333333336,
+      "anonymized_mean": 55.0,
+      "signed_change": 1.6666666666666643,
+      "absolute_change": 1.6666666666666643,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 5.0,
+      "cross_minus_within": -1.666666666666667
+    },
+    {
+      "case_id": "P026",
+      "original_mean": 0.0,
+      "anonymized_mean": 0.0,
+      "signed_change": 0.0,
+      "absolute_change": 0.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 0.0,
+      "anonymized_repeat_distance": 0.0,
+      "cross_distance": 0.0,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P027",
+      "original_mean": -86.66666666666667,
+      "anonymized_mean": -83.33333333333333,
+      "signed_change": 3.333333333333343,
+      "absolute_change": 3.333333333333343,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 5.555555555555555,
+      "cross_minus_within": -1.1111111111111116
+    },
+    {
+      "case_id": "P028",
+      "original_mean": -6.666666666666667,
+      "anonymized_mean": -30.0,
+      "signed_change": -23.333333333333332,
+      "absolute_change": 23.333333333333332,
+      "sign_changed": 0,
+      "original_repeat_distance": 40.0,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 30.0,
+      "cross_minus_within": 3.333333333333332
+    },
+    {
+      "case_id": "P029",
+      "original_mean": -76.66666666666667,
+      "anonymized_mean": -93.33333333333333,
+      "signed_change": -16.666666666666657,
+      "absolute_change": 16.666666666666657,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 26.666666666666668,
+      "cross_distance": 21.11111111111111,
+      "cross_minus_within": 4.444444444444443
+    },
+    {
+      "case_id": "P030",
+      "original_mean": 63.333333333333336,
+      "anonymized_mean": 56.666666666666664,
+      "signed_change": -6.666666666666671,
+      "absolute_change": 6.666666666666671,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 15.555555555555555,
+      "cross_minus_within": -4.444444444444445
+    },
+    {
+      "case_id": "P031",
+      "original_mean": 0.0,
+      "anonymized_mean": -18.333333333333332,
+      "signed_change": -18.333333333333332,
+      "absolute_change": 18.333333333333332,
+      "sign_changed": 1,
+      "original_repeat_distance": 0.0,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 18.333333333333332,
+      "cross_minus_within": 8.333333333333332
+    },
+    {
+      "case_id": "P032",
+      "original_mean": -110.0,
+      "anonymized_mean": -113.33333333333333,
+      "signed_change": -3.3333333333333286,
+      "absolute_change": 3.3333333333333286,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 12.222222222222221,
+      "cross_minus_within": -4.444444444444446
+    },
+    {
+      "case_id": "P033",
+      "original_mean": 50.0,
+      "anonymized_mean": 43.333333333333336,
+      "signed_change": -6.666666666666664,
+      "absolute_change": 6.666666666666664,
+      "sign_changed": 0,
+      "original_repeat_distance": 0.0,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 6.666666666666667,
+      "cross_minus_within": 3.3333333333333335
+    },
+    {
+      "case_id": "P034",
+      "original_mean": -103.33333333333333,
+      "anonymized_mean": -110.0,
+      "signed_change": -6.666666666666671,
+      "absolute_change": 6.666666666666671,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 13.333333333333334,
+      "cross_minus_within": -3.333333333333334
+    },
+    {
+      "case_id": "P035",
+      "original_mean": 23.333333333333332,
+      "anonymized_mean": 20.0,
+      "signed_change": -3.333333333333332,
+      "absolute_change": 3.333333333333332,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 12.222222222222221,
+      "cross_minus_within": -1.1111111111111125
+    },
+    {
+      "case_id": "P036",
+      "original_mean": -33.333333333333336,
+      "anonymized_mean": -46.666666666666664,
+      "signed_change": -13.333333333333329,
+      "absolute_change": 13.333333333333329,
+      "sign_changed": 0,
+      "original_repeat_distance": 13.333333333333334,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 13.333333333333334,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P037",
+      "original_mean": -46.666666666666664,
+      "anonymized_mean": -56.666666666666664,
+      "signed_change": -10.0,
+      "absolute_change": 10.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 10.0,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P038",
+      "original_mean": -66.66666666666667,
+      "anonymized_mean": -71.66666666666667,
+      "signed_change": -5.0,
+      "absolute_change": 5.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 3.3333333333333335,
+      "cross_distance": 5.0,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P039",
+      "original_mean": -71.66666666666667,
+      "anonymized_mean": -93.33333333333333,
+      "signed_change": -21.666666666666657,
+      "absolute_change": 21.666666666666657,
+      "sign_changed": 0,
+      "original_repeat_distance": 13.333333333333334,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 21.666666666666668,
+      "cross_minus_within": 5.0
+    },
+    {
+      "case_id": "P040",
+      "original_mean": 46.666666666666664,
+      "anonymized_mean": 26.666666666666668,
+      "signed_change": -19.999999999999996,
+      "absolute_change": 19.999999999999996,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 20.0,
+      "cross_minus_within": 10.0
+    },
+    {
+      "case_id": "P041",
+      "original_mean": -43.333333333333336,
+      "anonymized_mean": -46.666666666666664,
+      "signed_change": -3.3333333333333286,
+      "absolute_change": 3.3333333333333286,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 13.333333333333334,
+      "cross_distance": 7.777777777777778,
+      "cross_minus_within": -2.2222222222222223
+    },
+    {
+      "case_id": "P042",
+      "original_mean": -130.0,
+      "anonymized_mean": -130.0,
+      "signed_change": 0.0,
+      "absolute_change": 0.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 20.0,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 13.333333333333334,
+      "cross_minus_within": -6.666666666666666
+    },
+    {
+      "case_id": "P043",
+      "original_mean": 50.0,
+      "anonymized_mean": 50.0,
+      "signed_change": 0.0,
+      "absolute_change": 0.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 13.333333333333334,
+      "anonymized_repeat_distance": 0.0,
+      "cross_distance": 6.666666666666667,
+      "cross_minus_within": 0.0
+    },
+    {
+      "case_id": "P044",
+      "original_mean": -120.0,
+      "anonymized_mean": -140.0,
+      "signed_change": -20.0,
+      "absolute_change": 20.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 0.0,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 20.0,
+      "cross_minus_within": 10.0
+    },
+    {
+      "case_id": "P045",
+      "original_mean": 23.333333333333332,
+      "anonymized_mean": -18.333333333333332,
+      "signed_change": -41.666666666666664,
+      "absolute_change": 41.666666666666664,
+      "sign_changed": 1,
+      "original_repeat_distance": 3.3333333333333335,
+      "anonymized_repeat_distance": 43.333333333333336,
+      "cross_distance": 42.77777777777778,
+      "cross_minus_within": 19.444444444444443
+    },
+    {
+      "case_id": "P046",
+      "original_mean": -75.0,
+      "anonymized_mean": -66.66666666666667,
+      "signed_change": 8.333333333333329,
+      "absolute_change": 8.333333333333329,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 16.666666666666668,
+      "cross_distance": 10.555555555555555,
+      "cross_minus_within": -1.1111111111111125
+    },
+    {
+      "case_id": "P047",
+      "original_mean": -113.33333333333333,
+      "anonymized_mean": -110.0,
+      "signed_change": 3.3333333333333286,
+      "absolute_change": 3.3333333333333286,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 20.0,
+      "cross_distance": 12.222222222222221,
+      "cross_minus_within": -1.1111111111111125
+    },
+    {
+      "case_id": "P048",
+      "original_mean": -43.333333333333336,
+      "anonymized_mean": -43.333333333333336,
+      "signed_change": 0.0,
+      "absolute_change": 0.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 6.666666666666667,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 4.444444444444445,
+      "cross_minus_within": -2.2222222222222223
+    },
+    {
+      "case_id": "P049",
+      "original_mean": -100.0,
+      "anonymized_mean": -93.33333333333333,
+      "signed_change": 6.666666666666671,
+      "absolute_change": 6.666666666666671,
+      "sign_changed": 0,
+      "original_repeat_distance": 26.666666666666668,
+      "anonymized_repeat_distance": 6.666666666666667,
+      "cross_distance": 15.555555555555555,
+      "cross_minus_within": -1.1111111111111125
+    },
+    {
+      "case_id": "P050",
+      "original_mean": -40.0,
+      "anonymized_mean": -35.0,
+      "signed_change": 5.0,
+      "absolute_change": 5.0,
+      "sign_changed": 0,
+      "original_repeat_distance": 0.0,
+      "anonymized_repeat_distance": 10.0,
+      "cross_distance": 5.0,
+      "cross_minus_within": 0.0
+    }
+  ],
+  "interpretation": "Diagnostic sample; current-model replication; not proof against temporal leakage."
+}

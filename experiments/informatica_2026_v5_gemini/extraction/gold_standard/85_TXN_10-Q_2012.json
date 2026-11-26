@@ -1,0 +1,50 @@
+{
+  "index": 85,
+  "id": "TXN_10-Q_2012",
+  "ticker": "TXN",
+  "form": "10-Q",
+  "year": 2012,
+  "sector": "Information Technology",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of National Semiconductor Corporation completed on September 23, 2011",
+      "source_quote": "On September 23, 2011, we completed the acquisition of National Semiconductor Corporation (National).",
+      "section": "Note 1. Description of business and significant accounting policies and practices"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Redundancies and cost efficiency measures resulting in the elimination of about 350 jobs of former National Semiconductor employees by the end of 2012",
+      "source_quote": "About 350 jobs will be eliminated by the end of 2012 as a result of redundancies and cost efficiency measures.",
+      "section": "Note 2. National Semiconductor acquisition-related costs"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Announced plans to close two older semiconductor manufacturing facilities in Houston, Texas, and Hiji, Japan, by mid-2013",
+      "source_quote": "Beginning in the fourth quarter of 2011, we recognized restructuring charges associated with the announced plans to close two older semiconductor manufacturing facilities in Houston, Texas, and Hiji, Japan, by mid-2013.",
+      "section": "Note 4. Restructuring charges"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Replacement of existing lines of credit with a new $2 billion five-year revolving credit facility maturing in March 2017",
+      "source_quote": "On March 9, 2012, we replaced our existing lines of credit with a new five-year variable-rate revolving credit facility that allows us to borrow up to $2 billion through March 2017.",
+      "section": "Note 9. Debt and lines of credit"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Subsequent event pricing of $1.5 billion aggregate principal amount of senior unsecured notes expected to close on August 6, 2012",
+      "source_quote": "On July 30, 2012, we announced the pricing of two series of senior unsecured notes for an aggregate principal amount of $1.5 billion.",
+      "section": "Note 12. Subsequent events"
+    },
+    {
+      "event_type": "product",
+      "description": "Discontinuation of investment in the development of baseband products with revenue expected to cease by the end of 2012",
+      "source_quote": "We no longer invest in development of baseband products (products that allow a cell phone to connect to the cellular network), an area we believe offers far less promising growth prospects. ... We expect substantially all of our baseband revenue, which was $1.1 billion in 2011, to cease by the end of 2012.",
+      "section": "ITEM 2. Management's discussion and analysis of financial condition and results of operations - Wireless"
+    }
+  ]
+}

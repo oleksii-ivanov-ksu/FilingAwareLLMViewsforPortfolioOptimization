@@ -1,0 +1,56 @@
+{
+  "index": 86,
+  "id": "TYL_10-Q_2020",
+  "ticker": "TYL",
+  "form": "10-Q",
+  "year": 2020,
+  "sector": "Information Technology",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of all of the capital stock of MP Holdings Parent, Inc. dba MicroPact for a purchase price of approximately $203.7 million, with $5.6 million of contingent consideration paid during the nine months ended September 30, 2020.",
+      "source_quote": "On February 28, 2019, we acquired all of the capital stock of MP Holdings Parent, Inc. dba MicroPact (\"MicroPact\"), a leading provider of commercial off-the-shelf solutions, including entellitrak®, a low-code application development platform for case management and business process management used extensively in the public sector.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of all the assets of MyCivic for a total purchase price of $3.7 million in cash.",
+      "source_quote": "On February 1, 2019, we acquired all the assets of MyCivic. The total purchase price was $3.7 million in cash paid.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sale of a 20% interest (convertible preferred stock) in Record Holdings Pty Limited to BFTR, LLC for $15.0 million in proceeds.",
+      "source_quote": "During the nine months ended September 30, 2020, we sold o ur $ 15 million investment in convertible preferred stock representing a 20 % interest in Record Holdings Pty Limited (\"Record Holding s\"), a privately held Australian company specializing in digitizing the spoken word in court and legal proceedings, to BFTR, LLC, a wholly owned subsidiary of Bison Capital Partners V L.P.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Purchase of an 18% equity interest in BFTR, LLC for $10.0 million in common stock.",
+      "source_quote": "During the same period, we purchased $ 10 million in common stock representing a 18 % interest in BFTR, LLC.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Establishment of a $400.0 million revolving credit facility maturity on September 30, 2024, with various lender parties and Wells Fargo Bank.",
+      "source_quote": "On September 30, 2019, we entered into a $ 400 million credit agreement with various lender parties and Wells Fargo Bank, National Association, as Administrative Agent (the “Credit Facility”). The Credit Facility provides for a revolving credit line up to $ 400 million, including a $ 25 million sublimit for letters of credit. The Credit Facility matures on September 30, 2024.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board authorization to repurchase up to an additional 1.5 million shares of common stock, leaving 2.5 million shares available for repurchase as of September 30, 2020.",
+      "source_quote": "In February 2019, our board of directors authorized the repurchase of an additional 1.5 million shares of our common stock. The repurchase program, which was approved by our board of directors, was originally announced in October 2002 and was amended at various times from 2003 through 2019. As of September 30, 2020, we have authorization from our board of directors to repurchase up to 2.5 million additional shares of our common stock.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Segment reorganization moving the land and vital records management business unit from the Enterprise Software (ES) segment to the Appraisal and Tax (A&T) segment.",
+      "source_quote": "As of January 1, 2020, the land and vital records management business unit, which was previously reported in the ES segment, was moved to the A&T segment to reflect changes in the way in which management makes operating decisions, allocates resources, and manages the growth and profitability of the Company.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "index": 2,
+  "id": "EMN_10-Q_2013",
+  "ticker": "EMN",
+  "form": "10-Q",
+  "year": 2013,
+  "sector": "Materials",
+  "tier": "tier1a_tuning",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 13,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed acquisition of Solutia Inc. on July 2, 2012 for total consideration of $4.8B ($2.6B cash net of cash acquired, ~$700M Eastman stock, $1.5B assumed and repaid debt); 14.7M shares and 4,481,250 warrants issued",
+      "source_quote": "On July 2, 2012, the Company completed its acquisition of Solutia, a global leader in performance materials and specialty chemicals.",
+      "section": "Notes (Note 2 – Acquisitions and Investments in Joint Ventures)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $2.4B of notes on June 5, 2012 ($1.0B 2.4% due 2017, $900M 3.6% due 2022, $500M 4.8% due 2042), $2.3B net proceeds, to fund Solutia acquisition",
+      "source_quote": "On June 5, 2012, the Company issued 2.4% notes due 2017 in the principal amount of $1.0 billion, 3.6% notes due 2022 in the principal amount of $900 million, and 4.8% notes due 2042 in the principal amount of $500 million.",
+      "section": "Notes (Note 6 – Borrowings)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Borrowed full $1.2B under five-year Term Loan on July 2, 2012 to fund Solutia acquisition and repay Solutia debt",
+      "source_quote": "In addition, on July 2, 2012, the Company borrowed the entire $1.2 billion available under the five-year Term Loan.",
+      "section": "Notes (Note 6 – Borrowings)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid $200M of Term Loan borrowings in Q1 2013; cumulative $450M repaid as of March 31, 2013 (balance $750M)",
+      "source_quote": "During first three months 2013, the Company received $200 million in proceeds from commercial paper borrowings and repaid $200 million of borrowings under its five-year term loan agreement (the \"Term Loan\").",
+      "section": "MD&A – Liquidity, Capital Resources, and Other Financial Information"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Initiated $200M commercial paper borrowings in Q1 2013 (none outstanding at December 31, 2012), reducing Revolving Credit Facility availability by $200M",
+      "source_quote": "At March 31, 2013 the Company's commercial paper borrowings were $200 million.",
+      "section": "Notes (Note 6 – Borrowings)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Share repurchases under the February 2011 $300M authorization: 445,500 shares for $32M in Q1 2013 (no repurchases in 2012); $234M used cumulatively, $66M remaining",
+      "source_quote": "In February 2011, the Company's Board of Directors authorized repurchase of up to $300 million of the Company's outstanding common stock at such times, in such amounts, and on such terms, as determined to be in the best interests of the Company.",
+      "section": "MD&A – Treasury Stock / Part II Item 2"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Quarterly cash dividend of $0.30 per share declared in Q1 2013, up from $0.26 per share in Q1 2012",
+      "source_quote": "The Company declared cash dividends of $0.30 and $0.26 per share in first quarter 2013 and 2012, respectively.",
+      "section": "Notes (Note 13 – Earnings and Dividends Per Share)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Unexercised Solutia acquisition warrants expired February 27, 2013; $16M received from warrant exercises in Q1 2013",
+      "source_quote": "Unexercised warrants expired on February 27, 2013.",
+      "section": "Notes (Note 13 – Earnings and Dividends Per Share)"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "$3M restructuring charges for severance in Q1 2013 associated with continued integration of Solutia; $7M integration costs",
+      "source_quote": "In first quarter 2013, there were $3 million of restructuring charges for severance associated with the continued integration of Solutia.",
+      "section": "Notes (Note 14 – Asset Impairments and Restructuring Charges)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "DOJ Medicare reimbursement suit (United States v. Stricker, N.D. Alabama) against Solutia, Monsanto and Pharmacia over Anniston PCB Abernathy settlement; dismissed on statute of limitations, DOJ appeal argued in Eleventh Circuit July 26, 2012, decision expected 2013",
+      "source_quote": "On December 1, 2009, the Department of Justice (\"DOJ\"), on behalf of the United States government, filed suit in the United States District Court, Northern District of Alabama (in a case captioned United States of America v. Stricker, et al.), against Solutia, Monsanto, Pharmacia and the attorneys and law firms who represented the plaintiffs in the Abernathy v. Solutia Inc., et al. (\"Abernathy\") lawsuit arising out of polychlorinated biphenyl (\"PCB\") contamination in Anniston, Alabama.",
+      "section": "Part II Item 1 – Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Solutia named as defendant in several Legacy Tort Claims proceedings submitted to Monsanto for defense and indemnification under the February 28, 2008 Monsanto Settlement Agreement; Eastman guaranteed Solutia's obligations and was added as an indemnified party",
+      "source_quote": "Solutia, which became a wholly owned subsidiary of Eastman on July 2, 2012, has been named as a defendant in several such proceedings, and has submitted the matters to Monsanto as Legacy Tort Claims.",
+      "section": "Part II Item 1 – Legal Proceedings"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Joint venture with China National Tobacco Corporation (Eastman 45%) for a 30,000 metric ton acetate tow manufacturing facility in Hefei, China; construction completion expected Q3 2013",
+      "source_quote": "in the Fibers segment, nearing the expected completion during third quarter 2013 of construction of a new 30,000 metric ton acetate tow manufacturing facility in Hefei, China, a joint venture with China National Tobacco Corporation; and",
+      "section": "MD&A – Overview"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Joint venture to build a 50,000 metric ton hydrogenated hydrocarbon resin plant in Nanjing, China, expected operational by end of 2014",
+      "source_quote": "The Company's joint venture to build a 50,000 metric ton hydrogenated hydrocarbon resin plant in Nanjing, China is expected to be operational by the end of 2014.",
+      "section": "MD&A – Summary by Operating Segment (Adhesives & Plasticizers)"
+    }
+  ]
+}

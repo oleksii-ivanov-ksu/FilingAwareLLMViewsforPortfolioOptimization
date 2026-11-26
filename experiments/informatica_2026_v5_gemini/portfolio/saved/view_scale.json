@@ -1,0 +1,168 @@
+{
+  "core": {
+    "accepted_view_dates": 1778,
+    "share_q_below_annual_prior": 0.9960629921259843,
+    "share_q_below_quarter_prior": 0.8503937007874016,
+    "share_posterior_below_prior": 0.9977502812148481,
+    "share_weight_below_control": 0.6636670416197975,
+    "share_standardized_score_lowered": 0.7114735658042745,
+    "mean_view": 0.005433352080989877,
+    "mean_annual_prior_of_viewed": 0.08902875422991835,
+    "weight_bounds_after_normalization": {
+      "min": 0.004331376620251718,
+      "max": 0.10432157794109698
+    },
+    "performance": {
+      "real": {
+        "cagr": 0.156741,
+        "volatility": 0.251856,
+        "sharpe": 0.639406,
+        "max_drawdown": -0.622343
+      },
+      "prior_only": {
+        "cagr": 0.154396,
+        "volatility": 0.264666,
+        "sharpe": 0.613408,
+        "max_drawdown": -0.644558
+      },
+      "equal_weight": {
+        "cagr": 0.121907,
+        "volatility": 0.206539,
+        "sharpe": 0.581434,
+        "max_drawdown": -0.525471
+      },
+      "rel_pos": {
+        "cagr": 0.154635,
+        "volatility": 0.264129,
+        "sharpe": 0.614912,
+        "max_drawdown": -0.642261
+      },
+      "rel_all": {
+        "cagr": 0.146713,
+        "volatility": 0.26128,
+        "sharpe": 0.592458,
+        "max_drawdown": -0.640609
+      }
+    },
+    "sharpe_differences": {
+      "rel_pos_minus_prior_only": {
+        "difference": 0.0015036098979812618,
+        "ci95": [
+          -0.007183967966616659,
+          0.010272859970331043
+        ]
+      },
+      "rel_all_minus_prior_only": {
+        "difference": -0.020950417494774998,
+        "ci95": [
+          -0.058903836551237786,
+          0.017358036267446492
+        ]
+      },
+      "rel_pos_minus_real": {
+        "difference": -0.024494117964374507,
+        "ci95": [
+          -0.10193690292341817,
+          0.056109039492928246
+        ]
+      },
+      "rel_pos_minus_equal_weight": {
+        "difference": 0.033478241019414434,
+        "ci95": [
+          -0.07066242911954061,
+          0.13099680963484872
+        ]
+      },
+      "rel_all_minus_equal_weight": {
+        "difference": 0.011024213626658175,
+        "ci95": [
+          -0.08998868923594999,
+          0.10720534253613911
+        ]
+      }
+    }
+  },
+  "holdout": {
+    "accepted_view_dates": 1842,
+    "share_q_below_annual_prior": 0.995656894679696,
+    "share_q_below_quarter_prior": 0.8675352877307275,
+    "share_posterior_below_prior": 0.996199782844734,
+    "share_weight_below_control": 0.6444082519001085,
+    "share_standardized_score_lowered": 0.6976112920738328,
+    "mean_view": 0.005575732899022801,
+    "mean_annual_prior_of_viewed": 0.08961473185975789,
+    "weight_bounds_after_normalization": {
+      "min": 0.00437962211864998,
+      "max": 0.10418107434515157
+    },
+    "performance": {
+      "real": {
+        "cagr": 0.126645,
+        "volatility": 0.253038,
+        "sharpe": 0.541046,
+        "max_drawdown": -0.635779
+      },
+      "prior_only": {
+        "cagr": 0.128364,
+        "volatility": 0.264047,
+        "sharpe": 0.535186,
+        "max_drawdown": -0.646454
+      },
+      "equal_weight": {
+        "cagr": 0.106608,
+        "volatility": 0.208235,
+        "sharpe": 0.52174,
+        "max_drawdown": -0.565807
+      },
+      "rel_pos": {
+        "cagr": 0.127856,
+        "volatility": 0.263349,
+        "sharpe": 0.534202,
+        "max_drawdown": -0.650004
+      },
+      "rel_all": {
+        "cagr": 0.123744,
+        "volatility": 0.259696,
+        "sharpe": 0.523986,
+        "max_drawdown": -0.654042
+      }
+    },
+    "sharpe_differences": {
+      "rel_pos_minus_prior_only": {
+        "difference": -0.0009845001377007945,
+        "ci95": [
+          -0.009440774367787777,
+          0.007897728598374317
+        ]
+      },
+      "rel_all_minus_prior_only": {
+        "difference": -0.011200299464766417,
+        "ci95": [
+          -0.04447804092359115,
+          0.024640159139904957
+        ]
+      },
+      "rel_pos_minus_real": {
+        "difference": -0.006843829795879164,
+        "ci95": [
+          -0.06850948006448636,
+          0.060033490650123
+        ]
+      },
+      "rel_pos_minus_equal_weight": {
+        "difference": 0.012462007669024056,
+        "ci95": [
+          -0.08150106319062632,
+          0.10175536970680053
+        ]
+      },
+      "rel_all_minus_equal_weight": {
+        "difference": 0.0022462083419584333,
+        "ci95": [
+          -0.088485250925437,
+          0.0904050804921005
+        ]
+      }
+    }
+  }
+}

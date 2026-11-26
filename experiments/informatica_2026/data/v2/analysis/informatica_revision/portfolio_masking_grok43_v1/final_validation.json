@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "calls": 1194,
+  "valid": 1194,
+  "unique_generation_ids": 1194,
+  "http_retries": 0,
+  "input_files_verified": 801,
+  "source_files_verified": 997,
+  "reported_cost_usd": 2.5373412,
+  "budget_usd": 10,
+  "payloads_match_frozen_inputs": true,
+  "per_request_conservative_cost_bounds_satisfied": true,
+  "source_data_unchanged": true
+}

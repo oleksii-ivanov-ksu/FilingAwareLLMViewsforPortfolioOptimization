@@ -1,0 +1,80 @@
+{
+  "index": 42,
+  "id": "CAT_10-Q_2010",
+  "ticker": "CAT",
+  "form": "10-Q",
+  "year": 2010,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of 100% of the equity of privately held FCM Rail Ltd. (FCM) for approximately $97 million, including the assumption of $59 million in debt, with $32 million paid at closing and an additional $6 million to be paid by May 2012.",
+      "source_quote": "In May 2010, we acquired 100 percent of the equity in privately held FCM Rail Ltd. (FCM) for approximately $97 million, including the assumption of $59 million in debt. We paid $32 million at closing with an additional $6 million to be paid by May 2012.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of 100% of the equity of South Korean undercarriage component manufacturer JCS Company Ltd. (JCS) for approximately $34 million ($32 million paid at closing and $2 million post-closing adjustment paid in June 2010).",
+      "source_quote": "In March 2010, we acquired 100 percent of the equity in privately held JCS Company Ltd. (JCS) for approximately $34 million, consisting of $32 million paid at closing and an additional $2 million post-closing adjustment paid in June 2010.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of GE Transportation's Inspection Products business during the first quarter of 2010, involving the purchase of $28 million of finite-lived intangible assets and the acquisition of net assets with related goodwill of $14 million.",
+      "source_quote": "During the first quarter of 2010, we acquired finite-lived intangible assets of $28 million due to the purchase of GE Transportation’s Inspection Products business ... we acquired net assets with related goodwill of $14 million as part of the purchase of GE Transportation’s Inspection Products business",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Signed a definitive agreement to acquire Electro-Motive Diesel (EMD) during the second quarter of 2010.",
+      "source_quote": "During the second quarter of 2010, we signed a definitive agreement to acquire Electro-Motive Diesel (EMD).",
+      "section": "Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Recognition of employee separation charges of $20 million during the first half of 2010, primarily related to involuntary separations associated with streamlining the corporate structure.",
+      "source_quote": "For the three and six months ended June 30, 2010, we recognized employee separation charges of $20 million in Other operating (income) expenses in the Consolidated Statement of Results of Operations primarily related to involuntary separations due to the streamlining of our corporate structure as announced in the second quarter.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Ongoing Clean Air Act dispute with the EPA, where the Department of Justice issued a penalty demand on July 9, 2010, seeking a civil penalty of $3.2 million and injunctive relief.",
+      "source_quote": "On May 14, 2007, the U.S. Environmental Protection Agency (EPA) issued a Notice of Violation to Caterpillar Inc., alleging various violations of Clean Air Act Sections 203, 206 and 207. ... On July 9, 2010, the Department of Justice issued a penalty demand to Caterpillar seeking a civil penalty of $3.2 million and implementation of injunctive relief involving expanded use of certain technologies.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Wastewater release incident at the Joliet, Illinois facility resulting in environmental litigation, including an EPA revised notice on January 25, 2010, seeking civil penalties of $167,800, and a demand by the Illinois Attorney General on March 8, 2010, seeking a $100,000 civil penalty.",
+      "source_quote": "On February 8, 2009, an incident at Caterpillar’s Joliet, Illinois facility resulted in the release of approximately 3,000 gallons of wastewater into the Des Plaines River. ... On January 25, 2010, the EPA issued a revised notice seeking civil penalties in the amount of $167,800 ... On March 8, 2010, the Illinois Attorney General submitted a demand to Caterpillar seeking a $100,000 civil penalty.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Notice of proposed adjustments received in the second quarter of 2010 from the IRS related to tax years 2005 and 2006, which the company intends to appeal.",
+      "source_quote": "In the second quarter of 2010, we received notice of proposed adjustments related to tax years 2005 and 2006 and intend to appeal the unagreed adjustments primarily related to export tax benefits.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Adjustments to the carrying value of the redeemable noncontrolling interest in Caterpillar Japan Ltd. (Cat Japan) under its share redemption plan. The estimated redemption value decreased, resulting in increases to profit employed in the business of $9 million in Q1 2010 and $9 million in Q2 2010.",
+      "source_quote": "During the first and second quarters of 2010, the estimated redemption value decreased, resulting in adjustments to the carrying value of the redeemable noncontrolling interest. Profit employed in the business increased by $9 million in the first quarter and increased an additional $9 million in the second quarter due to these adjustments.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declaration of common stock dividends during the first half of 2010 of $0.86 per share (increased from $0.84 in 2009), representing total declared dividends of $542 million.",
+      "source_quote": "Cash dividends declared per common share ... $0.86 ... Dividends declared ... (542)",
+      "section": "Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Announced a multi-year investment of nearly $700 million supporting mining customers, including expansion of mining truck and shovel production capacity in the United States and India.",
+      "source_quote": "A multi-year investment of nearly $700 million supporting mining customers, including a full line of mining shovels and capacity expansion for mining trucks made in the United States and India.",
+      "section": "Management's Discussion and Analysis"
+    }
+  ]
+}

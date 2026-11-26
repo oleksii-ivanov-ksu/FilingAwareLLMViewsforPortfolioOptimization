@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "schema_validated": true,
+  "financial_events_verified": true,
+  "evidence": [
+    {
+      "term": "70 million",
+      "position": 30041,
+      "source_excerpt": "ability of statements of earnings amounts for the six and three months ended June 30, 2025 and 2024:\u25aaAcquisition and disposition-related items: We recorded net pre-tax charges of $70 million and $16 million for the six and three months ended June 30, 2025, respectively, due to expenses related to the U.S International Trade Commission (\u201cITC\u201d) exclusion order and cease-and-desist orders prohibiting the importation and sale of NJOY ACE in the United States.  These charges are net of insurance recoveries from insurance contracts associated with the acquisition of NJOY Holdings, Inc. (\u201cNJOY Transaction\u201d).  For further informat"
+    },
+    {
+      "term": "16 million",
+      "position": 30057,
+      "source_excerpt": "ments of earnings amounts for the six and three months ended June 30, 2025 and 2024:\u25aaAcquisition and disposition-related items: We recorded net pre-tax charges of $70 million and $16 million for the six and three months ended June 30, 2025, respectively, due to expenses related to the U.S International Trade Commission (\u201cITC\u201d) exclusion order and cease-and-desist orders prohibiting the importation and sale of NJOY ACE in the United States.  These charges are net of insurance recoveries from insurance contracts associated with the acquisition of NJOY Holdings, Inc. (\u201cNJOY Transaction\u201d).  For further information on the ITC\u2019s"
+    },
+    {
+      "term": "873 million",
+      "position": 20371,
+      "source_excerpt": " (\u201cNote 4\u201d), we determined the estimated fair value of the e-vapor reporting unit as of March 31, 2025 was below its carrying value and recorded a non-cash goodwill impairment of $873 million for the three months ended March 31, 2025 in our condensed consolidated statements of earnings.  As of March 31, 2025, after recording the goodwill impairment, the carrying value of goodwill within the e-vapor reporting unit was $895 million.  In addition, the carrying value of the e-vapor reporting unit\u2019s net assets (including the effect of intercompany debt), which was negative, approximated its estimated fair value.At March 31, 202"
+    },
+    {
+      "term": "continued headwinds",
+      "position": 5247,
+      "source_excerpt": "ed at historically high levels.  Ongoing trade negotiations, along with potential inflation and unemployment concerns, have weighed on consumer confidence creating a likelihood of continued headwinds for discretionary spending.  While we have not seen a material impact on adult tobacco consumer purchasing behavior as a result of tariffs and tariff speculation, we continue to monitor the additional pressure that tariff-related price increases may have.  In addition, we are monitoring other effects of tariffs on our businesses, including the price, availability and quality of raw materials and ingredients, and component part"
+    },
+    {
+      "term": "have not had a material adverse",
+      "position": 9010,
+      "source_excerpt": "brands.See Operating Results by Business Segment - Business Environment for additional information on the trends and developments discussed above.The trends and developments above have not had a material adverse impact on our results of operations, cash flows or financial position or our ability to achieve our Vision.  As the trends and developments evolve and new ones emerge, we will continue to evaluate the potential impacts on our businesses and Vision.37Table of ContentsConsolidated Results of Operations for the Six Months Ended June 30, 2025The changes in net earnings and diluted EPS for the six months ended June 30, "
+    },
+    {
+      "term": "historically high",
+      "position": 5073,
+      "source_excerpt": "ng.  While gas prices declined compared to the prior year, the average price of gas remained above $3.00 per gallon.  Additionally, tariffs introduced in April of 2025 remained at historically high levels.  Ongoing trade negotiations, along with potential inflation and unemployment concerns, have weighed on consumer confidence creating a likelihood of continued headwinds for discretionary spending.  While we have not seen a material impact on adult tobacco consumer purchasing behavior as a result of tariffs and tariff speculation, we continue to monitor the additional pressure that tariff-related price increases may have. "
+    },
+    {
+      "term": "nicotine analogues",
+      "position": 43374,
+      "source_excerpt": "lement of certain healthcare cost recovery litigation and the growth of innovative tobacco products, such as e-vapor and oral nicotine pouch products;\u25aathe growth of products using nicotine analogues that are designed to imitate the effects of nicotine but are not subject to the FDA regulatory framework for tobacco products; and\u25aapotential adverse changes in prices, availability and quality of tobacco, other raw materials and component parts, including as a result of changes in macroeconomic, geopolitical, climate and environmental conditions.We continue to monitor the evolving business, legal and regulatory challenges withi"
+    }
+  ],
+  "notes": [
+    "Source confirms the two reported events, their periods and amounts.",
+    "Risk and sentiment are model interpretations. Guidance has no numeric revenue/EPS forecast and is retained as generated.",
+    "Fiscal period retained as generated (six months ended June 30, 2025); trigger remains 10-Q filed July 30, 2025.",
+    "No output edited or retried. Historical extraction model difference recorded."
+  ]
+}

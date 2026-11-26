@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "content_W200_real_text_2",
+    "request": "requests/content_W200_real_text_2.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "real_text",
+    "repeat": 2
+  },
+  "request_sha256": "139605c050426d11219e4d80bb6a7f8be45fb54b6a73b65862eb18fc7b46d8a4",
+  "reserved_max_cost": 0.0073325000000000005,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.0024481,
+  "response": {
+    "id": "gen-1795458755-JgUGnkeKQR6i2ZhsHvPT",
+    "object": "chat.completion",
+    "created": 1795458755,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -50,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management commentary highlights continued headwinds, multiple large non-cash impairments ($873M e-vapor goodwill, prior MST charges), and elevated regulatory/litigation risks with no explicit positive guidance. The modest Q2 EPS/revenue beat and adjusted improvement are offset by these factors and moderate analyst dispersion. Recent positive stock performance does not alter the cautious fundamental outlook for the next quarter.\"\n}",
+          "refusal": null,
+          "reasoning": "Preparing the investment view for MO as of 2025-09-30.\n\nKey risks include regulatory actions, illicit trade, and supply chain disruptions. Recent impairments and patent issues weigh on the outlook. The 10-Q shows cautious sentiment with headwinds. Earnings beat estimates slightly.\n\nAnalyst estimates show moderate dispersion. Recent returns are positive. The outlook is negative. Regulatory and impairment risks outweigh the slight earnings beat.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "Preparing the investment view for MO as of 2025-09-30.\n\nKey risks include regulatory actions, illicit trade, and supply chain disruptions. Recent impairments and patent issues weigh on the outlook. The 10-Q shows cautious sentiment with headwinds. Earnings beat estimates slightly.\n\nAnalyst estimates show moderate dispersion. Recent returns are positive. The outlook is negative. Regulatory and impairment risks outweigh the slight earnings beat.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "w/kov4LjhNq1sr2PZf4vVGHM1r07rXnZcT1Sgd+ktqDiiz2VMqWfWGDhTON0J1vKqwXgmrXVfWj6Tvqr0Cap0Ex1xyuNgHTby19BSHCMUZAQXgwDxsULOnI0nirHlvya1Lp5mI0sQdClGl9mJAlzMr4VBkAZqORTo7ICGeeU3jPXtXpgk2/xXj01QUIzQdtzseFxboDulfPtrqS4n+muI123tOIZA3gc3+e86yYfd397/4DgL878WRMv++14Ok738qG8fCiMV1mFfMpiPbhFAUftCGEJ3kqHtHeAqcNDDqSk3Pg6UP7iizq9C6S52uHjpQydp4ahnjfD/FrfyKhmodYLnXZHVETCjk1Om3Srqjc20/BAxtu9BQZsVHh9to01Na9jletnKWzITofqJXcc27cOp8kJitGE9YCO299KrN/uMhfRiTkW+fkTH9dhykGJRH0ya0JuqX0VI/XrZZ8tdRbn+GSLTd+gjfhQ2uf+km3hBnlqH6nGRiB6iMGetKxN8rOVPbfjS9LdVBJlbRCgAh/Fuyz0GBVLRGiOdeenhMvRL6qOVhXKKnidccZwhD6y1uru8uDgWQ03RPQ9ovg4or9WCXhr8x/jdGG91UZNG36WrJt2r3xZ8nL6z9UqwIAcpviQLb0GhmlJ6cNevoOOsqlonLzYwj3AiqXHc4cXNc21JABzQIjfpEQ70vzDUFLqT5BjrrbU0ge1ZYSXKG6zrOXofKpTELg2MEleFLzXHwAdlFwAim81LF4LhOvO7UzaBpcNgKYaBdlX05cfpQWaf7FNyIv2d86k2GT7f6uzPtbeOUqrZ0M/pdKR1wYRGhP6MGpxLLSOJg8LDCh4C+ys8ezuFGXsp6pUO4ysp8jOQ1hk/2Db2nv20+zH9fYi3jgFuaExGjJ3DO4SQL1Za2Ipf+JHmY/lE6+Fav86/iKIVRDymsCBPuTNdQAIvOtA5+kx6ZyUrCeXz96N8nIT2NNdXZjsZ29l2+f3RCY3o9BDMmoB/77uRGXMTKcf/54y8pwAuqv1h4J7xeK13CW5aMbHg+LJewzqNsuERaVeXeXQbRruHpl1vpjkXkgQ9Q986F+lqJMqWLV44ryp+nOQtq8TgnfQ4wFwMOAy2Jmi6c+Fq+1vV0FCAbkYF9TTADWL8qC0EE7Pevza4pb49y+KCEkZErINxhTgAKxgzP1cB9t0NHY1est+I97CN7/Lvf0p/FPo0PidsipRWYZWN9cy+IzP+OQNkWS+R1L0CaFD06e0ev8zgx0mHq9iO2Fz5EAE0O4QlHUVpkTSiC0HouNKd/rfXyqnJmMcTjnRQPZC7umk/61qgns2je0UNGR47NF+jOcik/YTFds8bot2iwhXPINMOYlmt11Q1RRpUaeCtxYUSPd7zz2KvkAQFmt2Fgc9+qqVag.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_2a3bf9be-950b-953f-87b4-b3a1d55f9027",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1058,
+      "completion_tokens": 504,
+      "total_tokens": 1562,
+      "cost": 0.0024481,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 128,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0024481,
+        "upstream_inference_prompt_cost": 0.0011881,
+        "upstream_inference_completions_cost": 0.00126
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 407,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -50,
+    "confidence": "medium",
+    "reasoning": "Management commentary highlights continued headwinds, multiple large non-cash impairments ($873M e-vapor goodwill, prior MST charges), and elevated regulatory/litigation risks with no explicit positive guidance. The modest Q2 EPS/revenue beat and adjusted improvement are offset by these factors and moderate analyst dispersion. Recent positive stock performance does not alter the cautious fundamental outlook for the next quarter."
+  },
+  "completed_utc": "2026-11-23T18:32:43.225708+00:00"
+}

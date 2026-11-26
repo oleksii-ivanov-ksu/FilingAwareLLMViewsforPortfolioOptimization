@@ -1,0 +1,146 @@
+[
+  {
+    "name": "masking_W200_anonymized_2",
+    "request": "requests/masking_W200_anonymized_2.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "anonymized",
+    "repeat": 2
+  },
+  {
+    "name": "content_W200_shuffled_text_1",
+    "request": "requests/content_W200_shuffled_text_1.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "shuffled_text",
+    "repeat": 1
+  },
+  {
+    "name": "content_W200_no_text_3",
+    "request": "requests/content_W200_no_text_3.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "no_text",
+    "repeat": 3
+  },
+  {
+    "name": "masking_W200_anonymized_1",
+    "request": "requests/masking_W200_anonymized_1.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "anonymized",
+    "repeat": 1
+  },
+  {
+    "name": "content_W200_no_text_1",
+    "request": "requests/content_W200_no_text_1.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "no_text",
+    "repeat": 1
+  },
+  {
+    "name": "content_W200_real_text_2",
+    "request": "requests/content_W200_real_text_2.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "real_text",
+    "repeat": 2
+  },
+  {
+    "name": "content_W151_shuffled_text_3",
+    "request": "requests/content_W151_shuffled_text_3.json",
+    "experiment": "content",
+    "case_id": "W151",
+    "condition": "shuffled_text",
+    "repeat": 3
+  },
+  {
+    "name": "masking_W200_original_1",
+    "request": "requests/masking_W200_original_1.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "original",
+    "repeat": 1
+  },
+  {
+    "name": "masking_W200_original_3",
+    "request": "requests/masking_W200_original_3.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "original",
+    "repeat": 3
+  },
+  {
+    "name": "content_W200_no_text_2",
+    "request": "requests/content_W200_no_text_2.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "no_text",
+    "repeat": 2
+  },
+  {
+    "name": "content_W200_real_text_1",
+    "request": "requests/content_W200_real_text_1.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "real_text",
+    "repeat": 1
+  },
+  {
+    "name": "content_W200_shuffled_text_3",
+    "request": "requests/content_W200_shuffled_text_3.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "shuffled_text",
+    "repeat": 3
+  },
+  {
+    "name": "masking_W200_original_2",
+    "request": "requests/masking_W200_original_2.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "original",
+    "repeat": 2
+  },
+  {
+    "name": "content_W200_real_text_3",
+    "request": "requests/content_W200_real_text_3.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "real_text",
+    "repeat": 3
+  },
+  {
+    "name": "content_W200_shuffled_text_2",
+    "request": "requests/content_W200_shuffled_text_2.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "shuffled_text",
+    "repeat": 2
+  },
+  {
+    "name": "content_W151_shuffled_text_2",
+    "request": "requests/content_W151_shuffled_text_2.json",
+    "experiment": "content",
+    "case_id": "W151",
+    "condition": "shuffled_text",
+    "repeat": 2
+  },
+  {
+    "name": "masking_W200_anonymized_3",
+    "request": "requests/masking_W200_anonymized_3.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "anonymized",
+    "repeat": 3
+  },
+  {
+    "name": "content_W151_shuffled_text_1",
+    "request": "requests/content_W151_shuffled_text_1.json",
+    "experiment": "content",
+    "case_id": "W151",
+    "condition": "shuffled_text",
+    "repeat": 1
+  }
+]

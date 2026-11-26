@@ -1,0 +1,11 @@
+{
+  "core": {
+    "independent_replay_error": 9.996344030316351e-17,
+    "independent_compounded_gross_cost_error": 8.708311849403572e-16
+  },
+  "holdout": {
+    "independent_replay_error": 9.996344030316351e-17,
+    "independent_compounded_gross_cost_error": 7.814929259275516e-16
+  },
+  "bootstrap_explicit_error": 3.552713678800501e-15
+}

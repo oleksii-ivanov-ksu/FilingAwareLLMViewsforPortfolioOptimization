@@ -1,0 +1,74 @@
+{
+  "index": 38,
+  "id": "BLDR_10-Q_2022",
+  "ticker": "BLDR",
+  "form": "10-Q",
+  "year": 2022,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of the Texas Panel Truss Businesses on April 1, 2022 for $89.1 million",
+      "source_quote": "On April 1, 2022, we acquired certain assets and operations of Panel Truss of Longview, Inc., Panel Truss – Hearne, LLC, Case-Hill, Inc., Panel Truss-Dallas, LLC, Truss Ops Trucking, LLC and Truss Ops, LLC (the “Texas Panel Truss Businesses”)... for $89.1 million",
+      "section": "Note 2. Business Combinations"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of the East Panel Truss Businesses on April 1, 2022 for $79.6 million",
+      "source_quote": "On April 1, 2022, we acquired... Panel Truss – Oakwood, LLC, Panel Truss – Townville, LLC and Panel Truss – Ringgold, LLC (the “East Panel Truss Businesses”) for... $79.6 million",
+      "section": "Note 2. Business Combinations"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Valley Truss Co., Inc. on April 1, 2022 for $31.6 million",
+      "source_quote": "On April 1, 2022, we acquired substantially all of the assets and operations of Valley Truss Co., Inc. (“Valley Truss”) for $31.6 million.",
+      "section": "Note 2. Business Combinations"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Odds-N-Ends, Inc., d/b/a HomCo Lumber & Hardware on July 1, 2022 for $32.1 million",
+      "source_quote": "On July 1, 2022, we acquired substantially all of the assets and operations of Odds-N-Ends, Inc., d/b/a HomCo Lumber & Hardware (“HomCo”) for $32.1 million.",
+      "section": "Note 2. Business Combinations"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Trussway, LLC and its subsidiaries on September 1, 2022 for $274.8 million, net of cash",
+      "source_quote": "On September 1, 2022, we acquired Trussway, LLC and its subsidiaries (“Trussway”) for $274.8 million, net of cash.",
+      "section": "Note 2. Business Combinations"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Fulcrum Building Group Holdings, LLC and its subsidiaries on September 1, 2022 for $122.3 million, net of cash",
+      "source_quote": "On September 1, 2022, we acquired Fulcrum Building Group Holdings, LLC and its subsidiaries (“Fulcrum”) for $122.3 million, net of cash.",
+      "section": "Note 2. Business Combinations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Private offering of $300.0 million in aggregate principal amount of additional 4.25% senior unsecured notes due 2032 on January 21, 2022",
+      "source_quote": "On January 21, 2022, the Company completed a private offering of an additional $300.0 million in aggregate principal amount of 4.25% senior unsecured notes due 2032 (“4.25% 2032 notes”) at an issue price equal to 100.50% of par value.",
+      "section": "Note 8. Long-Term Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Amendment of the 2026 revolving credit facility on February 4, 2022, increasing total commitments by $400.0 million to $1.8 billion",
+      "source_quote": "On February 4, 2022, the Company amended the 2026 facility to increase the total commitments by an aggregate amount of $400.0 million, resulting in a new $1.8 billion amended credit facility.",
+      "section": "Note 8. Long-Term Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Private offering of $700.0 million in aggregate principal amount of 6.375% senior unsecured notes due 2032 on June 15, 2022, and redemption of the remaining $612.5 million of 6.75% senior secured notes due 2027 on June 16, 2022",
+      "source_quote": "On June 15, 2022, the Company completed a private offering of $700.0 million in aggregate principal amount of 6.375% senior unsecured notes due 2032... Subsequently, on June 16, 2022, the Company redeemed the remaining $612.5 million in outstanding aggregate principal amount of 6.75% senior secured notes due 2027",
+      "section": "Note 8. Long-Term Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase of 11.2 million shares of common stock for $658.2 million during the three months ended September 30, 2022",
+      "source_quote": "Pursuant to repurchase programs authorized by our board of directors, we repurchased and retired 11.2 million shares of our common stock at an average price of $58.57 per share for $658.2 million, inclusive of fees, during the three months ended September 30, 2022.",
+      "section": "Note 9. Equity and Capital"
+    }
+  ]
+}

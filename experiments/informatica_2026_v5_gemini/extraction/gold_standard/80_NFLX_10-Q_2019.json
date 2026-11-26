@@ -1,0 +1,38 @@
+{
+  "index": 80,
+  "id": "NFLX_10-Q_2019",
+  "ticker": "NFLX",
+  "form": "10-Q",
+  "year": 2019,
+  "sector": "Communication Services",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 4,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Issued €1,200 million (approximately $1,308 million at par) of 3.875% Senior Notes in April 2019, maturing in November 2029, with total proceeds of $1,343 million",
+      "source_quote": "3.875% Senior Notes | 1,308 | April 2019 | November 2029 | June and December ... Debt is denominated in euro with a € 1,200 million principal amount. Total proceeds were $ 1,343 million .",
+      "section": "Note 7. Long-Term Debt and Short-Term Borrowings"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $900 million of 5.375% Senior Notes in April 2019, maturing in November 2029",
+      "source_quote": "5.375% Senior Notes | 900 | April 2019 | November 2029 | June and December",
+      "section": "Note 7. Long-Term Debt and Short-Term Borrowings"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Amended or updated the revolving credit facility on March 29, 2019",
+      "source_quote": "us-gaap:RevolvingCreditFacilityMember 2019-03-29",
+      "section": "Note 7. Long-Term Debt and Short-Term Borrowings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Active tax examination by UK tax authorities for the fiscal years 2015 through 2018",
+      "source_quote": "The Company is also currently under examination in the UK for 2015 through 2018.",
+      "section": "Note 8. Income Taxes"
+    }
+  ]
+}

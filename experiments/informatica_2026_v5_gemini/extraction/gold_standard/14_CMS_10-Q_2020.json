@@ -1,0 +1,92 @@
+{
+  "index": 14,
+  "id": "CMS_10-Q_2020",
+  "ticker": "CMS",
+  "form": "10-Q",
+  "year": 2020,
+  "sector": "Utilities",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 13,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "CMS Enterprises purchased the development rights for a solar project in Hart Township, Michigan with up to 100 MW of solar capacity in June 2020.",
+      "source_quote": "In June 2020, CMS Enterprises purchased development rights for a solar project in Hart Township, Michigan with a potential to develop up to 100 MW of solar capacity.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "CMS Enterprises purchased a 51-percent ownership interest in a 525-MW wind generation project in Coke County, Texas in July 2020.",
+      "source_quote": "In July 2020, CMS Enterprises purchased a 51-percent ownership interest in a 525-MW wind generation project being constructed in Coke County, Texas",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "CMS Energy and Consumers executed a voluntary separation program for non-union employees, under which 140 employees accepted and were approved for early separation during the six months ended June 30, 2020.",
+      "source_quote": "related to the program, under which 140 employees accepted and were approved for early separation.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The MPSC issued an order in April 2020 authorizing Consumers to defer uncollectible accounts expense incurred due to the COVID-19 pandemic.",
+      "source_quote": "In April 2020, the MPSC issued an order authorizing Consumers to defer uncollectible accounts expense incurred beginning March 24, 2020 that are in excess of the amount used to set existing rates.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "CMS Energy executed a settlement agreement in February 2020 to resolve a class action lawsuit in Kansas regarding alleged inaccurate natural gas price reporting.",
+      "source_quote": "The parties executed a settlement agreement in the Kansas case in February 2020, and that case is now complete.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The Wisconsin Federal District Court issued a preliminary approval order in April 2020 for a settlement agreement executed in the Wisconsin gas index price reporting class action lawsuit.",
+      "source_quote": "In April 2020, the Wisconsin court issued a preliminary approval order.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Consumers and the MCV Partnership signed a term sheet in April 2020 outlining a settlement in principle of all outstanding disputes under their power purchase agreement.",
+      "source_quote": "In April 2020, the MCV Partnership and Consumers signed a term sheet outlining a settlement in principle of all outstanding disputes between the parties.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The MPSC approved an administrative settlement agreement in May 2020, resulting in a $10,000 civil penalty for Consumers in connection with the Ray Compressor Station fire.",
+      "source_quote": "In May 2020, the MPSC approved an administrative settlement agreement between Consumers and the MPSC Staff, which resulted in a $10,000 civil penalty in connection with the fire.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "CMS Energy settled an equity forward contract in March 2020 by issuing 2,017,783 shares of common stock for $47.95 per share, yielding net proceeds of $97 million.",
+      "source_quote": "In March 2020, CMS Energy settled one of these contracts by issuing 2,017,783 shares of common stock for $47.95 per share, resulting in net proceeds of $97 million.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "CMS Energy entered into a new equity offering program in April 2020 to sell shares of common stock from time to time up to an aggregate sales price of $500 million.",
+      "source_quote": "In April 2020, CMS Energy entered into a new equity offering program under which it may sell, from time to time, shares of CMS Energy common stock having an aggregate sales price of up to $500 million.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "CMS Energy issued $500 million aggregate principal amount of 4.750% junior subordinated notes in May 2020, maturing in June 2050.",
+      "source_quote": "Junior subordinated notes\n500 4.750 % May June 2050",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Consumers issued $575 million aggregate principal amount of 3.500% first mortgage bonds in March 2020, maturing in August 2051.",
+      "source_quote": "First mortgage bonds\n575 3.500 % March August 2051",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Consumers issued $525 million aggregate principal amount of 2.500% first mortgage bonds in May 2020, maturing in May 2060.",
+      "source_quote": "First mortgage bonds\n525 2.500 % May May 2060",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    }
+  ]
+}

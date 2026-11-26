@@ -1,0 +1,38 @@
+{
+  "index": 31,
+  "id": "AOS_10-Q_2016",
+  "ticker": "AOS",
+  "form": "10-Q",
+  "year": 2016,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 4,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of 100 percent of the shares of Aquasana, Inc. (Aquasana), a Texas-based water treatment company, for an aggregate cash purchase price of $84.8 million, net of $1.9 million of cash acquired, plus $1.2 million of acquisition-related costs.",
+      "source_quote": "On August 8, 2016, the Company acquired 100 percent of the shares of Aquasana, Inc. (Aquasana), a Texas-based water treatment company. ... The Company paid an aggregate cash purchase price of $84.8 million, net of $1.9 million of cash acquired. In addition, the Company incurred acquisition-related costs of approximately $1.2 million.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declaration of a two-for-one stock split of the Company’s Class A Common Stock and Common Stock (including treasury shares) in the form of a 100 percent stock dividend, payable on October 5, 2016, to stockholders of record on September 21, 2016.",
+      "source_quote": "on September 7, 2016, the Company’s Board of Directors declared a two-for-one stock split of the Company’s Class A Common Stock and Common Stock (including treasury shares) in the form of a 100 percent stock dividend to stockholders of record on September 21, 2016 and payable on October 5, 2016.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declaration of a regular quarterly cash dividend of $0.12 per share on Common Stock and Class A common stock, payable on November 15, 2016, to shareholders of record on October 31, 2016.",
+      "source_quote": "On October 6, 2016, our Board of Directors declared a regular cash dividend of $0.12 per share on our Common Stock and Class A common stock. The dividend is payable on November 15, 2016 to shareholders of record on October 31, 2016.",
+      "section": "Item 2 - Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase of 382,558 shares of Common Stock in the third quarter of 2016 under the Company's discretionary share repurchase program at an average price of $47.01 per share, for a total cost of $18.0 million.",
+      "source_quote": "In the third quarter of 2016, we repurchased 382,558 shares at an average price of $47.01 per share and at a total cost of $18.0 million.",
+      "section": "Part II - Other Information"
+    }
+  ]
+}

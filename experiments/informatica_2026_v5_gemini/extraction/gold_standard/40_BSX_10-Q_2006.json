@@ -1,0 +1,80 @@
+{
+  "index": 40,
+  "id": "BSX_10-Q_2006",
+  "ticker": "BSX",
+  "form": "10-Q",
+  "year": 2006,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "On April 21, 2006, Boston Scientific completed the acquisition of 100% of the fully diluted equity of Guidant Corporation for an aggregate purchase price of approximately $28.4 billion, which included $14.5 billion in cash, 577 million shares of Boston Scientific common stock, and 40 million stock options.",
+      "source_quote": "On April 21, 2006, the Company acquired 100 percent of the fully diluted equity of Guidant. Guidant is a world leader in the treatment of cardiac and vascular disease. This acquisition enables the Company to become a major provider in the more than $9 billion global cardiac rhythm management (CRM) business, significantly diversifying its revenue stream across multiple business segments and enhancing its overall competitive position and growth potential. The aggregate purchase price of approximately $28.4 billion included: approximately $14.5 billion in cash; 577 million shares of the Company’s common stock at an estimated fair value of approximately $12.5 billion; approximately 40 million of the Company’s stock options granted to Guidant employees at an estimated fair value of approximately $450 million",
+      "section": "Note B - Guidant Acquisition and Abbott Transaction"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "On April 21, 2006, prior to the Guidant acquisition, Abbott Laboratories acquired Guidant's vascular intervention and endovascular businesses for an initial cash payment of $4.1 billion, with additional potential milestone payments of up to $500 million.",
+      "source_quote": "On April 21, 2006, before the closing of the Boston Scientific-Guidant transaction, Abbott acquired Guidant’s vascular intervention and endovascular businesses for: an initial payment of $4.1 billion in cash at the Abbott transaction closing; a milestone payment of $250 million upon receipt of an approval from the U.S. FDA within ten years after the Abbott transaction closing to market and sell an everolimus-eluting stent in the U.S.; and a milestone payment of $250 million upon receipt of an approval from the Japanese Ministry of Health, Labour and Welfare within ten years after the Abbott transaction closing to market and sell an everolimus-eluting stent in Japan.",
+      "section": "Note B - Guidant Acquisition and Abbott Transaction"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In connection with the Guidant transaction, Abbott Laboratories extended a $900 million subordinated loan to Boston Scientific and purchased approximately 65 million shares of Boston Scientific common stock for $1.4 billion ($21.66 per share).",
+      "source_quote": "In addition, Abbott loaned Boston Scientific $900 million on a subordinated basis. See Note H-Borrowings and Credit Arrangements for further details regarding the Abbott loan. Further, Abbott purchased from Boston Scientific approximately 65 million shares of the Company’s common stock for $1.4 billion, or $21.66 per share.",
+      "section": "Note B - Guidant Acquisition and Abbott Transaction"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "The Company recorded an asset of $102 million on April 21, 2006, representing the estimated fair value of the 'sharing of proceeds' feature of the Abbott stock purchase, and subsequently recognized an $87 million non-operating expense during the second quarter of 2006 to reflect its decline in fair value.",
+      "source_quote": "The Company determined the fair value of the sharing of proceeds feature of the Abbott stock purchase as of April 21, 2006 to be $102 million and recorded this amount as an asset received in connection with the sale of the Guidant vascular intervention and endovascular surgery business to Abbott. The Company re-valued this instrument at June 30, 2006, and recorded an expense of $87 million during the quarter to reflect the change in fair value.",
+      "section": "Note B - Guidant Acquisition and Abbott Transaction"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "To finance the cash portion of the Guidant acquisition, the Company borrowed $6.6 billion, consisting of a $5.0 billion five-year term loan, a $700 million 364-day interim credit facility loan (repaid and terminated in May 2006), and the $900 million subordinated Abbott loan.",
+      "source_quote": "In April 2006, to finance the cash portion of the Guidant acquisition, the Company borrowed $6.6 billion consisting of a $5.0 billion five-year term loan and a $700 million 364-day interim credit facility loan from a syndicate of commercial and investment banks, as well as a $900 million subordinated loan from Abbott... In May 2006, the Company repaid and terminated its $700 million 364-day interim credit facility loan.",
+      "section": "Note H - Borrowings and Credit Arrangements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In April 2006, the Company terminated its existing revolving credit facilities and established a new $2.0 billion five-year revolving credit facility, repaying $450 million in outstanding borrowings under its prior facilities.",
+      "source_quote": "In April 2006, the Company terminated its existing revolving credit facilities and established a new $2.0 billion five-year revolving credit facility. The Company repaid all $450 million in borrowings outstanding under its prior revolving credit facilities as of March 31, 2006.",
+      "section": "Note H - Borrowings and Credit Arrangements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In June 2006, under a shelf registration, the Company issued $1.2 billion of senior notes ($600 million due in 2011 and $600 million due in 2016) to fund general corporate purposes, including taxes payable on Guidant's asset sale to Abbott and to repay $350 million in borrowings under its credit and security facility.",
+      "source_quote": "In June 2006, under a shelf registration previously filed with the SEC, the Company issued $1.2 billion of publicly registered senior notes to fund general corporate purposes, including taxes payable related to Guidant’s asset sale to Abbott and to repay approximately $350 million in borrowings outstanding under its credit and security facility as of March 31, 2006. The Company issued $600 million of senior notes due in 2011 (June 2011 Notes) and $600 million of senior notes due in 2016 (June 2016 Notes).",
+      "section": "Note H - Borrowings and Credit Arrangements"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "During the second quarter of 2006, management cancelled the TriVascular abdominal aortic aneurysm (AAA) stent-graft program due to forecasted increases in development costs and timeline, resulting in the shutdown of the Santa Rosa, California facility, displacement of 300 employees, a $20 million charge for fixed asset write-downs, a $10 million charge for severance, a $23 million charge to amortization, and a $67 million credit to purchased R&D from reversing the contingent payments accrual.",
+      "source_quote": "During the second quarter of 2006, management cancelled the abdominal aortic aneurysm (AAA) stent-graft program obtained in conjunction with the acquisition of TriVascular. The program cancellation was principally due to forecasted increases in time and costs to complete the development of the stent-graft and to receive regulatory approval. The cancellation of the AAA program will result in the shut down of the Company’s facility in Santa Rosa, California and the displacement of approximately 300 employees. During the second quarter of 2006, the Company recorded a charge to research and development expenses of approximately $20 million primarily associated with writedowns of fixed assets and a charge to research and development expenses of approximately $10 million associated with severance and related costs in connection with the cancellation of the AAA program. In addition, the Company recorded an impairment charge related to the remaining TriVascular intangible assets and reversed its accrual for contingent payments recorded in the initial purchase accounting. The effect of the writeoff of these assets and liabilities was a $23 million charge to amortization expense and a $67 million credit to purchased research and development during the second quarter of 2006.",
+      "section": "Note G - Other Balance Sheet Information"
+    },
+    {
+      "event_type": "product",
+      "description": "On June 26, 2006, the Company announced a product retrieval of a specific subset of pacemakers, cardiac resynchronization therapy pacemakers, and implantable cardioverter defibrillators due to a supplier's low-voltage capacitor performing inconsistently, which resulted in inventory charges and reduced Q2 gross profit by 1.6 percentage points.",
+      "source_quote": "On June 26, 2006, we announced that we were retrieving a specific subset of pacemakers, cardiac resynchronization pacemakers and implantable cardioverter defibrillators due to a supplier’s low-voltage capacitor not performing consistently... Our gross profit for the second quarter of 2006 was reduced as a percentage of net sales by 1.6 percentage points due to costs associated with Guidant, including inventory charges attributable to the second quarter recall of certain CRM products.",
+      "section": "Gross Profit"
+    },
+    {
+      "event_type": "litigation",
+      "description": "On July 29, 2006, the Company entered into a Settlement Agreement with St. Jude Medical, Inc. that resolved four pending patent litigation matters (including the Advanced Bionics/ANSI case and Pacesetter v. CPI), limited the scope and remedies of two other cases, and established cross-licenses of CRM and neuromodulation patent portfolios.",
+      "source_quote": "Pursuant to a Settlement Agreement dated July 29, 2006 between the Company and St. Jude Medical, this case and the related arbitration proceeding have been dismissed... On July 29, 2006, we entered an agreement with St. Jude Medical, Inc. that resolves four pending patent litigation matters. In addition, we agreed to limit how two other pending patent cases, though not resolved, will be pursued. We also agreed to a patent cross license involving each of our cardiac rhythm management patent portfolios and a separate cross license of certain patents held by our affiliates related to neuromodulation.",
+      "section": "Note I - Commitments and Contingencies"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "The Company recorded $38 million of impairment charges in the first quarter of 2006 (associated with a gene therapy trial termination) and $67 million in the second quarter of 2006 (associated with a vascular sealing portfolio company's delays and financial deterioration) to reflect other-than-temporary declines in the fair value of strategic alliances.",
+      "source_quote": "During the first quarter of 2006, the Company incurred impairment charges of $38 million primarily associated with investment writedowns due primarily to the termination of a gene therapy trial... During the second quarter of 2006, the Company recorded $67 million of charges attributable to investment writedowns to reflect an other-than-temporary decline in fair value of certain strategic alliances. The most significant writedown related to one of the Company’s vascular sealing portfolio companies",
+      "section": "Note G - Other Balance Sheet Information"
+    }
+  ]
+}

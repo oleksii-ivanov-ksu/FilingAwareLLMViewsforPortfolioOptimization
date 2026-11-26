@@ -1,0 +1,92 @@
+{
+  "index": 89,
+  "id": "WELL_10-Q_2020",
+  "ticker": "WELL",
+  "form": "10-Q",
+  "year": 2020,
+  "sector": "Real Estate",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 13,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of 22 real property assets across the Seniors Housing Operating and Outpatient Medical segments for a total pro rata investment of $404.112 million",
+      "source_quote": "The following summarizes our property acquisitions and joint venture investments completed during the six months ended June 30, 2020 (dollars in thousands): ... Totals 22 $ 404,112",
+      "section": "MD&A - Key Transactions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Divestiture of 73 real estate properties (including Seniors Housing Operating, Triple-net, and Outpatient Medical assets) for gross proceeds of $1,657.199 million",
+      "source_quote": "The following summarizes property dispositions completed during the six months ended June 30, 2020 (dollars in thousands): ... Totals 73 $ 1,657,199",
+      "section": "MD&A - Key Transactions"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Asset impairment charges of $27.827 million recorded on certain held-for-use properties",
+      "source_quote": "During the three months ended March 31, 2020, we recorded impairment charges of $27,827,000 related to certain held for use properties for which the carrying value exceeded the fair values.",
+      "section": "Note 5. Dispositions and Assets Held for Sale"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Impairment charge of $56.371 million recognized in connection with a purchase and sale agreement to sell six Seniors Housing Operating properties",
+      "source_quote": "During the three months ended June 30, 2020, we entered into and subsequently closed a definitive purchase and sale agreement to sell six Seniors Housing Operating properties. In conjunction with this transaction, an impairment charge of $56,371,000 was recognized.",
+      "section": "Note 5. Dispositions and Assets Held for Sale"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Impairment charge of $18.780 million recognized upon agreeing to terms for the sale of a portfolio of six Seniors Housing Operating properties previously classified as held-for-sale",
+      "source_quote": "During the three months ended June 30, 2020, we agreed to terms including pricing for the sale of a portfolio of six Seniors Housing Operating properties previously classified as held for sale resulting in an impairment charge of $18,780,000.",
+      "section": "Note 5. Dispositions and Assets Held for Sale"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Closing of a $1.0 billion two-year unsecured term loan due April 2022",
+      "source_quote": "In April, we closed on our previously announced $ 1.0 billion two-year unsecured term loan due April 2022.",
+      "section": "Note 11. Senior Unsecured Notes and Secured Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Completed issuance of $600 million of senior unsecured notes at 2.75% due January 2031",
+      "source_quote": "On June 30, 2020, we completed the issuance of $ 600 million senior unsecured notes bearing interest at 2.75 % with a maturity date of January 2031.",
+      "section": "Note 11. Senior Unsecured Notes and Secured Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Extinguishment of $160.872 million of 3.75% senior unsecured notes due March 2023 and $265.376 million of 3.95% senior unsecured notes due September 2023 using senior notes net proceeds",
+      "source_quote": "On July 1, 2020 net proceeds were used to extinguish $ 160,872,000 of our 3.75 % senior unsecured notes due March 2023 and $ 265,376,000 of our 3.95 % senior unsecured notes due September 2023.",
+      "section": "Note 11. Senior Unsecured Notes and Secured Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repayment of $140.0 million on the unsecured term loan using senior notes net proceeds",
+      "source_quote": "Additionally, on July 2, 2020 we repaid $ 140,000,000 on our unsecured term loan.",
+      "section": "Note 11. Senior Unsecured Notes and Secured Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorization of a common stock share repurchase program of up to $1.0 billion through December 31, 2021",
+      "source_quote": "On May 1, 2020, our Board of Directors authorized a share repurchase program whereby we may repurchase up to $ 1 billion of common stock through December 31, 2021 (the \"Repurchase Program\").",
+      "section": "Note 14. Stockholders’ Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase of 201,947 shares of common stock for $7.656 million under the Repurchase Program during the six months ended June 30, 2020",
+      "source_quote": "During the six months ended June 30, 2020, we repurchased 201,947 shares at an average price of $ 37.89 per share.",
+      "section": "Note 14. Stockholders’ Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Physical settlement of outstanding forward sales agreements for cash proceeds of $576.196 million",
+      "source_quote": "During the six months ended June 30, 2020, we physically settled all of our outstanding forward sales agreements for cash proceeds of $ 576,196,000 .",
+      "section": "Note 14. Stockholders’ Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Reduction of the quarterly cash dividend to $0.61 per share starting in Q1 2020",
+      "source_quote": "The decrease in dividends is attributable to the declaration of a reduced cash dividend beginning with the quarter ending March 31, 2020. The following is a summary of our dividend payments (in thousands, except per share amounts): ... Common stock $ 1.48 ... $ 610,847 [for 6M ended June 30, 2020]",
+      "section": "Note 14. Stockholders’ Equity"
+    }
+  ]
+}

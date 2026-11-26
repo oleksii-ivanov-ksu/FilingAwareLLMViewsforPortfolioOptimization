@@ -1,0 +1,110 @@
+{
+  "index": 9,
+  "id": "AON_10-Q_2017",
+  "ticker": "AON",
+  "form": "10-Q",
+  "year": 2017,
+  "sector": "Financials",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 16,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of SchneiderGolling IFFOXX Assekuranzmakler AG and SchneiderGolling Industrie Assekuranzmaklergesellschaft mbH",
+      "source_quote": "On May 31, 2017, the Company completed the transaction to acquire SchneiderGolling IFFOXX Assekuranzmakler AG and SchneiderGolling Industrie Assekuranzmaklergesellschaft mbH from SchneiderGolling Gruppe, a property and casualty broker based in Southern Germany.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of cut-e Assessment Global Holdings Limited",
+      "source_quote": "On May 2, 2017, the Company completed the transaction to acquire cut-e Assessment Global Holdings Limited, a high-volume online psychometric assessments provider based in Ireland.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of Finaccord Limited",
+      "source_quote": "On March 3, 2017, the Company completed the transaction to acquire Finaccord Limited, a market research, publishing and consulting company based in the United Kingdom.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of VERO Management AG",
+      "source_quote": "On January 19, 2017, the Company completed the transaction to acquire VERO Management AG, an insurance broker and risk advisor based in Austria.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "sale of Aon's benefits administration and business process outsourcing business to affiliates of The Blackstone Group",
+      "source_quote": "On May 1, 2017, the Buyer purchased all of the outstanding equity interests of the Divested Business, plus certain related assets, for a purchase price of (i) $4.3 billion in cash paid at closing, subject to customary adjustments set forth in the Purchase Agreement, and (ii) deferred consideration of up to $500 million, plus the assumption of certain liabilities.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "global restructuring plan including an estimated 2,400 to 2,850 role eliminations",
+      "source_quote": "In 2017, Aon initiated a global restructuring plan (the “Restructuring Plan”) in connection with the sale of the Divested Business.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "impairment",
+      "description": "$380 million non-cash impairment charge to the tradename associated with the Divested Business",
+      "source_quote": "In the second quarter of 2017, the Company recorded an estimated gain on sale, net of taxes, of $798 million and a non-cash impairment charge to its tradename associated with the Divested Business of $380 million as this asset was not sold to the Buyer.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "increase of share repurchase authorization by $5.0 billion in February 2017",
+      "source_quote": "The Repurchase Program was established in April 2012 with up to $5.0 billion in authorized repurchases and increased in November 2014 and February 2017 by incremental increases of $5.0 billion in authorized repurchases at each of those times.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Opry Mills sued an Aon retail insurance brokerage subsidiary seeking coverage-related damages",
+      "source_quote": "A retail insurance brokerage subsidiary of Aon was sued on September 14, 2010 in the Chancery Court for Davidson County, Tennessee Twentieth Judicial District, at Nashville by a client, Opry Mills Mall Limited Partnership (“Opry Mills”) that sustained flood damage to its property in May 2010.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "International Road Transport Union sued Aon in the Geneva Tribunal of First Instance",
+      "source_quote": "On June 1, 2007, the International Road Transport Union (“IRU”) sued Aon in the Geneva Tribunal of First Instance in Switzerland.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "IRU settlement agreement requiring an Aon subsidiary to pay CHF 15.0 million and $344,000 and discontinuing the proceedings",
+      "source_quote": "IRU and the Aon subsidiary agreed that the Aon subsidiary will pay IRU CHF 15.0 million ($15 million at June 30, 2017 exchange rates) and $344,000.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Court of Appeal approved settlement of pending Gleeds pension fund litigation",
+      "source_quote": "At a hearing in October 2016, the Court of Appeal approved a settlement of the pending litigation.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Gleeds pension fund trustees and employer sued Aon for negligence and breach of duty",
+      "source_quote": "On October 31, 2016, the fund’s trustees and employer sued Aon in the High Court, Chancery Division, London, alleging negligence and breach of duty in relation to the governing documents.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Lyttelton Port Company Limited sued Aon New Zealand over its property insurance program",
+      "source_quote": "On June 29, 2015, Lyttelton Port Company Limited (“LPC”) sued Aon New Zealand in the Christchurch Registry of the High Court of New Zealand.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Financial Conduct Authority investigation into suspected competition law breaches in aviation and aerospace broking",
+      "source_quote": "The Financial Conduct Authority (the “FCA”) commenced an investigation relating to suspected competition law breaches in the aviation and aerospace broking industry, which, for Aon in 2016, represented less than $100 million in global revenue.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Aon UK Limited engaged in internal regulatory reviews and ongoing interactions with the FCA concerning systems and controls",
+      "source_quote": "Aon UK Limited, an indirect wholly-owned subsidiary of the Company, is presently engaged in several internal regulatory reviews and ongoing interactions with the FCA concerning Aon UK Limited’s systems and controls.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    }
+  ]
+}

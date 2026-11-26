@@ -1,0 +1,74 @@
+{
+  "index": 58,
+  "id": "CVS_10-Q_2015",
+  "ticker": "CVS",
+  "form": "10-Q",
+  "year": 2015,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "On May 20, 2015, CVS Pharmacy, Inc. entered into a Merger Agreement to acquire Omnicare, Inc. for $98.00 per share in cash, representing an aggregate purchase price of approximately $10.6 billion, and agreed to assume approximately $2.3 billion in Omnicare debt.",
+      "source_quote": "On May 20, 2015, CVS Pharmacy, Inc. (“CVS Pharmacy”), a wholly owned subsidiary of CVS Health, entered into an Agreement and Plan of Merger (the “Merger Agreement”) to acquire Omnicare, Inc. (“Omnicare”), a provider of pharmaceuticals and related pharmacy services to long-term care facilities and provider of specialty pharmacy and commercialization services for the bio-pharmaceutical industry (the “Omnicare Acquisition”). Upon the effective date of the Omnicare Acquisition, each share of common stock, par value $1.00 per share, of Omnicare will be converted into the right to receive $98.00 in cash, or approximately $10.6 billion in the aggregate. In addition, CVS Pharmacy will assume approximately $2.3 billion in debt of Omnicare.",
+      "section": "Note 3 – Proposed Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "On June 12, 2015, CVS Pharmacy entered into an Asset Purchase Agreement with Target Corporation to acquire Target's pharmacy and clinic businesses for a purchase price of $1.887 billion in cash.",
+      "source_quote": "On June 12, 2015, CVS Pharmacy entered into an Asset Purchase Agreement with Target Corporation (“Target”) pursuant to which Target agreed to sell its pharmacy and clinic businesses to CVS Pharmacy (the “Target Pharmacy Acquisition”). The purchase price is $1.887 billion, payable in cash at closing and is subject to certain adjustments.",
+      "section": "Note 3 – Proposed Acquisitions"
+    },
+    {
+      "event_type": "litigation",
+      "description": "In May 2015, CVS Health Corporation entered into a settlement agreement with the U.S. Attorney’s Office for the Middle District of Florida to resolve alleged violations of the Controlled Substances Act, paying a fine of $22 million.",
+      "source_quote": "In May 2015, the Company entered into a settlement agreement with the U.S. Attorney’s Office for the Middle District of Florida, resolving alleged violations of the Controlled Substances Act (“CSA”). The Company paid a fine of $22 million in connection with the settlement.",
+      "section": "Note 12 – Commitments and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "In July 2015, the U.S. District Court in the District of Massachusetts dismissed all claims against CVS in a qui tam lawsuit alleging that the company violated the federal False Claims Act by overcharging under its Health Savings Pass program.",
+      "source_quote": "In July 2015, the U.S. District Court in the District of Massachusetts dismissed all claims alleged in a qui tam lawsuit that had been brought against the Company by a pharmacy auditor and a CVS pharmacist. The lawsuit, which was initially filed under seal in 2011, alleged that the Company violated the federal False Claims Act, as well as the false claims acts of several states, by overcharging state and federal governments in connection with prescription drugs available through the Company’s Health Savings Pass program...",
+      "section": "Note 12 – Commitments and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "In June 2015, a notice of settlement was filed in the U.S. District Court in the Southern District of New York regarding a False Claims Act qui tam action brought by David Kester against Novartis and several specialty pharmacies, including CVS.",
+      "source_quote": "The suit originally was filed under seal in 2011 by relator David Kester, a former employee of Novartis Pharmaceuticals Corp. (“Novartis”). The suit alleges that Novartis, the Company, and other specialty pharmacies violated the federal False Claims Act... Kester continued the litigation against the Company, but on June 16, 2015, filed a notice of settlement with the Court.",
+      "section": "Note 12 – Commitments and Contingencies"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On July 20, 2015, CVS issued six tranches of senior unsecured notes due between 2018 and 2045, raising approximately $14.8 billion in net proceeds to fund the Omnicare and Target acquisitions.",
+      "source_quote": "On July 20, 2015, the Company issued an aggregate of $2.25 billion of 1.9% unsecured senior notes due 2018 (“2018 Notes”), an aggregate of $2.75 billion of 2.8% unsecured senior notes due 2020 (“2020 Notes”), an aggregate of $1.50 billion of 3.5% unsecured senior notes due 2022 (“2022 Notes”), an aggregate of $3.00 billion of 3.875% unsecured senior notes due 2025 (“2025 Notes”), an aggregate of $2.00 billion of 4.875% unsecured senior notes due 2035 (“2035 Notes”), and an aggregate of $3.50 billion of 5.125% unsecured senior notes due 2045... for total proceeds of approximately $14.8 billion, net of discounts and underwriting fees.",
+      "section": "Note 4 – Borrowings"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On May 20, 2015, CVS entered into a $13 billion unsecured bridge loan facility to support the proposed Omnicare acquisition, incurring approximately $52 million in fees.",
+      "source_quote": "On May 20, 2015, in connection with the proposed acquisition of Omnicare, the Company entered into a $13 billion unsecured bridge loan facility. The Company paid approximately $52 million in fees upon entering into the agreement.",
+      "section": "Note 4 – Borrowings"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Effective January 2, 2015, CVS entered into a $2.0 billion Accelerated Share Repurchase (ASR) agreement with JPMorgan Chase Bank, which fully settled on May 1, 2015, delivering a total of 19.9 million shares to treasury stock.",
+      "source_quote": "Pursuant to the authorization under the 2013 Repurchase Program, effective January 2, 2015, the Company entered into a $2.0 billion fixed dollar ASR with JPMorgan Chase Bank (“JPMorgan”).... On May 1, 2015, the Company received approximately 3.1 million shares of common stock, representing the remaining 20% of the $2.0 billion notional amount of the ASR, thereby concluding the ASR.",
+      "section": "Note 6 – Share Repurchase Programs"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "CVS increased its quarterly dividend declared on common stock from $0.275 per share in the first half of 2014 to $0.350 per share in the first half of 2015, representing a 27% increase.",
+      "source_quote": "Dividends declared per share $ 0.350 [for 2015] $ 0.275 [for 2014]",
+      "section": "Condensed Consolidated Statements of Income (Unaudited)"
+    },
+    {
+      "event_type": "product",
+      "description": "CVS Health implemented a strategic decision to discontinue selling all tobacco products in its stores, which reduced same-store front sales in the Retail Pharmacy Segment.",
+      "source_quote": "The decrease is primarily due to the Company’s decision to stop selling tobacco products and softer customer traffic. On a comparable basis, front store same store sales would have been approximately 780 and 790 basis points higher for the three and six months ended June 30, 2015, respectively, if tobacco and the estimated associated basket sales were excluded from both the three and six months ended June 30, 2014.",
+      "section": "Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Retail Pharmacy Segment - Net Revenues"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "index": 75,
+  "id": "GWW_10-Q_2016",
+  "ticker": "GWW",
+  "form": "10-Q",
+  "year": 2016,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 5,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased 893,104 shares of common stock in the open market under the share repurchase program approved on April 6, 2015, for a total cash outflow of approximately $172.0 million ($172,047 thousand) at an average price of $208.19 per share during the first quarter of 2016.",
+      "source_quote": "Purchase of treasury stock (172,047) [thousands]... Purchases were made pursuant to a share repurchase program approved by Grainger’s Board of Directors on April 6, 2015. The program has no specified expiration date... Total Number of Shares Purchased 893,104... Average Price Paid per Share $208.19",
+      "section": "Condensed Consolidated Statements of Cash Flows / Part II - Item 2. Issuer Purchases of Equity Securities"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Increased outstanding commercial paper from $330.0 million to $545.0 million during the first quarter of 2016 to fund the repayment of the U.S. dollar term loan, share repurchases, and general working capital.",
+      "source_quote": "Outstanding commercial paper 544,645 [thousands]... As of March 31, 2016 and December 31, 2015, there was $545 million and $330 million, respectively, of commercial paper outstanding. The increase in commercial paper from December 31, 2015 was used to fund the repayment of the Company's U.S. dollar term loan, the repurchase of treasury shares, as well as general working capital needs.",
+      "section": "Condensed Consolidated Balance Sheets / Notes to Condensed Consolidated Financial Statements (Short-term debt)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid the Company's outstanding U.S. dollar term loan during the first quarter of 2016, utilizing proceeds from the issuance of additional commercial paper.",
+      "source_quote": "The increase in commercial paper from December 31, 2015 was used to fund the repayment of the Company's U.S. dollar term loan...",
+      "section": "Notes to Condensed Consolidated Financial Statements (Short-term debt)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared and paid cash dividends of $1.17 per common share in the first quarter of 2016 (representing an increase from $1.08 per share in the first quarter of 2015), totaling $72.632 million.",
+      "source_quote": "Cash dividends paid per share $1.17... $1.08... Cash dividends paid (72,632) [thousands]",
+      "section": "Condensed Consolidated Statements of Earnings / Condensed Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "product",
+      "description": "Successfully implemented and launched a new SAP enterprise resource planning (ERP) system at the Canadian subsidiary Acklands-Grainger on February 1, 2016.",
+      "source_quote": "On February 1, 2016, the Company implemented a new SAP enterprise resource planning system at its Canadian subsidiary, Acklands-Grainger. While new to its Canadian operations, the SAP system is the same one currently utilized by the Company’s business in the United States.",
+      "section": "Part II - Item 4. Controls and Procedures (Changes in Internal Control Over Financial Reporting)"
+    }
+  ]
+}

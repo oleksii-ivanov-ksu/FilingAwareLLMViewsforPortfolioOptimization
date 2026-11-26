@@ -1,0 +1,74 @@
+{
+  "index": 41,
+  "id": "BXP_10-K_2022",
+  "ticker": "BXP",
+  "form": "10-K",
+  "year": 2022,
+  "sector": "Real Estate",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquired 153 & 211 Second Avenue located in Waltham, Massachusetts, on June 2, 2021, for an aggregate purchase price of approximately $100.2 million in cash. The property consists of two 100% leased life sciences lab buildings totaling approximately 137,000 net rentable square feet.",
+      "source_quote": "On June 2, 2021, we acquired 153 & 211 Second Avenue located in Waltham, Massachusetts for an aggregate purchase price of approximately $100.2 million in cash. 153 & 211 Second Avenue consists of two life sciences lab buildings totaling approximately 137,000 net rentable square feet. The properties are 100% leased.",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Transactions During 2021 Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquired Shady Grove Innovation District in Rockville, Maryland, on August 2, 2021, for a purchase price, including transaction costs, of approximately $118.5 million in cash. The property is an approximately 435,000 net rentable square foot, seven-building office park situated on an approximately 31-acre site, which the company intends to convert to lab or life sciences uses as buildings become vacant.",
+      "source_quote": "On August 2, 2021, we acquired Shady Grove Innovation District in Rockville, Maryland, for a purchase price, including transaction costs, of approximately $118.5 million in cash. Shady Grove Innovation District is an approximately 435,000 net rentable square foot, seven-building office park situated on an approximately 31-acre site.",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Transactions During 2021 Acquisitions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of 360 Park Avenue South in New York City on December 14, 2021, for a gross purchase price of approximately $300.7 million. The consideration consisted of the assumption of approximately $200.3 million of mortgage debt and the issuance of 866,503 common units of limited partnership interest in BPLP (OP Units) valued at approximately $99.7 million.",
+      "source_quote": "On December 14, 2021, we completed the acquisition of 360 Park Avenue South, an approximately 450,000 square-foot, 20-story Class A office property located in the Midtown South submarket of Manhattan. The gross purchase price, including transaction costs, was approximately $300.7 million and consisted of (1) the assumption of approximately $200.3 million of mortgage debt collateralized by the property and (2) the issuance of approximately 866,503 common units of limited partnership interest in BPLP (“OP Units”).",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Transactions During 2021 Acquisitions"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of 181, 191 and 201 Spring Street properties in Lexington, Massachusetts, on October 25, 2021, for an aggregate gross sales price of $191.5 million, resulting in net cash proceeds of approximately $179.9 million and a recognized gain on sale of approximately $115.6 million for BXP and approximately $117.1 million for BPLP.",
+      "source_quote": "On October 25, 2021, we completed the sale of our 181,191 and 201 Spring Street properties located in Lexington, Massachusetts for an aggregate gross sales price of $191.5 million. Net cash proceeds totaled approximately $179.9 million, resulting in a gain on sale of real estate totaling approximately $115.6 million for BXP and approximately $117.1 million for BPLP.",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Dispositions"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Entered into a joint venture on September 1, 2021, to acquire Safeco Plaza, a 50-story Class A office property in Seattle, Washington, for a net purchase price of approximately $460.1 million, including $4.9 million of seller-funded leasing and capital costs. BXP invested approximately $72.6 million for its 33.67% interest in the joint venture, with the remainder funded by two institutional partners and a new $250.0 million mortgage loan maturing in 2026.",
+      "source_quote": "On September 1, 2021, we entered into a joint venture to acquire Safeco Plaza, a Class A office property located in Seattle, Washington, for a net purchase price of approximately $460.1 million, including $4.9 million of seller-funded leasing and capital costs. Safeco Plaza is a 50-story, approximately 765,000 net rentable square-foot, Class A office property. The acquisition was completed through a newly formed joint venture with two institutional partners.",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Investments in Unconsolidated Joint Ventures"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Redeemed all 80,000 outstanding shares of 5.25% Series B Cumulative Redeemable Preferred Stock and corresponding Depositary Shares on April 1, 2021, for a total cash redemption price of approximately $201.3 million, including approximately $1.3 million of accrued and unpaid dividends, resulting in a preferred stock redemption charge of approximately $6.4 million representing original issuance costs.",
+      "source_quote": "On April 1, 2021, BXP redeemed 80,000 shares of Series B Preferred Stock (including the corresponding 8,000,000 Depositary Shares), which represented all of the outstanding shares of Series B Preferred Stock and all of the outstanding Depositary Shares. In connection with the redemption of the Series B Preferred Stock, all of the Series B Preferred Units, which had terms and preferences generally mirroring those of the Series B Preferred Stock, were redeemed by BPLP.",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Equity Transactions"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "BPLP completed the early redemption of $1.0 billion in aggregate principal amount of its 3.85% senior notes due February 1, 2023, on October 15, 2021, using proceeds from its September 2021 offering of unsecured senior notes and borrowings under its 2021 Credit Facility. Excluding accrued interest, the redemption price was approximately 104.284% of the principal amount, resulting in an early extinguishment loss of approximately $44.2 million.",
+      "source_quote": "On October 15, 2021, BPLP used proceeds from its September 2021 offering of unsecured senior notes and borrowings under its 2021 Credit Facility to complete the redemption of $1.0 billion in aggregate principal amount of its 3.85% senior notes due February 1, 2023. The redemption price was approximately $1.05 billion.",
+      "section": "Notes to Consolidated Financial Statements - Note 8. Unsecured Senior Notes"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Refinanced the mortgage loan collateralized by 601 Lexington Avenue on December 10, 2021, through a consolidated entity in which BXP has a 55% interest. The new interest-only mortgage loan is for a principal amount of $1.0 billion with a fixed interest rate of 2.79% per annum and matures on January 9, 2032, replacing a previous mortgage loan of approximately $616.1 million.",
+      "source_quote": "On December 10, 2021, the consolidated entity in which we have a 55% interest refinanced the mortgage loan collateralized by its 601 Lexington Avenue property located in New York City with a new lender. The mortgage loan has a principal amount of $1.0 billion, requires interest-only payments at a fixed interest rate of 2.79% per annum and matures on January 9, 2032.",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Mortgage Notes"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of BXP's 50% ownership interest in Annapolis Junction NFM LLC (the Annapolis Junction Joint Venture) to the joint venture partner on March 30, 2021, for a gross sales price of $65.9 million. BXP received net cash proceeds of approximately $17.8 million after repayment of its share of debt of approximately $15.1 million, and recognized a gain on sale of investment of approximately $10.3 million.",
+      "source_quote": "On March 30, 2021, we completed the sale of our 50% ownership interest in Annapolis Junction NFM LLC (the “Annapolis Junction Joint Venture”) to the joint venture partner for a gross sales price of $65.9 million. Net cash proceeds to us totaled approximately $17.8 million after repayment of our share of debt totaling approximately $15.1 million. We recognized a gain on sale of investment totaling approximately $10.3 million...",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Investments in Unconsolidated Joint Ventures"
+    },
+    {
+      "event_type": "other",
+      "description": "Amended the ground lease at Sumner Square in Washington, DC on May 19, 2021, to extend the lease term for an additional 15 years through August 9, 2081. Under the terms of the amendment, BXP paid $23.0 million of rent on July 1, 2021, and committed to fund approximately $4.0 million for the operation and maintenance of the Sumner School over the next five years.",
+      "source_quote": "On May 19, 2021, we amended the ground lease at Sumner Square in Washington, DC to extend the term for an additional 15 years. Prior to the amendment, the ground lease was scheduled to expire on August 10, 2066. The ground lease will now expire on August 9, 2081. The amended lease required us to pay $23.0 million of rent in 2021 and requires our remaining obligation of approximately $4.0 million be used to fund certain operation and maintenance costs incurred by the government with respect to the Sumner School for the next five years, with no payments thereafter.",
+      "section": "Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations - Ground Lease"
+    }
+  ]
+}

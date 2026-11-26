@@ -1,0 +1,56 @@
+{
+  "index": 70,
+  "id": "F_10-Q_2009",
+  "ticker": "F",
+  "form": "10-Q",
+  "year": 2009,
+  "sector": "Consumer Discretionary",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Public Offering of Common Stock issuing 345 million shares for approximately $1.6 billion in gross proceeds.",
+      "source_quote": "On May 18, 2009, we issued 345 million shares of Ford Common Stock pursuant to a public offering at a price of $4.75 per share, resulting in total gross proceeds of about $1.6 billion.",
+      "section": "MD&A / Note 19"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Settled exchange offer of $4.3 billion principal amount of 4.25% Senior Convertible Notes for 468 million shares of common stock and $344 million in cash, resulting in a pre-tax gain of $1.2 billion.",
+      "source_quote": "Pursuant to an exchange offer we conducted, on the settlement date of April 8, 2009, $4.3 billion principal amount of Convertible Notes was exchanged for an aggregate of 467,909,227 shares of Ford Common Stock, $344 million in cash ($80 in cash per $1,000 principal amount of Convertible Notes exchanged) and the applicable accrued and unpaid interest on such Convertible Notes. As a result of the conversion, we recorded a pre-tax gain of $1.2 billion to Automotive interest income and other non-operating income/(expense), net in the second quarter of 2009.",
+      "section": "Note 7 / Note 13 / MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Ford Credit purchased $2.2 billion principal amount of Ford's secured term loan for $1.1 billion under a cash tender offer, which settled on March 27, 2009 and was subsequently distributed to Ford Holdings and forgiven.",
+      "source_quote": "A cash tender offer by Ford Credit for our secured term loan under the Credit Agreement, pursuant to which Ford Credit purchased from lenders thereof $2.2 billion principal amount of the secured term loan for an aggregate cost of $1.1 billion (including transaction costs). This transaction settled on March 27, 2009, following which... Ford Credit distributed the repurchased secured term loan to its immediate parent, Ford Holdings, whereupon the repurchased secured term loan was forgiven.",
+      "section": "Note 7 / MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Ford Credit purchased $3.4 billion principal amount of Ford's unsecured notes for $1.1 billion under a cash tender offer, which settled on April 8, 2009 and was transferred to Ford to satisfy tax liabilities.",
+      "source_quote": "A cash tender offer by Ford Credit for our unsecured notes, pursuant to which Ford Credit purchased $3.4 billion principal amount of debt securities for an aggregate cost of $1.1 billion (including transaction costs). This transaction settled on April 8, 2009, following which Ford Credit transferred the repurchased debt securities to us in satisfaction of $1.1 billion of Ford Credit's tax liabilities to us.",
+      "section": "Note 7 / MD&A"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recorded a pre-tax impairment charge of $650 million on Volvo Cars, which was classified as a held-for-sale operation, to write down its carrying value to estimated fair value.",
+      "source_quote": "Volvo Held-for-sale impairment (650) [million] ... We perform an impairment test on an asset group to be discontinued, held for sale, or otherwise disposed of... compare it to the carrying value of the asset group. An impairment charge is recognized when the carrying value exceeds the estimated fair value.",
+      "section": "Note 12 / MD&A"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Implemented salaried and hourly personnel-reduction actions in North America and Europe, and negotiated labor agreement modifications with the UAW for job security, supplemental unemployment, and transition assistance plans.",
+      "source_quote": "During the first quarter of 2009, we reached an agreement with the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (\"UAW\") to modify the 2007 collective bargaining agreement... renegotiated Job Security Benefits, modified Supplemental Unemployment Benefits, and established a new Transition Assistance Plan. ... Personnel-reduction actions: (269) (North America), (144) (Europe)",
+      "section": "Note 10 / MD&A"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Entered into an amendment to the UAW Retiree Health Care Settlement Agreement on July 23, 2009, to establish a New VEBA to assume retiree health care obligations starting December 31, 2009.",
+      "source_quote": "on July 23, 2009, we entered into an amendment to the UAW Retiree Health Care Settlement Agreement (the \"Settlement Agreement\")... The Settlement Agreement established a new Voluntary Employee Beneficiary Association trust (the \"New VEBA\") that on December 31, 2009 would assume the obligation to provide retiree health care benefits to eligible active and retired UAW Ford hourly employees...",
+      "section": "MD&A / Exhibits"
+    }
+  ]
+}

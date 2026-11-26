@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "content_W200_real_text_3",
+    "request": "requests/content_W200_real_text_3.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "real_text",
+    "repeat": 3
+  },
+  "request_sha256": "139605c050426d11219e4d80bb6a7f8be45fb54b6a73b65862eb18fc7b46d8a4",
+  "reserved_max_cost": 0.0073325000000000005,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.0014723,
+  "response": {
+    "id": "gen-1795458818-0GcFFJhFVFrnFd10wlcX",
+    "object": "chat.completion",
+    "created": 1795458818,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -40,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management language remains cautious with repeated references to regulatory headwinds, illicit competition, and material impairments ($873M e-vapor goodwill, prior Skoal charge). The modest Q2 EPS/revenue beat is offset by lack of forward guidance and elevated risk factors. Analyst dispersion is moderate, supporting a mildly negative excess-return view over the next quarter.\"\n}",
+          "refusal": null,
+          "reasoning": "Generating an investment view for Altria Group (MO) as of 2025-09-30.\n\nKey risks include regulatory and FDA actions, illicit trade, and supply chain disruptions. The company reported significant non-cash impairments, including $354M on Skoal and $873M on e-vapor goodwill. Guidance remains cautious with no specific outlook. Earnings beat estimates slightly, though sentiment stays guarded.\n\nAnalyst estimates show moderate dispersion at 2.9%. Recent stock returns are positive. Despite the slight earnings beat and recent gains, the view is neutral to slightly negative. Regulatory and competition risks, along with the recent impairments, outweigh the small surprise.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "Generating an investment view for Altria Group (MO) as of 2025-09-30.\n\nKey risks include regulatory and FDA actions, illicit trade, and supply chain disruptions. The company reported significant non-cash impairments, including $354M on Skoal and $873M on e-vapor goodwill. Guidance remains cautious with no specific outlook. Earnings beat estimates slightly, though sentiment stays guarded.\n\nAnalyst estimates show moderate dispersion at 2.9%. Recent stock returns are positive. Despite the slight earnings beat and recent gains, the view is neutral to slightly negative. Regulatory and competition risks, along with the recent impairments, outweigh the small surprise.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_a2b08f30-62e6-47a5-92d2-e0c8d216095f",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1058,
+      "completion_tokens": 490,
+      "total_tokens": 1548,
+      "cost": 0.0014723,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1024,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0014723,
+        "upstream_inference_prompt_cost": 0.0002473,
+        "upstream_inference_completions_cost": 0.001225
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 397,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -40,
+    "confidence": "medium",
+    "reasoning": "Management language remains cautious with repeated references to regulatory headwinds, illicit competition, and material impairments ($873M e-vapor goodwill, prior Skoal charge). The modest Q2 EPS/revenue beat is offset by lack of forward guidance and elevated risk factors. Analyst dispersion is moderate, supporting a mildly negative excess-return view over the next quarter."
+  },
+  "completed_utc": "2026-11-23T18:33:45.219316+00:00"
+}

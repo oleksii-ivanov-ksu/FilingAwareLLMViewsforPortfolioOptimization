@@ -1,0 +1,50 @@
+{
+  "index": 76,
+  "id": "LKQ_10-K_2024",
+  "ticker": "LKQ",
+  "form": "10-K",
+  "year": 2024,
+  "sector": "Consumer Discretionary",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Uni-Select Inc. ('Uni-Select') on August 1, 2023, which constitutes 16% of total assets (inclusive of goodwill and acquired intangible assets) and 4% of revenue of the consolidated financial statement amounts as of and for the year ended December 31, 2023.",
+      "source_quote": "We have excluded from our assessment the internal control over financial reporting at Uni-Select, which was acquired in 2023. The financial statements of Uni-Select constitute 16% of total assets (inclusive of goodwill and acquired intangible assets) and 4% of revenue of the consolidated financial statement amounts as of and for the year ended December 31, 2023.",
+      "section": "Item 9A. Controls and Procedures / Note 3 / Note 23"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of PGW Auto Glass ('PGW'), reported under discontinued operations.",
+      "source_quote": "Primarily related to the sale of PGW Auto Glass ('PGW'). Refer to Note 4, 'Discontinued Operations and Divestitures' for further information.",
+      "section": "Consolidated Statements of Income - Footnote (1)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued Senior Notes on May 24, 2023, consisting of 2028 Notes and 2033 Notes (referred to as US Notes 2028 and US Notes 2033).",
+      "source_quote": "lkq:USNotes20282033Member 2023-01-01 2023-12-31... lkq:USNote2028Member lkq:TwentyTwentyEightMember 2023-05-24... lkq:TwentyThirtyThreeMember lkq:USNotes2033Member 2023-05-24",
+      "section": "Note 13 / Note 20"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entered into a new Senior Unsecured Credit Agreement for Revolving Credit Facilities on January 5, 2023.",
+      "source_quote": "lkq:SeniorUnsecuredCreditAgreementRevolvingCreditFacilitiesMember us-gaap:RevolvingCreditFacilityMember 2023-01-05",
+      "section": "Note 13 / Note 20"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Continued the rollout and expansion of State Farm's aftermarket parts program, which originally commenced on a trial basis in June 2022.",
+      "source_quote": "Aftermarket collision parts volumes also grew as a result of the continued rollout of State Farm's aftermarket parts program, which began on a trial basis in June 2022 and has subsequently been expanded.",
+      "section": "Business Segment Highlights / MD&A"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Executed multiple restructuring programs including the 2022 Global Restructuring Plan, the 2019-2020 Global Restructuring Plan, and the LKQ Europe Plan, which involved employee-related costs, facility closings, and inventory-related actions.",
+      "source_quote": "lkq:A2022GlobalRestructuringMember... lkq:A20192020GlobalRestructuringMember... lkq:A1LKQEuropePlanMember",
+      "section": "Note 17. Accumulated Other Comprehensive Income (Loss)"
+    }
+  ]
+}

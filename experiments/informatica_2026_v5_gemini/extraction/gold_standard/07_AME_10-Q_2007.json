@@ -1,0 +1,62 @@
+{
+  "index": 7,
+  "id": "AME_10-Q_2007",
+  "ticker": "AME",
+  "form": "10-Q",
+  "year": 2007,
+  "sector": "Industrials",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Seacon Phoenix for approximately $38 million in cash in April 2007",
+      "source_quote": "In April 2007, the Company acquired Seacon Phoenix, a privately held provider of undersea electrical interconnect subsystems to the global submarine market for approximately $38 million in cash.",
+      "section": "Note 12 — Acquisitions Subsequent to March 31, 2007"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of Halmar Robicon SCR power controller technology and related products of Siemens Energy & Automation, Inc.",
+      "source_quote": "Also in April 2007, the Company acquired the Halmar Robicon silicon controlled rectifier (SCR) power controller and related Power Control Systems technology and products of Siemens Energy & Automation, Inc..",
+      "section": "Note 12 — Acquisitions Subsequent to March 31, 2007"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "A 50% increase in the quarterly dividend rate approved by the Board in Q4 2006, impacting Q1 2007 cash flows",
+      "source_quote": "The increase in dividends paid was the result of a Board of Directors approved 50% increase in the quarterly dividend rate on the Company’s common stock in the fourth quarter of 2006.",
+      "section": "Item 2. MD&A — Financial Condition"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchase of 81,462 shares of common stock for $2.9 million in the first quarter of 2007",
+      "source_quote": "The Company also repurchased 81,462 shares of its common stock in the first quarter of 2007 for $2.9 million.",
+      "section": "Item 2. MD&A — Financial Condition"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Amendment of the Certificate of Incorporation to increase authorized common shares from 200,000,000 to 400,000,000",
+      "source_quote": "The Stockholders approved an amendment to the Company’s Certificate of the Incorporation in order to increase the number of shares of Common Stock which the Company is authorized to issue from 200,000,000 to 400,000,000.",
+      "section": "Item 4. Submission of Matters to a Vote of Security Holders"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Approval of the 2007 Omnibus Incentive Compensation Plan",
+      "source_quote": "The Stockholders voted in favor of the 2007 Omnibus Incentive Compensation Plan of AMETEK, Inc. which was adopted and approved by the Board of Directors on February 23, 2007.",
+      "section": "Item 4. Submission of Matters to a Vote of Security Holders"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Election of Steven W. Kohlhagen and Charles D. Klein to the Board of Directors for terms expiring in 2010",
+      "source_quote": "The following nominees were elected to the Board of Directors for a term expiring in 2010: Steven W. Kohlhagen ... Charles D. Klein",
+      "section": "Item 4. Submission of Matters to a Vote of Security Holders"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Execution of the Seventeenth Amendment to the Receivables Sale Agreement",
+      "source_quote": "Seventeenth Amendment to the Receivables Sale Agreement dated as of March 19, 2007.",
+      "section": "Item 6. Exhibits"
+    }
+  ]
+}

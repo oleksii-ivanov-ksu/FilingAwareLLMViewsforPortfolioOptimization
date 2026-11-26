@@ -1,0 +1,116 @@
+{
+  "index": 81,
+  "id": "RCL_10-K_2019",
+  "ticker": "RCL",
+  "form": "10-K",
+  "year": 2019,
+  "sector": "Consumer Discretionary",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 17,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of a 66.7% equity stake in Silversea Cruise Holding Ltd. (\"Silversea Cruises\") for $1.02 billion in cash and contingent consideration.",
+      "source_quote": "On July 31, 2018, we acquired a 66.7% equity stake in Silversea Cruise Holding Ltd. (\"Silversea Cruises\"), an ultra-luxury and expedition cruise line with nine ships, from Silversea Cruises Group Ltd. (\"SCG\") for $1.02 billion in cash and contingent consideration.",
+      "section": "Notes to Consolidated Financial Statements - Note 1 (General) and Note 3 (Business Combination)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Decision to cease operations and exit the tour operations business created in 2014.",
+      "source_quote": "During the second quarter of 2018, we decided to cease operations and exit this business. As a result, we incurred exit costs, primarily consisting of fixed asset impairment charges and severance expense.",
+      "section": "Notes to Consolidated Financial Statements - Note 8 (Other Assets) / Executive Overview"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Impairment and other costs related to the exit of the tour operations business totaling $11.3 million.",
+      "source_quote": "the impairment and other costs related to the exit of our tour operations business of $11.3 million",
+      "section": "Management's Discussion and Analysis / Note 2 (Summary of Significant Accounting Policies)"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Joint agreement to end the Skysea Holding International Ltd. joint venture with Ctrip.com International Ltd.",
+      "source_quote": "In March 2018, we and Ctrip.com International Ltd. (\"Ctrip\") announced the decision to end the Skysea Holding International Ltd. (\"Skysea Holding\") venture in which we have a 36% ownership interest.",
+      "section": "Notes to Consolidated Financial Statements - Note 1 (General)"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognition of a $23.3 million impairment charge related to the Skysea Holding investment, debt facility, and other receivables.",
+      "source_quote": "During 2018, given SkySea Holding’s dissolution and sale of the Golden Era, we reviewed the recoverability of our investment, debt facility and other receivables due from the brand. As a result of this analysis, we determined that our investment in SkySea Holding and the carrying value of our debt facility and other receivables due from the brand were impaired and recognized an impairment charge of $23.3 million during the year ended December 31, 2018.",
+      "section": "Notes to Consolidated Financial Statements - Note 8 (Other Assets)"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Delivery of newbuild ship Symphony of the Seas and borrowing of $1.2 billion to finance the final installment.",
+      "source_quote": "In March 2018, we took delivery of Symphony of the Seas. Through a novation agreement we put in place in January 2015, we had the right, but not the obligation, to finance the final installment payable to the shipyard by assuming upon our delivery and acceptance of this ship the debt indirectly incurred by the shipbuilder during the construction of the ship. We borrowed a total of $1.2 billion (inclusive of the amount novated to us).",
+      "section": "Notes to Consolidated Financial Statements - Note 9 (Debt)"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Delivery of newbuild ship Celebrity Edge and borrowing of $729.0 million under an unsecured term loan.",
+      "source_quote": "In October 2018, we took delivery of Celebrity Edge. To finance the purchase, we borrowed $729.0 million under a previously committed unsecured term loan.",
+      "section": "Executive Overview / Note 9 (Debt)"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Completed purchase of ship Azamara Pursuit.",
+      "source_quote": "During 2018, we completed our purchase of Azamara Pursuit and took delivery of Symphony of the Seas and Celebrity Edge.",
+      "section": "Notes to Consolidated Financial Statements - Note 7 (Property and Equipment)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorization of a new 24-month common stock repurchase program for up to $1.0 billion.",
+      "source_quote": "In May 2018, our board of directors authorized a 24-month common stock repurchase program for up to $1.0 billion.",
+      "section": "Notes to Consolidated Financial Statements - Note 11 (Shareholders' Equity)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Increase of the quarterly common stock dividend to $0.70 per share in the third quarter of 2018.",
+      "source_quote": "during the third quarter of 2018, we declared a cash dividend on our common stock of $0.70 per share which was paid in the fourth quarter of 2018.",
+      "section": "Notes to Consolidated Financial Statements - Note 11 (Shareholders' Equity) / Executive Overview"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Entering into and fully drawing on a $700 million credit agreement to finance a portion of the Silversea Cruises acquisition.",
+      "source_quote": "To finance a portion of the purchase price, we entered into and drew in full on a $700 million credit agreement... Subsequenty drew in full on an unsecured credit agreement in the amount of $700 million due July 2019.",
+      "section": "Notes to Consolidated Financial Statements - Note 3 (Business Combination) and Note 9 (Debt)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Establishment of a commercial paper program for up to $1.2 billion.",
+      "source_quote": "In June 2018, we established a commercial paper program pursuant to which we may issue short-term unsecured notes from time to time in an aggregate amount of up to $1.2 billion.",
+      "section": "Notes to Consolidated Financial Statements - Note 9 (Debt)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Filing of a proposed class-action lawsuit by Roger and Maureen Carretta relating to the Travel Protection Program marketing.",
+      "source_quote": "On September 24, 2018, a proposed class-action lawsuit was filed by Roger and Maureen Carretta against Royal Caribbean Cruises Ltd. d/b/a Royal Caribbean International in the United States District Court for the Southern District of Florida relating to the marketing and sales of our Travel Protection Program.",
+      "section": "Item 3. Legal Proceedings / Note 18 (Commitments and Contingencies)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Dismissal of the Carretta proposed class-action lawsuit with prejudice.",
+      "source_quote": "On November 26, 2018, the Court dismissed the entire action with prejudice on the grounds that, among others, the claim was filed beyond the time limitations contained in the passenger ticket contract.",
+      "section": "Item 3. Legal Proceedings / Note 18 (Commitments and Contingencies)"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Shipbuilding agreement signed with Shipyard De Hoop for a vessel designed for the Galapagos Islands.",
+      "source_quote": "During 2018, Silversea Cruises entered into an agreement with Shipyard De Hoop to build a ship designed for the Galapagos Islands.",
+      "section": "Notes to Consolidated Financial Statements - Note 7 (Property and Equipment)"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Signing of a memorandum of understanding with Meyer Werft for two new generation vessels.",
+      "source_quote": "In September 2018, Silversea Cruises signed a memorandum of understanding with Meyer Werft to build two ships of a new generation of ships... expected to enter service in 2022 and 2023, respectively.",
+      "section": "Notes to Consolidated Financial Statements - Note 18 (Commitments and Contingencies)"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Agreement signed with Chantiers de l’Atlantique for building the sixth Oasis-class ship.",
+      "source_quote": "In February 2019, we entered into an agreement with Chantiers de l’Atlantique to build the sixth Oasis-class ship for Royal Caribbean International.",
+      "section": "Notes to Consolidated Financial Statements - Note 18 (Commitments and Contingencies)"
+    }
+  ]
+}

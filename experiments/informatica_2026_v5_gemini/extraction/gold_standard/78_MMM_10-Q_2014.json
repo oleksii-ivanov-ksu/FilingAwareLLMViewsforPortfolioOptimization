@@ -1,0 +1,44 @@
+{
+  "index": 78,
+  "id": "MMM_10-Q_2014",
+  "ticker": "MMM",
+  "form": "10-Q",
+  "year": 2014,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 5,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Announced agreement to acquire Sumitomo Electric Industries, Ltd.’s 25 percent interest in Sumitomo 3M Limited for 90 billion Japanese Yen (approximately $885 million), to achieve 100 percent ownership of the subsidiary",
+      "source_quote": "In July 2014, 3M announced that it will acquire (via Sumitomo 3M Limited) Sumitomo Electric Industries, Ltd.’s 25 percent interest in 3M’s consolidated Sumitomo 3M Limited subsidiary for 90 billion Japanese Yen (approximately $885 million at announcement date exchange rates). Upon completion of the transaction, 3M will own 100 percent of Sumitomo 3M Limited.",
+      "section": "Note 4. Supplemental Equity and Comprehensive Income Information / MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorized a new share repurchase program for up to $12 billion of outstanding common stock, replacing the February 2013 program",
+      "source_quote": "In February 2014, 3M’s Board of Directors replaced the Company’s February 2013 repurchase program with a new repurchase program. This new program authorizes the repurchase of up to $12 billion of 3M’s outstanding common stock, with no pre-established end date.",
+      "section": "Part II - Item 2. Unregistered Sales of Equity Securities and Use of Proceeds"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared a first-quarter 2014 dividend of $0.855 per share, representing a 35% increase and equivalent to an annual dividend of $3.42 per share",
+      "source_quote": "In December 2013, 3M’s Board of Directors declared a first-quarter 2014 dividend of $0.855 per share, an increase of 35 percent. This is equivalent to an annual dividend of $3.42 per share and marked the 56th consecutive year of dividend increases.",
+      "section": "Note 4. Supplemental Equity and Comprehensive Income Information / MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Settled a respirator mask/asbestos claims insurance coverage lawsuit, with the Court issuing a dismissal order in June 2014 and the Company receiving $11 million from settlements during the first six months of 2014",
+      "source_quote": "In July 2013, the Company reached agreements in principle with the remaining insurers in the lawsuit. All of the settlement agreements have now been executed. In June 2014, the Court issued an order dismissing the case. During the first six months of 2014, the Company received payments of $11 million from settlements with insurers, $6 million of which occurred in the second quarter of 2014.",
+      "section": "Note 11. Commitments and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Illinois EPA conditionally approved 3M's request to establish a groundwater management zone at the Cordova, Illinois manufacturing facility to monitor and control PFC levels",
+      "source_quote": "In June 2014, the Illinois EPA conditionally approved a request by the Company to establish a groundwater management zone at the site, which includes ongoing pumping of impacted site groundwater, groundwater monitoring and routine reporting of results.",
+      "section": "Note 11. Commitments and Contingencies"
+    }
+  ]
+}

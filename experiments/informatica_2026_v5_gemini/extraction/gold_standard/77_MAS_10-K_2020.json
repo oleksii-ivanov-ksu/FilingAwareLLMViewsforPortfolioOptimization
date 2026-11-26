@@ -1,0 +1,80 @@
+{
+  "index": 77,
+  "id": "MAS_10-K_2020",
+  "ticker": "MAS",
+  "form": "10-K",
+  "year": 2020,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "divestiture",
+      "description": "Completed the divestiture of the Milgard Windows and Doors business on November 6, 2019, to MIWD Holding Company LLC.",
+      "source_quote": "In 2019, we completed the divestitures of our Milgard Windows and Doors business (\"Milgard\") and our UK Windows Group business (\"UKWG\") ... Stock Purchase Agreement, dated September 29, 2019, by and between Masco Corporation and MIWD Holding Company LLC ... mas:MilgardManufacturingIncMember 2019-11-06",
+      "section": "Note B / Exhibit Index"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the divestiture of the UK Windows Group (UKWG) business on September 6, 2019, resulting in the reclassification of 4 million of deferred currency translation losses to the statement of operations.",
+      "source_quote": "In 2019, we completed the divestitures of our Milgard Windows and Doors business (\"Milgard\") and our UK Windows Group business (\"UKWG\") ... In addition, we reclassified 4 million of deferred currency translation losses from accumulated other comprehensive loss to the consolidated statement of operations in conjunction with the disposition of UKWG in September 2019 ... us-gaap:DiscontinuedOperationsDisposedOfBySaleMember mas:UKWindowGroupMember 2019-09-06",
+      "section": "Note B / MD&A"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Entered into a definitive securities purchase agreement on November 14, 2019, to sell the Masco Cabinetry business to ACP Products, Inc., which was expected to close in the first quarter of 2020.",
+      "source_quote": "and in November we entered into a definitive agreement to sell our Masco Cabinetry business, which we expect to close in the first quarter of 2020. As a result, our Windows and Other Specialty Products segment and our Cabinetry Products segment are accounted for as discontinued operations... ... Securities Purchase Agreement, dated November 14, 2019, by and between Masco Corporation and ACP Products, Inc.",
+      "section": "Note B / Exhibit Index"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognized a  million non-cash goodwill impairment charge in the first quarter of 2019 due to a decline in the long-term outlook of the UK Windows and Doors business.",
+      "source_quote": "In the first quarter of 2019, we recognized a  million non-cash goodwill impairment charge related to a decline in the long-term outlook of our windows and doors business in the United Kingdom.",
+      "section": "Note B"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recorded a  million impairment charge for other intangible assets in 2019 in the Decorative Architectural Products segment.",
+      "source_quote": "Impairment charge for other intangible assets: 9 [million] in 2019",
+      "section": "Note I / Consolidated Statements of Operations"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Approved a Board resolution in December 2019 to terminate qualified domestic defined-benefit pension plans, which increased projected benefit obligations to reflect the estimated incremental cost of termination.",
+      "source_quote": "In December 2019, our Board of Directors approved a resolution to terminate our qualified domestic defined-benefit pension plans. As a result of this decision, the projected benefit obligations for these plans were increased to reflect the incremental cost to terminate the plans.",
+      "section": "Note M"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Recorded pre-tax rationalization charges of 3 million in 2019 to optimize operations.",
+      "source_quote": "Rationalization charges: 13 [million] in 2019",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorized a new stock repurchase program in September 2019 for up to .0 billion of common stock, under which and previous programs Masco repurchased and retired 20.1 million shares of common stock for approximately 96 million in 2019.",
+      "source_quote": "In September 2019, our Board of Directors authorized the repurchase, for retirement, of up to .0 billion of shares of our common stock... During 2019, we repurchased and retired 20.1 million shares of our common stock... for approximately 96 million.",
+      "section": "Note L / Item 5"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Increased the quarterly dividend by 12.5 percent, declaring total dividends of -bash.510 per common share in 2019.",
+      "source_quote": "increasing our quarterly dividend by 12.5 percent. ... Dividends declared: 0.510 in 2019",
+      "section": "Note L / Item 6 / MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repaid and retired the 7.125% Notes due March 15, 2020, on December 19, 2019, resulting in cash outflows of approximately 01 million for the retirement of notes during 2019.",
+      "source_quote": "...to repay and retire our 7.125% Notes due March 15, 2020. ... Retirement of notes: (201) [million] in 2019. ... mas:A7.125 Notes and Debentures due March 15, 2020 us-gaap:SeniorNotesMember 2019-12-19",
+      "section": "Note K / MD&A"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Entered into a Credit Agreement dated March 13, 2019, with JPMorgan Chase Bank, N.A. as Administrative Agent, and other lenders, establishing credit facilities for Masco Corporation and Masco Europe S.à r.l. as borrowers.",
+      "source_quote": "Credit Agreement dated as of March 13, 2019 by and among Masco Corporation and Masco Europe S.à r.l. as borrowers, the lenders party thereto, JPMorgan Chase Bank, N.A., as Administrative Agent...",
+      "section": "Exhibit Index"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "masking_W200_original_2",
+    "request": "requests/masking_W200_original_2.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "original",
+    "repeat": 2
+  },
+  "request_sha256": "81e5bb33c8c3c5c226875431bb0b4db5525b46b9d71e9b5d4101fb5e2fa831e8",
+  "reserved_max_cost": 0.007350000000000001,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.00149105,
+  "response": {
+    "id": "gen-1795458811-LpP8evQG4gYxyEvRgs7h",
+    "object": "chat.completion",
+    "created": 1795458811,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -50,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management's cautious tone highlights continued headwinds, potential material adverse effects, and significant new non-cash impairments ($873M goodwill), outweighing the modest Q2 earnings beat. Persistent regulatory, illicit competition, and macroeconomic risks from the 10-K remain elevated without positive guidance updates. Analyst dispersion is moderate, supporting a mildly negative excess return view over the next quarter.\"\n}",
+          "refusal": null,
+          "reasoning": "I am analyzing the provided MO 10-K summary and recent performance data to formulate the investment view.\n\nThe 10-Q shows continued headwinds and significant non-cash impairments. Adjusted results improved. Guidance is cautious with no specifics. Regulatory and competition risks remain elevated.\n\nQ2 2025 delivered a small earnings and revenue beat. Analyst estimate dispersion is 2.9%. Recent returns are positive. The 10-Q recorded an $873 million goodwill impairment.\n\nThe view is slightly negative. Expected excess return is approximately -50 basis points with medium confidence. The large impairment and cautious guidance outweigh the modest earnings beat.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am analyzing the provided MO 10-K summary and recent performance data to formulate the investment view.\n\nThe 10-Q shows continued headwinds and significant non-cash impairments. Adjusted results improved. Guidance is cautious with no specifics. Regulatory and competition risks remain elevated.\n\nQ2 2025 delivered a small earnings and revenue beat. Analyst estimate dispersion is 2.9%. Recent returns are positive. The 10-Q recorded an $873 million goodwill impairment.\n\nThe view is slightly negative. Expected excess return is approximately -50 basis points with medium confidence. The large impairment and cautious guidance outweigh the modest earnings beat.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "+3+8zw95lH27rmjs6CGj/xQ04u92TPEnVaV9UGsmt8oGl6O/nhvPdXNuKGBYwTbjhEEQoZW2i8wMN5tlAgAfj/3pBt8eHSdHva1q+U9cqIvuPwZ+dDmGMPKA2cKBX2OvQ/qrz6Flg8FvLu1RfnvVVPO6P4fVVKH4+rvv+DcZww29Ev208GepeGLmUcZSMWh3NyCgxRkrfwkEFnQFZa+BP/0ZRtuJ9U5G8xsgh8rvMUgeYFXR11PzOeEowD7075mcfxUvnNIOdwYurURxZgUE9qCDa67Xjq0+7IYNKhq7G2JOonM2n+Rzi8uQBYCyTIsc3ErMfLCW7cYDd6OqYDoSrDOo05M7UshShPywezdaHWkmXf0uIQWTgBDlBFAqZSToRkcbKb7nZzHG/kqN5oEYo5VylUcpL9tguBAM+7XRyuOkXS6e5yEcqSKcV0AfP2sfoaivttCFcpCCYE7/RE0HMw7Ut0D9jSXVXi+ojOGRx0NsbKLhfHX0wq4CoEKu++L5QTsTGUK7Aut75n+V/Y9q9LO4VGKrZJc3wC0gCfnmTtN22rzy+pmyhwj6wuEQ7tjUWbh+29EdoHPsTPSrK45TMmK5zOZYlJGaWyP7+a4HYN/gNHSirDdee4dP+9wgNn9/L2a77/12UKHiy5tkLgxjvfxc1++C7y2IQs34AZRhAnbk576lE2B66uDOrjGTZ7zF7QWzMirj6CqJsLdKoa14b4gbkaFi2BubrLF/9Z2YJUx/VE2nncZaa92mZ16RPAj24/EEDK6L/kBODoK5cBizNlHAWS5dy0+YLT2qNoueRER1/X7Ba7RrKV3nghSZEsglSEYKNBQhxMMoCYQtWx7Ip5Q7zRK5u9XV4Juk/RXsC4KghKx2n8Siwv4/hJR8uPlAH3EdVbo2QBMbigA9NC5bBBbRge2XbCOfcKK5k29y3JiDnV1QdIJTBFf7f3CTmlPgdXbRH53gv3NgVlHK7Dr4GaZ8xVDGY2uUnS/L7YRMIJpOtxK+tmBfJtbuZLw2M1sM1AMykm+dGf9QH6PbugVVHZMjSo+2n0Njkphdp6yXfcSQb5pdm0zMqYwnXBsAwbom0Tgzvr9PBXDgRrRK5HDEIVajiYuOT3LhDhgmNoxD1MMc/zfMOWWvifMYqwJ/kfxJSwrnW9ekKca0OyxOzUEKnqul38wpjc7+J3XMHEbL72cXmzidD7ZAI1RXSuMkNvlJK2JaErkoVRdexDz6DWI2keOKH39lqt5KWUjgekaJU6rEIwmlMQh+j6xRrlfvgzR+AGmX0pIcCOyCZqsLetNUaq9IMpgiyb34qw1NHHaPaQRkK0V/aDAvsQxyHoOaLY9TCl/LaDzcTTg+cB+sgsK+OV0mVGnPv+pGFGqroqBhisYfUCVQIJtp.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_243ed786-1e83-90a8-bc75-6436ec9d6106",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1071,
+      "completion_tokens": 491,
+      "total_tokens": 1562,
+      "cost": 0.00149105,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 1024,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00149105,
+        "upstream_inference_prompt_cost": 0.00026355,
+        "upstream_inference_completions_cost": 0.0012275
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 395,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -50,
+    "confidence": "medium",
+    "reasoning": "Management's cautious tone highlights continued headwinds, potential material adverse effects, and significant new non-cash impairments ($873M goodwill), outweighing the modest Q2 earnings beat. Persistent regulatory, illicit competition, and macroeconomic risks from the 10-K remain elevated without positive guidance updates. Analyst dispersion is moderate, supporting a mildly negative excess return view over the next quarter."
+  },
+  "completed_utc": "2026-11-23T18:33:38.493557+00:00"
+}

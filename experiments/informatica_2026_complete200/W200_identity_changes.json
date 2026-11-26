@@ -1,0 +1,14 @@
+[
+  {
+    "start": 32,
+    "end": 34,
+    "original": "MO",
+    "replacement": "Company_A"
+  },
+  {
+    "start": 112,
+    "end": 114,
+    "original": "MO",
+    "replacement": "Company_A"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "index": 43,
+  "id": "CB_10-Q_2022",
+  "ticker": "CB",
+  "form": "10-Q",
+  "year": 2022,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Subsequent event: Completed the acquisition of Cigna's Life Insurance Business in Asia Pacific Markets on July 1, 2022.",
+      "source_quote": "cb:CignasLifeInsuranceBusinessInAsiaPacificMarketsMember us-gaap:SubsequentEventMember 2022-07-01 2022-07-01",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Ongoing integration of Cigna's acquired business, resulting in $3 million of Cigna integration expenses during the three and six months ended June 30, 2022.",
+      "source_quote": "Cigna integration expenses 3\n—\n3\n—",
+      "section": "Consolidated Statements of Operations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Authorization of the May 2022 Stock Repurchase Plan on May 19, 2022.",
+      "source_quote": "cb:May2022StockRepurchasePlanMember 2022-05-19",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased common shares for a total cost of $1,129 million during the three months ended June 30, 2022, and $2,130 million during the six months ended June 30, 2022.",
+      "source_quote": "Common Shares repurchased ( 1,129 ) ( 1,921 ) ( 2,130 ) ( 2,440 )",
+      "section": "Consolidated Statements of Changes in Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Cancellation of treasury shares valued at $2,510 million during the six months ended June 30, 2022.",
+      "source_quote": "Cancellation of treasury shares —\n—\n2,510\n—",
+      "section": "Consolidated Statements of Changes in Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared dividends on common shares of $348 million during the three months ended June 30, 2022, and $688 million during the six months ended June 30, 2022.",
+      "source_quote": "Dividends declared on Common Shares ( 348 ) ( 352 ) ( 688 ) ( 704 )",
+      "section": "Consolidated Statements of Changes in Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Subsequent event: Repurchased Class A common shares under the May 2022 Stock Repurchase Plan between July 1, 2022, and July 28, 2022.",
+      "source_quote": "cb:May2022StockRepurchasePlanMember us-gaap:SubsequentEventMember 2022-07-01 2022-07-28",
+      "section": "Notes to Consolidated Financial Statements"
+    }
+  ]
+}

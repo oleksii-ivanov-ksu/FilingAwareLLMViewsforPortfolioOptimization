@@ -1,0 +1,14 @@
+{
+  "data/v2/analysis/csit_cost_audit/factors.csv": "326f50b375bc53821efc91c9be2a16b14a1994e8ab2d21dbea090cb11da06618",
+  "data/v2/analysis/dissertation_revision_20260914/portfolio_v1_sensitivity/daily_returns.csv": "9dc17395906a9508468bc5d74a350982222d9b8ee5661291aecb673c1e67b842",
+  "data/results/core/daily_returns.csv": "e83a6a6a25a4c08f83e6b92e0d48206e983e1bf771c151a1ecc1894909614c1e",
+  "data/v2/analysis/informatica_revision/signal_risk_v1/core_daily_returns.csv": "33549b2fac55a606c4212add55d052c25e8163ab38ef0dbe98af69c2179ba7d4",
+  "data/v2/analysis/informatica_revision/matched_controls_v1/core_daily_returns.csv": "49215f4eb01132942e4a4d21a062321a8157fd87f6f767b8e1c9fb06cdba9da1",
+  "data/v2/analysis/informatica_revision/signal_risk_v1/core_turnover.csv": "6c70e4f727742b4798cbffd9173fe48277f39af4cd161eb82647779546f93538",
+  "data/v2/analysis/informatica_revision/signal_risk_v1/core_targets.npz": "61a3b55c2bbc00a8cad12e1a0e5027ecc62fb2285c371c0cf24802cd13c0944b",
+  "data/results/holdout/daily_returns.csv": "62c09bf83a5443c167f7a8be906a08c8c961517f896c547e6044619fe4166ded",
+  "data/v2/analysis/informatica_revision/signal_risk_v1/holdout_daily_returns.csv": "76a325d579d72049e260926ed6bc142abcc839fcaa227d15c899290bdbb1fd3f",
+  "data/v2/analysis/informatica_revision/matched_controls_v1/holdout_daily_returns.csv": "0250f7348ceded4dcc8b9e01f99f42d739fb48ca33fec520ab1440534195ede1",
+  "data/v2/analysis/informatica_revision/signal_risk_v1/holdout_turnover.csv": "969ca38657cee5e368a6c5beb2411abd269eca27d064cb5bfe0c8078263d49c9",
+  "data/v2/analysis/informatica_revision/signal_risk_v1/holdout_targets.npz": "de73a991321cf024b3304fec3fabc8c22ecb2520d5c4be7390662f185bebdd73"
+}

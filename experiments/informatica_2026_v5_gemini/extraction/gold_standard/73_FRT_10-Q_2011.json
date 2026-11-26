@@ -1,0 +1,50 @@
+{
+  "index": 73,
+  "id": "FRT_10-Q_2011",
+  "ticker": "FRT",
+  "form": "10-Q",
+  "year": 2011,
+  "sector": "Real Estate",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Consolidated a property as a VIE as of January 19, 2011, in connection with an acquisition and reverse Section 1031 like-kind exchange agreement with a third-party intermediary.",
+      "source_quote": "In conjunction with the acquisition, we entered into a reverse Section 1031 like-kind exchange agreement with a third party intermediary which is for a maximum of 180 days and allows us, for tax purposes, to defer gains on sale of other properties identified and sold within this period. Until the earlier of termination of this exchange agreement or July 19, 2011, the third party intermediary is the legal owner of the property. However, we control the activities that most significantly impact the property and retain all of the economic benefits and risks associated with the property. Therefore, we have determined we are the primary beneficiary of this VIE and consolidated the property and its operations as of January 19, 2011.",
+      "section": "Note 1 / MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Paid a final judgment of 6.2 million in March 2011 to settle and resolve a lawsuit regarding a parcel of land located adjacent to Santana Row.",
+      "source_quote": "In March 2011, we paid the final judgment of 6.2 million related to a previously disclosed lawsuit regarding a parcel of land located adjacent to Santana Row. The final judgment was previously accrued and is included in “accounts payable and accrued expenses” in our consolidated balance sheet at December 31, 2010.",
+      "section": "Note 7 / MD&A / Part II - Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Subsequent event: Sold one building on Fifth Avenue in San Diego, California on April 1, 2011, for a sales price of .7 million.",
+      "source_quote": "On April 1, 2011, we sold one building on Fifth Avenue in San Diego, California for a sales price of .7 million. The operations of this building are included in discontinued operations in the consolidated statements of operations and included in “assets held for sale” in our consolidated balance sheets for all periods presented.",
+      "section": "Note 12. Subsequent Events"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Purchased and retired senior notes and debentures of 5.0 million during the first quarter of 2011.",
+      "source_quote": "Purchase and retirement of senior notes/debentures: (75,000)",
+      "section": "Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Subsequent event: Repaid a 1.7 million mortgage loan on Federal Plaza on April 29, 2011 (originally maturing June 1, 2011) using funds borrowed from its revolving credit facility.",
+      "source_quote": "On April 29, 2011, we repaid the 1.7 million mortgage loan on Federal Plaza which had an original maturity date of June 1, 2011. This loan was repaid with funds borrowed on our 00.0 million revolving credit facility.",
+      "section": "Note 12. Subsequent Events"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued 592,643 common shares during the first quarter of 2011, raising 7.97 million in capital.",
+      "source_quote": "Common shares issued: 592,643 [shares], 7,964 [Additional Paid-in Capital]... Common shares issued: 6 [Common Shares par value]",
+      "section": "Consolidated Statement of Shareholders Equity"
+    }
+  ]
+}

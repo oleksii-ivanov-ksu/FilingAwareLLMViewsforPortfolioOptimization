@@ -1,0 +1,80 @@
+{
+  "index": 34,
+  "id": "AXP_10-K_2009",
+  "ticker": "AXP",
+  "form": "10-K",
+  "year": 2009,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the purchase of Corporate Payment Services, the commercial card and corporate purchasing business unit of General Electric Company (GE), for approximately $1.1 billion plus the repayment of $1.2 billion in outstanding debt of the business",
+      "source_quote": "On March 28, 2008, we purchased Corporate Payment Services, the commercial card and corporate purchasing business unit of General Electric Company (“GE”) for approximately $1.1 billion plus the repayment of Corporate Payment Services’ $1.2 billion in outstanding debt of this business as of the acquisition date.",
+      "section": "Business - Global Commercial Services"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Entered into an alliance with Concur Technologies, Inc. that included a strategic equity investment of approximately $251 million in cash to purchase 6.4 million newly issued common shares (representing 13% post-issuance voting interest) along with a warrant to purchase an additional 1.28 million shares",
+      "source_quote": "We purchased 6.4 million shares of newly issued common stock of Concur, representing 13% post issuance of the currently outstanding common equity voting interest in Concur, at a price per share of $39.27, for approximately $251 million in cash. In addition we received a warrant in connection with our stock purchase, pursuant to which we have the right to purchase an additional 1.28 million shares of Concur common stock at any time during the next two years, at $39.27 per share.",
+      "section": "Business - Global Commercial Services"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of international banking subsidiary American Express Bank Ltd. (AEBL) to Standard Chartered PLC for a final purchase price of $796 million (the final net asset value plus $300 million)",
+      "source_quote": "On September 18, 2007, we entered into an agreement to sell our international banking subsidiary, AEBL, to Standard Chartered PLC (“Standard Chartered”). On February 29, 2008, Standard Chartered completed its purchase of AEBL. In the second quarter of 2008, the Company and Standard Chartered agreed on the final purchase price of $796 million, equaling the final net asset value of the AEBL businesses that were sold plus $300 million.",
+      "section": "Business - Sale of American Express Bank Ltd. / Discontinued Operations"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Entered into a put/call agreement to sell American Express International Deposit Company (AEIDC) to Standard Chartered PLC, with AEIDC qualifying as a discontinued operation in the third quarter of 2008",
+      "source_quote": "On September 18, 2007, the Company also entered into an agreement with Standard Chartered to sell American Express International Deposit Company (“AEIDC”), a subsidiary that issued investment certificates to AEBL’s customers, 18 months after the close of the AEBL sale through a put/call agreement. ... In the third quarter of 2008, AEIDC qualified to be reported as a discontinued operation, as it is the Company’s intention to exercise its AEIDC put option in the third quarter of 2009.",
+      "section": "Business - Sale of American Express Bank Ltd. / Discontinued Operations"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Announced a multiyear extension of several key agreements with Delta Air Lines, including the Co-Brand Card Agreement, Membership Rewards Agreement, and Card Service Agreement, following Delta's acquisition of Northwest Airlines",
+      "source_quote": "In December 2008, we announced a multiyear extension of several key agreements with Delta Air Lines, including, among others, our Co-Brand Card Agreement, Membership Rewards Agreement and Card Service Agreement. The multiyear extension, which was signed following Delta Air Lines’ acquisition of Northwest Airlines, allows continued expansion of programs with American Express across our Co-brand credit card, Membership Rewards, merchant services and travel businesses.",
+      "section": "Business - U.S. Card Services"
+    },
+    {
+      "event_type": "product",
+      "description": "Launched the Delta Reserve Credit Card, a super premium Delta co-brand product, for U.S.-based consumers and small businesses",
+      "source_quote": "During the year, we launched the Delta Reserve Credit Card, a super premium Delta co-brand product, for U.S. based consumers and small businesses.",
+      "section": "Business - U.S. Card Services"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Settled antitrust claims against Visa Inc., Visa USA, and Visa International, with Visa agreeing to pay a maximum of $2.25 billion (including $1.13 billion paid in Q1 2008 and 16 quarterly payments of up to $70 million starting Q1 2008)",
+      "source_quote": "On November 7, 2007, the Company announced that it had entered into an agreement with Visa Inc., Visa USA and Visa International to drop Visa as a defendant in the lawsuit. ... In addition, under the terms of the agreement, Visa has agreed to pay a maximum amount of $2.25 billion to the Company, consisting of (i) $1.13 billion, which was paid to the Company in the first quarter of 2008 and (ii) 16 additional quarterly payments of up to $70 million per quarter commencing with quarter ending March 31, 2008.",
+      "section": "Item 3. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Settled antitrust claims against MasterCard International, Inc. and MasterCard Incorporated, with MasterCard agreeing to pay a maximum of $1.8 billion in 12 quarterly payments of up to $150 million starting Q3 2008",
+      "source_quote": "On June 24, 2008, the Company entered into an agreement with MasterCard International, Inc. and MasterCard Incorporated to drop all claims against MasterCard. Under the terms of the agreement MasterCard has agreed to pay a maximum amount of $1.8 billion to the Company, consisting of 12 quarterly payments of up to $150 million per quarter commencing with the quarter ending September 30, 2008.",
+      "section": "Item 3. Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Signed a Memorandum of Understanding (MOU) to resolve claims raised in the Kaufman v. American Express Travel Related Services gift card class action regarding monthly service fees and redemption of small remaining balances",
+      "source_quote": "In January 2009, the Company signed a Memorandum of Understanding to resolve claims raised in putative class action captioned Kaufman v. American Express Travel Related Services , pending in the United States District Court for the Northern District of Illinois.",
+      "section": "Item 3. Legal Proceedings"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued 3,388,890 shares of Fixed Rate Cumulative Perpetual Preferred Stock, Series A, and a 10-year warrant to purchase up to 24,264,129 common shares to the U.S. Treasury under the Capital Purchase Program (CPP) for aggregate proceeds of $3.39 billion",
+      "source_quote": "pursuant to the United States Department of the Treasury’s (the “Treasury”) Capital Purchase Program (CPP) under the Emergency Economic Stabilization Act of 2008, we announced on January 9, 2009, the receipt of aggregate proceeds of $3.39 billion from the Treasury in exchange for the sale to the Treasury of (i) 3,388,890 shares of our Fixed Rate Cumulative Perpetual Preferred Stock, Series A, par value $1.66 2/3 per share, having a liquidation preference per share equal to $1,000 and (ii) a ten-year warrant (the “Warrant”) to purchase up to 24,264,129 of our common shares at an initial per share exercise price of $20.95 per share.",
+      "section": "Business - 2008 Highlights"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Appointed William H. Glenn as Executive Vice President of the Company in September 2008, who also serves as President of Global Merchant Services",
+      "source_quote": "Mr. Glenn (51) has been Executive Vice President since September 2008 and President, Global Merchant Services since June 2007.",
+      "section": "Business - Executive Officers of the Company"
+    }
+  ]
+}

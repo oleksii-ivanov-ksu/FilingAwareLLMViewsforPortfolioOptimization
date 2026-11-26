@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "cases": 200,
+  "slices": 4,
+  "cases_per_slice": 50,
+  "new_paid_calls": 19,
+  "new_reasoning_calls": 18,
+  "new_extraction_calls": 1,
+  "repair_cost_usd": 0.10999135,
+  "active_diagnostic_responses": 3000,
+  "archived_diagnostic_responses_including_pilot_and_superseded": 3303,
+  "unaffected_targets_max_error": 0.0,
+  "historical_backtest_changed": false,
+  "augmentation_not_fresh_200_case_run": true
+}

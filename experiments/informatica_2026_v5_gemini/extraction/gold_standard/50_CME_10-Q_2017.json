@@ -1,0 +1,38 @@
+{
+  "index": 50,
+  "id": "CME_10-Q_2017",
+  "ticker": "CME",
+  "form": "10-Q",
+  "year": 2017,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 4,
+  "events": [
+    {
+      "event_type": "divestiture",
+      "description": "Completed the sale of BM&FBOVESPA shares during the first quarter of 2017, generating cash proceeds of $244.0 million.",
+      "source_quote": "Proceeds from sale of BM&FBOVESPA shares 244.0",
+      "section": "Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Subsequent event: Announced in April 2017 the intention to close CME Clearing Europe (CMECE) and CME Europe as a regulated clearing house and exchange, respectively, by the end of 2017.",
+      "source_quote": "In April 2017, the company announced that it intends to close CMECE and CME Europe as a regulated clearing house and exchange, respectively, by the end of 2017.",
+      "section": "Notes to Consolidated Financial Statements (Subsequent Events)"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Entered into a Retirement Agreement on February 15, 2017, with Phupinder S. Gill, Chief Executive Officer, regarding his retirement.",
+      "source_quote": "Retirement Agreement, dated February 15, 2017, between CME Group Inc. and Phupinder S. Gill",
+      "section": "Exhibits"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Paid cash dividends of $1,322.6 million during the first quarter of 2017, compared to $1,179.3 million paid in the first quarter of 2016.",
+      "source_quote": "Cash dividends (1,322.6)",
+      "section": "Consolidated Statements of Cash Flows"
+    }
+  ]
+}

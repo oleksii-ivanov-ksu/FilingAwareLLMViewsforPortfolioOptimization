@@ -1,0 +1,56 @@
+{
+  "index": 47,
+  "id": "CINF_10-K_2014",
+  "ticker": "CINF",
+  "form": "10-K",
+  "year": 2014,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Declared annual cash dividends of $1.655 per common share in 2013 (increased from $1.62 in 2012 and $1.605 in 2011), marking CINF's 53rd consecutive year of indicated dividend rate increases.",
+      "source_quote": "Declared cash dividends per share were $1.655 , $1.62 and $1.605 for the years ended December 31, 2013, 2012 and 2011, respectively.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased common shares in the open market under the company's share repurchase program for a total cost of $52 million during 2013, leaving 5,549,493 shares available for purchase under the program as of December 31, 2013.",
+      "source_quote": "Treasury stock acquired—share repurchase authorization (1) ... (52)",
+      "section": "Consolidated Statements of Shareholders' Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Acquired 577,745 shares of common stock for $28 million from associates as consideration for option exercises during 2013.",
+      "source_quote": "We acquired 577,745 and 311,524 shares totaling $28 million and $12 million, respectively, from associates in consideration for option exercises during 2013 and 2012.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared and paid dividends by lead insurance subsidiary, The Cincinnati Insurance Company, to parent company Cincinnati Financial Corporation of $375 million in 2013 (increased from $300 million in 2012 and $180 million in 2011).",
+      "source_quote": "Our insurance subsidiary declared dividends to the parent company of $375 million in 2013, $300 million in 2012 and $180 million in 2011.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognized other-than-temporary impairment (OTTI) charges of $2 million in 2013 (down from $33 million in 2012 and $57 million in 2011) that reduced pre-tax income from the investment portfolio.",
+      "source_quote": "The application of our impairment policy resulted in other-than-temporary impairment (OTTI) charges that reduced our income before income taxes by $2 million in 2013, $33 million in 2012 and $57 million in 2011.",
+      "section": "Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "product",
+      "description": "Introduced CinciPak, a new commercial package program designed to replace many of CINF's specialty products, with premiums included in the commercial casualty or commercial property lines.",
+      "source_quote": "The decrease was largely due to the introduction of CinciPak TM , a new program designed to replace many of our specialty products. Premiums for CinciPak are included in our commercial casualty or commercial property lines of business.",
+      "section": "Management's Discussion and Analysis"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued a catastrophe bond arrangement effective January 2014, providing up to $100 million in reinsurance protection expiring in January 2017 to cover severe convective storm losses and New Madrid fault line earthquakes.",
+      "source_quote": "Effective January 2014, we have a catastrophe bond arrangement providing up to $100 million in reinsurance protection. It expires in January 2017 and provides coverage for severe convective storm losses in certain key core regions as well as supplemental coverage in the event of an earthquake occurring along the New Madrid fault line...",
+      "section": "Management's Discussion and Analysis"
+    }
+  ]
+}

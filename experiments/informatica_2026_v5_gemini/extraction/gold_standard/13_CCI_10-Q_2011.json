@@ -1,0 +1,44 @@
+{
+  "index": 13,
+  "id": "CCI_10-Q_2011",
+  "ticker": "CCI",
+  "form": "10-Q",
+  "year": 2011,
+  "sector": "Real Estate",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 5,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "June 2011 amendment of CCOC senior secured revolver increasing commitment by $50.0 million to $450.0 million",
+      "source_quote": "In June 2011, CCOC amended the senior secured revolving credit facility (\"Revolver\") to increase the aggregate revolving commitment availability by $50.0 million to a total revolving commitment availability of $450.0 million, subject to certain restrictions based on the maintenance of financial covenants in the 2007 Credit Agreement.",
+      "section": "Notes to Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "repurchase of 7.3 million common shares for $301.4 million (avg $41.11/share) during first nine months of 2011",
+      "source_quote": "During the first nine months of 2011, we purchased 7.3 million shares of common stock at an average price of $41.11 per share utilizing $301.4 million in cash.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "$15.0 million cash purchase of a portion of the 6.25% convertible preferred stock, reducing potential common shares by 0.3 million",
+      "source_quote": "During the first nine months of 2011, we paid $15.0 million to purchase a portion of our 6.25% convertible preferred stock reducing our potential common shares by 0.3 million.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Q3 2011 single-transaction purchase of perpetual easements and other land interests under towers for $89.3 million total consideration ($87.7 million in land purchase capex)",
+      "source_quote": "During the third quarter of 2011, land purchases were $111.0 million and included $87.7 million for perpetual easements and other interests purchased in a single transaction.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "litigation",
+      "description": "IRS completed examination of the Company's 2009 U.S. federal tax return in Q3 2011 with no material adjustments",
+      "source_quote": "During the third quarter of 2011, the IRS completed an examination of the Company's U.S federal tax return for the 2009 tax year with no material adjustments.",
+      "section": "Notes to Financial Statements"
+    }
+  ]
+}

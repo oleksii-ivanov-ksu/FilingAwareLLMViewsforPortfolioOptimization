@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "content_W200_no_text_1",
+    "request": "requests/content_W200_no_text_1.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "no_text",
+    "repeat": 1
+  },
+  "request_sha256": "094f15580345b96f6c93ab17fa6e8665805d935004a037adff5bdfc99e778c39",
+  "reserved_max_cost": 0.006857500000000001,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.001853,
+  "response": {
+    "id": "gen-1795458747-bQsVIZ7vVEYnzXMCbADd",
+    "object": "chat.completion",
+    "created": 1795458747,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": 25,\n  \"confidence\": \"low\",\n  \"reasoning\": \"Q2 results showed modest beats on both EPS and revenue, providing a mild positive signal. Recent 1- and 3-month returns are also positive, though the earnings beat is small and already several weeks old. With no guidance, risk updates, or other forward-looking details available, conviction remains low.\"\n}",
+          "refusal": null,
+          "reasoning": "Preparing an investment view for MO as of 2025-09-30 based on the provided earnings and performance data.\n\nQ2 2025 beat estimates by 1.7% on EPS and 1.9% on revenue. Analyst coverage is thin with only six analysts and moderate estimate dispersion. Recent returns are strong at 6.5% over one month and 4.7% over three months. Volatility is elevated at 21.1%. The view will be purely quantitative, focusing on expected excess return over the next quarter.\n\nThe small earnings beat and recent returns likely reflect already-priced momentum. Consumer Staples is defensive, but the thin analyst coverage and lack of guidance limit confidence. The view will be conservative.\n\nThe final view is a slightly positive excess return of +30 basis points with medium confidence. The earnings beat and recent returns appear already priced into the stock, so no strong directional signal exists.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "Preparing an investment view for MO as of 2025-09-30 based on the provided earnings and performance data.\n\nQ2 2025 beat estimates by 1.7% on EPS and 1.9% on revenue. Analyst coverage is thin with only six analysts and moderate estimate dispersion. Recent returns are strong at 6.5% over one month and 4.7% over three months. Volatility is elevated at 21.1%. The view will be purely quantitative, focusing on expected excess return over the next quarter.\n\nThe small earnings beat and recent returns likely reflect already-priced momentum. Consumer Staples is defensive, but the thin analyst coverage and lack of guidance limit confidence. The view will be conservative.\n\nThe final view is a slightly positive excess return of +30 basis points with medium confidence. The earnings beat and recent returns appear already priced into the stock, so no strong directional signal exists.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_e6582fb3-fe7f-455a-a90e-6e395f48c02c",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 692,
+      "completion_tokens": 664,
+      "total_tokens": 1356,
+      "cost": 0.001853,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 640,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.001853,
+        "upstream_inference_prompt_cost": 0.000193,
+        "upstream_inference_completions_cost": 0.00166
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 579,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": 25,
+    "confidence": "low",
+    "reasoning": "Q2 results showed modest beats on both EPS and revenue, providing a mild positive signal. Recent 1- and 3-month returns are also positive, though the earnings beat is small and already several weeks old. With no guidance, risk updates, or other forward-looking details available, conviction remains low."
+  },
+  "completed_utc": "2026-11-23T18:32:35.850320+00:00"
+}

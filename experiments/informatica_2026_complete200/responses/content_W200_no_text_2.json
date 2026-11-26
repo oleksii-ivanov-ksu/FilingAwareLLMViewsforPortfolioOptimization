@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "content_W200_no_text_2",
+    "request": "requests/content_W200_no_text_2.json",
+    "experiment": "content",
+    "case_id": "W200",
+    "condition": "no_text",
+    "repeat": 2
+  },
+  "request_sha256": "094f15580345b96f6c93ab17fa6e8665805d935004a037adff5bdfc99e778c39",
+  "reserved_max_cost": 0.006857500000000001,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.0017155,
+  "response": {
+    "id": "gen-1795458789-pTDg2O7UABkCm8tMtGEi",
+    "object": "chat.completion",
+    "created": 1795458789,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": 30,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"The modest EPS and revenue beats (+1.7% and +1.9%) provide a mildly positive signal for near-term performance. Limited analyst coverage and moderate estimate dispersion (2.9%) suggest the beat is credible but not a strong catalyst. No guidance, risk factors, or other events are provided to alter the neutral-to-slightly-positive outlook.\"\n}",
+          "refusal": null,
+          "reasoning": "Preparing the investment view for Altria Group (MO) as of 2025-09-30.\n\nQ2 2025 earnings beat estimates on both EPS and revenue. The 1-month return is +6.5% and 3-month return is +4.7%. No guidance, risk factors, or key events were provided.\n\nThe small earnings beat and moderate analyst dispersion suggest a conservative view. The expected excess return is likely modest, around +100 basis points. No strong signals justify a large or extreme position.\n\nThe view is set at +30 basis points with medium confidence. The small earnings surprise and limited analyst coverage justify a conservative, modestly positive outlook.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "Preparing the investment view for Altria Group (MO) as of 2025-09-30.\n\nQ2 2025 earnings beat estimates on both EPS and revenue. The 1-month return is +6.5% and 3-month return is +4.7%. No guidance, risk factors, or key events were provided.\n\nThe small earnings beat and moderate analyst dispersion suggest a conservative view. The expected excess return is likely modest, around +100 basis points. No strong signals justify a large or extreme position.\n\nThe view is set at +30 basis points with medium confidence. The small earnings surprise and limited analyst coverage justify a conservative, modestly positive outlook.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_96954658-2686-4f04-80af-55721cd92cd1",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 692,
+      "completion_tokens": 609,
+      "total_tokens": 1301,
+      "cost": 0.0017155,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 640,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0017155,
+        "upstream_inference_prompt_cost": 0.000193,
+        "upstream_inference_completions_cost": 0.0015225
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 513,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": 30,
+    "confidence": "medium",
+    "reasoning": "The modest EPS and revenue beats (+1.7% and +1.9%) provide a mildly positive signal for near-term performance. Limited analyst coverage and moderate estimate dispersion (2.9%) suggest the beat is credible but not a strong catalyst. No guidance, risk factors, or other events are provided to alter the neutral-to-slightly-positive outlook."
+  },
+  "completed_utc": "2026-11-23T18:33:16.636678+00:00"
+}

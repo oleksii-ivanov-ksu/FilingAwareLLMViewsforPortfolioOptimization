@@ -1,0 +1,82 @@
+{
+  "job": {
+    "name": "masking_W200_original_1",
+    "request": "requests/masking_W200_original_1.json",
+    "experiment": "masking",
+    "case_id": "W200",
+    "condition": "original",
+    "repeat": 1
+  },
+  "request_sha256": "81e5bb33c8c3c5c226875431bb0b4db5525b46b9d71e9b5d4101fb5e2fa831e8",
+  "reserved_max_cost": 0.007350000000000001,
+  "valid": true,
+  "fatal": false,
+  "cost": 0.00268435,
+  "response": {
+    "id": "gen-1795458772-Dz6Bxn8TeguxpbrNOBce",
+    "object": "chat.completion",
+    "created": 1795458772,
+    "model": "x-ai/grok-4.3",
+    "provider": "xAI",
+    "system_fingerprint": null,
+    "service_tier": "default",
+    "choices": [
+      {
+        "index": 0,
+        "logprobs": null,
+        "finish_reason": "stop",
+        "native_finish_reason": "completed",
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"view_bps\": -30,\n  \"confidence\": \"medium\",\n  \"reasoning\": \"Management's cautious tone citing continued headwinds, potential material adverse effects, and large non-cash impairments ($873M goodwill, $70M charges) signals elevated risks in e-vapor and regulatory areas that outweigh the modest Q2 earnings beat. Low analyst dispersion and positive recent returns provide some offset, but macro consumer pressures and no explicit guidance support a mildly negative excess return outlook. Overall signals are mixed with moderate uncertainty.\"\n}",
+          "refusal": null,
+          "reasoning": "I am analyzing the provided MO 10-K summary and analyst data to formulate an investment view.\n\nThe view targets expected excess return over the next quarter in basis points. MO is likely Altria Group. The 10-K highlights regulatory, illicit trade, and litigation risks. The 10-Q shows continued headwinds and significant non-cash impairments. Adjusted results improved.\n\nGuidance is cautious with no specifics. A $70 million net pre-tax charge and an $873 million goodwill impairment for e-vapor were reported. Earnings and revenue both beat estimates by roughly 1.7% and 1.9%. Analyst coverage is thin with only six analysts and low dispersion. Recent returns are positive but volatility remains elevated. The earnings beat is small and the outlook is clouded by ongoing regulatory risks and macro pressure.\n\nThe view is set at -30 basis points. The small earnings beat is outweighed by the cautious tone and large e-vapor impairment. Confidence is medium.",
+          "reasoning_details": [
+            {
+              "type": "reasoning.summary",
+              "summary": "I am analyzing the provided MO 10-K summary and analyst data to formulate an investment view.\n\nThe view targets expected excess return over the next quarter in basis points. MO is likely Altria Group. The 10-K highlights regulatory, illicit trade, and litigation risks. The 10-Q shows continued headwinds and significant non-cash impairments. Adjusted results improved.\n\nGuidance is cautious with no specifics. A $70 million net pre-tax charge and an $873 million goodwill impairment for e-vapor were reported. Earnings and revenue both beat estimates by roughly 1.7% and 1.9%. Analyst coverage is thin with only six analysts and low dispersion. Recent returns are positive but volatility remains elevated. The earnings beat is small and the outlook is clouded by ongoing regulatory risks and macro pressure.\n\nThe view is set at -30 basis points. The small earnings beat is outweighed by the cautious tone and large e-vapor impairment. Confidence is medium.",
+              "format": "xai-responses-v1",
+              "index": 0
+            },
+            {
+              "type": "reasoning.encrypted",
+              "data": "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.eyJlbmRwb2ludF9zbHVnIjoieC1haS9ncm9rLTQuMy0yMDI2MDQzMHx4YWkifQ",
+              "format": "xai-responses-v1",
+              "id": "rs_c0dba074-bdd8-40cf-9fc1-4771748b83c8",
+              "index": 1
+            }
+          ]
+        }
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 1071,
+      "completion_tokens": 592,
+      "total_tokens": 1663,
+      "cost": 0.00268435,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 128,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.00268435,
+        "upstream_inference_prompt_cost": 0.00120435,
+        "upstream_inference_completions_cost": 0.00148
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 485,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "parsed": {
+    "view_bps": -30,
+    "confidence": "medium",
+    "reasoning": "Management's cautious tone citing continued headwinds, potential material adverse effects, and large non-cash impairments ($873M goodwill, $70M charges) signals elevated risks in e-vapor and regulatory areas that outweigh the modest Q2 earnings beat. Low analyst dispersion and positive recent returns provide some offset, but macro consumer pressures and no explicit guidance support a mildly negative excess return outlook. Overall signals are mixed with moderate uncertainty."
+  },
+  "completed_utc": "2026-11-23T18:33:01.661280+00:00"
+}

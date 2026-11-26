@@ -1,0 +1,92 @@
+{
+  "index": 56,
+  "id": "CSGP_10-K_2013",
+  "ticker": "CSGP",
+  "form": "10-K",
+  "year": 2013,
+  "sector": "Real Estate",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 13,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "On April 30, 2012, CoStar Group, Inc. completed the acquisition of 100% of the outstanding stock of LoopNet, Inc. for a total consideration of $883.448 million, consisting of $746.393 million in cash and 1,880,300 shares of CoStar common stock valued at $137.055 million.",
+      "source_quote": "On April 30, 2012, the Company acquired 100% of the outstanding stock of LoopNet pursuant to an Agreement and Plan of Merger dated April 27, 2011, as amended May 20, 2011 (the \"Merger Agreement\"). ... Cash $ 746,393 Equity interest (1,880,300 shares at $72.89) 137,055 Fair value of total consideration transferred $ 883,448",
+      "section": "Note 3. ACQUISITIONS"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "On October 25, 2011, CoStar Group, Inc. acquired Virtual Premise, Inc. for approximately $16.966 million in purchase consideration (initially paid approximately $17.2 million in cash, which was reduced by a post-closing working capital adjustment of approximately $200,000).",
+      "source_quote": "On October 25, 2011, the Company acquired Virtual Premise, Inc. ... Pursuant to the terms of the acquisition agreement, the Company paid approximately $17.2 million in cash ... The purchase price was reduced by approximately $200,000 after taking into account post-closing purchase price adjustments ... Total purchase consideration $ 16,966",
+      "section": "Note 3. ACQUISITIONS"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "In connection with the LoopNet acquisition and an FTC consent order, CoStar and LoopNet entered into an agreement on March 28, 2012, and closed the sale of LoopNet's minority interest in Xceligent, Inc. to DMG Information, Inc. (DMGI) on May 3, 2012, for $4.2 million in cash.",
+      "source_quote": "The consent order ... requires, among other things, that the Company and LoopNet divest LoopNet's minority interest in Xceligent, Inc. ... On March 28, 2012, the Company and LoopNet entered into an agreement to sell LoopNet's interest in Xceligent to DMG Information, Inc. ... The parties closed the sale of LoopNet's interest in Xceligent to DMGI on May 3, 2012. The Company received $4.2 million in proceeds from the sale",
+      "section": "Note 3. ACQUISITIONS"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "On February 18, 2011, CoStar Realty Information, Inc. (subsidiary of CoStar Group, Inc.) closed a sale-leaseback transaction for its headquarters office building at 1331 L Street, NW, Washington, DC, with GLL L-Street 1331, LLC for a total consideration of $101.0 million, leasing back 149,514 square feet of office space under a lease expiring on May 31, 2025.",
+      "source_quote": "On February 2, 2011, Holdings and GLL L-Street 1331, LLC ... entered into a purchase and sale agreement pursuant to which (i) Holdings agreed to sell to GLL its interest in the office building located at 1331 L Street, NW, in downtown Washington, DC, and (ii) CoStar Realty Information, Inc. ... agreed to enter into a lease expiring May 31, 2025 ... with GLL to lease back 149,514 square feet of the office space ... The closing of the sale took place on February 18, 2011. ... we were able to create value through our occupancy of the DC Office Building and on February 18, 2011 sold the building for aggregate consideration of $101.0 million, $15.0 million of which was designated to fund additional build-out and planned improvements at the building.",
+      "section": "Item 2. Properties / Item 7. MD&A - Property Developments"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On February 16, 2012, CoStar Group, Inc. entered into a Credit Agreement establishing a $175.0 million term loan facility and a $50.0 million revolving credit facility with a five-year term. On April 30, 2012, the Company drew down the full $175.0 million under the term loan facility to fund a portion of the LoopNet merger.",
+      "source_quote": "On February 16, 2012, the Company entered into a term loan facility and revolving credit facility pursuant to the Credit Agreement ... The Credit Agreement provides for a $175.0 million term loan facility and a $50.0 million revolving credit facility, each with a term of five years. On April 30, 2012, the Company borrowed $175.0 million under the term loan facility and used those proceeds ... to pay a portion of the merger consideration and transaction costs related to the LoopNet merger.",
+      "section": "Note 9. LONG-TERM DEBT"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "On June 5, 2012, CoStar Group, Inc. amended and restated its Certificate of Incorporation to increase the number of authorized common stock shares by 30,000,000 shares from 30,000,000 to 60,000,000 shares.",
+      "source_quote": "On June 5, 2012, the Company amended and restated its Restated Certificate of Incorporation to increase the authorized shares of common stock by 30,000,000 shares to 60,000,000 shares.",
+      "section": "Note 13. STOCKHOLDERS' EQUITY"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In June 2011, CoStar Group, Inc. conducted a public common equity offering, issuing 4,313,000 shares of common stock and generating net proceeds of $247.924 million.",
+      "source_quote": "Stock issued for equity offering 4,313 [shares] ... 247,924 [amount] ... ... and used those proceeds, together with net proceeds from the Company's equity offering conducted in June 2011 to pay a portion of the merger consideration and transaction costs related to the LoopNet merger.",
+      "section": "Consolidated Statements of Stockholders' Equity / Note 9. LONG-TERM DEBT"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "During the third quarter of 2011, CoStar Group, Inc. incurred approximately $1.5 million of restructuring costs associated with the consolidation and relocation of its White Marsh, Maryland office into its Columbia, Maryland and Washington, DC offices.",
+      "source_quote": "During the third quarter of 2011, we incurred approximately $1.5 million of restructuring costs associated with the consolidation of our White Marsh, Maryland office with our Columbia, Maryland and Washington, DC offices.",
+      "section": "Item 7. MD&A - Property Developments"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "During the fourth quarter of 2012, CoStar Group, Inc. incurred approximately $80,000 of restructuring costs associated with the consolidation of its San Francisco, California office with the newly acquired LoopNet office in San Francisco.",
+      "source_quote": "During the fourth quarter of 2012, we incurred approximately $80,000 of restructuring costs associated with the consolidation of our San Francisco, California office with our LoopNet office in San Francisco, California.",
+      "section": "Item 7. MD&A - Property Developments"
+    },
+    {
+      "event_type": "litigation",
+      "description": "On January 3, 2012, CIVIX-DDI, LLC filed a patent infringement lawsuit against LoopNet, alleging infringement of U.S. patents. CoStar subsequently filed a declaratory judgment action on June 21, 2012, and the cases were consolidated in the Northern District of Illinois, with additional claims under U.S. Patent No. 8,296,335 added in late 2012.",
+      "source_quote": "On January 3, 2012, LoopNet, the Company’s wholly owned subsidiary, was sued by CIVIX-DDI, LLC (“Civix”) in the U.S. District Court for the Eastern District of Virginia for alleged infringement of U.S. Patent Nos. 6,385,622 and 6,415,291. ... On June 21, 2012, the Company filed an action in the U.S. District Court for the Northern District of Illinois seeking a declaratory judgment of non-infringement and invalidity against Civix. ... On October 29, 2012, Civix filed a separate action against LoopNet in the Northern District of Illinois alleging infringement of U.S. Patent No. 8,296,335. That case was later consolidated ... Civix amended its complaint against the Company on November 8, 2012 to add claims under Patent No. 8,296,335 as well.",
+      "section": "Note 11. COMMITMENTS AND CONTINGENCIES"
+    },
+    {
+      "event_type": "litigation",
+      "description": "In May 2011, three class action lawsuits were filed by LoopNet stockholders challenging the proposed merger with CoStar. In June 2011, a memorandum of understanding for a settlement was entered into, resulting in an expected loss to CoStar of approximately $200,000, with final approval and payment anticipated by March 31, 2013.",
+      "source_quote": "In May 2011, LoopNet, the Board of Directors of LoopNet ... and/or the Company were named as defendants in three purported class action lawsuits brought by alleged LoopNet stockholders challenging LoopNet's proposed merger ... In June 2011, counsel for the parties entered into a memorandum of understanding in which they agreed on the terms of a settlement of this litigation, which could result in a loss to the Company of approximately $200,000. The Company anticipates that the payment will be made by March 31, 2013 upon the court's final approval of the settlement.",
+      "section": "Note 11. COMMITMENTS AND CONTINGENCIES"
+    },
+    {
+      "event_type": "impairment",
+      "description": "As of December 31, 2012, CoStar Group, Inc. recognized a cumulative decline of approximately $1.9 million in the fair value of its failed Auction Rate Securities (ARS) portfolio (par value of $24.4 million) as a temporary impairment, recorded as an unrealized loss in accumulated other comprehensive loss (AOCI).",
+      "source_quote": "Based on this assessment of fair value, as of December 31, 2012, the Company determined there was a decline in the fair value of its ARS investments of approximately $1.9 million. The decline was deemed to be a temporary impairment and recorded as an unrealized loss in accumulated other comprehensive loss in stockholders’ equity.",
+      "section": "Note 5. FAIR VALUE / Note 4. INVESTMENTS"
+    },
+    {
+      "event_type": "management_change",
+      "description": "On February 27, 2013, CoStar U.K. Limited entered into a leaving agreement with Paul Marples, a former executive officer of the group.",
+      "source_quote": "Leaving Agreement dated February 27, 2013, between CoStar U.K. Limited and Paul Marples (filed herewith).",
+      "section": "Item 15. Exhibits and Financial Statement Schedules (Exhibit 10.19)"
+    }
+  ]
+}

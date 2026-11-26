@@ -1,0 +1,68 @@
+{
+  "index": 37,
+  "id": "BKNG_10-Q_2024",
+  "ticker": "BKNG",
+  "form": "10-Q",
+  "year": 2024,
+  "sector": "Consumer Discretionary",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 9,
+  "events": [
+    {
+      "event_type": "litigation",
+      "description": "The Guardia di Finanza (GdF) of Rome proposed a tax assessment of 396 million Euros, prompting Booking.com to accrue 329 million Euros ($365 million) in Q3 2024 in anticipation of a settlement.",
+      "source_quote": "In June 2024, the Guardia di Finanza (\"GdF\") of Rome issued a tax audit report to Booking.com, proposing a tax assessment to the Italian Tax Authorities (\"ITA\") of 396 million Euros ($442 million), excluding penalties and interest, for June 2017 through December 2023. ... the Company expects to enter into a settlement agreement with the ITA in November 2024 to resolve the matter. In light of the proposed settlement, without admitting liability, the Company accrued an additional amount of 329 million Euros ($365 million) for this matter, which is reflected in \"General and administrative\" expenses in the Unaudited Consolidated Statements of Operations for the three and nine months ended September 30, 2024.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The Spanish competition authority (CNMC) notified Booking.com of its decision to impose a fine of 413 million Euros (reduced from the draft decision), leading to a subsequent accrual reduction of 72 million Euros ($78 million) in Q2 2024.",
+      "source_quote": "In July 2024, the CNMC notified Booking.com of its decision to impose a fine of 413 million Euros, which reflects a decrease of approximately 72 million Euros from the draft decision. ... As of June 30, 2024, to align with the CNMC's reduced fine, the Company recorded a decrease of 72 million Euros ($78 million) in its accrual, which is reflected in \"General and administrative\" expenses in the Unaudited Consolidated Statement of Operations for the nine months ended September 30, 2024.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The Netherlands Court of Appeal ruled that Booking.com B.V. must participate retroactively to 1999 in the Reiswerk mandatory pension scheme, resulting in additional estimated expenses of 50 million Euros ($55 million) during the first nine months of 2024.",
+      "source_quote": "In January 2024, that Court of Appeal ruled that Booking.com B.V. is required to participate in the mandatory pension scheme of the BPF with retroactive effect to 1999. ... Although the Company disagrees with the decision, it accrued a loss of 253 million Euros ($276 million), included in \"Personnel\" expenses in the Consolidated Statement of Operations for the year ended December 31, 2023. During the three and nine months ended September 30, 2024, the Company recorded additional estimated expenses of 13 million Euros ($14 million) and 50 million Euros ($55 million), respectively, included in \"Personnel\" expenses in the Unaudited Consolidated Statements of Operations.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Booking Holdings paid $1.1 billion at the maturity of its 2.375% Senior Notes in September 2024.",
+      "source_quote": "In September 2024, the Company paid $ 1.1 billion on the maturity of the Senior Notes due September 2024.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "The Board of Directors declared a quarterly cash dividend of $8.75 per share of common stock in October 2024, payable on December 31, 2024.",
+      "source_quote": "In October 2024, the Board declared a cash dividend of $ 8.75 per share of common stock, payable on December 31, 2024 to stockholders of record as of the close of business on December 6, 2024.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In March 2024, Booking Holdings issued senior notes across four tranches for an aggregate principal amount of 2.8 billion Euros ($3.0 billion).",
+      "source_quote": "In March 2024, we issued senior notes with varying maturities for an aggregate principal amount of 2.8 billion Euros ($ 3.0 billion).",
+      "section": "Management's Discussion and Analysis of Financial Condition and Results of Operations"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "The Company repurchased 1,439,000 shares of common stock for $5.308 billion under its Board-authorized stock repurchase programs during the nine months ended September 30, 2024.",
+      "source_quote": "At December 31, 2023, the Company had a total remaining authorization of $ 13.7 billion related to a program authorized by the Company's Board of Directors (\"the Board\") in 2023 to repurchase up to $ 20 billion of the Company's common stock. At September 30, 2024, the Company had a total remaining authorization of $ 8.8 billion to repurchase its common stock.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "In May 2024, the Company extended the maturity date of its $2 billion unsecured revolving credit facility from May 2028 to May 2029.",
+      "source_quote": "In May 2024, the Company extended the maturity date of the revolving credit facility from May 2028 to May 2029 pursuant to an extension request under the credit agreement.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The Company made prepayments of 74 million Euros ($83 million) to the Italian tax authorities to forestall collection enforcement pending the appeal phase of its transfer pricing case.",
+      "source_quote": "As of September 30, 2024, the Company made prepayments of 74 million Euros ($83 million) to the Italian tax authorities to forestall collection enforcement pending the appeal phase of the case.",
+      "section": "Notes to Unaudited Consolidated Financial Statements"
+    }
+  ]
+}

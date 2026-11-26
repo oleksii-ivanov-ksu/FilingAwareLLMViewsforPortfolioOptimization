@@ -1,0 +1,28 @@
+{
+  "stage": "reasoning",
+  "requests": {
+    "requests/masking_W200_anonymized_2.json": "003cad85c3b684a02c0b3197e34575df7fedf1ac02124b6218acec8d5c7369ac",
+    "requests/content_W200_shuffled_text_1.json": "e3bcb8e64414ddd983b787595c36df0e2ff4a632b0ff5ce5a59311bf3520fc6d",
+    "requests/content_W200_no_text_3.json": "094f15580345b96f6c93ab17fa6e8665805d935004a037adff5bdfc99e778c39",
+    "requests/masking_W200_anonymized_1.json": "003cad85c3b684a02c0b3197e34575df7fedf1ac02124b6218acec8d5c7369ac",
+    "requests/content_W200_no_text_1.json": "094f15580345b96f6c93ab17fa6e8665805d935004a037adff5bdfc99e778c39",
+    "requests/content_W200_real_text_2.json": "139605c050426d11219e4d80bb6a7f8be45fb54b6a73b65862eb18fc7b46d8a4",
+    "requests/content_W151_shuffled_text_3.json": "df3fc80f1dcd7c6ce97b1edcefb63dd368ee61a45f44a441cf17ce430ea0ba7c",
+    "requests/masking_W200_original_1.json": "81e5bb33c8c3c5c226875431bb0b4db5525b46b9d71e9b5d4101fb5e2fa831e8",
+    "requests/masking_W200_original_3.json": "81e5bb33c8c3c5c226875431bb0b4db5525b46b9d71e9b5d4101fb5e2fa831e8",
+    "requests/content_W200_no_text_2.json": "094f15580345b96f6c93ab17fa6e8665805d935004a037adff5bdfc99e778c39",
+    "requests/content_W200_real_text_1.json": "139605c050426d11219e4d80bb6a7f8be45fb54b6a73b65862eb18fc7b46d8a4",
+    "requests/content_W200_shuffled_text_3.json": "e3bcb8e64414ddd983b787595c36df0e2ff4a632b0ff5ce5a59311bf3520fc6d",
+    "requests/masking_W200_original_2.json": "81e5bb33c8c3c5c226875431bb0b4db5525b46b9d71e9b5d4101fb5e2fa831e8",
+    "requests/content_W200_real_text_3.json": "139605c050426d11219e4d80bb6a7f8be45fb54b6a73b65862eb18fc7b46d8a4",
+    "requests/content_W200_shuffled_text_2.json": "e3bcb8e64414ddd983b787595c36df0e2ff4a632b0ff5ce5a59311bf3520fc6d",
+    "requests/content_W151_shuffled_text_2.json": "df3fc80f1dcd7c6ce97b1edcefb63dd368ee61a45f44a441cf17ce430ea0ba7c",
+    "requests/masking_W200_anonymized_3.json": "003cad85c3b684a02c0b3197e34575df7fedf1ac02124b6218acec8d5c7369ac",
+    "requests/content_W151_shuffled_text_1.json": "df3fc80f1dcd7c6ce97b1edcefb63dd368ee61a45f44a441cf17ce430ea0ba7c"
+  },
+  "combined_cap_usd": 0.2,
+  "model": "x-ai/grok-4.3",
+  "automatic_retries": 0,
+  "authorization": "2026-11-23 user: Окей выполняй необходимые доработки; minimal single-report repair, not full rerun",
+  "runner_sha256": "fac598d3c4e3a7cad1b74b0f41806de09eb17ed8711baae9ea55eb9f342417d3"
+}

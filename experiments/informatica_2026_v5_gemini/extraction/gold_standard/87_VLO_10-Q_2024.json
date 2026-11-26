@@ -1,0 +1,56 @@
+{
+  "index": 87,
+  "id": "VLO_10-Q_2024",
+  "ticker": "VLO",
+  "form": "10-Q",
+  "year": 2024,
+  "sector": "Energy",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "repayment of $167 million outstanding principal balance of 1.200 percent Senior Notes upon maturity",
+      "source_quote": "In March 2024, we repaid the $ 167 million outstanding principal balance of our 1.200 percent Senior Notes that matured on March 15, 2024.",
+      "section": "Notes to Consolidated Financial Statements - Note 4"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "conversion of $457 million of outstanding IEnova Revolver borrowings into additional equity in Central Mexico Terminals",
+      "source_quote": "During the three months ended March 31, 2024, IEnova converted $ 457 million of outstanding borrowings under this facility to additional equity in Central Mexico Terminals, which resulted in an increase in the noncontrolling interest related to IEnova.",
+      "section": "Notes to Consolidated Financial Statements - Note 4"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "common stock share repurchase program authorization of up to $2.5 billion",
+      "source_quote": "On February 22, 2024, our Board authorized us to purchase shares of our outstanding common stock for a total cost of up to $2.5 billion with no expiration date, which is in addition to the amount remaining under the September 2023 Program.",
+      "section": "Notes to Consolidated Financial Statements - Note 5"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "declaration of a quarterly cash dividend of $1.07 per common share",
+      "source_quote": "On July 18, 2024, our Board declared a quarterly cash dividend of $ 1.07 per common share payable on September 3, 2024 to holders of record at the close of business on August 1, 2024.",
+      "section": "Notes to Consolidated Financial Statements - Note 5"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "extension of the maturity date of the $1.3 billion Accounts Receivable Sales Facility to July 2025",
+      "source_quote": "In July 2024, we extended the maturity date of this facility to July 2025.",
+      "section": "Notes to Consolidated Financial Statements - Note 4"
+    },
+    {
+      "event_type": "litigation",
+      "description": "receipt of a Notice of Violation from BAAQMD for leak detection and repair violations at Benicia Refinery",
+      "source_quote": "On May 29, 2024, we received a Notice of Violation from the BAAQMD related to leak detection and repair violations at our Benicia Refinery.",
+      "section": "Part II - Other Information - Item 1. Legal Proceedings"
+    },
+    {
+      "event_type": "product",
+      "description": "approval of a large-scale sustainable aviation fuel (SAF) project at Diamond Green Diesel with a total cost of $315 million",
+      "source_quote": "DGD approved a large-scale sustainable aviation fuel (SAF) project. The SAF project is expected to be operational in the fourth quarter of 2024, with a total cost of $315 million, half of which is attributable to Valero.",
+      "section": "MD&A - Capital Investments"
+    }
+  ]
+}

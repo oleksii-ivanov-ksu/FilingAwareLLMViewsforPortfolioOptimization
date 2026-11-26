@@ -1,0 +1,74 @@
+{
+  "index": 17,
+  "id": "GRMN_10-Q_2011",
+  "ticker": "GRMN",
+  "form": "10-Q",
+  "year": 2011,
+  "sector": "Consumer Discretionary",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "announced intent to acquire Garmin Distribution Africa (Pty) Ltd. (GDA), its distributor in Southern Africa",
+      "source_quote": "On April 26, 2011, Garmin Ltd. announced its intent to acquire Garmin Distribution Africa (Pty) Ltd. (GDA), the distributor of Garmin’s automotive, outdoor recreation, fitness and marine products in Southern Africa. This acquisition is not expected to be material.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "reorganization of reportable operating segments into five distinct segments by splitting the previously combined Outdoor and Fitness segment into separate reportable segments",
+      "source_quote": "Beginning in 2011, for external reporting purposes, the Company has identified five operating segments – Auto/Mobile, Aviation, Marine, Outdoor and Fitness. ... Prior to 2011, the Outdoor and Fitness operating segments were combined into a single reportable segment ... Management re-evaluated the combination of these operating segments and determined that based on the growth of these segments they should now be reported as two distinct reportable segments.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "District Court in Düsseldorf, Germany decision finding infringement of Pioneer's European Patents, and subsequent appeal by Garmin",
+      "source_quote": "On January 11, 2011, the District Court in Düsseldorf issued decisions finding infringement of the ’892 and ’681 Patents. On April 11, 2011, Garmin filed briefs with the appellate court appealing these decisions.",
+      "section": "Part II - Other Information"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Pioneer filed a petition for review of the ALJ's Initial Determination in the US ITC multimedia display and navigation devices investigation, followed by Commission's notice for public comments",
+      "source_quote": "On January 5, 2011 Pioneer filed a petition for review of the claim construction and non-infringement holdings of the Initial Determination. On April 18, 2011, the Commission issued a notice asking for public comments on whether portfolio licensing activities generally can satisfy the statutory mandate of a domestic industry for any particular asserted patent within the portfolio.",
+      "section": "Part II - Other Information"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Garmin filed its Amended Answer with inequitable conduct assertions and counterclaims of invalidity and/or non-infringement in the Delaware lawsuit filed by Triangle Software",
+      "source_quote": "On December 28, 2010, Triangle Software, LLC filed suit ... On March 16, 2011, Garmin filed its Amended Answer asserting that the patents-in-suit are unenforceable because of the inequitable conduct committed by the inventors before the Patent Office and filed counterclaims asserting that each asserted claim of the ’730, ’287, ’649, ’321, and ’452 patents is not infringed and/or invalid.",
+      "section": "Part II - Other Information"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Garmin filed its Answer and counterclaims of invalidity and/or non-infringement in response to Taranis IP LLC's patent infringement lawsuit",
+      "source_quote": "On November 22, 2010, Taranis IP LLC filed suit ... On February 1, 2011, Garmin filed its Answer and counterclaims asserting that each claim of the ’903 patent is not infringed and/or invalid.",
+      "section": "Part II - Other Information"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Garmin filed its Answer to Bandspeed's Amended Complaint with counterclaims of invalidity and non-infringement, following Bandspeed's filing of an Amended Complaint",
+      "source_quote": "On January 21, 2011, Bandspeed, Inc. filed an Amended Complaint ... On February 22, 2011, Garmin filed its Answer to the Amended Complaint with counterclaims asserting that the asserted claims of the ’418 and ’614 patents are invalid and not infringed.",
+      "section": "Part II - Other Information"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Garmin filed its Answer asserting invalidity and/or non-infringement in the semiconductor chips ITC investigation initiated by Rambus Inc.",
+      "source_quote": "On December 1, 2010, Rambus Inc. filed a complaint with the United States International Trade Commission ... On February 1, 2011, Garmin filed its Answer asserting that the asserted claims of the ’405, ’353, ’109, ’857, ’858, and the ’494 patents are invalid and/or not infringed.",
+      "section": "Part II - Other Information"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The special master held a claim construction hearing in the patent infringement lawsuit filed by Visteon Global Technologies",
+      "source_quote": "On April 12, 2011, the special master appointed by the court held a claim construction hearing.",
+      "section": "Part II - Other Information"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "declaration of a cash dividend of $1.50 per share during the 13-week period ended March 26, 2011",
+      "source_quote": "Dividends declared per share $ 1.50",
+      "section": "Condensed Consolidated Financial Statements"
+    }
+  ]
+}

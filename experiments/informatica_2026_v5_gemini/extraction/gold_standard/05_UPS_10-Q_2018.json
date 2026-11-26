@@ -1,0 +1,122 @@
+{
+  "index": 5,
+  "id": "UPS_10-Q_2018",
+  "ticker": "UPS",
+  "form": "10-Q",
+  "year": 2018,
+  "sector": "Industrials",
+  "tier": "tier1a_tuning",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 18,
+  "events": [
+    {
+      "event_type": "restructuring",
+      "description": "Launch of multi-year enterprise-wide transformation strategy; special Voluntary Retirement Plan (VRP) for retirement-eligible U.S. management employees announced April 2018, with a $192 million pre-tax severance charge and $71 million other transformation costs in Q2 2018",
+      "source_quote": "During the quarter ended June 30, 2018, we recorded a pre-tax charge of $192 million related to severance pay and benefits.",
+      "section": "Notes to Financial Statements - Transformation Strategy"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repayment in full at maturity of $750 million 5.500% senior notes on January 15, 2018",
+      "source_quote": "On January 15, 2018, our $750 million 5.500% senior notes matured and were repaid in full.",
+      "section": "Notes to Financial Statements - Debt and Financing Arrangements"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Tentative agreements reached with the Teamsters on two new five-year national labor contracts covering U.S. Domestic Package (June 21, 2018) and UPS Freight (July 13, 2018), retroactively effective August 1, 2018",
+      "source_quote": "We reached tentative agreements with the Teamsters on two new five-year contracts in the U.S. Domestic Package and UPS Freight business units on June 21, 2018 and on July 13, 2018, respectively, while several local U.S. Domestic Package supplemental agreements require additional negotiation and approval before ratification occurs.",
+      "section": "Notes to Financial Statements - Employee Benefit Plans (Collective Bargaining Agreements)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Agreement reached in May 2018 to settle Morgate v. The UPS Store, Inc. et al. (Los Angeles Superior Court franchisee class action) for an immaterial amount, subject to court approval",
+      "source_quote": "In May 2018, we reached an agreement to resolve the case for an immaterial amount.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Agreement reached in June 2018 to settle Ryan Wright and Julia Zislin v. United Parcel Service Canada Ltd. (Ontario Superior Court of Justice customer class action on brokerage fee disclosure) for an immaterial amount, subject to court approval",
+      "source_quote": "In June 2018, we reached an agreement to resolve the case for an immaterial amount.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "State and City of New York cigarette-shipment suit (S.D.N.Y.): district court awarded $9.4 million damages and $237.6 million penalties; UPS accrued $9.4 million, estimates possible loss up to $247 million plus interest, and has appealed to the Second Circuit",
+      "source_quote": "On May 25, 2017, the District Court issued a corrected opinion and order on liability and an order awarding the plaintiffs damages of $9.4 million and penalties of $237.6 million.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "UPS appealed the S.D.N.Y. cigarette-shipment judgment (State and City of New York) to the U.S. Court of Appeals for the Second Circuit; briefing complete, oral argument expected in 2018",
+      "source_quote": "We strongly disagree with the District Court’s analysis and conclusions, and have appealed to the United States Court of Appeals for the Second Circuit.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "U.S. Department of Justice investigation into transportation of mail under USPS International Commercial Air contracts; UPS received a Civil Investigative Demand in October 2017 regarding potential False Claims Act violations",
+      "source_quote": "In October 2017, we received a Civil Investigative Demand seeking certain information relating to our contracts.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Spain's National Markets and Competition Commission (CNMC) adopted a final decision on March 8, 2018 finding an infringement and imposing a €19.2 million fine on UPS for alleged customer allocation; UPS applied for suspension and appealed in May 2018",
+      "source_quote": "On March 8, 2018, the CNMC adopted a final decision, finding an infringement and imposing a fine on UPS of €19.2 million.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "UPS applied in May 2018 for suspension of the CNMC decision (including payment of the €19.2 million fine) and appealed the decision on the merits; appeal pending",
+      "source_quote": "In May 2018, UPS applied for a suspension of the implementation of the decision (including payment of the fine) and appealed the decision on the merits.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Turkish competition authority opened an investigation in February 2018 into nine small-package companies including UPS over alleged customer allocations; consolidated in April 2018 into a 32-company investigation",
+      "source_quote": "In February 2018 the Turkish competition authority (“Authority”) opened an investigation into nine companies (including UPS) in the small package industry related to alleged customer allocations in violation of Turkish competition law.",
+      "section": "Notes to Financial Statements - Legal Proceedings"
+    },
+    {
+      "event_type": "impairment",
+      "description": "$12 million impairment of a finite-lived intangible asset recorded in the second quarter of 2018",
+      "source_quote": "There was a $12 million impairment of a finite-lived asset in the second quarter of 2018.",
+      "section": "Notes to Financial Statements - Goodwill and Intangible Assets"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Amendment of the UPS Retirement Plan and UPS Excess Coordinating Benefit Plan (Q2 2017) to freeze benefit accruals for non-union participants effective January 1, 2023, producing a $1.525 billion curtailment gain; UPS 401(k) Savings Plan amended June 23, 2017 to add a 5%-8% UPS Retirement Contribution from 2023",
+      "source_quote": "In the quarter ended June 30, 2017, we amended the UPS Retirement Plan and the UPS Excess Coordinating Benefit Plan to cease accruals of additional benefits for future service and compensation for non-union participants effective January 1, 2023.",
+      "section": "Notes to Financial Statements - Employee Benefit Plans"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "$8.0 billion share repurchase authorization approved by the Board in May 2016 (no expiration); $3.828 billion remaining at June 30, 2018, 4.4 million shares repurchased for $511 million in H1 2018, ~$1.0 billion of repurchases anticipated in 2018",
+      "source_quote": "In May 2016, the Board of Directors approved a share repurchase authorization of $8.0 billion, which has no expiration date.",
+      "section": "Notes to Financial Statements - Shareowners' Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Dividends declared of $1.82 per share for the first six months of 2018, up from $1.66 in the prior-year period; $1,507 million of cash dividend payments",
+      "source_quote": "Dividends declared per share $ 1.82 $ 1.66",
+      "section": "MD&A - Liquidity and Capital Resources"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "$5.0 billion discretionary pension contribution made in December 2017, generating a tax refund received in the first quarter of 2018",
+      "source_quote": "primarily due to the timing of a $5.0 billion pension contribution made in December 2017 which resulted in a tax refund in the first quarter of 2018.",
+      "section": "MD&A - Liquidity and Capital Resources"
+    },
+    {
+      "event_type": "product",
+      "description": "Expansion of Saturday ground operations (launched Q1 2017); as of June 2018 Saturday service available in approximately 5,000 U.S. cities and towns covering over 50% of the population, with a Saturday pickup stop charge effective May 1, 2017",
+      "source_quote": "As of June 2018, Saturday service is available in approximately 5,000 cities and towns in the United States covering over 50% of the population.",
+      "section": "MD&A - U.S. Domestic Package"
+    },
+    {
+      "event_type": "litigation",
+      "description": "U.S. Department of Treasury rejected on May 6, 2016 the Central States Pension Fund's proposed MPRA benefit reduction plan that UPS had challenged; CSPF asserts it will become insolvent in 2025, which could increase UPS/IBT Plan obligations by approximately $4 billion",
+      "source_quote": "On May 6, 2016, the U.S. Department of the Treasury rejected the proposed plan submitted by the CSPF, stating that it failed to satisfy a number of requirements set forth in the MPRA.",
+      "section": "Notes to Financial Statements - Employee Benefit Plans (Multiemployer Benefit Plans)"
+    }
+  ]
+}

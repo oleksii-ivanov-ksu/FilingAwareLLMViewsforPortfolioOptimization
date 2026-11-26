@@ -1,0 +1,27 @@
+{
+  "scope": "Exploratory follow-up after primary diagnostics; within positive medium-confidence accepted subset, at least ten stocks. HAC four successive valid cross-sections; no multiplicity adjustment.",
+  "results": {
+    "core": {
+      "n": 77,
+      "mean": 0.015108177252937699,
+      "t": 0.7228001781637775,
+      "null": 0.0,
+      "p": 0.46980265786619835,
+      "ci95": [
+        -0.02585955377755409,
+        0.05607590828342949
+      ]
+    },
+    "holdout": {
+      "n": 78,
+      "mean": 0.0226041390379916,
+      "t": 0.9497160376615551,
+      "null": 0.0,
+      "p": 0.3422565584859856,
+      "ci95": [
+        -0.02404485567108534,
+        0.06925313374706854
+      ]
+    }
+  }
+}

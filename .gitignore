@@ -1,0 +1,30 @@
+# Credentials
+config/config.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.claude/
+
+# Raw data (too large for git, download via scripts)
+data/raw/
+
+# Temporary
+*.tmp
+*.log

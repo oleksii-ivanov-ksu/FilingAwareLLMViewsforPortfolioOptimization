@@ -1,0 +1,74 @@
+{
+  "index": 49,
+  "id": "CMCSA_10-K_2025",
+  "ticker": "CMCSA",
+  "form": "10-K",
+  "year": 2025,
+  "sector": "Communication Services",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "divestiture",
+      "description": "Announced intention in November 2024 to create a new independent publicly traded company ('SpinCo') through a tax-free spin-off, consisting primarily of a strong portfolio of domestic cable television networks currently within the Media segment (USA Network, E!, Syfy, MSNBC, CNBC, Oxygen, and the Golf Channel) along with complementary digital assets (Fandango, Rotten Tomatoes, GolfNow, and SportsEngine).",
+      "source_quote": "In November 2024, we announced our intention to create a new independent publicly traded company (“SpinCo”) comprised primarily of a strong portfolio of domestic cable television networks currently within our Media segment, including USA Network, E!, Syfy, MSNBC, CNBC, Oxygen and the Golf Channel along with complementary digital assets including Fandango, Rotten Tomatoes, GolfNow and SportsEngine, through a tax-free spin-off (the “Spin-off”). We are targeting to complete the Spin-off by the end of 2025, subject to the satisfaction of customary conditions...",
+      "section": "Business"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Exercised a put right in the fourth quarter of 2023 requiring Disney to purchase Comcast's interest in Hulu, receiving $8.6 billion at the time (representing $9.2 billion for its share of Hulu's minimum equity value less $557 million for capital calls), with the final transaction to be recognized upon determination of Hulu's fair value via a third-party appraisal.",
+      "source_quote": "In the fourth quarter of 2023, we exercised our put right requiring Disney to purchase our interest in Hulu and received $8.6 billion, representing $9.2 billion for our share of Hulu’s minimum equity value presented as an advance on the sale of our investment in our consolidated balance sheet, less $557 million for our share of prior capital calls. We expect to receive additional proceeds for the sale of our interest in Hulu following the final determination of Hulu’s fair value pursuant to a third-party appraisal process, at which time we will recognize the sale of our interest.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Completed an internal corporate reorganization in 2024 related to certain foreign subsidiaries, which resulted in a federal net capital loss of $9.1 billion, allowing for carryback and resulting in a $1.9 billion income tax benefit and a corresponding refund receivable.",
+      "source_quote": "During 2024, we completed an internal corporate reorganization related to certain foreign subsidiaries, which resulted in a federal net capital loss of $9.1 billion as of December 31, 2024. This capital loss can be carried back and applied against capital gains recognized on our prior federal income tax returns for 2021 through 2023, and as a result, we recognized an income tax benefit and a corresponding refund receivable of $1.9 billion.",
+      "section": "Notes to Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued fixed-rate Euro-denominated senior notes in September 2024 in an aggregate principal amount of €1.8 billion (maturing in 2032 and 2036), converted via cross-currency swaps to an aggregate U.S. dollar principal amount of $2.0 billion with a weighted-average interest rate of 4.72%.",
+      "source_quote": "In September 2024, we issued €1.8 billion aggregate principal amount of fixed-rate euro senior notes maturing in 2032 and 2036 and entered into a corresponding cross-currency swap, effectively converting the debt to an aggregate U.S. dollar principal amount of $2.0 billion with a weighted-average interest rate of 4.72%.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued fixed-rate Sterling-denominated senior notes in September 2024 in a principal amount of £750 million (~$1.0 billion using exchange rates on the date of issuance) maturing in 2040 with an interest rate of 5.25%.",
+      "source_quote": "We also issued £750 million ($1.0 billion using exchange rates on the date of issuance) principal amount of fixed rate sterling senior notes maturing in 2040 with an interest rate of 5.25%.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Completed the early redemption of $725 million of outstanding 5.25% Notes due 2025 in October 2024.",
+      "source_quote": "...including the early redemption of $725 million of our outstanding 5.25% Notes due 2025, which was completed in October 2024...",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued fixed-rate senior notes in May 2024 in an aggregate principal amount of $3.3 billion, with maturities ranging between 2029 and 2054 and a weighted-average interest rate of 5.38%, utilizing the proceeds to repay outstanding commercial paper and for general corporate purposes.",
+      "source_quote": "In May 2024, we issued $3.3 billion aggregate principal amount of fixed-rate senior notes, which have maturities ranging between 2029 and 2054 and a weighted-average interest rate of 5.38%. The net proceeds from this issuance were used for the repayment of our outstanding commercial paper, and for working capital and general corporate purposes.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased a total of 212 million shares of Class A common stock for $8.6 billion during 2024. This was executed under share buyback programs, including a new $15 billion authorization approved by the Board in January 2024, and was followed by another new $15 billion authorization approved in January 2025, both without expiration dates.",
+      "source_quote": "In January 2024, our Board of Directors terminated our existing program and approved a new share repurchase program authorization of $15 billion effective as of January 26, 2024, which had no expiration date. In 2024, we repurchased a total of 212 million shares of our Class A common stock for $8.6 billion under our authorization programs. ... in January 2025, our Board of Directors terminated the existing program and approved a new share repurchase program authorization of $15 billion, which has no expiration date.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Paid $4.8 billion in dividends during 2024 (declaring quarterly dividends of $0.31 per share), followed by a 6.5% dividend rate increase in January 2025 to $1.32 per share on an annualized basis (declaring a first quarter dividend of $0.33 per share payable in April 2025).",
+      "source_quote": "In 2024, our Board of Directors declared quarterly dividends of $0.31 per share ... and we made dividend payments of $4.8 billion. In January 2025, our Board of Directors approved a 6.5% increase in our dividend to $1.32 per share on an annualized basis and approved our first quarter dividend of $0.33 per share, to be paid in April 2025.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recorded a non-cash impairment of intangible assets in 2022 totaling $485 million, primarily relating to customer relationship assets resulting from the Sky acquisition.",
+      "source_quote": "In 2022, in connection with our annual goodwill impairment assessment, we also recorded impairments of intangible assets, which primarily related to customer relationship assets resulting from our Sky acquisition. These impairments totaled $485 million...",
+      "section": "Notes to Consolidated Financial Statements"
+    }
+  ]
+}

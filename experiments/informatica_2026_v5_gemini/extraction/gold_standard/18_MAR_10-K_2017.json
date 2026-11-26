@@ -1,0 +1,74 @@
+{
+  "index": 18,
+  "id": "MAR_10-K_2017",
+  "ticker": "MAR",
+  "form": "10-K",
+  "year": 2017,
+  "sector": "Consumer Discretionary",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 10,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of Starwood Hotels & Resorts Worldwide, LLC (Starwood) on September 23, 2016, through a series of transactions for a total consideration of approximately $11,681 million (net of cash acquired).",
+      "source_quote": "On September 23, 2016 (the “Merger Date”), we completed the acquisition of Starwood Hotels & Resorts Worldwide, LLC, formerly known as Starwood Hotels & Resorts Worldwide, Inc. (“Starwood”) through a series of transactions (the “Starwood Combination”), after which Starwood became an indirect wholly-owned subsidiary of the Company.",
+      "section": "Footnote 3"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Initiated a restructuring program in connection with the Starwood Combination to achieve cost synergies from combined operations, incurring $283 million of employee termination charges.",
+      "source_quote": "In connection with the Starwood Combination, we initiated a restructuring program to achieve cost synergies from our combined operations.",
+      "section": "Footnote 4"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sold a North American Full-Service property acquired in the Starwood Combination during the fourth quarter of 2016 for $165 million in cash.",
+      "source_quote": "In the 2016 fourth quarter, we sold a North American Full-Service property, which we had acquired in the Starwood Combination, and received $165 million in cash.",
+      "section": "Footnote 3"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sold a North American Limited-Service segment plot of land during the second quarter of 2016 for $46 million in cash.",
+      "source_quote": "In the 2016 second quarter, we sold a North American Limited-Service segment plot of land and received $46 million in cash.",
+      "section": "Footnote 3"
+    },
+    {
+      "event_type": "litigation",
+      "description": "A putative class action lawsuit (Dugas v. Starwood) was filed against Starwood on January 5, 2016, in the Southern District of California federal court arising from a November 2015 malware intrusion affecting point-of-sale systems.",
+      "source_quote": "In November 2015, Starwood announced a malware intrusion had affected point of sale systems at various outlets within certain Legacy-Starwood branded hotels... In addition, a putative class action arising from the malware intrusion was filed against Starwood on January 5, 2016 in the United States District Court for the Southern District of California.",
+      "section": "Footnote 8"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The owners of the Sheraton Grand Chicago and the Westin Times Square, New York, filed a lawsuit on May 10, 2016, in the Supreme Court of New York alleging violations of territorial restrictions contained in management agreements arising from the merger.",
+      "source_quote": "On May 10, 2016, the owners of the Sheraton Grand Chicago and the Westin Times Square, New York, filed suit in the Supreme Court of New York against Starwood and Marriott seeking to enjoin the merger of the two companies. The complaint alleges violations of the territorial restrictions contained in the management agreements for those two hotels arising as a result of the merger of Marriott and Starwood.",
+      "section": "Footnote 8"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Appointment of Kathleen ('Leeny') K. Oberg as Marriott's Executive Vice President and Chief Financial Officer, effective January 1, 2016.",
+      "source_quote": "Kathleen (“Leeny”) K. Oberg was appointed as Marriott’s Chief Financial Officer, effective January 1, 2016.",
+      "section": "Item 10"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $1.5 billion aggregate principal amount of Series Q and Series R Senior Notes during the second quarter of 2016 to finance the cash component of the Starwood Combination.",
+      "source_quote": "In the 2016 second quarter, we issued $1,500 million aggregate principal amount of the Series Q Notes and Series R Notes shown in the table above. We received net proceeds of approximately $1,485 million from the offering of the Series Q Notes and Series R Notes, after deducting the underwriting discount and estimated expenses. We used these proceeds, together with borrowings under our Credit Facility, as defined below, to finance the cash component of the consideration paid to Starwood shareholders and certain fees and expenses we incurred in connection with the Starwood Combination.",
+      "section": "Footnote 11"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Completed debt exchange offers in the fourth quarter of 2016 to exchange outstanding Starwood senior notes for new Marriott Series S through Series W Notes.",
+      "source_quote": "In the 2016 fourth quarter, we completed debt exchange offers to exchange all validly tendered and not validly withdrawn outstanding senior notes previously issued by Starwood for new notes issued by us. In exchange for the validly tendered and accepted Starwood notes, we issued the Series S Notes through Series W Notes shown in the table above.",
+      "section": "Footnote 11"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared and paid quarterly dividends in 2016, including a 20 percent increase to $0.30 per share declared on May 6, 2016.",
+      "source_quote": "Our Board of Directors declared and paid the following quarterly cash dividends in 2016: (1) $0.25 per share declared on February 11, 2016... (2) $0.30 per share declared on May 6, 2016...",
+      "section": "MD&A"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "index": 68,
+  "id": "EXPD_10-Q_2006",
+  "ticker": "EXPD",
+  "form": "10-Q",
+  "year": 2006,
+  "sector": "Industrials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 2,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Subsequent to March 31, 2006, the Company spent $67 million for the acquisition of real estate and office/warehouse facilities in Miami, Florida.",
+      "source_quote": "Subsequent to March 31, 2006, the Company spent $67 million for the acquisition of real estate and office/warehouse facilities in Miami, Florida.",
+      "section": "MD&A - Liquidity and Capital Resources"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Repurchased 327,148 shares of common stock for an aggregate price of $82.42 per share (total cost of approximately $26.96 million) under the Non-Discretionary Stock Repurchase Plan (originally authorized in November 1993 and amended in February 2001 to up to 10 million shares) during the first quarter of 2006.",
+      "source_quote": "In the first quarter of 2006, 58,157 shares were repurchased under the Non-Discretionary Stock Repurchase Plan... In November 1993, the Company’s Board of Directors authorized a Non-Discretionary Stock Repurchase Plan. This plan was amended in February 2001 to increase the authorization to repurchase up to 10 million shares of the Company’s common stock. This authorization has no expiration date.",
+      "section": "Part II - Item 2. Unregistered Sales of Equity Securities and Use of Proceeds"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "index": 10,
+  "id": "BIIB_10-Q_2011",
+  "ticker": "BIIB",
+  "form": "10-Q",
+  "year": 2011,
+  "sector": "Health Care",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "restructuring",
+      "description": "completed a 13% workforce reduction and vacated the San Diego facility while consolidating certain Massachusetts facilities",
+      "source_quote": "We have completed a 13% reduction in workforce spanning our sales, research and development, and administrative functions.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board authorized repurchase of up to 20.0 million common shares",
+      "source_quote": "In February 2011, our Board of Directors authorized the repurchase of up to 20.0 million shares of our common stock.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "partnership",
+      "description": "entered into a license agreement granting exclusive patent rights for VP1 proteins used for JC virus antibody detection",
+      "source_quote": "In the first quarter of 2011, we entered into a license agreement granting us exclusive patent rights for the diagnostic and therapeutic application of recombinant virus-like particles, known as VP1 proteins.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "partnership",
+      "description": "terminated collaboration with Vernalis and returned the Parkinson's disease program to Vernalis",
+      "source_quote": "In April 2011, we agreed to terminate our collaboration with Vernalis plc. (Vernalis) for the development and commercialization of an adenosine A2a receptor antagonist for treatment of Parkinson’s disease effective April 11, 2011.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "arbitrator issued an intermediate decision determining RITUXAN was covered by the Hoechst License and ordered Genentech to provide historical RITUXAN sales information",
+      "source_quote": "In June 2011, the arbitrator issued an intermediate decision indicating that RITUXAN is such a product and ordering Genentech to provide certain RITUXAN sales information for the period from December 15, 1998 to October 27, 2008.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "court entered final judgment that manufacture and sale of RITUXAN did not infringe Sanofi patents",
+      "source_quote": "On April 21, 2011, the court entered a separate and final judgment that the manufacture and sale of RITUXAN do not infringe the ’522 patent or the ’140 patent and stayed the trial of the remaining claims, including Biogen Idec’s and Genentech’s invalidity claims.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "settled an outstanding IRS audit matter and paid $26.4 million under a settlement agreement",
+      "source_quote": "During the second quarter of 2011, we paid $26.4 million related to a settlement agreement with the IRS.",
+      "section": "MD&A"
+    }
+  ]
+}

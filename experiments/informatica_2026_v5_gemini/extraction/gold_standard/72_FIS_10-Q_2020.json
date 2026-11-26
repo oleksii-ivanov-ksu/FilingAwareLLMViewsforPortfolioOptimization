@@ -1,0 +1,50 @@
+{
+  "index": 72,
+  "id": "FIS_10-Q_2020",
+  "ticker": "FIS",
+  "form": "10-Q",
+  "year": 2020,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Completed the acquisition of a 70% voting and financial interest in Virtus Partners for a cash purchase price of $404 million.",
+      "source_quote": "On January 2, 2020, FIS acquired a majority interest in Virtus Partners (\"Virtus\"), previously a privately held company that provides high-value managed services and technology to the credit and loan market. FIS acquired a 70% voting and financial interest in Virtus with 30% interest retained by the founders of Virtus (\"Founders\")... provisional allocation of the $404 million cash purchase price",
+      "section": "Note 3. Acquisitions"
+    },
+    {
+      "event_type": "management_change",
+      "description": "Separation of Stephanie Ferris under a Separation Agreement, Waiver and Release effective September 2, 2020.",
+      "source_quote": "Separation Agreement, Waiver and Release effective as of September 2, 2020, by and between Fidelity National Information Services, Inc., and Stephanie Ferris.",
+      "section": "Item 6. Exhibits (Exhibit 10.1)"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Fidelity's subsidiary, Reliance Trust Company, entered into a $39.8 million settlement agreement on October 12, 2020 to resolve class action claims under ERISA.",
+      "source_quote": "On October 12, 2020, Reliance and plaintiffs entered into a settlement agreement, which is subject to final court approval, to settle all allegations and claims asserted in the action for $39.8 million without equitable relief. The Company recorded a liability for the agreed settlement amount of $39.8 million and a corresponding loss in Other income (expense), net on the consolidated statement of earnings for the three and nine months ended September 30, 2020.",
+      "section": "Note 9. Commitments and Contingencies"
+    },
+    {
+      "event_type": "litigation",
+      "description": "Active defense of successorship claims filed by Brazilian tax authorities against subsidiary Servicos, asserting potential tax liabilities of $11 million, with 24 potential additional claims totaling $34 million.",
+      "source_quote": "To date, the Brazilian tax authorities filed 14 claims against Servicos asserting potential tax liabilities of approximately $11 million. There are potentially 24 additional claims against Transpev/Prosegur for which Servicos is named as a co-defendant or may be named, but for which Servicos has not yet been served. These additional claims amount to approximately $34 million making the total potential exposure for all 38 claims approximately $45 million.",
+      "section": "Note 9. Commitments and Contingencies"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Executed an amendment to the Contingent Value Rights (CVR) agreement and paid $185 million to former Legacy Worldpay owners, reducing the cash consideration component of the CVR liability.",
+      "source_quote": "On September 17, 2020, the Company executed an amendment (\"the amendment\") with the former Legacy Worldpay owners to pay approximately one-third of the cash consideration component of the CVR liability, or $185 million, to the former Legacy Worldpay owners upon amendment execution... The partial payment of the cash consideration was recorded as a reduction of the CVR liability and reflected as Other financing activities, net",
+      "section": "Note 5. Condensed Consolidated Financial Statement Details - Visa Europe and Contingent Value Rights"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Declared a regular quarterly dividend of $0.35 per share payable on December 28, 2020, and paid $217 million in dividends during the third quarter of 2020.",
+      "source_quote": "A regular quarterly dividend of $0.35 per common share is payable on December 28, 2020, to shareholders of record as of the close of business on December 14, 2020. ... The Company paid dividends of $217 million during the quarter.",
+      "section": "Liquidity and Capital Resources"
+    }
+  ]
+}

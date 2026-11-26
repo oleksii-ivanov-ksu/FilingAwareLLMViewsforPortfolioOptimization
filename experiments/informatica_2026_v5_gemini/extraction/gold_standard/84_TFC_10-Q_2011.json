@@ -1,0 +1,62 @@
+{
+  "index": 84,
+  "id": "TFC_10-Q_2011",
+  "ticker": "TFC",
+  "form": "10-Q",
+  "year": 2011,
+  "sector": "Financials",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 8,
+  "events": [
+    {
+      "event_type": "capital_action",
+      "description": "Reclassification of approximately $8.3 billion of securities available for sale to held to maturity during the first quarter of 2011 to mitigate potential regulatory capital impacts under Basel III guidelines.",
+      "source_quote": "During the first quarter of 2011, BB&T reclassified approximately $8.3 billion of securities available for sale to securities held to maturity. Management determined that it has both the positive intent and ability to hold these securities to maturity.",
+      "section": "Notes to Consolidated Financial Statements - Note 2. Securities"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Strategic purchase of $5.3 billion in fixed and adjustable rate GNMA mortgage-backed securities during the third quarter of 2011 to comply with proposed Basel III liquidity guidelines.",
+      "source_quote": "The majority of the growth in the securities portfolio occurred during the third quarter of 2011, when management purchased $5.3 billion in fixed and adjustable rate GNMA mortgage-backed securities as part of a strategy to comply with proposed Basel III liquidity guidelines.",
+      "section": "MD&A - Securities"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Sale of approximately $271 million of problem residential mortgage loans under the company's nonperforming asset (NPA) disposition strategy during the second quarter of 2011, resulting in charge-offs of $87 million.",
+      "source_quote": "During the second quarter of 2011, management sold approximately $271 million of problem residential mortgage loans and recorded charge-offs of $87 million. Of the $271 million of loans sold, $231 million were classified as nonaccrual.",
+      "section": "MD&A - Real Estate Lending Portfolio"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issuance of $1,999 million of senior unsecured notes in 2011, including $700 million of 2.05% notes, $300 million of floating rate notes, and $999 million of 3.20% notes.",
+      "source_quote": "2.05% Senior Notes Due 2014 ... $700 [million] ... Floating Rate Senior Notes Due 2014 ... $300 [million] ... 3.20% Senior Notes Due 2016 ... $999 [million]",
+      "section": "Notes to Consolidated Financial Statements - Note 8. Long-Term Debt"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Full repayment and retirement of maturing long-term debt during 2011, including $250 million of 3.10% Senior Notes and $610 million of 6.50% Subordinated Notes.",
+      "source_quote": "3.10% Senior Notes Due 2011 ... $— [at September 30, 2011] ... $250 [million at December 31, 2010] ... 6.50% Subordinated Notes Due 2011 ... $— [at September 30, 2011] ... $610 [million at December 31, 2010]",
+      "section": "Notes to Consolidated Financial Statements - Note 8. Long-Term Debt"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Addition of $8 million in contingent consideration to goodwill within the Insurance Services segment during the first nine months of 2011.",
+      "source_quote": "Contingent consideration ... Insurance Services ... 8 [million]",
+      "section": "Notes to Consolidated Financial Statements - Note 5. Goodwill and Other Intangible Assets"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Increase in quarterly common stock dividend payments from $0.15 to $0.16 per share in Q3 2011, representing a total of $0.49 per share for the first nine months of 2011.",
+      "source_quote": "Cash dividends declared ... $0.16 [Three Months Ended September 30, 2011] ... $0.15 [Three Months Ended September 30, 2010]",
+      "section": "Consolidated Statements of Income"
+    },
+    {
+      "event_type": "impairment",
+      "description": "Recognition of other-than-temporary impairment (OTTI) credit losses on three specific non-investment grade residential mortgage-backed securities (RMBS 1, 2, and 3) totaling $66 million in cumulative credit losses to date.",
+      "source_quote": "Security: RMBS 1 ... Cumulative Credit Loss Recognized ... $(24) [million] ... RMBS 2 ... $(29) [million] ... RMBS 3 ... $(13) [million]",
+      "section": "Notes to Consolidated Financial Statements - Note 2. Securities"
+    }
+  ]
+}

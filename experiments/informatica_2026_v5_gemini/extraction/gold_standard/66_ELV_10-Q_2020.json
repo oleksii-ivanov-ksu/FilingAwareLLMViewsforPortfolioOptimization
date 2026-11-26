@@ -1,0 +1,56 @@
+{
+  "index": 66,
+  "id": "ELV_10-Q_2020",
+  "ticker": "ELV",
+  "form": "10-Q",
+  "year": 2020,
+  "sector": "Health Care",
+  "tier": "tier2_pool",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 7,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "cash outflow of $1,908 million for purchases of subsidiaries, net of cash acquired",
+      "source_quote": "Purchases of subsidiaries, net of cash acquired ( 1,908 )",
+      "section": "Consolidated Statements of Cash Flows"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of a third-party administrator (TPA)",
+      "source_quote": "The increase in self-funded membership was further attributable to membership increases in our National Accounts business resulting from our acquisition of a third-party administrator, or TPA",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "acquisition of Medicaid plans in Missouri and Nebraska",
+      "source_quote": "Medicaid membership increased primarily due to our acquisition of Medicaid plans in Missouri and Nebraska and organic growth in existing markets.",
+      "section": "MD&A"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "repurchase and retirement of 1.9 million shares of common stock for $529 million",
+      "source_quote": "Repurchase and retirement of common stock ( 1.9 ) \n — \n ( 71 ) \n ( 458 ) \n — \n ( 529 )",
+      "section": "Consolidated Statements of Shareholders' Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "declaration of $243 million of dividends and dividend equivalents, and payment of $240 million in cash dividends",
+      "source_quote": "Dividends and dividend equivalents \n — \n — \n — \n ( 243 ) \n — \n ( 243 )",
+      "section": "Consolidated Statements of Shareholders' Equity"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "conversion of $13 million aggregate principal amount of Debentures settled in cash for $52 million",
+      "source_quote": "March 31, 2020, $13 aggregate principal amount of the Debentures were surrendered for conversion by certain holders in accordance with the terms and provisions of the indenture. We elected to settle the excess of the principal amount of the conversions with cash for total payments of $52.",
+      "section": "Note 10"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "short-term borrowings from Federal Home Loan Banks (FHLBs) of $775 million at a fixed interest rate of 0.679%",
+      "source_quote": "We had $775 and $650 in outstanding short-term borrowings from the FHLBs at March 31, 2020 and December 31, 2019, respectively, with fixed interest rates of 0.679% and 1.664%, respectively.",
+      "section": "Note 10"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "index": 19,
+  "id": "MPWR_10-Q_2009",
+  "ticker": "MPWR",
+  "form": "10-Q",
+  "year": 2009,
+  "sector": "Information Technology",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 6,
+  "events": [
+    {
+      "event_type": "litigation",
+      "description": "The United States Court of Appeals for the Federal Circuit affirmed the District Court's judgment that all asserted claims of O2Micro's '722 patent were invalid on the grounds of obviousness.",
+      "source_quote": "On March 5, 2009, the United States Court of Appeals for the Federal Circuit affirmed the judgment from the United States District Court of Northern California that all of the claims of O2Micro’s ‘722 patent asserted against MPS and its customers were invalid on the grounds of obviousness.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "O2Micro filed a patent infringement counterclaim against the Company and its customers involving three patents in the '519 family and O2Micro's '382 patent.",
+      "source_quote": "On February 11, 2009, O2Micro filed a counterclaim against the Company and its customers that certain of the Company’s inverter controller products infringe three patents in the ‘519 patent family and O2Micro’s 7,417,382 (‘382) patent.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "litigation",
+      "description": "The United States Court of Appeals for the Federal Circuit dismissed O2Micro's action and overturned the judgment against Taiwan Sumida Electronics (TSE), satisfying the conditions to release $7.4 million held in escrow.",
+      "source_quote": "On July 30, 2007, the Company settled its litigation with Taiwan Sumida Electronics (“TSE”), a customer, concerning the Indemnification Agreement and held $7.4 million in escrow for which the Company could be liable subject to the outcome of the appeal by TSE against O2Micro regarding a judgment in the Eastern District Court of Texas. On March 5, 2009, the United States Court of Appeals for the Federal Circuit dismissed O2Micro’s action and overturned the judgment against TSE on the basis that O2 cannot assert the same invalid claims. The escrow can be released to the Company after the ruling is final.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "impairment",
+      "description": "The Company recorded a $35,000 non-cash impairment and an $85,000 other comprehensive loss impairment of auction-rate securities during the three months ended March 31, 2009.",
+      "source_quote": "Impairment of auction-rate securities\n$\n35\n... \nImpairment of auction-rate securities\n(85)",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "product",
+      "description": "During the first quarter of 2009, the Company reclassified certain of its products from DC to DC Converters to Lighting Control Products.",
+      "source_quote": "During the first quarter of 2009, the Company reclassified certain of its products from DC to DC Converters to Lighting Control Products.",
+      "section": "Notes to Condensed Consolidated Financial Statements"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "The Compensation Committee of the Board of Directors approved the 2008 cash performance bonus disbursements to named executive officers.",
+      "source_quote": "On February 3, 2009, the Compensation Committee of the Board of Directors of Monolithic Power Systems, Inc. approved the following 2008 actual cash performance bonus disbursements to our named executive officers set forth below based on meeting certain revenue and non-GAAP financial targets and achieving certain corporate and individual goals:",
+      "section": "Item 5. Other Information"
+    }
+  ]
+}

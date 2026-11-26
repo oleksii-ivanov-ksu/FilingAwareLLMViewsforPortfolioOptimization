@@ -1,0 +1,80 @@
+{
+  "index": 12,
+  "id": "CBRE_10-Q_2025",
+  "ticker": "CBRE",
+  "form": "10-Q",
+  "year": 2025,
+  "sector": "Real Estate",
+  "tier": "tier1b_eval",
+  "annotator": "OI",
+  "blind": true,
+  "n_events": 11,
+  "events": [
+    {
+      "event_type": "acquisition",
+      "description": "Acquired remaining 60% of Industrious National Management Company LLC on January 16, 2025 for total consideration of $843 million, bringing ownership to 100%",
+      "source_quote": "On January 16, 2025, we acquired the remaining 60% ownership interest in Industrious National Management Company LLC (Industrious), a leading provider of flexible workplace solutions, increasing our ownership to 100%.",
+      "section": "Notes to Financial Statements (Note 3 - Acquisitions)"
+    },
+    {
+      "event_type": "partnership",
+      "description": "Combined CBRE's project management business with Turner & Townsend in early January 2025 in exchange for an additional 10% stake; CBRE holds 70% of the Combined Project Management Business, with a put option granted to Turner & Townsend partners exercisable 2027-2030",
+      "source_quote": "In early January 2025, we completed the combination of our project management business with our Turner & Townsend subsidiary, whereby we contributed CBRE's project management businesses in exchange for an additional 10% ownership interest in the combined project management business (the \"Combined Project Management Business\").",
+      "section": "Notes to Financial Statements (Note 3 - Acquisitions)"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Reorganized operations into four reportable segments (Advisory Services, Building Operations & Experience, Project Management, Real Estate Investments) effective January 1, 2025, with goodwill reallocated across segments",
+      "source_quote": "In connection with the transactions described above, we reorganized our operations around and publicly report our financial results on four reportable segments – Advisory Services, Building Operations & Experience, Project Management and Real Estate Investments.",
+      "section": "Notes to Financial Statements (Note 15 - Segments)"
+    },
+    {
+      "event_type": "restructuring",
+      "description": "Decision in early 2025 to wind down Telford Homes' legacy UK construction business; new entity Telford Living to develop residential housing without self-performing general contracting",
+      "source_quote": "In early 2025, management made the decision to wind-down Telford Homes' legacy construction business.",
+      "section": "Notes to Financial Statements (Note 15 - Segments)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Amendment No. 1 to the 2023 Credit Agreement on March 13, 2025 allowing Relam Borrower to obtain up to $750 million of incremental term loan commitments",
+      "source_quote": "On March 13, 2025, CBRE Group, Inc., CBRE Services and Relam Borrower entered into Amendment No. 1 to the 2023 Credit Agreement, which provided for, among other things, the ability of Relam Borrower to obtain incremental commitments and loans under the 2023 Credit Agreement in an aggregate principal amount of $750 million (or the Euro equivalent).",
+      "section": "Notes to Financial Statements (Note 9 - Long-Term Debt and Short-Term Borrowings)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Incurred incremental senior term loans of €425 million and $125 million on March 14, 2025 under Amendment No. 2 to the 2023 Credit Agreement, used partly to repay commercial paper",
+      "source_quote": "On March 14, 2025, CBRE Group, Inc., CBRE Services and Relam Borrower entered into Amendment No. 2 and Incremental Assumption Agreement to the 2023 Credit Agreement, pursuant to which Relam Borrower incurred incremental term loans (i) denominated in Euros in the aggregate principal amount of €425 million (Incremental Euro Term Loans) and (ii) denominated in U.S. Dollars in the aggregate principal amount of $125 million (Incremental USD Term Loans).",
+      "section": "Notes to Financial Statements (Note 9 - Long-Term Debt and Short-Term Borrowings)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Board authorized an additional $5.0 billion of share repurchases on November 21, 2024, raising the 2024 program to $9.0 billion and extending it through December 31, 2029; $407 million repurchased in Q1 2025 with $5.4 billion remaining",
+      "source_quote": "On November 21, 2024, our board of directors authorized an additional $5.0 billion to our existing $4.0 billion share repurchase program (as amended, the 2024 program) bringing the total authorized amount under the 2024 program to a total of $9.0 billion as of March 31, 2025.",
+      "section": "Notes to Financial Statements (Note 13 - Income Per Share and Stockholders' Equity)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Established a $3.5 billion commercial paper program on December 2, 2024; $1.6 billion outstanding at March 31, 2025 and $2.0 billion at April 21, 2025",
+      "source_quote": "On December 2, 2024, CBRE Services established a commercial paper program pursuant to which we may issue and sell up to $3.5 billion of short-term, unsecured and unsubordinated commercial paper notes with up to 397-day maturities, under the exemption from registration contained in Section 4(a)(2) of the Securities Act of 1933, as amended.",
+      "section": "Notes to Financial Statements (Note 9 - Long-Term Debt and Short-Term Borrowings)"
+    },
+    {
+      "event_type": "capital_action",
+      "description": "Issued $500 million of 5.500% senior notes due April 1, 2029 on February 23, 2024 (comparative period)",
+      "source_quote": "On February 23, 2024, CBRE Services issued $500 million in aggregate principal amount of 5.500% senior notes due April 1, 2029 (the 5.500% senior notes) at a price equal to 99.837% of their face value.",
+      "section": "Notes to Financial Statements (Note 9 - Long-Term Debt and Short-Term Borrowings)"
+    },
+    {
+      "event_type": "divestiture",
+      "description": "Altus Power, Inc., in which CBRE held ~15.3% of Class A common stock plus alignment shares, was acquired by a third party on April 16, 2025 (subsequent event), cashing out CBRE's non-core strategic investment",
+      "source_quote": "On April 16, 2025, Altus was acquired by a third-party.",
+      "section": "Notes to Financial Statements (Note 8 - Investments in Unconsolidated Subsidiaries)"
+    },
+    {
+      "event_type": "acquisition",
+      "description": "Acquisition of J&J Worldwide Services in Q1 2024 (comparative period), referenced as driver of prior-year investing cash outflows and higher amortization in BOE segment",
+      "source_quote": "The decrease was primarily due to lower cash outflows from acquisitions in the current quarter (primarily consisting of the acquisition of Industrious), compared to the prior period when we acquired J&J Worldwide Services.",
+      "section": "MD&A"
+    }
+  ]
+}
